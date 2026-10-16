@@ -1,0 +1,2354 @@
+[
+  {
+    "id": "67f0dc3c2be5222d1c2e0fa1",
+    "text": "Cum trebuie să procedeze conducătorul unui autovehicul / tractor agricol sau forestier, dacă i-a fost prescris un tratament medicamentos?",
+    "optiuni": {
+      "A": "să se asigure că administrarea acestuia nu-i va afecta capacitatea de a conduce;",
+      "B": "să nu își administreze medicamentele înainte de a se urca la volan;",
+      "C": "să se informeze care este doza minimă care poate fi administrată pe perioada cât se află la volan."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În cazul imobilizării involuntare a autovehiculului, tractorului agricol sau forestier în pantă sau în rampă, pe lângă obligațiile prevăzute la alin. (1) conducătorul trebuie să bracheze roțile directoare.\n---\nProprietarul, deținătorul mandatat sau conducătorul auto al cărui autovehicul și tractor agricol sau forestier, remorcă ori tramvai a fost avariat în alte împrejurări decât într-un accident de circulație este obligat să se prezinte în 24 de ore de la constatare la unitatea de poliție pe raza căreia s-a produs evenimentul, pentru întocmirea documentelor de constatare.\n---\nÎn cazul rămânerii în pană a unui autovehicul, tractor agricol sau forestier ori a remorcii acestuia, conducătorul ansamblului este obligat să îl scoată imediat în afara părții carosabile sau, dacă nu este posibil, să îl deplaseze lângă bordura ori acostament, așezându-l paralel cu axa drumului și luând măsuri pentru remedierea defecțiunilor sau, după caz, de remorcare.\n---\nConducerea unui autovehicul și tractor agricol sau forestier sau tractarea unei remorci atunci când circulația acestora pe drumurile publice este interzisă potrivit art. 15 alin. (5), cu excepția cazurilor în care vehiculul, tramvaiul sau înregistrat, nu are montate plăcuțe cu numărul de înmatriculare sau de înregistrare atribuite de autoritatea competentă ori dacă acestea nu sunt conforme cu standardele în vigoare atrage 4 puncte de penalizare.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai trebuie însoțit de polițistul rutier sau, după caz, de polițistul de frontieră, imediat, la cea mai apropiată instituție medicală autorizată sau instituție medico-legală pentru a i se recolta mostre biologice în vederea stabilirii alcoolemiei, dacă prin testarea cu un mijloc tehnic certificat sau cu un mijloc tehnic omologat și verificat metrologic s-a constatat că valoarea concentrației de alcool este mai mare de 0,40 mg/l alcool pur în aerul expirat.\n---\nDacă un autovehicul, tractor agricol sau forestier sau o remorcă a rămas în pană pe partea carosabilă a drumului și nu poate fi deplasat în afara acesteia, conducătorul vehiculului este obligat să pună în funcțiune luminile de avarie și să instaleze triunghiurile reflectorizante.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat să aplice pe parbrizul și pe luneta autovehiculului semnul distinctiv stabilit pentru conducătorii de autovehicule începători, dacă are o vechime mai mică de un an de la obținerea permisului de conducere.\n---\nConducătorului de autovehicul, tractor agricol sau forestier ori tramvai, instructorului auto atestat sau examinatorului care se află în procesul de instruire practică ori de examinare pentru permisul de conducere, implicat într-un accident de circulație, îi este interzis consumul de alcool sau de substanțe psihoactive până la testarea concentrației alcoolului ori recoltarea probelor biologice.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat:\n1. să aibă asupra sa actul de identitate, permisul de conducere, certificatul de înmatriculare sau de înregistrare și, după caz, atestatul profesional, precum și celelalte documente prevăzute de legislația în vigoare;\n3. să verifice funcționarea sistemului de lumini și de semnalizare, a instalației de climatizare, să mențină permanent curate parbrizul, luneta și geamurile laterale ale autovehiculului, tractorului agricol sau forestier, precum și plăcuțele cu numărul de înmatriculare sau înregistrare ale autovehiculului, tractorului agricol sau forestier și remorcii.\n---\nConducerea unui autovehicul și a unui tractor agricol sau forestier cu permis de conducere a cărui valabilitate a expirat constituie contravenție și se sancționează conform clasei a III-a.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fa2",
+    "text": "În faţa dvs. circulă un tractor cu două remorci, pe ultima fiind scris „FĂRĂ SEMNALIZARE“. Intenţionaţi să-l depăşiţi în apropierea unei intersecţii. Cum procedaţi?",
+    "optiuni": {
+      "A": "aşteptaţi să treceţi de respectiva intersecţie, chiar dacă pierdeţi din timpul planificat al călătoriei;",
+      "B": "vă angajaţi în depăşire, întrucât autovehiculul dvs. vă permite să rulaţi, în mod legal, cu o viteză mai mare;",
+      "C": "semnalizaţi efectuarea depăşirii şi acceleraţi, pentru ca manevra să dureze cât mai puţin."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În cazul rămânerii în pană a unui autovehicul, tractor agricol sau forestier ori a remorcii acestuia, conducătorul ansamblului este obligat să îl scoată imediat în afara părții carosabile sau, dacă nu este posibil, să îl deplaseze lângă bordura ori acostament, așezându-l paralel cu axa drumului și luând măsuri pentru remedierea defecțiunilor sau, după caz, de remorcare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fa3",
+    "text": "Ce obligații are conducătorul unui vehicul atunci când dorește să intre sau să iasă dintr-un rând de vehicule staționate?",
+    "optiuni": {
+      "A": "să se asigure că distanța dintre vehicule este suficientă pentru parcarea vehiculului;",
+      "B": "să semnalizeze și să se asigure că poate executa manevra;",
+      "C": "să nu execute manevra în zona de acțiune a indicatorului „Staționarea interzisă“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să oprească atunci când: a) barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare; b) semnalul cu lumini roșii și/sau semnalul sonor sunt în funcțiune; c) întâlnește indicatorul \"Trecerea la nivel cu calea ferată simplă, fără bariere\", \"Trecerea la nivel cu calea ferată dublă, fără bariere\" sau \"Oprire\".\n---\nÎn cazul imobilizării unui vehicul pe calea ferată, conducătorul acestuia este obligat să scoată imediat pasagerii din vehicul și să elibereze platforma căii ferate, iar când nu este posibil, să semnalizeze prezența vehiculului cu orice mijloc adecvat.\n---\nNerespectarea obligației de a acționa frâna de ajutor, de a cupla într-o treaptă de viteză inferioară sau în cea de parcare dacă autovehiculul are transmisie automată, atunci când conducătorul autovehiculului imobilizat pe drum public se îndepărtează de acesta atrage 3 puncte de penalizare.\n---\nConducătorul unui vehicul implicat într-un accident de circulație în urma căruia a rezultat decesul sau rănirea unei persoane este obligat să ia măsuri de anunțare imediată a poliției, să nu modifice sau să șteargă urmele accidentului și să nu părăsească locul faptei.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nAtunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.\n---\nConducătorul vehiculului al cărui mers înainte este obstruat de un obstacol sau de prezența altor participanți la trafic, care impune trecerea pe sensul opus, este obligat să reducă viteza și, la nevoie, să oprească pentru a permite trecerea vehiculelor care circulă din sens opus.\n---\nÎn cazul vehiculelor de aceeași categorie, obligația de a efectua o manevră de mers înapoi revine conducătorului care urcă, cu excepția cazului când este mai ușor și există condiții pentru conducătorul care coboară să execute această manevră, mai ales atunci când se află aproape de un refugiu.\n---\nConducătorul unui vehicul care circulă în spatele altuia are obligația de a păstra o distanță suficientă față de acesta, pentru evitarea coliziunii.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fa4",
+    "text": "Cum constataţi, în timpul mersului, fără a vă pune în pericol, dacă pe şosea este polei?",
+    "optiuni": {
+      "A": "frânaţi puternic;",
+      "B": "circulaţi cu viteză redusă şi frânaţi cu atenţie, ca să verificaţi cum reacţionează autovehiculul dvs.;",
+      "C": "circulaţi pe axul central al drumului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fa5",
+    "text": "Din sens opus, un vehicul depășește un altul și nu poate reveni pe banda sa. Cum vă comportați corect?",
+    "optiuni": {
+      "A": "circulați mai departe cu viteză mărită;",
+      "B": "reduceți viteza și vă angajați mult spre dreapta;",
+      "C": "avertizați cu farurile vehiculele care circulă din sens opus."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Atunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fa6",
+    "text": "Un conducător auto v-a depăşit de mai multe ori, întrucât nu circulă cu viteză constantă. Cum procedaţi atunci când urmează să fiţi depăşit din nou?",
+    "optiuni": {
+      "A": "creaţi condiţii pentru a fi depăşit, apropiindu-vă cât mai mult de partea dreaptă a drumului public;",
+      "B": "îl atenţionaţi atât cu claxonul, cât şi cu braţul stâng, pentru a renunţa la această manevră;",
+      "C": "vă deplasaţi spre stânga, din timp, pentru a nu-i permite efectuarea acestei manevre."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat să aplice pe parbrizul și pe luneta autovehiculului semnul distinctiv stabilit pentru conducătorii de autovehicule începători, dacă are o vechime mai mică de un an de la obținerea permisului de conducere.\n---\nPermisul de conducere se reține de către polițistul rutier dacă un conducător auto este implicat într-un accident soldat cu decesul sau rănirea unei persoane și a încălcat o regulă de circulație prevăzută la art. 102 alin. (3) lit. a) sau la art. 102 alin. (4), eliberându-se o dovadă înlocuitoare fără drept de circulație.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fa7",
+    "text": "Ce înţelegeţi prin conduită preventivă în condiţii atmosferice nefavorabile?",
+    "optiuni": {
+      "A": "rulaţi cu o viteză mai mică decât viteza maximă legală, admisă pe tronsonul de drum respectiv;",
+      "B": "conduceţi cu atenţie sporită şi cu o viteză care să vă permită oprirea în siguranţă şi evitarea oricărui pericol;",
+      "C": "folosiţi atât luminile de drum cât şi cele de avarie, pentru a fi mai uşor de observat."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fa8",
+    "text": "Conducând pe drumul public, vă faceţi mai vizibil autoturismul dacă:",
+    "optiuni": {
+      "A": "îl împodobiţi cu abţibilduri sau accesorii colorate, fixate pe parbriz şi pe lunetă;",
+      "B": "vopsiţi în culoarea albă sau galbenă partea din faţă şi din spate a caroseriei;",
+      "C": "asiguraţi curăţenia exteriorului caroseriei, a tăbliţelor cu numărul de înmatriculare, precum şi a sistemelor de iluminare-semnalizare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducerea autovehiculului pe drumurile publice acoperite cu zăpadă, gheață sau polei, fără ca acesta să fie dotat cu anvelope de iarnă, iar în cazul autovehiculului de transport marfă cu o masă totală maximă autorizată mai mare de 3,5 tone și al autovehiculului de transport persoane cu mai mult de 9 locuri pe scaune, inclusiv cel al conducătorului auto, fără ca acestea să fie echipate cu anvelope de iarnă pe roțile axei/axelor de tracțiune sau fără a avea montate pe aceste roți lanțuri sau alte echipamente antiderapante certificate constituie contravenție.\n---\nÎnainte de a urma cursurile practice de învățare a conducerii unui vehicul pe drumurile publice, solicitantul trebuie să facă dovada pregătirii teoretice, într-o unitate autorizată, în vederea obținerii permisului de conducere.\n---\nPe drumul public cu mai multe benzi, conducătorii de autovehicule care circulă pe o bandă care se sfârșește, pentru a continua deplasarea pe banda din stânga trebuie să permită trecerea vehiculelor care circulă pe acea bandă.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fa9",
+    "text": "Factorii principali care ajută un conducător auto să piloteze preventiv sunt:",
+    "optiuni": {
+      "A": "atitudinea pozitivă în trafic, calmul, cunoştinţele dobândite şi politeţea;",
+      "B": "iscusinţa şi priceperea de a-şi impune calităţile fizice dobândite;",
+      "C": "mijloacele de semnalizare rutieră şi agenţii de poliţie rutieră."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0faa",
+    "text": "Ce tendinţă prezintă un autoturism cu tracţiune pe spate, dacă acceleraţi prea puternic în curbă?",
+    "optiuni": {
+      "A": "autoturismul urmează, fără deviere, cursa volanului;",
+      "B": "autoturismul tinde să derapeze cu spatele spre exteriorul curbei;",
+      "C": "roţile din faţă se învârtesc în gol."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fab",
+    "text": "Printre primele cauze ale accidentelor rutiere figurează și neatenția în conducere. Cum poate fi evitată aceasta?",
+    "optiuni": {
+      "A": "prin alternarea stării de vigilență cu cea de relaxare la volan, îndeosebi pe sectoarele de drum în aliniament;",
+      "B": "prin concentrarea permanentă doar asupra activităților pe care trebuie să le efectuați pentru conducerea autovehiculului în condiții de siguranță;",
+      "C": "prin punerea în funcțiune a unor surse de muzică cu intensitate sonoră mare, pentru stimularea vigilenței în conducere."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fac",
+    "text": "Ce trebuie să faceţi imediat după un accident cu un animal sălbatic?",
+    "optiuni": {
+      "A": "opriţi, aprindeţi luminile de avarie şi asiguraţi locul accidentului",
+      "B": "înştiinţaţi societăţile de protecţie a animalelor",
+      "C": "luaţi vânatul acasă şi comunicaţi societăţii de asigurare daunele suferite de autoturism."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fad",
+    "text": "Spre ce parte a drumului public are tendinţa de a derapa autovehiculul, în cazul efectuării unui viraj la stânga cu o viteză mare?",
+    "optiuni": {
+      "A": "spre dreapta, către exteriorul curbei;",
+      "B": "spre interiorul curbei, către sensul opus de mers;",
+      "C": "autovehiculul nu poate derapa în nicio situaţie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fae",
+    "text": "Cum este bine să procedaţi atunci când, circulând în spatele unui biciclist, constataţi că acesta doreşte să schimbe direcţia de mers?",
+    "optiuni": {
+      "A": "semnalizaţi sonor intenţia de a-l depăşi;",
+      "B": "îi asiguraţi condiţii pentru realizarea manevrei;",
+      "C": "nu aveţi nicio obligaţie, întrucât acesta este un vehicul foarte lent."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0faf",
+    "text": "Cum veţi proceda într-o curbă lipsită de vizibilitate, dacă în faţa dvs. circulă o bicicletă?",
+    "optiuni": {
+      "A": "reduceţi viteza şi vă deplasaţi în spatele bicicletei, până când drumul vă oferă condiţii bune de vizibilitate pentru depăşire;",
+      "B": "claxonaţi pentru a atrage atenţia biciclistului că îl depăşiţi;",
+      "C": "vă continuaţi deplasarea, deoarece în această situaţie bicicletele pot fi depăşite."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fb0",
+    "text": "Poate fi redusă capacitatea de conducere auto după consumul unei cantităţi relativ mici de alcool?",
+    "optiuni": {
+      "A": "nu, dacă se consumă şi o ceaşcă de cafea;",
+      "B": "chiar şi cantităţile mici de alcool pot reduce capacitatea de conducere;",
+      "C": "nu, cantităţile mici nu dăuneazã."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Pregătirea teoretică și practică a persoanelor în vederea obținerii permisului de conducere este precedată de o evaluare obligatorie a capacităților psihologice solicitate în activitatea de conducere a autovehiculelor, tractoarelor agricole sau forestiere ori tramvaielor. Evaluarea psihologică este obligatorie în vederea obținerii certificatului de atestare profesională pentru conducătorii de autovehicule și de tramvaie stabiliți prin prezenta ordonanță de urgență.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fb1",
+    "text": "Fenomenul de acvaplanare generează următoarele pericole:",
+    "optiuni": {
+      "A": "stropirea cu apă a parbrizului;",
+      "B": "stropirea cu apă a clădirilor şi a pietonilor;",
+      "C": "pierderea controlului asupra direcţiei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fb2",
+    "text": "Ce se întâmplă atunci când, pe roţile unei osii, eficienţa frânării este mult diferită?",
+    "optiuni": {
+      "A": "se reduce viteza de deplasare;",
+      "B": "vehiculul îşi menţine ţinuta de drum, în ciuda acestui fapt;",
+      "C": "vehiculul poate derapa lateral."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Când drumul are două sau mai multe benzi pe sensul de mers, vehiculele se conduc pe banda situată lângă acostament sau bordură. Celelalte benzi pot fi folosite succesiv, de la dreapta spre stânga, dacă banda de circulație utilizată este ocupată, cu obligația de a reveni pe banda din dreapta atunci când acest lucru este posibil.\n---\nUn vehicul oprit sau staționat cu toate luminile stinse, în locurile în care acestea sunt permise, atunci când este:\na) pe un drum iluminat, astfel încât vehiculul este vizibil de la o distanță de cel puțin 50 m;\nb) în afara părții carosabile, pe un acostament consolidat;\nc) în localități, la marginea părții carosabile, în cazul motocicletelor cu două roți, fără ataș și a mopedelor, care nu sunt prevăzute cu sursa de energie.\n---\nVehiculele și animalele, atunci când circulă pe drumurile publice pe care le este permis accesul, trebuie conduse pe partea din dreapta a drumului public, în sensul de circulație, cât mai aproape de marginea părții carosabile, cu respectarea semnificației semnalizării rutiere și a regulilor de circulație.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fb3",
+    "text": "Conducătorii de autovehicule au următoarele obligaţii, înainte de a pleca la drum:",
+    "optiuni": {
+      "A": "să verifice sistemul de lumini şi semnalizare;",
+      "B": "să verifice instalaţia de climatizare;",
+      "C": "să menţină permanent curat parbrizul."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere și în următoarele situații:\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare sonore și vizuale.\n---\nConducătorii de autovehicule, tractoare agricole sau forestiere și tramvaie sunt obligați să folosească instalațiile de iluminare și/sau semnalizare a acestora, după cum urmează: g) luminile indicatoare de direcție pentru semnalizarea schimbării direcției de mers, inclusiv la punerea în mișcare a vehiculului de pe loc.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fb4",
+    "text": "Ce măsuri se recomandă atunci când urmează să străbateţi o porţiune de drum public acoperită cu piatră cubică?",
+    "optiuni": {
+      "A": "să folosiţi numai frâna de ajutor pentru a evita derapajul;",
+      "B": "să reduceţi din timp viteza, evitând bruscarea comenzilor;",
+      "C": "să circulaţi cât mai aproape de axul drumului, pentru a evita lovirea acostamentului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Când două vehicule urmează să se întâlnească într-o intersecție dirijată prin indicatoare, venind de pe două drumuri publice unde sunt instalate indicatoare cu aceeași semnificație, vehiculul care vine din dreapta are prioritate.\n---\nOprirea vehiculului pe drumurile publice se realizează prin executarea semnalelor regulamentare de către polițistul rutier sau, după caz, de către polițistul de frontieră, atunci când constată încălcări ale normelor rutiere ori în situații în care există indicii temeinice despre săvârșirea unei contravenții ori a unei fapte de natură penală, inclusiv identificarea persoanelor care au comis fapta și au fugit de la locul acesteia ori a celor urmărite, precum și pentru verificarea identității de către conducătorii vehiculelor sau a documentelor acestora. Oprirea vehiculului pe drumurile publice se realizează și în condițiile procedurii privind aplicarea sancțiunilor contravenționale, ori a altor situații care pun în pericol siguranța circulației.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fb5",
+    "text": "Ce trebuie să verificaţi la un autoturism cu rulotă, înainte de a porni la drum?",
+    "optiuni": {
+      "A": "dacă sistemul de alimentare cu apă al rulotei funcţionează;",
+      "B": "dacă vizibilitatea în spate, prin oglinzile retrovizoare, este asigurată;",
+      "C": "dacă persoanele transportate în rulotă poartă centura de siguranţă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Când pe drumul public circulația este dirijată de un polițist rutier, conducătorii autovehiculelor prevăzute la alin. (1) trebuie să respecte semnalele, indicațiile și dispozițiile acestuia.\n---\nÎn circulația pe drumurile publice, autovehiculul sau ansamblul de vehicule care, cu sau fără încărcătură, are o lățime între 3,2 m și 4,5 m inclusiv sau cu lungime mai mare de 25 m trebuie să fie precedat de un autovehicul de însoțire, iar cel cu lățimea mai mare de 4,5 m sau lungimea mai mare de 30 m trebuie să fie însoțit de două autovehicule care să circule unul în față și celălalt în spate.\n---\nÎnainte de a urma cursurile practice de învățare a conducerii unui vehicul pe drumurile publice, solicitantul trebuie să facă dovada pregătirii teoretice, într-o unitate autorizată, în vederea obținerii permisului de conducere.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fb6",
+    "text": "De ce este necesar să măriţi distanţa faţă de autovehiculul care circulă în faţa dvs., atunci când circulaţi pe un carosabil umed?",
+    "optiuni": {
+      "A": "deoarece aderenţa anvelopelor pe partea carosabilă scade, iar spaţiul de frânare creşte;",
+      "B": "deoarece nu puteţi sesiza prompt aprinderea lămpilor de stop ale autovehiculului din faţă, atunci când acesta frânează;",
+      "C": "deoarece roţile autovehiculului din faţă aruncă spre dvs. criblură."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Triunghiurile reflectorizante se instalează în față și în spatele vehiculului, pe aceeași bandă de circulație, la o distanță de cel puțin 30 m de acesta, astfel încât să poată fi observate din timp de participanții la trafic care se apropie. În localități, dacă circulația este intensă, triunghiurile pot fi așezate la o distanță mai mică dar vizibilă.\n---\nNepăstrarea unei distanțe laterale suficiente față de vehiculul care circulă din sens opus este sancționată ca o contravenție.\n---\nNepăstrarea unei distanțe corespunzătoare față de vehiculul care circulă înainte, dacă prin aceasta s-a produs un accident din care au rezultat avarierea unui vehicul sau alte pagube materiale atrage 3 puncte de penalizare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fb7",
+    "text": "Când aveţi voie să fiţi agresiv în timpul conducerii pe drumurile publice?",
+    "optiuni": {
+      "A": "atunci când cel din faţă rulează cu viteză redusă, fără motiv întemeiat;",
+      "B": "în nicio situaţie, indiferent de ceea ce se întâmplă cu ceilalţi participanţi la trafic;",
+      "C": "atunci când cel din faţă v-a făcut semne obscene."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Folosirea telefonului mobil atunci când conducătorii de vehicule se află în timpul deplasării pe drumurile publice, cu excepția celor prevăzute cu dispozitive tip 'mâini libere' atrage 4 puncte de penalizare.\n---\nPe timpul nopții sau în condiții de vizibilitate redusă, autovehiculul, tractorul agricol sau forestier sau remorca acestuia care are deficiențe la sistemul de iluminare sau de semnalizare luminoasă nu poate fi tractat/tratat pe drumurile publice fără a avea în funcțiune, în partea stângă, în față, o lumină de întâlnire și în spate, una de poziție.\n---\nÎn circulația pe toate categoriile de drumuri publice conducătorii de autovehicule și tractoare agricole sau forestiere sunt obligați să folosească și în timpul zilei luminile de întâlnire sau luminile pentru circulația diurnă.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fb8",
+    "text": "Ce tip de coliziuni au cea mai mare forță de distrugere?",
+    "optiuni": {
+      "A": "coliziunile laterale;",
+      "B": "coliziunile frontale;",
+      "C": "coliziunile din spate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fb9",
+    "text": "Ce interdicție au conducătorii de vehicule atunci când circulă pe drumuri acoperite de zăpadă, gheață sau polei?",
+    "optiuni": {
+      "A": "de a circula pe sectoarele respective de drum fără autorizație de la administrația drumurilor;",
+      "B": "de a circula cu un autovehicul a cărui masă totală maximă este mai mare de 3,5 tone, fără a avea montate pe roți lanțuri sau alte echipamente antiderapante omologate;",
+      "C": "de a efectua depășiri."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Folosirea telefonului mobil atunci când conducătorii de vehicule se află în timpul deplasării pe drumurile publice, cu excepția celor prevăzute cu dispozitive tip 'mâini libere' atrage 4 puncte de penalizare.\n---\nEste interzisă circulația autovehiculelor cu mase și/sau gabarite depășite:\na) pe sectoarele de drum unde sunt instalate indicatoare de interzicere, restricție sau limitare a accesului acestora, dacă vehiculul sau ansamblul de vehicule atinge ori depășește lățimea, înălțimea, lungimea sau masele pe axe ori masa totală maximă admisă;\nb) când vizibilitatea este redusă sau partea carosabilă este acoperită cu polei, gheață sau zăpadă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fba",
+    "text": "Ce trebuie să aveţi în vedere la urcarea într-un autoturism?",
+    "optiuni": {
+      "A": "să urcaţi numai pe partea dinspre trotuar;",
+      "B": "să deschideţi uşa numai dacă circulaţia permite acest lucru;",
+      "C": "urcaţi fără grijă, deoarece vehiculele care circulă din spate sunt obligate să aştepte."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Înainte de a urma cursurile practice de învățare a conducerii unui vehicul pe drumurile publice, solicitantul trebuie să facă dovada pregătirii teoretice, într-o unitate autorizată, în vederea obținerii permisului de conducere.\n---\nPe autostrăzi autovehiculele care, cu sau fără încărcătură, depășesc lățimea de 3,2 m trebuie să fie urmate de un autovehicul de însoțire.\n---\nÎn circulația pe drumurile publice, autovehiculul sau ansamblul de vehicule care, cu sau fără încărcătură, are o lățime între 3,2 m și 4,5 m inclusiv sau cu lungime mai mare de 25 m trebuie să fie precedat de un autovehicul de însoțire, iar cel cu lățimea mai mare de 4,5 m sau lungimea mai mare de 30 m trebuie să fie însoțit de două autovehicule care să circule unul în față și celălalt în spate.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fbb",
+    "text": "Care dintre următorii factori reprezintă baza conduitei preventive?",
+    "optiuni": {
+      "A": "cunoaşterea normelor de circulaţie şi a regulilor de conducere a autovehiculului;",
+      "B": "capacitatea de a fi politicos şi disciplinat în traficul rutier;",
+      "C": "încadrarea în baremele legale privind sănătatea."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fbc",
+    "text": "Ce trebuie să faceţi pentru a evita un accident de circulaţie?",
+    "optiuni": {
+      "A": "să nu conduceţi autoturismul decât atunci când probleme grave impun acest lucru;",
+      "B": "să vă asiguraţi întotdeauna un partener care să cunoască bine traseul parcurs;",
+      "C": "să anticipaţi şi să contracaraţi la timp manevrele imprudente ale partenerilor de drum şi să respectaţi permanent regulile de circulaţie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Vehiculele înmatriculate sau înregistrate, cu excepția celor cu tracțiune animală, care circulă pe drumurile publice, trebuie să aibă asigurare obligatorie pentru răspundere civilă în caz de pagube produse terților prin accidente de circulație, conform legii.\n---\nConducătorii de vehicule implicați într-un accident de circulație în urma căruia au rezultat avarierea vehiculelor și/sau alte pagube materiale sunt obligați: a) să scoată imediat vehiculul în afara părții carosabile sau cât mai aproape de bordură sau acostament; b) să se prezinte la unitatea de poliție competentă în termen de 24 de ore pentru întocmirea documentelor de constatare.\n---\nEste interzis oricărei persoane să schimbe poziția vehiculului implicat într-un accident de circulație în urma căruia a rezultat decesul sau rănirea uneia sau a mai multor persoane, să modifice starea locului sau să șteargă urmele accidentului fără încuviințarea poliției care cercetează accidentul.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fbd",
+    "text": "Sunteți depășit de un autovehicul care a apreciat greșit distanța și viteza cu care se apropie din sens opus un alt vehicul. Cum trebuie să procedați pentru a evita un accident rutier?",
+    "optiuni": {
+      "A": "măriți viteza de deplasare, pentru a-l determina pe cel ce vă depășește să renunțe la manevră;",
+      "B": "claxonați și îi faceți semn cu brațul să nu mai depășească;",
+      "C": "reduceți imediat viteza și circulați cât mai aproape de marginea din dreapta a părții carosabile, pentru a-i permite efectuarea depășirii și reintrarea pe sensul normal de mers."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fbe",
+    "text": "Vă apropiaţi de o intersecţie fără indicatoare de circulaţie. Vizibilitatea în ambele direcţii este imposibilă, din cauza vehiculelor staţionate. Cum procedaţi?",
+    "optiuni": {
+      "A": "intraţi încet în intersecţie, cu atenţie mărită;",
+      "B": "traversaţi cât mai rapid intersecţia;",
+      "C": "semnalizaţi luminos şi intraţi în intersecţie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fbf",
+    "text": "Ce pericole pot apărea prin nefolosirea centurii de siguranţă?",
+    "optiuni": {
+      "A": "chiar şi la o viteză de coliziune de aproximativ 20 km/h, există riscul unei accidentări;",
+      "B": "pericolele pot apărea la o viteză de peste 60 km/h;",
+      "C": "pericolul de accidentare este exclus."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Pe lămpile de culoare roșie sau verde ale semafoarelor pot fi aplicate săgeți de culoare neagră care indică direcțiile de deplasare corespunzătoare acestora. În acest caz interdicția sau permisiunea de trecere impusă de semnalul luminos este limitată la direcția sau direcțiile indicate prin aceste săgeți. Aceeași semnificație o au și săgețile aplicate pe panourile adiționale ce însoțesc, la partea inferioară, semafoarele. Săgeata pentru mersul înainte are vârful în sus.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fc0",
+    "text": "Ce înseamnă să conduceți preventiv pe timp nefavorabil?",
+    "optiuni": {
+      "A": "să respectați cu strictețe limitele de viteză pentru sectorul de drum pe care circulați;",
+      "B": "să reduceți viteza până la limita la care să vă asigurați o bună vizibilitate și un control deplin asupra comenzilor;",
+      "C": "să rulați cât mai aproape de axul drumului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fc1",
+    "text": "Cum trebuie să procedaţi atunci când un autobuz şcolar opreşte cu luminile de avarie aprinse?",
+    "optiuni": {
+      "A": "luminile intermitente de avertizare ale autobuzelor şcolare vă obligă să opriţi;",
+      "B": "circulaţi cu atenţie sporită;",
+      "C": "nu aveţi nicio obligaţie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Un vehicul oprit sau staționat cu toate luminile stinse, în locurile în care acestea sunt permise, atunci când este:\na) pe un drum iluminat, astfel încât vehiculul este vizibil de la o distanță de cel puțin 50 m;\nb) în afara părții carosabile, pe un acostament consolidat;\nc) în localități, la marginea părții carosabile, în cazul motocicletelor cu două roți, fără ataș și a mopedelor, care nu sunt prevăzute cu sursa de energie.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fc2",
+    "text": "Ce este bine să aveți în vedere pentru evitarea unui pericol, în situația din imagine?",
+    "optiuni": {
+      "A": "copiii circulă corect pe trecerea de pietoni;",
+      "B": "copiii se pot întoarce alergând pe trecerea de pietoni, fără motiv sesizabil;",
+      "C": "copiii urmăresc cu atenție circulația și se comportă ca atare."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/994.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Pentru prezentarea la examen în vederea obținerii unui nou permis de conducere, pentru categoriile avute anterior, persoana al cărei permis de conducere a fost anulat, aflată în una dintre situațiile prevăzute la alin. (6), trebuie să facă dovada că este aptă din punct de vedere medical.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fc3",
+    "text": "Ce se înţelege prin vigilenţă, din punct de vedere al conduitei preventive?",
+    "optiuni": {
+      "A": "capacitatea de a nu intra în conflict cu organele de poliţie rutieră;",
+      "B": "să fiţi odihnit şi bine alimentat, pentru a nu fi obligat să opriţi pe traseu;",
+      "C": "menţinerea neîntreruptă a atenţiei pe toată durata deplasării."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice conducătorilor de vehicule să adopte un comportament agresiv în conducerea acestora pe drumurile publice. Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul, a uneia dintre următoarele manevre: \na) deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens; \nb) întoarcerea vehiculului prin folosirea frânei de ajutor; \nc) pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare; \nd) circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia; \ne) folosirea repetată a semnalelor sonore și/sau luminoase fără a obliga nejustificat conducătorul de vehicul care circulă în față sa să elibereze banda de circulație; \nf) conducerea mopedului sau motocicletei având ambele roți ale vehiculului ridicate de pe partea carosabilă numai pe una dintre roți; \ng) mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic sau pentru crearea unei situații de blocaj; \nh) realizarea intenționată a unui derapaj controlat al vehiculului prin rotirea acestuia sau a roților acestuia; \ni) conducerea intenționată a vehiculului în mod repetat înainte și înapoi pe o distanță scurtă, prin mișcări înapoi și înainte succesive pe aceeași bandă sau în zona drumului public.\n---\nConducătorii de autovehicule sau de tramvaie, deținători ai certificatului de atestare profesională, vor fi evaluați periodic din punct de vedere al capacităților psihologice solicitate în activitatea de conducere a autovehiculelor sau tramvaielor, în condițiile stabilite de reglementările în vigoare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fc4",
+    "text": "Cum trebuie să procedaţi atunci când autovehiculul derapează cu spatele către dreapta?",
+    "optiuni": {
+      "A": "frânaţi puternic şi redresaţi vehiculul prin virare la stânga;",
+      "B": "trageţi rapid de volan spre stânga, fără a frâna;",
+      "C": "eliberaţi pedala de acceleraţie şi viraţi uşor spre dreapta."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Au regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nNerespectarea obligației de a acționa frâna de ajutor, de a cupla într-o treaptă de viteză inferioară sau în cea de parcare dacă autovehiculul are transmisie automată, atunci când conducătorul autovehiculului imobilizat pe drum public se îndepărtează de acesta atrage 3 puncte de penalizare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fc5",
+    "text": "Ce obligații aveți dacă, pe drumul pe care circulați, observați evenimente de natură a pune în pericol siguranța circulației?",
+    "optiuni": {
+      "A": "să semnalizați participanții la trafic care circulă din sens opus;",
+      "B": "să emiteți semnale acustice;",
+      "C": "să sesizați cea mai apropiată unitate de poliție în legătură cu obstacolele care pun în pericol siguranța circulației."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Cu aceeași pedeapsă se sancționează așezarea de obstacole care îngreunează sau împiedică circulația pe drumul public, dacă se pune în pericol siguranța circulației ori se aduce atingere dreptului la libera circulație al celorlalți participanți la trafic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fc6",
+    "text": "Tensiunea nervoasă și oboseala conducătorului auto pot fi reduse dacă:",
+    "optiuni": {
+      "A": "rulați cu o viteză ponderată, în condiții de siguranță, menținând un ritm de mers constant;",
+      "B": "circulați cu aceeași viteză atât în localități, cât și în afara acestora;",
+      "C": "folosiți medicamente calmante sau energizante care nu sunt interzise conducătorilor auto."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fc7",
+    "text": "Cum procedaţi în situaţia în care observaţi în faţa dvs. o minge care se rostogoleşte?",
+    "optiuni": {
+      "A": "continuaţi să circulaţi cu aceeaşi viteză, întrucât trecerea peste minge nu este periculoasă pentru autovehicul;",
+      "B": "semnalizaţi sonor, reduceţi viteza şi circulaţi cu maximă atenţie, întrucât este foarte posibil să apară un copil după minge;",
+      "C": "viraţi brusc în direcţia opusă de rostogolire a mingii."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fc8",
+    "text": "Care este cea mai vulnerabilă categorie de participanți la trafic, din rândul căreia se înregistrează cele mai multe victime?",
+    "optiuni": {
+      "A": "conducătorii de vehicule fără experiență în conducere;",
+      "B": "conducătorii de vehicule cu atestat profesional;",
+      "C": "pietonii, îndeosebi copiii și persoanele în vârstă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Participanții la trafic, care se găsesc în apropierea locului unde un vehicul a rămas imobilizat pe calea ferată, sunt obligați să acorde sprijin pentru scoaterea acestuia sau, când nu este posibil, pentru semnalizarea prezenței lui.\n---\nConducătorul vehiculului al cărui mers înainte este obstruat de un obstacol sau de prezența altor participanți la trafic, care impune trecerea pe sensul opus, este obligat să reducă viteza și, la nevoie, să oprească pentru a permite trecerea vehiculelor care circulă din sens opus.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fc9",
+    "text": "Circulaţi în spatele unui vehicul cu tracţiune animală şi constataţi că acesta doreşte să schimbe direcţia de mers. Cum procedaţi?",
+    "optiuni": {
+      "A": "semnalizaţi sonor intenţia de a-l depăşi;",
+      "B": "permiteţi vehiculului efectuarea în siguranţă a manevrei;",
+      "C": "nu aveţi nicio obligaţie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul unui vehicul care circulă în spatele altuia are obligația de a păstra o distanță suficientă față de acesta, pentru evitarea coliziunii.\n---\nConducerea unui autovehicul și tractor agricol sau forestier sau tractarea unei remorci atunci când circulația acestora pe drumurile publice este interzisă potrivit art. 15 alin. (5), cu excepția cazurilor în care vehiculul, tramvaiul sau înregistrat, nu are montate plăcuțe cu numărul de înmatriculare sau de înregistrare atribuite de autoritatea competentă ori dacă acestea nu sunt conforme cu standardele în vigoare atrage 4 puncte de penalizare.\n---\nVehiculele cu tracțiune animală confiscate în condițiile legii se predau autorităților administrației publice locale, pe baza de proces-verbal, în vederea transmiterii acestora spre valorificare, potrivit dispozițiilor Ordonanței Guvernului nr. 128/1998 pentru reglementarea modului și condițiilor de valorificare a bunurilor confiscate sau intrate, potrivit legii, în proprietatea privată a statului, aprobată cu modificări și completări prin Legea nr. 98/1999, republicată.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fca",
+    "text": "Când constatați că aveți anumite probleme cu vederea, trebuie:",
+    "optiuni": {
+      "A": "să vă cumpărați ochelari de vedere cu caracteristici superioare;",
+      "B": "să evitați conducerea autovehiculului până când sunteți consultat de medicul specialist, urmând să vă conformați sfaturilor acestuia;",
+      "C": "să conduceți folosind lumina de drum chiar și în localități sau când din sens opus se apropie alte vehicule."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fcb",
+    "text": "Când sunteţi obligat să păstraţi o distanţă corespunzătoare faţă de cel care rulează în faţa dumneavoastră?",
+    "optiuni": {
+      "A": "numai atunci când nu aveţi experienţă în conducere;",
+      "B": "numai dacă autovehiculul pe care îl conduceţi nu are frânele eficiente;",
+      "C": "în orice situaţie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Pe timpul nopții, la apropierea a două vehicule care circulă din sensuri opuse, conducătorii acestora sunt obligați ca de la o distanță de cel puțin 200 m să folosească luminile de întâlnire concomitent cu reducerea vitezei.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fcc",
+    "text": "Conduita preventivă asigură:",
+    "optiuni": {
+      "A": "menținerea stării tehnice a autovehiculului;",
+      "B": "siguranța și fluența deplasării pe drumurile publice;",
+      "C": "prelungirea duratei de exploatare a motorului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fcd",
+    "text": "Câmpul vizual al conducătorului auto se reduce atunci când:",
+    "optiuni": {
+      "A": "viteza de deplasare este mai mare;",
+      "B": "dimensiunile parbrizului și ale lunetei sunt mai mici;",
+      "C": "indicatoarele rutiere sunt de mici dimensiuni."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Folosirea telefonului mobil atunci când conducătorii de vehicule se află în timpul deplasării pe drumurile publice, cu excepția celor prevăzute cu dispozitive tip 'mâini libere' atrage 4 puncte de penalizare.\n---\nNerespectarea obligației de a acționa frâna de ajutor, de a cupla într-o treaptă de viteză inferioară sau în cea de parcare dacă autovehiculul are transmisie automată, atunci când conducătorul autovehiculului imobilizat pe drum public se îndepărtează de acesta atrage 3 puncte de penalizare.\n---\nConducătorii autovehiculelor aparținând instituțiilor prevăzute la art. 32 alin. (2) lit. a) și b) pot încălca regimul legal de viteză sau alte reguli de circulație, cu excepția celor care reglementează trecerea la nivel cu calea ferată, atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fce",
+    "text": "Care este viteza cu care trebuie să vă deplasaţi pe un drum public umed sau acoperit cu mâzgă sau zăpadă?",
+    "optiuni": {
+      "A": "viteza prevăzută de Regulament pentru categoria de drum pe care circulaţi în acel moment;",
+      "B": "viteza care să vă confere siguranţa că puteţi opri şi evita orice eveniment rutier, fără a intra în derapaj;",
+      "C": "în această situaţie nu trebuie să circulaţi cu mai mult de 20 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nVehiculul care circulă pe un drum public pe care este instalat unul dintre indicatoarele având semnificația: 'Drum cu prioritate', 'Intersecție cu un drum fără prioritate' sau 'Prioritate față de circulația din sens invers' are prioritate de trecere.\n---\nAutovehiculele care efectuează transport rutier agabaritic, cele de însoțire a acestora, precum și cele care transportă mărfuri și/sau deșeuri periculoase trebuie să aibă montate sau să fie dotate cu echipamente specifice prevăzute de reglementările în vigoare, precum și semnalele speciale de avertizare cu lumină galbenă, prevăzute la art. 32 alin. (1) lit. c), iar conducătorii acestora trebuie să le mențină în funcțiune pe toată perioada deplasării pe drumul public.\n---\nÎn circulația pe drumurile publice, autovehiculul sau ansamblul de vehicule care, cu sau fără încărcătură, are o lățime între 3,2 m și 4,5 m inclusiv sau cu lungime mai mare de 25 m trebuie să fie precedat de un autovehicul de însoțire, iar cel cu lățimea mai mare de 4,5 m sau lungimea mai mare de 30 m trebuie să fie însoțit de două autovehicule care să circule unul în față și celălalt în spate.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fcf",
+    "text": "Conducătorul auto prevăzător are în vedere:",
+    "optiuni": {
+      "A": "să fie odihnit, iar autovehiculul să corespundă din punct de vedere tehnic pentru circulaţia pe drumurile publice;",
+      "B": "să aibă asigurată presiunea normală la roata de rezervă;",
+      "C": "să observe înaintea altora locurile în care este amplasat aparatul RADAR."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Au dreptul de a conduce autovehicule, tractoare agricole sau forestiere ori tramvaie pe drumurile publice, în condițiile stabilite prin regulament, și persoanele care urmează un curs de pregătire practică, în vederea obținerii permisului de conducere, numai în prezența și sub supravegherea directă a unui instructor auto atestat în acest sens, precum și a examinatorului din cadrul autorității competente în timpul desfășurării probelor practice ale examenului pentru obținerea permisului de conducere pentru oricare dintre categoriile prevăzute de lege.\n---\nConducătorul de autovehicul care transportă un copil în condițiile prevăzute la alin. (1^8) are obligația să aibă asupra sa certificatul medical, în conținutul căruia trebuie să fie menționată durata de valabilitate a acestuia. Dispozițiile prevăzute la alin. (1^6) se aplică în mod corespunzător.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fd0",
+    "text": "Ce substanțe au efect asemănător cu cel al alcoolului și pot reduce capacitatea de concentrare a unui conducător auto?",
+    "optiuni": {
+      "A": "condimentele foarte iuți;",
+      "B": "medicamentele sau substanțele cu efect psihoactiv;",
+      "C": "cofeina."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fd1",
+    "text": "Ce rol au tetierele, din punct de vedere al conduitei preventive?",
+    "optiuni": {
+      "A": "în cazul tamponării din spate a autovehiculului, previn posibila fracturare a coloanei cervicale;",
+      "B": "nu au decât rol estetic;",
+      "C": "contribuie la fixarea telefoanelor mobile, permiţând efectuarea convorbirilor fără a mai duce aparatul la ureche."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorii de autovehicule sau de tramvaie, deținători ai certificatului de atestare profesională, vor fi evaluați periodic din punct de vedere al capacităților psihologice solicitate în activitatea de conducere a autovehiculelor sau tramvaielor, în condițiile stabilite de reglementările în vigoare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fd2",
+    "text": "Circulați într-o coloană și respectați distanța față de vehiculul din față. Ce trebuie să faceți în plus?",
+    "optiuni": {
+      "A": "să aprindeți lanterna de ceață din spate;",
+      "B": "să observați prin geamul lateral al vehiculului marginea din dreapta a părții carosabile;",
+      "C": "să rămâneți la limita propriei benzi și să vă asigurați câmpul de vizibilitate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Triunghiurile reflectorizante se instalează în față și în spatele vehiculului, pe aceeași bandă de circulație, la o distanță de cel puțin 30 m de acesta, astfel încât să poată fi observate din timp de participanții la trafic care se apropie. În localități, dacă circulația este intensă, triunghiurile pot fi așezate la o distanță mai mică dar vizibilă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fd3",
+    "text": "Cum trebuie să procedaţi atunci când intraţi, pe timp de zi, într-un tunel iluminat necorespunzător?",
+    "optiuni": {
+      "A": "claxonaţi;",
+      "B": "aprindeţi luminile de întâlnire;",
+      "C": "aprindeţi lumina intermitentă de avertizare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fd4",
+    "text": "Cum veţi proceda noaptea, când vizibilitatea este redusă din cauza ceţii, din punct de vedere al circulaţiei preventive?",
+    "optiuni": {
+      "A": "circulaţi cât mai aproape de axul drumului;",
+      "B": "circulaţi cât mai aproape de marginea din dreapta a drumului public;",
+      "C": "păstraţi o distanţă egală între axa drumului şi marginea din dreapta a părţii carosabile, rulând cu o viteză care să asigure oprirea într-un spaţiu mai mic decât cel de vizibilitate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fd5",
+    "text": "Pe o porţiune de drum acoperită cu polei, sesizaţi impactul inevitabil cu un câine. Cum veţi proceda pentru evitarea unui accident?",
+    "optiuni": {
+      "A": "consideraţi că o asemenea situaţie nu vi se poate întâmpla;",
+      "B": "eliberaţi acceleraţia, menţineţi ferm volanul pe direcţia de deplasare, fiind pregătit pentru a stabiliza autovehiculul după impact, prin manevrarea lină a volanului;",
+      "C": "încercaţi, pe cât posibil, să evitaţi impactul frontal, prin manevrarea bruscă a volanului în direcţia de deplasare opusă câinelui."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fd6",
+    "text": "Pentru a circula pe un drum cu polei, se recomandă să echipaţi autoturismul cu:",
+    "optiuni": {
+      "A": "lanţuri pentru zăpadă;",
+      "B": "pneuri speciale sau lanţuri antiderapante;",
+      "C": "lopată şi nisip."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1191.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Pentru semnalizarea și dirijarea circulației pe sectoarele de drum unde se execută lucrări pe partea carosabilă, cu excepția autostrăzilor, se pot instala temporar semafoare mobile, cu obligația presenalizării acestora.\n---\nAmplasarea unor construcții, panouri sau reclame publicitare în zona drumului public, fără autorizație de construcție eliberată în condițiile legii ori cu încălcarea condițiilor stabilite în autorizație, dacă prin aceasta se creează un obstacol pentru siguranța circulației, se pedepsește cu închisoare de la 3 luni la un an sau cu amendă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fd7",
+    "text": "Cum procedează conducătorul de vehicule noaptea, când este orbit de lumina farurilor unui autovehicul care circulă din sens opus?",
+    "optiuni": {
+      "A": "pune sau menține în funcțiune faza de drum, pentru a observa mai bine drumul pe direcția de deplasare;",
+      "B": "aprinde alternativ faza de drum și de întâlnire, pentru a-l atenționa pe celălalt conducător că circulă incorect;",
+      "C": "menține în funcțiune luminile de întâlnire, reduce viteza de deplasare și oprește dacă este cazul."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fd8",
+    "text": "Cum trebuie să procedaţi pentru a vă păstra starea de vigilenţă pe tot parcursul deplasării?",
+    "optiuni": {
+      "A": "conduceţi cât mai încordat, cu faţa cât mai aproape de parbriz, pentru a vedea tot ce se întâmplă pe drumul public, în faţa dvs.;",
+      "B": "vă concentraţi atenţia, dar adoptaţi o atitudine relaxată la volan, având control asupra efectuării tuturor manevrelor de care depinde siguranţa călătoriei;",
+      "C": "vă găsiţi o preocupare mai plăcută, cum ar fi manevrarea aparaturii radio-video, întreţinerea unor discuţii cu pasagerii sau folosirea telefonului mobil."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fd9",
+    "text": "Ce consecinţe poate avea transportul bagajelor pe acoperişul autoturismului?",
+    "optiuni": {
+      "A": "nu se pot executa viraje;",
+      "B": "creşte instabilitatea vehiculului la vânt lateral;",
+      "C": "se reduce distanţa de frânare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducerea autovehiculului pe drumurile publice acoperite cu zăpadă, gheață sau polei, fără ca acesta să fie dotat cu anvelope de iarnă, iar în cazul autovehiculului de transport marfă cu o masă totală maximă autorizată mai mare de 3,5 tone și al autovehiculului de transport persoane cu mai mult de 9 locuri pe scaune, inclusiv cel al conducătorului auto, fără ca acestea să fie echipate cu anvelope de iarnă pe roțile axei/axelor de tracțiune sau fără a avea montate pe aceste roți lanțuri sau alte echipamente antiderapante certificate constituie contravenție.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fda",
+    "text": "Cum poate fi menținută luminozitatea farurilor în condiții meteorologice nefavorabile?",
+    "optiuni": {
+      "A": "prin reglarea periodică a fasciculului luminos;",
+      "B": "păstrând curate permanent farurile;",
+      "C": "folosind numai lumina de drum."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fdb",
+    "text": "După o ploaie torenţială, este necesar să se păstreze o distanţă considerabil mai mare faţă de vehiculul care circulă în faţă?",
+    "optiuni": {
+      "A": "da, întrucât spaţiul de frânare se măreşte;",
+      "B": "nu, întrucât acest lucru duce la aglomerarea traficului;",
+      "C": "da, deoarece nu se observă indicatoarele."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1240.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fdc",
+    "text": "Din punct de vedere al conduitei preventive, la ce vă puteți aștepta în această situație?",
+    "optiuni": {
+      "A": "biciclistul va opri;",
+      "B": "biciclistul poate schimba direcția de mers spre stânga fără să se asigure;",
+      "C": "biciclistul se va comporta corect."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1243.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Pentru prezentarea la examen în vederea obținerii unui nou permis de conducere, pentru categoriile avute anterior, persoana al cărei permis de conducere a fost anulat, aflată în una dintre situațiile prevăzute la alin. (6), trebuie să facă dovada că este aptă din punct de vedere medical.\n---\nDe la data aderării României la Uniunea Europeană, pentru a fi înscris la o unitate autorizată în vederea pregătirii teoretice și practice pentru obținerea permisului de conducere, solicitantul trebuie să facă dovada că este apt din punct de vedere psihologic.\n---\nConducătorii de autovehicule sau de tramvaie, deținători ai certificatului de atestare profesională, vor fi evaluați periodic din punct de vedere al capacităților psihologice solicitate în activitatea de conducere a autovehiculelor sau tramvaielor, în condițiile stabilite de reglementările în vigoare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fdd",
+    "text": "La frânare, vehiculul derapează. Cum reacţionaţi corect?",
+    "optiuni": {
+      "A": "frânaţi la maximum;",
+      "B": "nu acţionaţi frâna şi rotiţi volanul în sens invers derapării;",
+      "C": "opriţi motorul."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fde",
+    "text": "Circulaţi printr-o localitate, în spatele unui vehicul cu număr de înmatriculare din altă localitate sau din străinătate. La ce vă puteţi aştepta?",
+    "optiuni": {
+      "A": "vehiculul care circulă în faţă merge corect",
+      "B": "înainte de a vira, conducătorul vehiculului respectiv va semnaliza din timp schimbarea direcţiei de mers",
+      "C": "conducătorul care circulă în faţă poate să frâneze şi să oprească în mod neaşteptat, pentru a cere informaţii privind drumul."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul unui vehicul care circulă în spatele altuia are obligația de a păstra o distanță suficientă față de acesta, pentru evitarea coliziunii.\n---\nTriunghiurile reflectorizante se instalează în față și în spatele vehiculului, pe aceeași bandă de circulație, la o distanță de cel puțin 30 m de acesta, astfel încât să poată fi observate din timp de participanții la trafic care se apropie. În localități, dacă circulația este intensă, triunghiurile pot fi așezate la o distanță mai mică dar vizibilă.\n---\nConducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fdf",
+    "text": "Vă deplasați pe drum într-o coloană. Cum vă comportați?",
+    "optiuni": {
+      "A": "depășiți coloana, pe cât posibil printr-o singură manevră;",
+      "B": "păstrați o distanță corespunzătoare față de cel care circulă în față și urmăriți comportamentul celorlalți participanți la trafic;",
+      "C": "circulați foarte aproape de vehiculul din față, pentru a nu rămâne în urmă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fe0",
+    "text": "Cum procedați atunci când, circulând pe un drum public, la o curbă cu vizibilitate redusă sub 50 m, observați că în fața dumneavoastră se deplasează un vehicul cu tracțiune animală?",
+    "optiuni": {
+      "A": "claxonați, pentru a determina vehiculul cu tracțiune animală să iasă în afara carosabilului;",
+      "B": "efectuați depășirea, fiind permisă prin lege;",
+      "C": "circulați în spatele vehiculului cu tracțiune animală până când aveți o bună vizibilitate și puteți depăși în siguranță."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Vehiculele și animalele, atunci când circulă pe drumurile publice pe care le este permis accesul, trebuie conduse pe partea din dreapta a drumului public, în sensul de circulație, cât mai aproape de marginea părții carosabile, cu respectarea semnificației semnalizării rutiere și a regulilor de circulație.\n---\nOprirea vehiculului pe drumurile publice se realizează prin executarea semnalelor regulamentare de către polițistul rutier sau, după caz, de către polițistul de frontieră, atunci când constată încălcări ale normelor rutiere ori în situații în care există indicii temeinice despre săvârșirea unei contravenții ori a unei fapte de natură penală, inclusiv identificarea persoanelor care au comis fapta și au fugit de la locul acesteia ori a celor urmărite, precum și pentru verificarea identității de către conducătorii vehiculelor sau a documentelor acestora. Oprirea vehiculului pe drumurile publice se realizează și în condițiile procedurii privind aplicarea sancțiunilor contravenționale, ori a altor situații care pun în pericol siguranța circulației.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fe1",
+    "text": "Cum se recomandă să vă comportați în această situație?",
+    "optiuni": {
+      "A": "opriți numai în cazul în care mingea se oprește pe carosabil;",
+      "B": "reduceți viteza și vă pregătiți să opriți;",
+      "C": "circulați mai departe, întrucât copiilor le este interzis să intre pe carosabil."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1298.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fe2",
+    "text": "Cum procedați în cazul în care observați în timp util o persoană în vârstă care traversează neregulamentar drumul public, în fața dvs.?",
+    "optiuni": {
+      "A": "semnalizați cu claxonul și cu luminile, pentru a împiedica persoana respectivă să traverseze;",
+      "B": "reduceți din timp viteza și luați toate măsurile de evitare a lovirii persoanei care traversează;",
+      "C": "legal nu aveți nicio obligație, iar în caz de accident, pietonul imprudent va răspunde, inclusiv pentru eventualele avarii produse."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fe3",
+    "text": "Ce obligații are conducătorul unui vehicul, dacă pe drumul pe care circulă observă evenimente de natură a pune în pericol siguranța circulației?",
+    "optiuni": {
+      "A": "să semnalizeze participanții la trafic care circulă din sens opus, schimbând alternativ lumina de drum cu lumina de întâlnire;",
+      "B": "să emită semnale acustice ori de câte ori se întâlnește cu un alt vehicul circulând din sens opus;",
+      "C": "să sesizeze cea mai apropiată unitate de poliție în legătură cu obstacolele sau situațiile care pun în pericol siguranța circulației."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul unui vehicul care circulă în spatele altuia are obligația de a păstra o distanță suficientă față de acesta, pentru evitarea coliziunii.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul vehiculului al cărui mers înainte este obstruat de un obstacol sau de prezența altor participanți la trafic, care impune trecerea pe sensul opus, este obligat să reducă viteza și, la nevoie, să oprească pentru a permite trecerea vehiculelor care circulă din sens opus.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nLa apropierea de o stație pentru mijloace de transport public de persoane prevăzută cu alveolă, din care conducătorul unui astfel de vehicul semnalizează intenția de a ieși, conducătorul vehiculului care circulă pe banda de lângă acostament sau bordură este obligat să reducă viteza și, la nevoie, să oprească pentru a-i permite reintrarea în trafic.\n---\nDacă din cauza deteriorării ambalajului sau din alte cauze marfa ori produsul periculos se împrăștie pe drum, conducătorul este obligat să oprească imediat, să ia măsuri de avertizare a celorlalți conducători care circulă pe drumul public și a persoanelor din jur, să semnalizeze pericolul cu mijloacele pe care le are la îndemână și să anunțe administratorul drumului sau cea mai apropiată unitate de poliție.\n---\nÎn cazul imobilizării unui vehicul pe calea ferată, conducătorul acestuia este obligat să scoată imediat pasagerii din vehicul și să elibereze platforma căii ferate, iar când nu este posibil, să semnalizeze prezența vehiculului cu orice mijloc adecvat.\n---\nNerespectarea de către proprietarul sau deținătorul mandatat al unui vehicul a obligației de a comunica, în termenul indicat în solicitarea poliției rutiere sau poliției locale, datele de identificare ale persoanei căreia i-a încredințat vehiculul pentru a-l conduce pe drumurile publice, constituie contravenție.\n---\n1) Conducătorii de vehicule sunt obligați să respecte viteza maximă admisă pe sectorul de drum pe care circulă și pentru categoria din care face parte vehiculul condus, precum și cea impusă prin mijloacele de semnalizare.\n2) Nerespectarea regimului de viteză stabilit conform legii se constată de către polițiștii rutieri, cu mijloace tehnice omologate și verificate metrologic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fe4",
+    "text": "Ce trebuie să aveţi în vedere atunci când lăsaţi copiii să urce sau să coboare din autoturismul pe care îl conduceţi?",
+    "optiuni": {
+      "A": "copiii trebuie invitaţi să urce sau să coboare numai pe partea dinspre trotuar;",
+      "B": "copiilor le este permis să coboare singuri, pe orice parte;",
+      "C": "nu trebuie să aveţi nimic în vedere, deoarece copiii se comportă întotdeauna corect în circulaţie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Atunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fe5",
+    "text": "Cum este recomandat să procedaţi pentru a depăşi, în condiţii de siguranţă, un tramvai oprit într-o staţie cu refugiu?",
+    "optiuni": {
+      "A": "să avertizaţi sonor persoanele aflate în zona staţiei;",
+      "B": "să semnalizaţi din timp intenţia de depăşire a tramvaiului;",
+      "C": "să reduceţi viteza de deplasare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fe6",
+    "text": "Ce se recomandă pe timp de noapte, din punct de vedere al conduitei preventive, pentru un conducător de autovehicul începător?",
+    "optiuni": {
+      "A": "să aibă bateria de acumulatori în stare bună de funcţionare;",
+      "B": "să evite, pe cât posibil, deplasarea, dacă trebuie să parcurgă un traseu lung, care cuprinde drumuri intens circulate;",
+      "C": "să aibă în dotare setul de triunghiuri reflectorizante, precum şi becuri de rezervă, pentru a asigura funcţionarea ireproşabilă a farurilor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Pentru prezentarea la examen în vederea obținerii unui nou permis de conducere, pentru categoriile avute anterior, persoana al cărei permis de conducere a fost anulat, aflată în una dintre situațiile prevăzute la alin. (6), trebuie să facă dovada că este aptă din punct de vedere medical.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fe7",
+    "text": "Intenţionaţi să vă puneţi în mişcare dintr-o parcare de pe marginea şoselei. În spatele dvs. parchează un autoturism. Ce pericol prezintă această situaţie?",
+    "optiuni": {
+      "A": "niciun pericol;",
+      "B": "vehiculele care circulă din sens opus vă pot observa cu întârziere;",
+      "C": "din cauza vizibilităţii reduse din spate, vehiculele care vin din urmă pot observa cu întârziere semnalizarea vehiculului dvs."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fe8",
+    "text": "Intenţionaţi să consultaţi o hartă rutieră. Cum este recomandat să procedaţi?",
+    "optiuni": {
+      "A": "opriţi, cu luminile de întâlnire aprinse;",
+      "B": "opriţi autovehiculul în afara carosabilului;",
+      "C": "nu aveţi voie să consultaţi harta pe timp de noapte."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1360.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fe9",
+    "text": "Câţiva copii traversează strada jucându-se cu o minge. Cum este recomandat să vă comportaţi?",
+    "optiuni": {
+      "A": "reduceți viteza, deoarece comportamentul copiilor poate fi imprevizibil",
+      "B": "circulați făra restricții, deoarece copiii vor urca pe trotuar",
+      "C": "accelerați, pentru a părasi cât mai repede zona."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fea",
+    "text": "La ce trebuie să vă aşteptaţi atunci când, în faţa dvs., a oprit în staţie un autobuz destinat transportului de călători?",
+    "optiuni": {
+      "A": "urmează o intersecţie, întrucât majoritatea staţiilor mijloacelor de transport în comun se amenajează în astfel de locuri;",
+      "B": "este posibil ca unii călători să coboare şi să traverseze prin faţa autobuzului, fără a se asigura în mod corespunzător;",
+      "C": "la plecarea din staţie, autobuzul poate să-şi schimbe direcţia de mers spre stânga, fără să se asigure."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Vehiculele trebuie să oprească, în ordinea sosirii, în locul în care există vizibilitate maximă asupra căii ferate fără a trece de indicatoarele prevăzute la alin. (1) lit. c) sau, după caz, înaintea marcajului pentru oprire ori înaintea barierelor sau semibarierelor, când acestea sunt închise, în curs de coborâre sau de ridicare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0feb",
+    "text": "Un conducător auto imprudent s-a angajat în depășirea coloanei în care vă aflați, iar din sens opus se apropie la mică distanță un autocamion, care îl semnalizează cu luminile. Cum trebuie să procedați pentru evitarea producerii unui accident?",
+    "optiuni": {
+      "A": "nu aveți nicio obligație și prin urmare vă continuați deplasarea în coloană;",
+      "B": "reduceți viteza și măriți astfel distanța față de cel care circulă înaintea dvs., creând condiții celui ce depășește neregulamentar să intre în coloană;",
+      "C": "vă apropiați de axul drumului public, pentru a-l determina pe cel angajat în depășirea coloanei să renunțe la această manevră riscantă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fec",
+    "text": "Circulaţi cu un autoturism cu remorcă pe o şosea cu o singură bandă pentru fiecare direcţie şi vă apropiaţi de o curbă la stânga, foarte strânsă şi fără vizibilitate. Cum trebuie să adaptaţi modul de conducere?",
+    "optiuni": {
+      "A": "reduceţi viteza înaintea curbei, din cauza pericolului mărit de derapare a remorcii",
+      "B": "reduceţi viteza, circulaţi pe mijlocul benzii şi acceleraţi uşor când ajungeţi în vârful curbei",
+      "C": "menţineţi viteza, iar în curbă frânaţi."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fed",
+    "text": "Este permisă deschiderea portierelor autoturismului pe timpul opririi sau staţionării pe un drum public?",
+    "optiuni": {
+      "A": "da, numai după ce conducătorul sau pasagerul s-a asigurat că aceasta nu prezintă pericol pentru trafic;",
+      "B": "da, numai pe drumurile cu trafic redus;",
+      "C": "da, dar numai pe partea dreaptă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Nu este permisă oprirea sau staționarea în tuneluri. În situații de urgență sau de pericol conducătorului de autovehicul îi este permisă oprirea sau staționarea numai în locurile special amenajate și semnalizate corespunzător. În caz de imobilizare prelungită a autovehiculului în tunel, conducătorul de vehicul este obligat să oprească motorul.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fee",
+    "text": "Consumul de alcool, chiar și în cantități mici:",
+    "optiuni": {
+      "A": "poate determina o manieră de conducere riscantă sau excesiv de degajată;",
+      "B": "poate reduce capacitatea vizuală;",
+      "C": "poate reduce capacitatea auditivă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fef",
+    "text": "Este recomandabil să păstrăm sau să depozităm anumite obiecte pe podeaua autovehiculului / tractorului agricol sau forestier?",
+    "optiuni": {
+      "A": "da, atâta vreme cât acestea nu ne stânjenesc în acționarea comenzilor autovehiculului;",
+      "B": "da, dacă nu mai există un alt loc în care să așezăm obiectele de mici dimensiuni;",
+      "C": "nu, întrucât există posibilitatea rostogolirii acestor obiecte, care pot ajunge sub pedale și crea situații periculoase."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat:\n1. să aibă asupra sa actul de identitate, permisul de conducere, certificatul de înmatriculare sau de înregistrare și, după caz, atestatul profesional, precum și celelalte documente prevăzute de legislația în vigoare;\n3. să verifice funcționarea sistemului de lumini și de semnalizare, a instalației de climatizare, să mențină permanent curate parbrizul, luneta și geamurile laterale ale autovehiculului, tractorului agricol sau forestier, precum și plăcuțele cu numărul de înmatriculare sau înregistrare ale autovehiculului, tractorului agricol sau forestier și remorcii.\n---\nÎn cazul rămânerii în pană a unui autovehicul, tractor agricol sau forestier ori a remorcii acestuia, conducătorul ansamblului este obligat să îl scoată imediat în afara părții carosabile sau, dacă nu este posibil, să îl deplaseze lângă bordura ori acostament, așezându-l paralel cu axa drumului și luând măsuri pentru remedierea defecțiunilor sau, după caz, de remorcare.\n---\nDacă un autovehicul, tractor agricol sau forestier sau o remorcă a rămas în pană pe partea carosabilă a drumului și nu poate fi deplasat în afara acesteia, conducătorul vehiculului este obligat să pună în funcțiune luminile de avarie și să instaleze triunghiurile reflectorizante.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ff0",
+    "text": "Cum vă asiguraţi că nu există niciun pericol atunci când manevraţi autoturismul înapoi?",
+    "optiuni": {
+      "A": "aprindeţi lanterna de ceaţă din spate",
+      "B": "claxonaţi înainte de a pleca",
+      "C": "vă asiguraţi din faţă, din spate şi din lateral."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În locurile în care mersul înapoi este permis, dar vizibilitatea în spate este împiedicată, vehiculul poate fi manevrat înapoi numai atunci când conducătorul acestuia este dirijat de cel puțin o persoană aflată în afara vehiculului.\n---\nAtunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ff1",
+    "text": "La depasirea caror vehicule trebuie sa pastrezi o distanta laterala mai mare, mai ales daca tractezi o remorca?",
+    "optiuni": {
+      "A": "la depasirea bicicletelor",
+      "B": "la depasirea autobuzelor",
+      "C": "la depasirea camioanelor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorii vehiculelor care circulă din sensuri opuse trebuie să păstreze între vehicule o distanță laterală suficientă și să circule cât mai aproape de marginea din dreapta a benzii de circulație respective.\n---\nPentru asigurarea distanței laterale de siguranță, la depășirea unei biciclete sau a unei trotinete electrice conducătorii de autovehicule, altele decât cele care se deplasează pe două roți, realizează această manevră prin trecerea peste marcajul longitudinal de separare a sensurilor de circulație ori de separare a benzilor pe același sens, cu cel puțin jumătate din lățimea autovehiculului atunci când viteza acestuia de deplasare este mai mare de 50 km/h, sau cu cel puțin prin încălcarea acestora când viteza de deplasare este de cel mult 50 km/h.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ff2",
+    "text": "In ce situatii se reduce viteza in trafic?",
+    "optiuni": {
+      "A": "în toate situaţiile în care se prevede o stare de pericol, care poate fi evitată rulând cu o viteză inferioară",
+      "B": "în toate cazurile prevăzute în Regulamentul pentru aplicarea legii privind circulaţia pe drumurile publice",
+      "C": "atunci când eşti obosit, indispus sau suferi de o afecţiune care îţi diminuează capacitatea de a conduce"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ff3",
+    "text": "Ce trebuie sa aveti in vedere in cazul in care va apropiati de o scoala si observati ca elevii parasesc cladirea?",
+    "optiuni": {
+      "A": "legea nu prevede obligatii",
+      "B": "elevii pot fi neatenti si pot aparea brusc in fata masinii",
+      "C": "elevii vor traversa numai pe trecerea de pietoni."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În cazul în care tramvaiul este oprit într-o stație fără refugiu pentru pietoni, vehiculele trebuie să oprească în ordinea sosirii, în spatele acestuia, și să își reia deplasarea numai după ce ușile tramvaiului au fost închise și s-au asigurat că nu pun în pericol siguranța pietonilor angajați în traversarea drumului public.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ff4",
+    "text": "Distanţa de frânare a autovehiculului depinde cel mai mult de:",
+    "optiuni": {
+      "A": "viteza",
+      "B": "profilul pneurilor",
+      "C": "eficienţa sistemului de direcţie"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Nerespectarea obligației de a acționa frâna de ajutor, de a cupla într-o treaptă de viteză inferioară sau în cea de parcare dacă autovehiculul are transmisie automată, atunci când conducătorul autovehiculului imobilizat pe drum public se îndepărtează de acesta atrage 3 puncte de penalizare.\n---\nSe interzice conducătorului de autovehicul care transportă mărfuri sau produse periculoase:\n a) să provoace șocuri autovehiculului în mers;\n b) să fumeze în timpul mersului ori să aprindă foc la oprire sau staționare, la o distanță mai mică de 50 m de autovehicul;\n c) să lase autovehiculul și încărcătura fără supravegherea sa, a însoțitorului ori a unei alte persoane calificate;\n d) să remorcheze un vehicul rămas în pană;\n e) să urmeze alte trasee sau să staționeze în alte locuri decât cele stabilite, precum și pe partea carosabilă a drumului pe timp de noapte;\n f) să transporte alte încărcături care, prin natura lor, ar putea determina o sporire a pericolului;\n g) să permită prezența în autovehicul a altor persoane, cu excepția celuilalt conducător, a însoțitorilor sau a celor care încarcă ori descarcă mărfurile sau produsele transportate;\n h) să intre pe sectoarele de drum pe care îi este interzis accesul;\n i) să păstreze în autovehicul rezerve de combustibil în ambalaje care nu sunt special confecționate în acest scop.\n---\nPentru asigurarea distanței laterale de siguranță, la depășirea unei biciclete sau a unei trotinete electrice conducătorii de autovehicule, altele decât cele care se deplasează pe două roți, realizează această manevră prin trecerea peste marcajul longitudinal de separare a sensurilor de circulație ori de separare a benzilor pe același sens, cu cel puțin jumătate din lățimea autovehiculului atunci când viteza acestuia de deplasare este mai mare de 50 km/h, sau cu cel puțin prin încălcarea acestora când viteza de deplasare este de cel mult 50 km/h.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ff5",
+    "text": "Circulați cu un autovehicul / tractor agricol sau forestier, cu remorcă, pe o șosea cu o singură bandă pentru fiecare direcție și vă apropiați de o curbă la stânga, foarte strânsă și fără vizibilitate. Cum trebuie să adaptați modul de conducere?",
+    "optiuni": {
+      "A": "reduceți viteza înaintea curbei, din cauza pericolului mărit de derapare a remorcii;",
+      "B": "reduceți viteza, circulați pe mijlocul benzii și accelerați ușor când ajungeți în vârful curbei;",
+      "C": "mențineți viteza, iar în curbă frânați."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducerea unui autovehicul și tractor agricol sau forestier sau tractarea unei remorci atunci când circulația acestora pe drumurile publice este interzisă potrivit art. 15 alin. (5), cu excepția cazurilor în care vehiculul, tramvaiul sau înregistrat, nu are montate plăcuțe cu numărul de înmatriculare sau de înregistrare atribuite de autoritatea competentă ori dacă acestea nu sunt conforme cu standardele în vigoare atrage 4 puncte de penalizare.\n---\nCirculația în timpul nopții sau ziua, pe timp de ceață, ninsoare abundentă sau ploaie torențială, cu un autovehicul și tractor agricol sau forestier fără lumini sau fără semnalizare corespunzătoare atrage 4 puncte de penalizare.\n---\nUn autovehicul poate tracta pe drumul public o singură remorcă. Se exceptează tractorul agricol sau forestier care poate tracta două remorci, precum și autovehiculele amenajate pentru formarea unui autotrend de transport persoane în localitățile turistice, cu condiția ca acesta să nu fie mai lung de 25 m și să nu circule cu viteza mai mare de 25 km/h.\n---\nDacă un autovehicul, tractor agricol sau forestier sau o remorcă a rămas în pană pe partea carosabilă a drumului și nu poate fi deplasat în afara acesteia, conducătorul vehiculului este obligat să pună în funcțiune luminile de avarie și să instaleze triunghiurile reflectorizante.\n---\nPunerea în circulație sau conducerea pe drumurile publice a unui autovehicul, a unui tramvai sau a unui tractor agricol ori forestier neînmatriculat sau neînregistrat, potrivit legii, se pedepsește cu închisoare de la unu la 3 ani sau cu amendă.\n---\nPunerea în circulație sau conducerea pe drumurile publice a unui autovehicul, tramvai, tractor agricol ori forestier cu număr fals de înmatriculare sau înregistrare se pedepsește cu închisoare de la unu la 5 ani sau cu amendă.\n---\nConducerea pe drumurile publice a unui autovehicul, a unui tramvai sau a unui tractor agricol sau forestier ori tractarea unei remorci ale cărei plăcuțe cu numărul de înmatriculare sau de înregistrare au fost retrase ori a unui vehicul înmatriculat în alt stat, care nu are drept de circulație în România, se pedepsește cu închisoare de la 6 luni la 2 ani sau cu amendă.\n---\nProprietarul, deținătorul mandatat sau conducătorul auto al cărui autovehicul și tractor agricol sau forestier, remorcă ori tramvai a fost avariat în alte împrejurări decât într-un accident de circulație este obligat să se prezinte în 24 de ore de la constatare la unitatea de poliție pe raza căreia s-a produs evenimentul, pentru întocmirea documentelor de constatare.\n---\nÎn cazul rămânerii în pană a unui autovehicul, tractor agricol sau forestier ori a remorcii acestuia, conducătorul ansamblului este obligat să îl scoată imediat în afara părții carosabile sau, dacă nu este posibil, să îl deplaseze lângă bordura ori acostament, așezându-l paralel cu axa drumului și luând măsuri pentru remedierea defecțiunilor sau, după caz, de remorcare.\n---\nConducătorului de autovehicul, tractor agricol sau forestier ori tramvai, testat cu un mijloc tehnic certificat sau cu un mijloc tehnic omologat și verificat metrologic, i se reține permisul de conducere dacă valoarea rezultată este de cel mult 0,40 mg/l alcool pur în aerul expirat, eliberându-se dovada înlocuitoare fără drept de circulație, dacă nu consimte la recoltarea mostrelor biologice în vederea stabilirii alcoolemiei.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ff6",
+    "text": "După o pană de cauciuc, ai fost nevoit să montezi roata de rezervă. Ce trebuie să ai în vedere la continuarea drumului?",
+    "optiuni": {
+      "A": "să nu conduci cu o viteză mai mare de 80 km/h",
+      "B": "să nu conduci cu roata de rezervă mai mult decât este necesar",
+      "C": "să nu iei persoane de ocazie în autovehicul"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ff7",
+    "text": "Cum vei circula la trecerea pe lângă un grup de elevi care se deplasează în aceeaşi direcţie, pe drumul naţional dintr-o localitate rurală?",
+    "optiuni": {
+      "A": "depăşeşti grupul, semnalizând cu luminile de întâlnire",
+      "B": "preventiv, reduci viteza şi ocoleşti cu prudenţă grupul",
+      "C": "foloseşti avertizorul sonor, pentru a îndepărta elevii de pe partea carosabilă"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Pe drumurile publice înguste și/sau cu declivitate, unde trecerea vehiculelor care circulă din sensuri opuse, unele pe lângă altele, este imposibilă sau periculoasă, se procedează după cum urmează:\n---\nConducătorul de vehicul care circulă pe banda situată lângă marginea părții carosabile trebuie să acorde prioritate de trecere vehiculelor care efectuează transport public de persoane numai atunci când conducătorii acestora semnalizează intenția de a reintra în trafic din stațiile prevăzute cu alveole și s-au asigurat că prin manevra lor nu pun în pericol siguranța celorlalți participanți la trafic.\n---\nDepășirea este manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe același sens de circulație, prin schimbarea direcției de mers și ieșirea de pe banda de circulație sau din șirul de vehicule în care s-a aflat inițial.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ff8",
+    "text": "Acvaplanarea poate fi evitata atunci cand:",
+    "optiuni": {
+      "A": "pneurile sunt bune si viteza este redusa",
+      "B": "autovehiculul este dotat cu ABS",
+      "C": "autovehiculul este supraincarcat"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În locurile în care mersul înapoi este permis, dar vizibilitatea în spate este împiedicată, vehiculul poate fi manevrat înapoi numai atunci când conducătorul acestuia este dirijat de cel puțin o persoană aflată în afara vehiculului.\n---\nTramvaiul aflat în mers poate fi depășit și pe partea stângă atunci când drumul este cu sens unic sau când între șina din dreapta și marginea trotuarului nu există spațiu suficient.\n---\nÎn afara localităților oprirea sau staționarea voluntară a vehiculelor se face în afara părții carosabile, iar atunci când nu este posibil, cât mai aproape de marginea din dreapta a drumului, paralel cu axa acestuia.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ff9",
+    "text": "Ce permite modul de control electronic ABS, în situaţia unui început de blocaj al uneia sau al mai multor roţi, în timpul frânării autovehiculului?",
+    "optiuni": {
+      "A": "o mai bună încărcare a roţilor",
+      "B": "stăpânirea direcţiei autovehiculului",
+      "C": "un derapaj controlat"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ffa",
+    "text": "Este recomandabil ca un conducător de autovehicul să oprească pentru odihnă sau recreere la:",
+    "optiuni": {
+      "A": "2 ore",
+      "B": "4 ore",
+      "C": "6 ore"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul vehiculului al cărui mers înainte este obstruat de un obstacol sau de prezența altor participanți la trafic, care impune trecerea pe sensul opus, este obligat să reducă viteza și, la nevoie, să oprească pentru a permite trecerea vehiculelor care circulă din sens opus.\n---\nNu este permisă oprirea sau staționarea în tuneluri. În situații de urgență sau de pericol conducătorului de autovehicul îi este permisă oprirea sau staționarea numai în locurile special amenajate și semnalizate corespunzător. În caz de imobilizare prelungită a autovehiculului în tunel, conducătorul de vehicul este obligat să oprească motorul.\n---\nConducătorul de autovehicul sau de tramvai care efectuează transport public de persoane este obligat:\n a) să oprească pentru urcarea sau coborârea pasagerilor numai în stațiile semnalizate ca atare, cu excepția transportului public de persoane în regim de taxi. Dacă stația este prevăzută cu alveolă, oprirea se va face numai în interiorul acesteia;\n b) să deschidă ușile numai după ce vehiculul a fost oprit în stație;\n c) să închidă ușile numai după ce pasagerii au coborât ori au urcat;\n d) să repună în mișcare autovehiculul sau tramvaiul din stație după ce a semnalizat intenția și s-a asigurat că poate efectua în siguranță această manevră.\n---\nDacă un autovehicul, tractor agricol sau forestier sau o remorcă a rămas în pană pe partea carosabilă a drumului și nu poate fi deplasat în afara acesteia, conducătorul vehiculului este obligat să pună în funcțiune luminile de avarie și să instaleze triunghiurile reflectorizante.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat să aplice pe parbrizul și pe luneta autovehiculului semnul distinctiv stabilit pentru conducătorii de autovehicule începători, dacă are o vechime mai mică de un an de la obținerea permisului de conducere.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ffb",
+    "text": "Precizaţi când este drumul mai alunecos:",
+    "optiuni": {
+      "A": "este la fel de alunecos pe toată perioada cât plouă",
+      "B": "la începutul averselor de ploaie",
+      "C": "după ce ploaia s-a oprit"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Când drumul are două sau mai multe benzi pe sensul de mers, vehiculele se conduc pe banda situată lângă acostament sau bordură. Celelalte benzi pot fi folosite succesiv, de la dreapta spre stânga, dacă banda de circulație utilizată este ocupată, cu obligația de a reveni pe banda din dreapta atunci când acest lucru este posibil.\n---\nCând semnalul de culoare verde începe să funcționeze intermitent înseamnă că timpul afectat traversării drumului este în curs de epuizare și urmează semnalul roșu. În acest caz pietonii angajați în traversarea drumului trebuie să grăbească trecerea, iar dacă drumul este prevăzut cu un refugiu sau spațiu interzis circulației vehiculelor, să aștepte pe acesta apariția semnalului de culoare verde.\n---\nUn vehicul oprit sau staționat cu toate luminile stinse, în locurile în care acestea sunt permise, atunci când este:\na) pe un drum iluminat, astfel încât vehiculul este vizibil de la o distanță de cel puțin 50 m;\nb) în afara părții carosabile, pe un acostament consolidat;\nc) în localități, la marginea părții carosabile, în cazul motocicletelor cu două roți, fără ataș și a mopedelor, care nu sunt prevăzute cu sursa de energie.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ffc",
+    "text": "De la ce concentraţie de alcool în sânge trebuie să ai în vedere că se reduce deja capacitatea de conducere?",
+    "optiuni": {
+      "A": "orice concentraţie",
+      "B": "de la 0,3 g/l",
+      "C": "de la 0,5 g/l"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ffd",
+    "text": "În ce situaţii se reduce preventiv viteza în trafic?",
+    "optiuni": {
+      "A": "în toate situaţiile în care se prevede o stare de pericol, care poate fi evitată rulând cu o viteză inferioară;",
+      "B": "în toate cazurile prevăzute în Regulamentul pentru aplicarea legii privind circulaţia pe drumurile publice;",
+      "C": "atunci când eşti obosit, indispus sau suferi de o afecţiune care îţi diminuează capacitatea de a conduce."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ffe",
+    "text": "Utilizarea sistemului de climatizare are ca efect:",
+    "optiuni": {
+      "A": "creşterea consumului de combustibil;",
+      "B": "reducerea consumului de combustibil;",
+      "C": "scăderea puternică a gradului de confort."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0fff",
+    "text": "Pentru a conduce ecologic un autovehiculul, este necesar:",
+    "optiuni": {
+      "A": "să verificaţi o dată pe lună, la rece, presiunea din pneuri;",
+      "B": "să schimbaţi între ele pneurile, la aproximativ 10 000 km;",
+      "C": "să înlocuiţi pneurile la fiecare 1000 km."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat să aplice pe parbrizul și pe luneta autovehiculului semnul distinctiv stabilit pentru conducătorii de autovehicule începători, dacă are o vechime mai mică de un an de la obținerea permisului de conducere.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1000",
+    "text": "Cum trebuie să conduceţi, astfel încât să reduceţi poluarea?",
+    "optiuni": {
+      "A": "porniţi motorul acţionând pedala de acceleraţie la un sfert din cursă şi aşteptaţi ca acesta să se încălzească, pentru a reduce ulterior consumul de carburant;",
+      "B": "porniţi motorul fără să acţionaţi pedala de acceleraţie şi demaraţi imediat;",
+      "C": "apăsaţi până la capăt pedala de acceleraţie, porniţi motorul şi demaraţi cu o viteză cât mai mare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul trebuie să respecte regimul legal de viteză și să o adapteze în funcție de condițiile de drum, astfel încât să poată efectua orice manevră în condiții de siguranță.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1001",
+    "text": "Ce cauze determină poluarea mediului ambiant de către autovehicule?",
+    "optiuni": {
+      "A": "rularea cu viteză redusă, fără motiv;",
+      "B": "arderea incompletă şi defectuoasă a combustibilului;",
+      "C": "defectarea filtrului de benzină sau motorină."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1002",
+    "text": "De ce trebuie reparat necondiţionat un eşapament defect?",
+    "optiuni": {
+      "A": "pentru că produce un zgomot prea mare;",
+      "B": "nu este o urgenţă;",
+      "C": "pentru că destabilizează autovehiculul."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1003",
+    "text": "Când se recomandă să opriţi motorul pentru a reduce consumul de combustibil?",
+    "optiuni": {
+      "A": "în cazul unei opriri lungi la o trecere la nivel cu calea ferată;",
+      "B": "la culoarea roşie a unui semafor care, de regulă, durează foarte mult;",
+      "C": "la semnalul poliţistului rutier făcut în acest sens."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Fenomenul de aprindere de la sine a motorului se numește autoaprindere și apare atunci când combustibilul injectat în cilindru se aprinde fără o scânteie electrică. Acest fenomen poate fi cauzat de temperaturi ridicate sau de un raport aer-combustibil prea bogat în combustibil. În cazul în care motorul continuă să funcționeze după întreruperea contactului electric, acest lucru indică o autoaprindere.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1004",
+    "text": "Pentru a conduce ecologic un autovehicul, se recomandă:",
+    "optiuni": {
+      "A": "folosirea motorului la relanti, în cazul în care staţionaţi mai mult timp în acelaşi loc;",
+      "B": "menţinerea unei viteze constante, de preferinţă medie;",
+      "C": "oprirea motorului în timp ce coborâţi o pantă, pentru a economisi carburant."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de autovehicul trebuie semnalat cu lumina sau luminile speciale din dotare. Se recomandă dotarea autovehiculelor și cu dispozitive sonore pentru semnalizarea acestei manevre.",
+    "tip_context": "crossencode_prag"
+  }
+]

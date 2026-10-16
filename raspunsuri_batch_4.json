@@ -1,0 +1,2491 @@
+[
+  {
+    "id": "67f0dc3c2be5222d1c2e0ed9",
+    "text": "Cum trebuie să procedeze conducătorul autoturismului verde în situația dată?",
+    "optiuni": {
+      "A": "depășește prin partea dreaptă autobuzul, după ce a trecut autoturismul roșu;",
+      "B": "trece printre autobuz și autoturismul roșu, deoarece se deplasează înainte;",
+      "C": "semnalizează autobuzul să elibereze banda."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1220.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Când semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.\n---\nÎn cazul imobilizării involuntare a autovehiculului, tractorului agricol sau forestier în pantă sau în rampă, pe lângă obligațiile prevăzute la alin. (1) conducătorul trebuie să bracheze roțile directoare.\n---\nÎn situațiile prevăzute la alin. (5), conducătorul de autovehicule, tractoare agricole sau forestiere și tramvaie trebuie să pună în funcțiune luminile de avarie, în mod succesiv, în ordinea opririi și în cazul în care această manevră este imposibilă de blocarea circulației pe sensul de mers.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eda",
+    "text": "Depăşirea vehiculelor pe drumurile publice este interzisă:",
+    "optiuni": {
+      "A": "pe porţiunile de drum unde oprirea este interzisă;",
+      "B": "în intersecţiile cu circulaţie nedirijată;",
+      "C": "pe drumurile publice cu o singură bandă pe sens."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Este interzisă circulația pe drumurile publice a vehiculor care nu corespund din punct de vedere tehnic, a celor neasigurate obligatoriu de răspundere civilă auto pentru prejudicii produse terților prin accidente de circulație, a celor pentru care a intervenit suspendarea înmatriculării, precum și a vehiculelor înregistrate al căror termen de valabilitate a inspecției tehnice periodice a expirat ori este anulată.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nEste interzisă circulația autovehiculelor cu mase și/sau gabarite depășite:\na) pe sectoarele de drum unde sunt instalate indicatoare de interzicere, restricție sau limitare a accesului acestora, dacă vehiculul sau ansamblul de vehicule atinge ori depășește lățimea, înălțimea, lungimea sau masele pe axe ori masa totală maximă admisă;\nb) când vizibilitatea este redusă sau partea carosabilă este acoperită cu polei, gheață sau zăpadă.\n---\nDe asemenea, pe autostrăzi sau pe drumurile expres sunt interzise învățarea conducerii unui vehicul, încercările prototipurilor de șasiuri și de autovehicule, manifestațiile, defilările, caravanele publicitare, antrenamentele și competițiile sportive de orice fel, precum și cortegiile.\n---\nSe interzice mersul înapoi cu vehiculul:\na) în cazurile prevăzute la art. 126, cu excepția art. 126, lit. d);\nb) pe o distanță mai mare de 50 m;\nc) la ieșirea de pe proprietăți alăturate drumurilor publice.\n---\nSe interzice conducătorilor de vehicule să adopte un comportament agresiv în conducerea acestora pe drumurile publice. Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul, a uneia dintre următoarele manevre: \na) deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens; \nb) întoarcerea vehiculului prin folosirea frânei de ajutor; \nc) pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare; \nd) circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia; \ne) folosirea repetată a semnalelor sonore și/sau luminoase fără a obliga nejustificat conducătorul de vehicul care circulă în față sa să elibereze banda de circulație; \nf) conducerea mopedului sau motocicletei având ambele roți ale vehiculului ridicate de pe partea carosabilă numai pe una dintre roți; \ng) mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic sau pentru crearea unei situații de blocaj; \nh) realizarea intenționată a unui derapaj controlat al vehiculului prin rotirea acestuia sau a roților acestuia; \ni) conducerea intenționată a vehiculului în mod repetat înainte și înapoi pe o distanță scurtă, prin mișcări înapoi și înainte succesive pe aceeași bandă sau în zona drumului public.\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nEste interzisă traversarea drumului public prin fața ori spatele unui vehicul oprit, fără asigurare prealabilă.\n---\nÎn circulația pe drumurile publice se interzice deținerea la vedere, montarea și folosirea mijloacelor speciale de avertizare sonoră și luminoasă pe și în alte autovehicule decât cele prevăzute la art. 32 alin. (2), precum și deținerea, montarea sau folosirea pe autovehicule a sistemelor care perturbă buna funcționare a dispozitivelor de supraveghere a traficului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0edb",
+    "text": "În care dintre situații nu este permisă mărirea vitezei de deplasare a autovehiculului / tractorului agricol sau forestier?",
+    "optiuni": {
+      "A": "când un alt vehicul s-a angajat în depășire;",
+      "B": "în zona de acțiune a indicatorului „Viteză recomandată“;",
+      "C": "când acesta circulă pe prima bandă, iar pe cea de lângă axul drumului se deplasează alte autovehicule, cu viteze superioare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Nu este permisă oprirea sau staționarea în tuneluri. În situații de urgență sau de pericol conducătorului de autovehicul îi este permisă oprirea sau staționarea numai în locurile special amenajate și semnalizate corespunzător. În caz de imobilizare prelungită a autovehiculului în tunel, conducătorul de vehicul este obligat să oprească motorul.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0edc",
+    "text": "Este corectă depăşirea autocamionului din imagine?",
+    "optiuni": {
+      "A": "da, deoarece din sens opus nu se apropie alt vehicul;",
+      "B": "nu, pentru că depăşirea s-ar face într-o curbă cu vizibilitate redusă sub 50 m;",
+      "C": "nu, pentru că linia continuă interzice acest lucru."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1296.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0edd",
+    "text": "Conduceţi autoturismul albastru. V-aţi angajat corect în depăşirea motocicletei?",
+    "optiuni": {
+      "A": "da, deoarece din sens opus nu circulă niciun vehicul;",
+      "B": "da, deoarece motocicleta nu trece peste axul drumului;",
+      "C": "nu, deoarece motocicleta depăşeşte autocamionul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1297.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ede",
+    "text": "Este interzisă depășirea:",
+    "optiuni": {
+      "A": "tuturor vehiculelor, la 100 m de trecerile la nivel cu calea ferată curentă;",
+      "B": "vehiculelor cu tracțiune animală, motocicletelor fără ataș, mopedelor și bicicletelor, dacă vizibilitatea asupra drumului este asigurată pe o distanță mai mare de 20 m, iar lățimea drumului este de cel puțin 7 m;",
+      "C": "în intersecțiile cu circulație nedirijată."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Este interzisă săvârșirea de gesturi obscene, injurii sau alte manifestări vulgare în trafic.\n---\nEste interzisă circulația autovehiculelor cu mase și/sau gabarite depășite:\na) pe sectoarele de drum unde sunt instalate indicatoare de interzicere, restricție sau limitare a accesului acestora, dacă vehiculul sau ansamblul de vehicule atinge ori depășește lățimea, înălțimea, lungimea sau masele pe axe ori masa totală maximă admisă;\nb) când vizibilitatea este redusă sau partea carosabilă este acoperită cu polei, gheață sau zăpadă.\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nEste interzisă utilizarea nejustificată a luminii interioare, a luminilor decorative ori a sistemelor de iluminare neomologate.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0edf",
+    "text": "Puteţi depăşi mai multe vehicule în situaţia de faţă?",
+    "optiuni": {
+      "A": "da;",
+      "B": "nu;",
+      "C": "numai dacă sunt peste două benzi de circulaţie."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1377.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ee0",
+    "text": "Puteţi depăşi în această situaţie?",
+    "optiuni": {
+      "A": "nu, deoarece vă aflaţi în zona unei treceri la nivel cu calea ferată;",
+      "B": "nu, deoarece vă aflaţi la mai puţin de 150 m de calea ferată;",
+      "C": "da, este regulamentar."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1391.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere la nivel cu cale ferată cu bariere sau semibariere: Se amplaseaza la 50 m (in localitate)/ 150 m (in afara localitatilor) inainte de trecerea la nivel cu o cale ferata cu bariere sau semibariere. Conducatorul auto este obligat sa reduca viteza la intalnirea acestui indicator (la mai putin de 50 m). In localitate, amplasarea indicatorului se va face pe acelasi stalp cu panoul suplimentar cu o dunga rosie oblica, iar in afara localitatii pe panoul suplimentar cu trei dungi rosii oblice.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ee1",
+    "text": "Ce trebuie să facă un conducător de vehicul pentru ca depășirea să fie considerată regulamentară?",
+    "optiuni": {
+      "A": "să se asigure că manevra poate fi executată în condiții de siguranță, după care să semnalizeze intenția de schimbare a poziției de mers și să efectueze depășirea;",
+      "B": "să semnalizeze din timp intenția de schimbare a direcției de mers;",
+      "C": "să mărească viteza de deplasare, astfel încât să scurteze timpul de realizare a depășirii."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Atunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.\n---\nÎncărcătura unui vehicul trebuie să fie așezată și, la nevoie, fixată astfel încât: a) să nu pună în pericol persoane ori să nu cauzeze daune proprietății publice sau private; b) să nu stânjenească vizibilitatea conducătorului și să nu pericliteze stabilitatea ori conducerea vehiculului; c) să nu fie târâtă, să nu se scurgă și să nu cadă pe drum; d) să nu mascheze dispozitivele de semnalizare, catadioptrii și plăcuțele cu numărul de înmatriculare sau de înregistrare ori provizoriu, iar în cazul vehiculelor fără motor, semnalele făcute cu brațele de conducătorul acestora; e) să nu provoace zgomot care să jeneze conducătorul, participanții la trafic ori să sperie animalele și să nu producă praf sau mirosuri pestilențiale.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nConducătorul de vehicul trebuie să respecte regimul legal de viteză și să o adapteze în funcție de condițiile de drum, astfel încât să poată efectua orice manevră în condiții de siguranță.\n---\nla întâlnirea unui ansamblu de vehicule cu un vehicul conducătorul acestuia din urmă trebuie să manevreze cu spatele;\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nConducătorul de vehicul este interzis să treacă sau să ocolească porțile de gabarit instalate înaintea căilor ferate electrificate, dacă înălțimea sau încărcătura vehiculului ating ori depășesc partea superioară a porții.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure că din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure ca din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ee2",
+    "text": "Un tramvai aflat în mers poate fi depășit de regulă:",
+    "optiuni": {
+      "A": "pe oricare parte",
+      "B": "pe partea stângă",
+      "C": "pe partea dreaptă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Tramvaiul aflat în mers poate fi depășit și pe partea stângă atunci când drumul este cu sens unic sau când între șina din dreapta și marginea trotuarului nu există spațiu suficient.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ee3",
+    "text": "Este corect să depăşeşti motocicleta din faţa ta?",
+    "optiuni": {
+      "A": "da",
+      "B": "nu, deoarece astfel vei depăşi axul drumului",
+      "C": "nu, deoarece nu respecţi semnificaţia indicatorului"
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1470.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Limitare de viteză: Este montat pe sectorul de drum unde viteza de circulatie a vehiculelor trebuie limitata. Zona de actiune incepe din dreptul indicatorului si se termina la intalnirea indicatorului \"Sfarsitul limitarii de viteza\" sau \"Sfarsitul tuturor restrictiilor\". Daca indicatorul este insotit si de un panou cu numele localitatii, atunci limita de viteza este valabila pentru intreaga localitate.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ee4",
+    "text": "Manevra de evitare, prin schimbarea direcţiei de mers, a unui obstacol aflat pe sensul dvs. de circulaţie, urmată de revenirea pe acelaşi sens, constituie:",
+    "optiuni": {
+      "A": "ocolire",
+      "B": "depăşire",
+      "C": "situaţie de urgenţă"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Depășirea este manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe același sens de circulație, prin schimbarea direcției de mers și ieșirea de pe banda de circulație sau din șirul de vehicule în care s-a aflat inițial.\n---\nNerespectarea regulilor privind manevra de întoarcere, mersul înapoi sau schimbarea benzii de circulație sau a direcției de mers, dacă prin aceasta s-a produs un accident din care a rezultat avarierea unui vehicul sau alte pagube materiale atrage 3 puncte de penalizare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ee5",
+    "text": "Pentru a depăşi aceşti biciclişti poţi trece peste linia continuă?",
+    "optiuni": {
+      "A": "da",
+      "B": "prin excepţie, nu se consideră depăşire în cazul bicicliştilor",
+      "C": "nu"
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1564.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Marcajul transversal constând dintr-o linie continuă, aplicată pe lățimea uneia sau mai multor benzi, indică linia înaintea căreia vehiculul trebuie oprit la întâlnirea indicatorului \"Oprire\". Același marcaj poate fi utilizat pentru a indica linia de oprire impusă printr-un semnal luminos, comandă a agenților de dirijare a circulației sau trecere la nivel cu calea ferată, tramvai sau trecere pentru pietoni. Înaintea marcajului se poate aplica inscripția \"Stop\".\n---\nPentru a conduce o bicicletă sau o trotinetă electrică pe drumurile publice, conducătorul acesteia trebuie să aibă vârsta de cel puțin 14 ani.\n---\nAtunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ee6",
+    "text": "Tramvaiele în mers se depășesc, de regulă:",
+    "optiuni": {
+      "A": "pe partea stângă;",
+      "B": "pe partea dreaptă;",
+      "C": "pe ambele părți."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Tramvaiul aflat în mers poate fi depășit și pe partea stângă atunci când drumul este cu sens unic sau când între șina din dreapta și marginea trotuarului nu există spațiu suficient.\n---\nDepășirea se efectuează numai pe partea stângă a vehiculului depășit. Tramvaiul sau vehiculul al cărui conducător a semnalizat intenția și s-a încadrat corespunzător părăsirii sensului de mers spre stânga se depășește prin partea dreaptă.\n---\nIndicatoarele se instalează, de regulă, pe partea dreaptă a sensului de mers. În cazul în care condițiile locale împiedică observarea din timp a indicatoarelor de către conducătorii cărora li se adresează, ele se pot instala ori repeta pe partea stângă, în zona mediană a drumului, pe un refugiu ori spațiu interzis circulației vehiculelor, deasupra părții carosabile sau de cealaltă parte a intersecției, în loc vizibil pentru toți participanții la trafic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ee7",
+    "text": "Întoarcerea vehiculului este interzisă:",
+    "optiuni": {
+      "A": "unde marcajul axial este discontinuu;",
+      "B": "în intersecțiile unde este necesară manevrarea înainte și înapoi;",
+      "C": "în zona de acțiune a indicatorului „Staționarea interzisă“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nEste interzisă deschiderea ușilor vehiculului sau tramvaiului în timpul mersului, ori pornirea cu acestea deschise.\n---\nConducătorul de vehicul este interzis să treacă sau să ocolească porțile de gabarit instalate înaintea căilor ferate electrificate, dacă înălțimea sau încărcătura vehiculului ating ori depășesc partea superioară a porții.\n---\nSe interzice întoarcerea vehiculului pe marcajul pietonal.\n---\nSe interzice întoarcerea vehiculului în locurile unde soliditatea drumului nu permite.\n---\nSe interzice întoarcerea vehiculului pe drumurile cu sens unic.\n---\nEste interzisă circulația autovehiculelor cu mase și/sau gabarite depășite:\na) pe sectoarele de drum unde sunt instalate indicatoare de interzicere, restricție sau limitare a accesului acestora, dacă vehiculul sau ansamblul de vehicule atinge ori depășește lățimea, înălțimea, lungimea sau masele pe axe ori masa totală maximă admisă;\nb) când vizibilitatea este redusă sau partea carosabilă este acoperită cu polei, gheață sau zăpadă.\n---\nEste interzis transportul în locuri exterioare închise ale vehiculului, cum ar fi portbagajul sau alte compartimente.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ee8",
+    "text": "Mersul înapoi este interzis:",
+    "optiuni": {
+      "A": "când vizibilitatea în spate nu este asigurată;",
+      "B": "nu există prevedere legală în acest sens;",
+      "C": "la mai puțin de 50 m de stațiile de autobuz și tramvai."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice mersul înapoi cu vehiculul:\na) în cazurile prevăzute la art. 126, cu excepția art. 126, lit. d);\nb) pe o distanță mai mare de 50 m;\nc) la ieșirea de pe proprietăți alăturate drumurilor publice.\n---\nSe interzice mersul înapoi cu vehiculul: b) pe o distanță mai mare de 50 m.\n---\nEste interzisă deschiderea ușilor vehiculului sau tramvaiului în timpul mersului, ori pornirea cu acestea deschise.\n---\nÎn locurile în care mersul înapoi este permis, dar vizibilitatea în spate este împiedicată, vehiculul poate fi manevrat înapoi numai atunci când conducătorul acestuia este dirijat de cel puțin o persoană aflată în afara vehiculului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ee9",
+    "text": "Când nu vă este permisă întoarcerea vehiculului?",
+    "optiuni": {
+      "A": "când lățimea drumului public este mai mică de 7 m;",
+      "B": "la urcarea pantelor;",
+      "C": "pe marcajul pietonal."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În locurile în care mersul înapoi este permis, dar vizibilitatea în spate este împiedicată, vehiculul poate fi manevrat înapoi numai atunci când conducătorul acestuia este dirijat de cel puțin o persoană aflată în afara vehiculului.\n---\nNu este permisă oprirea sau staționarea în tuneluri. În situații de urgență sau de pericol conducătorului de autovehicul îi este permisă oprirea sau staționarea numai în locurile special amenajate și semnalizate corespunzător. În caz de imobilizare prelungită a autovehiculului în tunel, conducătorul de vehicul este obligat să oprească motorul.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eea",
+    "text": "Remorcarea unui autoturism rămas în pană se face cu:",
+    "optiuni": {
+      "A": "o legătură flexibilă omologată, în lungime de 3-5 m, dacă mecanismul de direcţie şi sistemul de frânare nu sunt defecte;",
+      "B": "o bară rigidă, lungă de maximum 4 m;",
+      "C": "o bară metalică, însoţită de un lanţ de siguranţă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Dacă un autovehicul, tractor agricol sau forestier sau o remorcă a rămas în pană pe partea carosabilă a drumului și nu poate fi deplasat în afara acesteia, conducătorul vehiculului este obligat să pună în funcțiune luminile de avarie și să instaleze triunghiurile reflectorizante.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eeb",
+    "text": "Întoarcerea unui vehicul este interzisă:",
+    "optiuni": {
+      "A": "la o distanță mai mică de 50 m de stația de autobuz, troleibuz sau tramvai;",
+      "B": "în rampă, unde vizibilitatea este sub 50 m;",
+      "C": "pe străzile pe care circulația se desfășoară în ambele sensuri."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nPătrunderea unui vehicul într-o intersecție este interzisă dacă prin aceasta se produce blocarea intersecției.\n---\nEste interzisă conducerea unui vehicul care poluează fonic peste limitele stabilite prin lege.\n---\nEste interzisă circulația unui vehicul care are plăcuțele de înmatriculare deteriorate sau neconforme.\n---\nEste interzisă traversarea drumului public prin fața ori spatele unui vehicul oprit, fără asigurare prealabilă.\n---\nEste interzisă circulația cu un vehicul avariat mai mult de 30 de zile de la data producerii accidentului.\n---\nEste interzisă deschiderea ușilor vehiculului sau tramvaiului în timpul mersului, ori pornirea cu acestea deschise.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eec",
+    "text": "Mersul înapoi este interzis:",
+    "optiuni": {
+      "A": "la mai puțin de 100 m de trecerile la nivel cu calea ferată;",
+      "B": "la ieșirea din curți, garaje sau ganguri;",
+      "C": "pe străzile unde circulația se desfășoară într-un singur sens."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice mersul înapoi cu vehiculul:\na) în cazurile prevăzute la art. 126, cu excepția art. 126, lit. d);\nb) pe o distanță mai mare de 50 m;\nc) la ieșirea de pe proprietăți alăturate drumurilor publice.\n---\nSe interzice mersul înapoi cu vehiculul: b) pe o distanță mai mare de 50 m.\n---\nEste interzisă deschiderea ușilor vehiculului sau tramvaiului în timpul mersului, ori pornirea cu acestea deschise.\n---\nÎn locurile în care mersul înapoi este permis, dar vizibilitatea în spate este împiedicată, vehiculul poate fi manevrat înapoi numai atunci când conducătorul acestuia este dirijat de cel puțin o persoană aflată în afara vehiculului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eed",
+    "text": "Se interzice întoarcerea vehiculului:",
+    "optiuni": {
+      "A": "pe drumurile supuse restricțiilor de viteză;",
+      "B": "pe drumurile cu o singură bandă pe sens;",
+      "C": "în intersecțiile în care este interzis virajul la stânga."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nSe interzice întoarcerea vehiculului în locurile unde soliditatea drumului nu permite.\n---\nSe interzice întoarcerea vehiculului pe marcajul pietonal.\n---\nSe interzice întoarcerea vehiculului pe drumurile cu sens unic.\n---\nSe interzice conducătorului de autovehicul, tractor agricol sau forestier ori tramvai: 6. să deschidă ușile vehiculului sau tramvaiului în timpul mersului, să părăsească de pe loc cu ușile deschise.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nSe interzice mersul înapoi cu vehiculul:\na) în cazurile prevăzute la art. 126, cu excepția art. 126, lit. d);\nb) pe o distanță mai mare de 50 m;\nc) la ieșirea de pe proprietăți alăturate drumurilor publice.\n---\nSe interzice mersul înapoi cu vehiculul: b) pe o distanță mai mare de 50 m.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eee",
+    "text": "În care dintre situaţii este interzisă întoarcerea vehiculului?",
+    "optiuni": {
+      "A": "în locul în care este instalat indicatorul cu semnificaţia „Întoarcerea interzisă“;",
+      "B": "în locurile în care oprirea este interzisă, cu excepţia intersecţiilor;",
+      "C": "în zona de acţiune a indicatorului „Staţionarea interzisă“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nSe interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.\n---\nConducătorul vehiculului este direct răspunzător în situația în care persoane în vehicul nu este vizibilă cu ocazia dispunerii sau punerii în executare a măsurii tehnico-administrative.\n---\nRidicarea vehiculului reprezintă măsura tehnico-administrativă pe care polițistul rutier o poate dispune în una dintre situațiile prevăzute la art. 143, când vehiculul staționează necorespunzător pe partea carosabilă.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nCând semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eef",
+    "text": "Mersul înapoi este interzis:",
+    "optiuni": {
+      "A": "pe o distanţă mai mare de 50 m;",
+      "B": "legal, nu este prevăzută o anumită distanţă;",
+      "C": "pe o distanţă mai mare de 100 m."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice mersul înapoi cu vehiculul:\na) în cazurile prevăzute la art. 126, cu excepția art. 126, lit. d);\nb) pe o distanță mai mare de 50 m;\nc) la ieșirea de pe proprietăți alăturate drumurilor publice.\n---\nSe interzice mersul înapoi cu vehiculul: b) pe o distanță mai mare de 50 m.\n---\nEste interzisă deschiderea ușilor vehiculului sau tramvaiului în timpul mersului, ori pornirea cu acestea deschise.\n---\nÎn locurile în care mersul înapoi este permis, dar vizibilitatea în spate este împiedicată, vehiculul poate fi manevrat înapoi numai atunci când conducătorul acestuia este dirijat de cel puțin o persoană aflată în afara vehiculului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ef0",
+    "text": "Întoarcerea unui vehicul pe un drum presupune, înainte de efectuarea manevrei:",
+    "optiuni": {
+      "A": "semnalizarea și asigurarea din față, din spate și din lateral;",
+      "B": "oprirea și semnalizarea intenției de a întoarce;",
+      "C": "asigurarea și încadrarea pe banda de lângă axul drumului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Pot efectua cursurile practice de învățare a conducerii unui vehicul pe drumurile publice și persoanele care nu au încă vârsta minimă prevăzută de prezentul regulament pentru categoria sau subcategoria din care face parte vehiculul respectiv, dar nu cu mai mult de 3 luni înainte de împlinirea acesteia sau, dacă urmează cursurile unei instituții de învățământ preuniversitar cu profil auto, nu cu mai mult de 1 an înainte de împlinirea vârstei.\n---\nÎnainte de a urma cursurile practice de învățare a conducerii unui vehicul pe drumurile publice, solicitantul trebuie să facă dovada pregătirii teoretice, într-o unitate autorizată, în vederea obținerii permisului de conducere.\n---\nSe interzice conducătorilor de vehicule să adopte un comportament agresiv în conducerea acestora pe drumurile publice. Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul, a uneia dintre următoarele manevre: \na) deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens; \nb) întoarcerea vehiculului prin folosirea frânei de ajutor; \nc) pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare; \nd) circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia; \ne) folosirea repetată a semnalelor sonore și/sau luminoase fără a obliga nejustificat conducătorul de vehicul care circulă în față sa să elibereze banda de circulație; \nf) conducerea mopedului sau motocicletei având ambele roți ale vehiculului ridicate de pe partea carosabilă numai pe una dintre roți; \ng) mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic sau pentru crearea unei situații de blocaj; \nh) realizarea intenționată a unui derapaj controlat al vehiculului prin rotirea acestuia sau a roților acestuia; \ni) conducerea intenționată a vehiculului în mod repetat înainte și înapoi pe o distanță scurtă, prin mișcări înapoi și înainte succesive pe aceeași bandă sau în zona drumului public.\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ef1",
+    "text": "În care dintre situaţiile de mai jos este interzisă întoarcerea?",
+    "optiuni": {
+      "A": "în curbele cu vizibilitatea redusă sub 50 m;",
+      "B": "la întâlnirea indicatorului „Drum cu prioritate“;",
+      "C": "la întâlnirea indicatorului „Drum îngustat“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nSe interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ef2",
+    "text": "Întoarcerea unui vehicul este interzisă:",
+    "optiuni": {
+      "A": "la o distanță mai mică de 100 m de stațiile de autobuz, troleibuz sau tramvai;",
+      "B": "pe drumurile pe care o bandă de circulație este ocupată de linia de tramvai;",
+      "C": "la mai puțin de 50 m de trecerea la nivel cu o cale ferată curentă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nPătrunderea unui vehicul într-o intersecție este interzisă dacă prin aceasta se produce blocarea intersecției.\n---\nEste interzisă conducerea unui vehicul care poluează fonic peste limitele stabilite prin lege.\n---\nEste interzisă circulația unui vehicul care are plăcuțele de înmatriculare deteriorate sau neconforme.\n---\nEste interzisă traversarea drumului public prin fața ori spatele unui vehicul oprit, fără asigurare prealabilă.\n---\nEste interzisă circulația cu un vehicul avariat mai mult de 30 de zile de la data producerii accidentului.\n---\nEste interzisă deschiderea ușilor vehiculului sau tramvaiului în timpul mersului, ori pornirea cu acestea deschise.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ef3",
+    "text": "Întoarcerea este interzisă:",
+    "optiuni": {
+      "A": "în rampă, dacă vizibilitatea este sub 50 m;",
+      "B": "în dreptul unui garaj;",
+      "C": "la trecerile pentru pietoni."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nEste interzisă utilizarea nejustificată a luminii interioare, a luminilor decorative ori a sistemelor de iluminare neomologate.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ef4",
+    "text": "Pe străzile cu sens unic este interzis:",
+    "optiuni": {
+      "A": "să întoarceți autovehiculul;",
+      "B": "să virați la stânga sau la dreapta;",
+      "C": "să manevrați înapoi autovehiculul."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului pe drumurile cu sens unic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ef5",
+    "text": "La întâlnirea cărui indicator este permisă întoarcerea vehiculului?",
+    "optiuni": {
+      "A": "„Sens unic“;",
+      "B": "„Înainte“;",
+      "C": "„Staționarea interzisă“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ef6",
+    "text": "Care este traseul optim pentru a întoarce în intersecția prezentată?",
+    "optiuni": {
+      "A": "traseul 1;",
+      "B": "traseul 2;",
+      "C": "traseul 3."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/946.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ef7",
+    "text": "La întâlnirea unui vehicul greu cu unul ușor, pe un drum public îngust, pentru a face posibilă trecerea va manevra cu spatele:",
+    "optiuni": {
+      "A": "vehiculul ușor;",
+      "B": "vehiculul greu;",
+      "C": "la libera înțelegere."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "la întâlnirea unui vehicul greu cu un vehicul ușor, conducătorul acestuia din urmă trebuie să manevreze cu spatele;",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ef8",
+    "text": "În ce situație este interzisă întoarcerea?",
+    "optiuni": {
+      "A": "în apropierea stațiilor de tramvai;",
+      "B": "când vizibilitatea este redusă sub 100 m;",
+      "C": "în locurile unde soliditatea drumului nu permite."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ef9",
+    "text": "La întâlnirea unui vehicul cu un ansamblu de vehicule, pe un drum public îngust, unde trecerea din sensuri opuse este imposibilă sau periculoasă, va manevra cu spatele:",
+    "optiuni": {
+      "A": "ansamblul de vehicule;",
+      "B": "vehiculul;",
+      "C": "la libera înțelegere."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "la întâlnirea unui ansamblu de vehicule cu un vehicul conducătorul acestuia din urmă trebuie să manevreze cu spatele;\n---\nÎn circulația pe drumurile publice, autovehiculul sau ansamblul de vehicule care, cu sau fără încărcătură, are o lățime între 3,2 m și 4,5 m inclusiv sau cu lungime mai mare de 25 m trebuie să fie precedat de un autovehicul de însoțire, iar cel cu lățimea mai mare de 4,5 m sau lungimea mai mare de 30 m trebuie să fie însoțit de două autovehicule care să circule unul în față și celălalt în spate.\n---\nla întâlnirea unui vehicul care efectuează transport public de persoane cu un vehicul de transport mărfuri conducătorul acestuia din urmă trebuie să manevreze cu spatele.\n---\nla întâlnirea unui vehicul greu cu un vehicul ușor, conducătorul acestuia din urmă trebuie să manevreze cu spatele;",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0efa",
+    "text": "Întoarcerea este interzisă:",
+    "optiuni": {
+      "A": "pe drumurile cu circulaţie intensă;",
+      "B": "când există riscul ca marginea drumului să cedeze, respectiv soliditatea drumului nu permite;",
+      "C": "pe poduri."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nEste interzisă utilizarea nejustificată a luminii interioare, a luminilor decorative ori a sistemelor de iluminare neomologate.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0efb",
+    "text": "Întoarcerea este interzisă:",
+    "optiuni": {
+      "A": "pe poduri și sub poduri;",
+      "B": "pe drumurile naționale;",
+      "C": "la mai puțin de 50 m de intrarea în sediile instituțiilor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nEste interzisă utilizarea nejustificată a luminii interioare, a luminilor decorative ori a sistemelor de iluminare neomologate.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0efc",
+    "text": "Întoarcerea este interzisă:",
+    "optiuni": {
+      "A": "pe străzile cu sens unic;",
+      "B": "în intersecții și la mai puțin de 50 m de cel mai apropiat colț al intersecției;",
+      "C": "la mai puțin de 100 m de o trecere la nivel cu calea ferată."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nEste interzisă utilizarea nejustificată a luminii interioare, a luminilor decorative ori a sistemelor de iluminare neomologate.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0efd",
+    "text": "Se interzice întoarcerea vehiculului:",
+    "optiuni": {
+      "A": "pe marcajul pietonal;",
+      "B": "la o distanță mai mică de 50 m de marcajul pietonal;",
+      "C": "în intersecții, inclusiv în cele cu circulație în sens giratoriu."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nSe interzice întoarcerea vehiculului în locurile unde soliditatea drumului nu permite.\n---\nSe interzice întoarcerea vehiculului pe marcajul pietonal.\n---\nSe interzice întoarcerea vehiculului pe drumurile cu sens unic.\n---\nSe interzice conducătorului de autovehicul, tractor agricol sau forestier ori tramvai: 6. să deschidă ușile vehiculului sau tramvaiului în timpul mersului, să părăsească de pe loc cu ușile deschise.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nSe interzice mersul înapoi cu vehiculul:\na) în cazurile prevăzute la art. 126, cu excepția art. 126, lit. d);\nb) pe o distanță mai mare de 50 m;\nc) la ieșirea de pe proprietăți alăturate drumurilor publice.\n---\nSe interzice mersul înapoi cu vehiculul: b) pe o distanță mai mare de 50 m.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0efe",
+    "text": "Cum vă asigurați că nu există niciun pericol atunci când manevrați vehiculul înapoi?",
+    "optiuni": {
+      "A": "aprindeți lanterna de ceață din spate;",
+      "B": "claxonați înainte de a pleca;",
+      "C": "vă asigurați din față, din spate și din lateral."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În locurile în care mersul înapoi este permis, dar vizibilitatea în spate este împiedicată, vehiculul poate fi manevrat înapoi numai atunci când conducătorul acestuia este dirijat de cel puțin o persoană aflată în afara vehiculului.\n---\nAtunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.\n---\nPentru a putea întoarce vehiculul de pe un sens de mers pe celălalt prin manevrare înainte și înapoi sau prin viraj, conducătorul acestuia este obligat să semnalizeze și să se asigure că din față, din spate sau din lateral nu circulă în acel moment niciun vehicul.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eff",
+    "text": "Întoarcerea autovehiculului este interzisă:",
+    "optiuni": {
+      "A": "pe drumurile cu sens unic",
+      "B": "în locurile în care soliditatea drumului nu permite",
+      "C": "pe marcajul pietonal"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este instalat indicatorul „întoarcerea interzisă”.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nEste interzisă circulația autovehiculelor cu mase și/sau gabarite depășite:\na) pe sectoarele de drum unde sunt instalate indicatoare de interzicere, restricție sau limitare a accesului acestora, dacă vehiculul sau ansamblul de vehicule atinge ori depășește lățimea, înălțimea, lungimea sau masele pe axe ori masa totală maximă admisă;\nb) când vizibilitatea este redusă sau partea carosabilă este acoperită cu polei, gheață sau zăpadă.\n---\nEste interzis transportul de persoane în stare de ebrietate pe autovehicule din categoria AM, A1, A2 și A, sau în cabina ori caroseria autovehiculului destinat transportului de mărfuri.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f00",
+    "text": "Este permis virajul la stânga în acest loc?",
+    "optiuni": {
+      "A": "da, deoarece te-ai încadrat corespunzător",
+      "B": "da, după acordarea priorităţii de trecere",
+      "C": "nu, deoarece este interzisă trecerea peste marcajul dintre cele două scuaruri"
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1484.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Schimbarea direcției de mers prin virare la dreapta sau la stânga este interzisă în locurile unde sunt instalate indicatoare cu această semnificație.\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.\n---\nÎn locurile în care mersul înapoi este permis, dar vizibilitatea în spate este împiedicată, vehiculul poate fi manevrat înapoi numai atunci când conducătorul acestuia este dirijat de cel puțin o persoană aflată în afara vehiculului.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f01",
+    "text": "Autoturismul alb execută manevra de întoarcere. Cum vei proceda corect?",
+    "optiuni": {
+      "A": "reduci viteza şi te apropii cât mai mult de acesta",
+      "B": "opreşti şi aştepţi degajarea traficului",
+      "C": "execuţi depăşirea acestuia"
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1504.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care execută o manevră de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că poate face această manevră fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nConducătorul de vehicul care executa o manevra de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că o poate face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nNerespectarea regulilor privind manevra de întoarcere, mersul înapoi sau schimbarea benzii de circulație sau a direcției de mers, dacă prin aceasta s-a produs un accident din care a rezultat avarierea unui vehicul sau alte pagube materiale atrage 3 puncte de penalizare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f02",
+    "text": "Prin comportament agresiv se înțelege:",
+    "optiuni": {
+      "A": "circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia;",
+      "B": "pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare;",
+      "C": "nerespectarea semnificației indicatoarelor și marcajelor de obligare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Se interzice conducătorilor de vehicule să adopte un comportament agresiv în conducerea acestora pe drumurile publice. Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul, a uneia dintre următoarele manevre: \na) deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens; \nb) întoarcerea vehiculului prin folosirea frânei de ajutor; \nc) pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare; \nd) circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia; \ne) folosirea repetată a semnalelor sonore și/sau luminoase fără a obliga nejustificat conducătorul de vehicul care circulă în față sa să elibereze banda de circulație; \nf) conducerea mopedului sau motocicletei având ambele roți ale vehiculului ridicate de pe partea carosabilă numai pe una dintre roți; \ng) mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic sau pentru crearea unei situații de blocaj; \nh) realizarea intenționată a unui derapaj controlat al vehiculului prin rotirea acestuia sau a roților acestuia; \ni) conducerea intenționată a vehiculului în mod repetat înainte și înapoi pe o distanță scurtă, prin mișcări înapoi și înainte succesive pe aceeași bandă sau în zona drumului public.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f03",
+    "text": "Care dintre următoarele manevre, efectuate pe drumul public de către conducătorul de vehicul, sunt considerate a fi comportament agresiv?",
+    "optiuni": {
+      "A": "deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens;",
+      "B": "depășirea pe partea dreaptă a vehiculului care a semnalizat intenția și s-a încadrat corespunzător părăsirii sensului de mers spre stânga;",
+      "C": "realizarea intenționată a unui derapaj controlat al vehiculului în vederea întoarcerii sau rotirii acestuia."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "C"
+    ],
+    "paragrafe_context": "Se interzice conducătorilor de vehicule să adopte un comportament agresiv în conducerea acestora pe drumurile publice. Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul, a uneia dintre următoarele manevre: \na) deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens; \nb) întoarcerea vehiculului prin folosirea frânei de ajutor; \nc) pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare; \nd) circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia; \ne) folosirea repetată a semnalelor sonore și/sau luminoase fără a obliga nejustificat conducătorul de vehicul care circulă în față sa să elibereze banda de circulație; \nf) conducerea mopedului sau motocicletei având ambele roți ale vehiculului ridicate de pe partea carosabilă numai pe una dintre roți; \ng) mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic sau pentru crearea unei situații de blocaj; \nh) realizarea intenționată a unui derapaj controlat al vehiculului prin rotirea acestuia sau a roților acestuia; \ni) conducerea intenționată a vehiculului în mod repetat înainte și înapoi pe o distanță scurtă, prin mișcări înapoi și înainte succesive pe aceeași bandă sau în zona drumului public.\n---\nla întâlnirea unui vehicul care efectuează transport public de persoane cu un vehicul de transport mărfuri conducătorul acestuia din urmă trebuie să manevreze cu spatele.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f04",
+    "text": "Care dintre cele enumerate mai jos sunt considerate a fi comportament agresiv?",
+    "optiuni": {
+      "A": "nerespectarea obligației de semnalizare a manevrei de schimbare a direcției de mers;",
+      "B": "conducerea intenționată a unui vehicul prin accelerarea repetată a motorului, de natură a stânjeni persoanele aflate în zona drumului public;",
+      "C": "folosirea repetată a semnalelor sonore și/sau luminoase de natură a obliga nejustificat conducătorul de vehicul care circulă în fața sa să elibereze banda de circulație."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f05",
+    "text": "Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul:",
+    "optiuni": {
+      "A": "a manevrei de mers cu spatele în scopul intimidării celorlalți participanți la trafic care circulă în spatele acestuia;",
+      "B": "a manevrei de mers înapoi pe o distanță mai mare de 50 de metri;",
+      "C": "a manevrei de întoarcere a vehiculului prin folosirea frânei de ajutor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "C"
+    ],
+    "paragrafe_context": "Se interzice conducătorilor de vehicule să adopte un comportament agresiv în conducerea acestora pe drumurile publice. Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul, a uneia dintre următoarele manevre: \na) deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens; \nb) întoarcerea vehiculului prin folosirea frânei de ajutor; \nc) pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare; \nd) circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia; \ne) folosirea repetată a semnalelor sonore și/sau luminoase fără a obliga nejustificat conducătorul de vehicul care circulă în față sa să elibereze banda de circulație; \nf) conducerea mopedului sau motocicletei având ambele roți ale vehiculului ridicate de pe partea carosabilă numai pe una dintre roți; \ng) mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic sau pentru crearea unei situații de blocaj; \nh) realizarea intenționată a unui derapaj controlat al vehiculului prin rotirea acestuia sau a roților acestuia; \ni) conducerea intenționată a vehiculului în mod repetat înainte și înapoi pe o distanță scurtă, prin mișcări înapoi și înainte succesive pe aceeași bandă sau în zona drumului public.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f06",
+    "text": "Prin comportament agresiv al conducătorului auto pe drumurile publice se înțelege efectuarea uneia dintre următoarele manevre:",
+    "optiuni": {
+      "A": "Conducerea vehiculului sub limita legală de viteză;",
+      "B": "Folosirea repetată a semnalelor sonore și/sau luminoase de natură a obliga în mod nejustificat conducătorul de vehicul care circulă în fața sa, să elibereze banda de circulație;",
+      "C": "Conducătorul mopedului sau motocicletei având în contact cu partea carosabilă numai una dintre roți."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Se interzice conducătorilor de vehicule să adopte un comportament agresiv în conducerea acestora pe drumurile publice. Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul, a uneia dintre următoarele manevre: \na) deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens; \nb) întoarcerea vehiculului prin folosirea frânei de ajutor; \nc) pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare; \nd) circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia; \ne) folosirea repetată a semnalelor sonore și/sau luminoase fără a obliga nejustificat conducătorul de vehicul care circulă în față sa să elibereze banda de circulație; \nf) conducerea mopedului sau motocicletei având ambele roți ale vehiculului ridicate de pe partea carosabilă numai pe una dintre roți; \ng) mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic sau pentru crearea unei situații de blocaj; \nh) realizarea intenționată a unui derapaj controlat al vehiculului prin rotirea acestuia sau a roților acestuia; \ni) conducerea intenționată a vehiculului în mod repetat înainte și înapoi pe o distanță scurtă, prin mișcări înapoi și înainte succesive pe aceeași bandă sau în zona drumului public.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f07",
+    "text": "Prin comportament agresiv al conducătorului auto pe drumurile publice se înțelege efectuarea uneia dintre următoarele manevre:",
+    "optiuni": {
+      "A": "Conducerea mopedului sau motocicletei fără a purta cască de protecție;",
+      "B": "Mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic care circulă în spatele acestuia;",
+      "C": "Realizarea intenționată a unui derapaj controlat al vehiculului în vederea întoarcerii sau rotirii acestuia."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Se interzice conducătorilor de vehicule să adopte un comportament agresiv în conducerea acestora pe drumurile publice. Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul, a uneia dintre următoarele manevre: \na) deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens; \nb) întoarcerea vehiculului prin folosirea frânei de ajutor; \nc) pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare; \nd) circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia; \ne) folosirea repetată a semnalelor sonore și/sau luminoase fără a obliga nejustificat conducătorul de vehicul care circulă în față sa să elibereze banda de circulație; \nf) conducerea mopedului sau motocicletei având ambele roți ale vehiculului ridicate de pe partea carosabilă numai pe una dintre roți; \ng) mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic sau pentru crearea unei situații de blocaj; \nh) realizarea intenționată a unui derapaj controlat al vehiculului prin rotirea acestuia sau a roților acestuia; \ni) conducerea intenționată a vehiculului în mod repetat înainte și înapoi pe o distanță scurtă, prin mișcări înapoi și înainte succesive pe aceeași bandă sau în zona drumului public.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f08",
+    "text": "Când este permisă trecerea la nivel cu o cale ferată fără bariere, prevăzută cu semnalizare luminoasă, dacă tocmai a trecut un tren?",
+    "optiuni": {
+      "A": "după ce s-a stins lumina roșie intermitentă;",
+      "B": "după ce a trecut ultimul vagon;",
+      "C": "atunci când pleacă vehiculele aflate de cealaltă parte a căii ferate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Când circulația la trecerea la nivel cu calea ferată curentă este dirijată de agenți de cale ferată, conducătorul de vehicul trebuie să respecte semnalele acestora.\n---\nLa trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.\n---\nLa trecerea la nivel cu calea ferată curentă prevăzută cu instalații de semnalizare automată fără bariere, interzicerea circulației rutiere se realizează, optic, prin funcționarea dispozitivelor cu lumini intermitent-alternative roșii și stingerea semnalizării de control reprezentate de lumină intermitentă albă și, acustic, prin emiterea de semnale sonore intermitente.\n---\nNerespectarea semnificației indicatorului 'Trecere la nivel cu o cale ferată simplă, fără bariere; Trecere la nivel cu o cale ferată dublă, fără bariere sau Oprire', instalate la trecerea la nivel cu o cale ferată atrage 6 puncte de penalizare.\n---\nConducătorul de vehicul este obligat să oprească atunci când: a) barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare; b) semnalul cu lumini roșii și/sau semnalul sonor sunt în funcțiune; c) întâlnește indicatorul \"Trecerea la nivel cu calea ferată simplă, fără bariere\", \"Trecerea la nivel cu calea ferată dublă, fără bariere\" sau \"Oprire\".\n---\nTrecerea la nivel cu calea ferată curentă fără bariere sau semibariere se semnalizează, după caz, cu indicatoarele \"Trecere la nivel cu calea ferată simplă, fără bariere\" sau \"Trecere la nivel cu calea ferată dublă, fără bariere\", însoțite de indicatorul \"Oprire\".\n---\nApropierea de o trecere la nivel cu calea ferată se semnalizează cu indicatoare de avertizare corespunzătoare și/sau cu panouri suplimentare pentru trecerea la nivel cu calea ferată.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f09",
+    "text": "Ce obligații aveți la întâlnirea indicatorului?",
+    "optiuni": {
+      "A": "opriți autovehiculul, fără a depăși indicatorul, vă asigurați, apoi traversați;",
+      "B": "traversați calea ferată cu viteză redusă, după ce v-ați asigurat că nu se apropie trenul;",
+      "C": "nicio obligație; indicatorul nu vi se adresează."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/443.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f0a",
+    "text": "La întâlnirea indicatorului de avertizare în cruce, amplasat la trecerile la nivel cu calea ferată fără bariere, conducătorii de vehicule vor opri:",
+    "optiuni": {
+      "A": "cât mai aproape de calea ferată, dar nu mai puțin de 5 m de aceasta;",
+      "B": "în locul cu vizibilitate maximă, fără a depăși indicatorul;",
+      "C": "la cel mult 5 m de calea ferată."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Nerespectarea semnificației indicatorului 'Trecere la nivel cu o cale ferată simplă, fără bariere; Trecere la nivel cu o cale ferată dublă, fără bariere sau Oprire', instalate la trecerea la nivel cu o cale ferată atrage 6 puncte de penalizare.\n---\nApropierea de o trecere la nivel cu calea ferată se semnalizează cu indicatoare de avertizare corespunzătoare și/sau cu panouri suplimentare pentru trecerea la nivel cu calea ferată.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f0b",
+    "text": "Cum veți proceda corect dacă, la apropierea de o trecere la nivel cu calea ferată curentă fără bariere, luminile roșii și semnalele sonore sunt în funcțiune?",
+    "optiuni": {
+      "A": "reduceți viteza și opriți, dacă trenul se apropie;",
+      "B": "grăbiți trecerea, dacă observați că trenul nu se apropie;",
+      "C": "reduceți viteza și opriți, în locul în care există vizibilitate maximă asupra căii ferate, fără a trece de indicatoarele sau marcajul de oprire."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f0c",
+    "text": "Dacă vehiculul pe care îl conduceți rămâne imobilizat pe calea ferată, aveți următoarea obligație:",
+    "optiuni": {
+      "A": "să scoateți imediat pasagerii din vehicul și să eliberați platforma căii ferate sau, când nu este posibil, să semnalizați prezența vehiculului cu orice mijloc adecvat;",
+      "B": "să anunțați poliția;",
+      "C": "să porniți autovehiculul prin orice mijloace."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Participanții la trafic, care se găsesc în apropierea locului unde un vehicul a rămas imobilizat pe calea ferată, sunt obligați să acorde sprijin pentru scoaterea acestuia sau, când nu este posibil, pentru semnalizarea prezenței lui.\n---\nÎn cazul imobilizării unui vehicul pe calea ferată, conducătorul acestuia este obligat să scoată imediat pasagerii din vehicul și să elibereze platforma căii ferate, iar când nu este posibil, să semnalizeze prezența vehiculului cu orice mijloc adecvat.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f0d",
+    "text": "Apropiindu-vă de o trecere la nivel cu calea ferată, observați că se coboară bariera. Cum procedați?",
+    "optiuni": {
+      "A": "accelerați și treceți fără ezitare peste nivelul cu calea ferată;",
+      "B": "opriți în fața barierei;",
+      "C": "pentru a nu fi lovit de barieră, o ocoliți cu atenție prin stânga."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Apropierea de o trecere la nivel cu calea ferată se semnalizează cu indicatoare de avertizare corespunzătoare și/sau cu panouri suplimentare pentru trecerea la nivel cu calea ferată.\n---\nLa trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure că din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure ca din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nTrecerea la nivel cu calea ferată curentă fără bariere sau semibariere se semnalizează, după caz, cu indicatoarele \"Trecere la nivel cu calea ferată simplă, fără bariere\" sau \"Trecere la nivel cu calea ferată dublă, fără bariere\", însoțite de indicatorul \"Oprire\".\n---\nLa trecerea la nivel cu o cale ferată industrială, semnalizată corespunzător, conducătorii de vehicule sunt obligați să se conformeze semnificației semnalelor agentului de cale ferată.\n---\nNerespectarea semnificației indicatorului 'Trecere la nivel cu o cale ferată simplă, fără bariere; Trecere la nivel cu o cale ferată dublă, fără bariere sau Oprire', instalate la trecerea la nivel cu o cale ferată atrage 6 puncte de penalizare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f0e",
+    "text": "Cum procedați când urmează să traversați o trecere la nivel cu calea ferată simplă, fără bariere?",
+    "optiuni": {
+      "A": "opriți, fără a depăși indicatorul în cruce, vă angajați și traversați numai după ce v-ați asigurat că nu există niciun pericol;",
+      "B": "reduceți viteza, vă asigurați în stânga și în dreapta, după care traversați cu atenție;",
+      "C": "opriți sau, dacă nu e cazul, doar reduceți viteza, vă asigurați, traversați calea ferată, după care vă continuați drumul."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Trecerea la nivel cu calea ferată curentă fără bariere sau semibariere se semnalizează, după caz, cu indicatoarele \"Trecere la nivel cu calea ferată simplă, fără bariere\" sau \"Trecere la nivel cu calea ferată dublă, fără bariere\", însoțite de indicatorul \"Oprire\".\n---\nConducătorul de vehicul este obligat să oprească atunci când: a) barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare; b) semnalul cu lumini roșii și/sau semnalul sonor sunt în funcțiune; c) întâlnește indicatorul \"Trecerea la nivel cu calea ferată simplă, fără bariere\", \"Trecerea la nivel cu calea ferată dublă, fără bariere\" sau \"Oprire\".\n---\nCând semnalul de culoare verde începe să funcționeze intermitent înseamnă că timpul afectat traversării drumului este în curs de epuizare și urmează semnalul roșu. În acest caz pietonii angajați în traversarea drumului trebuie să grăbească trecerea, iar dacă drumul este prevăzut cu un refugiu sau spațiu interzis circulației vehiculelor, să aștepte pe acesta apariția semnalului de culoare verde.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f0f",
+    "text": "Ce obligații aveți la semnalele agenților căilor ferate, plasați la trecerea la nivel cu o cale ferată?",
+    "optiuni": {
+      "A": "nicio obligație, deoarece agenții căilor ferate dirijează garniturile de tren;",
+      "B": "să vă conformați semnificației semnalelor acestora;",
+      "C": "să reduceți viteza, să vă asigurați, iar, dacă trenul nu este în mișcare, puteți să continuați traversarea căii ferate cu atenție."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu o cale ferată industrială, semnalizată corespunzător, conducătorii de vehicule sunt obligați să se conformeze semnificației semnalelor agentului de cale ferată.\n---\nOprirea participanților la trafic este obligatorie și la semnalele date de:\n a) polițiștii de frontieră;\n b) îndrumătorii de circulație ai Ministerului Apărării;\n c) agenții de cale ferată, la trecerile la nivel;\n d) personalul autorizat din zona lucrărilor pe drumurile publice;\n e) membrii patrulelor școlare de circulație, la trecerile pentru pietoni din apropierea unităților de învățământ;\n f) nevăzători, prin ridicarea bastonului alb, atunci când aceștia traversează strada.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f10",
+    "text": "În care dintre situaţii sunteţi obligat să reduceţi viteza?",
+    "optiuni": {
+      "A": "la trecerea la nivel cu calea ferată curentă cu bariere;",
+      "B": "la trecerea la nivel cu calea ferată curentă fără bariere;",
+      "C": "la trecerea la nivel cu calea ferată curentă industrială."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Pe timpul nopții, la apropierea a două vehicule care circulă din sensuri opuse, conducătorii acestora sunt obligați ca de la o distanță de cel puțin 200 m să folosească luminile de întâlnire concomitent cu reducerea vitezei.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\n1) Conducătorii de vehicule sunt obligați să respecte viteza maximă admisă pe sectorul de drum pe care circulă și pentru categoria din care face parte vehiculul condus, precum și cea impusă prin mijloacele de semnalizare.\n2) Nerespectarea regimului de viteză stabilit conform legii se constată de către polițiștii rutieri, cu mijloace tehnice omologate și verificate metrologic.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f11",
+    "text": "Ce obligații aveți dacă luminile roșii se aprind și se sting alternativ?",
+    "optiuni": {
+      "A": "reduceți viteza și, după ce vă asigurați, vă continuați deplasarea;",
+      "B": "reduceți viteza și opriți numai în cazul în care se apropie un tren;",
+      "C": "opriți fără a depăși indicatorul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/874.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f12",
+    "text": "Cum procedează conducătorul de vehicul atunci când, apropiindu-se de o trecere la nivel cu calea ferată, prevăzută cu bariere ori semibariere, cele două lumini roșii funcționează intermitent-alternativ?",
+    "optiuni": {
+      "A": "continuă deplasarea, dacă barierele nu sunt coborâte;",
+      "B": "oprește, deoarece barierele sunt închise sau urmează să coboare;",
+      "C": "continuă deplasarea fără interdicție, deoarece luminile semnalizează doar prezența unei treceri la nivel cu calea ferată."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să oprească atunci când: a) barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare; b) semnalul cu lumini roșii și/sau semnalul sonor sunt în funcțiune; c) întâlnește indicatorul \"Trecerea la nivel cu calea ferată simplă, fără bariere\", \"Trecerea la nivel cu calea ferată dublă, fără bariere\" sau \"Oprire\".",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f13",
+    "text": "Ce obligații aveți în situația prezentată în imagine?",
+    "optiuni": {
+      "A": "să nu depășiți alte vehicule;",
+      "B": "să reduceți viteza;",
+      "C": "să opriți la 50 m de calea ferată."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1042.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Baliză direcțională care indică ocolirea obstacolului prin partea stângă: Avertizeaza conducatorul de vehicul ca obstacolul intalnit se va ocoli pe partea stanga.\n---\nIndicator Intersecție cu drum fără prioritate: Se instaleaza in afara localitatilor, pe drumurile cu prioritate, la 100-200 m de intersectia cu un drum fara prioritate si are rolul de a confirma prioritatea celui care intalneste acest indicator.\n---\nIndicator Circulație în ambele sensuri: Este intalnit la iesirea de pe un drum public cu sens unic. Are rolul de a atentiona conducatorul auto ca pe sectorul de drum urmator se va circula in ambele sensuri.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f14",
+    "text": "Cum trebuie să procedeze conducătorul unui vehicul la trecerea la nivel cu calea ferată, atunci când barierele sunt ridicate?",
+    "optiuni": {
+      "A": "să reducă viteza, fără a depăși linia continuă pentru oprire;",
+      "B": "să oprească vehiculul în locul unde vizibilitatea este maximă, fără a depăși indicatorul de prioritate în cruce;",
+      "C": "să reducă viteza vehiculului și să traverseze cu atenție, asigurându-se că din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "la întâlnirea unui vehicul greu cu un vehicul ușor, conducătorul acestuia din urmă trebuie să manevreze cu spatele;\n---\nla întâlnirea unui ansamblu de vehicule cu un vehicul conducătorul acestuia din urmă trebuie să manevreze cu spatele;\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure că din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure ca din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nConducătorul de vehicul este obligat să oprească atunci când: a) barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare; b) semnalul cu lumini roșii și/sau semnalul sonor sunt în funcțiune; c) întâlnește indicatorul \"Trecerea la nivel cu calea ferată simplă, fără bariere\", \"Trecerea la nivel cu calea ferată dublă, fără bariere\" sau \"Oprire\".\n---\nCând circulația la trecerea la nivel cu calea ferată curentă este dirijată de agenți de cale ferată, conducătorul de vehicul trebuie să respecte semnalele acestora.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f15",
+    "text": "La apropierea de o cale ferată industrială:",
+    "optiuni": {
+      "A": "conducătorii de vehicule vor da dovadă de prudență sporită;",
+      "B": "conducătorii de vehicule nu au nicio obligație;",
+      "C": "se va respecta semnificația semaforului electric."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu o cale ferată industrială, semnalizată corespunzător, conducătorii de vehicule sunt obligați să se conformeze semnificației semnalelor agentului de cale ferată.\n---\nParticipanții la trafic trebuie să dea dovadă de prudență sporită la apropierea și traversarea liniilor de cale ferată curentă sau industrială, după caz.\n---\nLa intersectarea unui drum public cu o cale ferată industrială, accesul vehiculelor feroviare se face numai după semnalizarea corespunzătoare și din timp de către cel puțin un agent de cale ferată.\n---\nLa trecerea la nivel cu o cale ferată industrială se instalează indicatorul \"Alte pericole\", însoțit de un panou adițional ce conține imaginea unei locomotive.\n---\nApropierea de o trecere la nivel cu calea ferată se semnalizează cu indicatoare de avertizare corespunzătoare și/sau cu panouri suplimentare pentru trecerea la nivel cu calea ferată.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f16",
+    "text": "Panoul adițional semnifică:",
+    "optiuni": {
+      "A": "o trecere la nivel cu calea ferată cu bariere, prevăzută cu instalație de semnalizare luminoasă automată;",
+      "B": "urmează un sector de drum îngustat;",
+      "C": "prioritate pentru circulația din sens invers."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1062.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Semnele adiționale se pot aplica pe panouri ce includ indicatoare ori chiar pe indicatoare, dacă înțelegerea semnificației acestora nu este afectată.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f17",
+    "text": "La calea ferată curentă prevăzută cu bariere, atunci când semnalele sonore și luminoase de culoare roșie sunt în funcțiune, sunteți avertizat că:",
+    "optiuni": {
+      "A": "instalația de închidere și deschidere a barierelor nu funcționează normal;",
+      "B": "trenul se apropie, urmând ca barierele să se închidă automat;",
+      "C": "trebuie să traversați de urgență calea ferată."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.\n---\nConducătorul de vehicul poate traversa calea ferată curentă prevăzută cu bariere sau semibariere, dacă acestea sunt ridicate și semnalele luminoase și sonore nu funcționează, iar semnalul cu lumină albă intermitentă cu cadență lentă este în funcțiune.\n---\nLa trecerea la nivel cu calea ferată curentă prevăzută cu instalații de semnalizare automată fără bariere, interzicerea circulației rutiere se realizează, optic, prin funcționarea dispozitivelor cu lumini intermitent-alternative roșii și stingerea semnalizării de control reprezentate de lumină intermitentă albă și, acustic, prin emiterea de semnale sonore intermitente.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f18",
+    "text": "Cum procedează conducătorul de vehicul când, la apropierea de o trecere la nivel cu calea ferată fără bariere, luminile roșii din dreptul indicatorului de atenție în cruce se aprind și se sting alternativ?",
+    "optiuni": {
+      "A": "reduce viteza și oprește numai în cazul apropierii trenului;",
+      "B": "oprește vehiculul fără a depăși indicatorul;",
+      "C": "reduce viteza și, după ce se asigură, își continuă deplasarea."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să oprească atunci când: a) barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare; b) semnalul cu lumini roșii și/sau semnalul sonor sunt în funcțiune; c) întâlnește indicatorul \"Trecerea la nivel cu calea ferată simplă, fără bariere\", \"Trecerea la nivel cu calea ferată dublă, fără bariere\" sau \"Oprire\".\n---\nCând circulația la trecerea la nivel cu calea ferată curentă este dirijată de agenți de cale ferată, conducătorul de vehicul trebuie să respecte semnalele acestora.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f19",
+    "text": "Dacă la trecerea la nivel cu calea ferată constatați că un vehicul este imobilizat pe calea ferată, cum veți proceda?",
+    "optiuni": {
+      "A": "vă continuați drumul, deoarece degajarea căii ferate se va face de către personalul calificat;",
+      "B": "opriți și anunțați telefonic poliția despre acest incident;",
+      "C": "acordați sprijin pentru scoaterea vehiculului de pe calea ferată sau, dacă nu este posibil, semnalați prezența acestuia."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure că din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure ca din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nLa trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.\n---\nCând circulația la trecerea la nivel cu calea ferată curentă este dirijată de agenți de cale ferată, conducătorul de vehicul trebuie să respecte semnalele acestora.\n---\nLa trecerea la nivel cu o cale ferată industrială, semnalizată corespunzător, conducătorii de vehicule sunt obligați să se conformeze semnificației semnalelor agentului de cale ferată.\n---\nApropierea de o trecere la nivel cu calea ferată se semnalizează cu indicatoare de avertizare corespunzătoare și/sau cu panouri suplimentare pentru trecerea la nivel cu calea ferată.\n---\nConducătorul de vehicul este obligat să oprească atunci când: a) barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare; b) semnalul cu lumini roșii și/sau semnalul sonor sunt în funcțiune; c) întâlnește indicatorul \"Trecerea la nivel cu calea ferată simplă, fără bariere\", \"Trecerea la nivel cu calea ferată dublă, fără bariere\" sau \"Oprire\".\n---\nTrecerea la nivel cu calea ferată curentă fără bariere sau semibariere se semnalizează, după caz, cu indicatoarele \"Trecere la nivel cu calea ferată simplă, fără bariere\" sau \"Trecere la nivel cu calea ferată dublă, fără bariere\", însoțite de indicatorul \"Oprire\".",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f1a",
+    "text": "Cum trebuie să procedați în situația dată?",
+    "optiuni": {
+      "A": "vă continuați deplasarea, deoarece cele două lumini roșii alternante indică permisiunea de a traversa calea ferată;",
+      "B": "opriți;",
+      "C": "vă continuați deplasarea dacă semibarierele nu sunt coborâte încă."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1110.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În situațiile prevăzute la alin. (5), conducătorul de autovehicule, tractoare agricole sau forestiere și tramvaie trebuie să pună în funcțiune luminile de avarie, în mod succesiv, în ordinea opririi și în cazul în care această manevră este imposibilă de blocarea circulației pe sensul de mers.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f1b",
+    "text": "Cum veți proceda corect dacă, la apropierea de o trecere la nivel cu o cale ferată prevăzută cu semibariere automate, semnalele sonore și luminile roșii sunt în funcțiune?",
+    "optiuni": {
+      "A": "reduceți viteza și opriți înaintea semibarierelor;",
+      "B": "ocoliți semibariera și vă continuați drumul, dacă trenul nu se apropie;",
+      "C": "măriți viteza pentru a nu fi surprinși de închiderea semibarierei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f1c",
+    "text": "Autocamionul s-a pus în mișcare. Cum este corect să procedați?",
+    "optiuni": {
+      "A": "traversați calea ferată cu viteză redusă;",
+      "B": "traversați imediat după autocamion;",
+      "C": "opriți în locul în care aveți vizibilitate maximă, fără a depăși indicatorul, vă asigurați și traversați."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1152.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f1d",
+    "text": "Unde opriți în situația prezentată?",
+    "optiuni": {
+      "A": "în locul cu vizibilitate maximă, fără a depăși indicatorul;",
+      "B": "la cel puțin 5 m;",
+      "C": "la cel puțin 10 m."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1187.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f1e",
+    "text": "Conducătorii de vehicule aflați la o trecere la nivel cu o cale ferată industrială trebuie:",
+    "optiuni": {
+      "A": "să sporească atenția;",
+      "B": "să respecte semnalele agentului de cale ferată;",
+      "C": "să se asigure și să oprească, dacă observă că se apropie vreun tren."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu o cale ferată industrială, semnalizată corespunzător, conducătorii de vehicule sunt obligați să se conformeze semnificației semnalelor agentului de cale ferată.\n---\nLa trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure că din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure ca din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nCând circulația la trecerea la nivel cu calea ferată curentă este dirijată de agenți de cale ferată, conducătorul de vehicul trebuie să respecte semnalele acestora.\n---\nApropierea de o trecere la nivel cu calea ferată se semnalizează cu indicatoare de avertizare corespunzătoare și/sau cu panouri suplimentare pentru trecerea la nivel cu calea ferată.\n---\nNerespectarea semnificației indicatorului 'Trecere la nivel cu o cale ferată simplă, fără bariere; Trecere la nivel cu o cale ferată dublă, fără bariere sau Oprire', instalate la trecerea la nivel cu o cale ferată atrage 6 puncte de penalizare.\n---\nConducătorul de vehicul este obligat să oprească atunci când: a) barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare; b) semnalul cu lumini roșii și/sau semnalul sonor sunt în funcțiune; c) întâlnește indicatorul \"Trecerea la nivel cu calea ferată simplă, fără bariere\", \"Trecerea la nivel cu calea ferată dublă, fără bariere\" sau \"Oprire\".\n---\nLa trecerea la nivel cu o cale ferată industrială se instalează indicatorul \"Alte pericole\", însoțit de un panou adițional ce conține imaginea unei locomotive.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f1f",
+    "text": "Cum trebuie să procedați în situația prezentată?",
+    "optiuni": {
+      "A": "reduceți viteza și opriți la limita de vizibilitate maximă;",
+      "B": "reduceți viteza și opriți în dreptul ultimului panou suplimentar;",
+      "C": "reduceți viteza și vă asigurați că puteți traversa fără niciun pericol."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1250.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În situațiile prevăzute la alin. (5), conducătorul de autovehicule, tractoare agricole sau forestiere și tramvaie trebuie să pună în funcțiune luminile de avarie, în mod succesiv, în ordinea opririi și în cazul în care această manevră este imposibilă de blocarea circulației pe sensul de mers.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f20",
+    "text": "Vă apropiați de o trecere peste calea ferată și observați că se coboară semibariera. Cum procedați?",
+    "optiuni": {
+      "A": "accelerați și treceți cât mai repede peste calea ferată;",
+      "B": "opriți în fața semibarierei;",
+      "C": "dacă nu se apropie trenul, ocoliți semibariera."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f21",
+    "text": "Unde trebuie să așteptați dacă vă aflați la o trecere de cale ferată cu bariera coborâtă?",
+    "optiuni": {
+      "A": "la panoul cu două dungi;",
+      "B": "în fața indicatorului în cruce;",
+      "C": "în fața barierei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f22",
+    "text": "Ce obligații aveți la trecerea la nivel cu calea ferată curentă prevăzută cu bariere, dacă acestea sunt ridicate?",
+    "optiuni": {
+      "A": "vă asigurați că nu sunteți depășit de alt vehicul și vă angajați în traversarea căii ferate;",
+      "B": "ziua dați semnale sonore, iar noaptea aprindeți faza de drum intermitentă, apoi traversați;",
+      "C": "reduceți viteza, vă asigurați că din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar, apoi vă angajați în traversare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.\n---\nLa trecerea la nivel cu calea ferată curentă prevăzută cu instalații de semnalizare automată fără bariere, interzicerea circulației rutiere se realizează, optic, prin funcționarea dispozitivelor cu lumini intermitent-alternative roșii și stingerea semnalizării de control reprezentate de lumină intermitentă albă și, acustic, prin emiterea de semnale sonore intermitente.\n---\nCând circulația la trecerea la nivel cu calea ferată curentă este dirijată de agenți de cale ferată, conducătorul de vehicul trebuie să respecte semnalele acestora.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure că din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure ca din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nLa trecerea la nivel cu o cale ferată industrială, semnalizată corespunzător, conducătorii de vehicule sunt obligați să se conformeze semnificației semnalelor agentului de cale ferată.\n---\nApropierea de o trecere la nivel cu calea ferată se semnalizează cu indicatoare de avertizare corespunzătoare și/sau cu panouri suplimentare pentru trecerea la nivel cu calea ferată.\n---\nConducătorul de vehicul este obligat să oprească atunci când: a) barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare; b) semnalul cu lumini roșii și/sau semnalul sonor sunt în funcțiune; c) întâlnește indicatorul \"Trecerea la nivel cu calea ferată simplă, fără bariere\", \"Trecerea la nivel cu calea ferată dublă, fără bariere\" sau \"Oprire\".",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f23",
+    "text": "Cum veți proceda corect la întâlnirea indicatoarelor „Oprire“ și „Trecere la nivel cu o cale ferată dublă fără bariere“?",
+    "optiuni": {
+      "A": "opriți și vă asigurați, la 1 m de calea ferată;",
+      "B": "reduceți viteza și traversați cu atenție linia ferată;",
+      "C": "opriți în locul în care există vizibilitate maximă asupra căii ferate, fără a depăși indicatoarele menționate sau marcajul pentru oprire."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f24",
+    "text": "Cum trebuie să procedați în situația dată, dacă semnalele luminoase și sonore nu funcționează?",
+    "optiuni": {
+      "A": "opriți fără a depăși calea ferată, vă asigurați și vă continuați deplasarea, dacă nu se apropie trenul;",
+      "B": "reduceți viteza și vă continuați deplasarea, după ce vă asigurați că nu se apropie trenul;",
+      "C": "opriți numai dacă se apropie trenul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1406.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Semnalele mijloacelor de avertizare luminoasă pot fi folosite și fără a fi însoțite de cele sonore, în funcție de natura misiunii ori de condițiile de trafic, situație în care autovehiculul respectiv nu are regim de circulație prioritară.\n---\nCând semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f25",
+    "text": "Interzicerea trecerii la nivel cu calea ferată curentă, prevăzută cu instalații de semnalizare automată fără bariere, se realizează prin:",
+    "optiuni": {
+      "A": "dispozitivele cu lumini intermitent-alternative roșii și stingerea semnalizării reprezentată de lumina intermitent albă;",
+      "B": "semnalele luminoase intermitente de culoare albă;",
+      "C": "dispozitivele optice cu lumini alternative roșii și albe."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu calea ferată curentă prevăzută cu instalații de semnalizare automată fără bariere, interzicerea circulației rutiere se realizează, optic, prin funcționarea dispozitivelor cu lumini intermitent-alternative roșii și stingerea semnalizării de control reprezentate de lumină intermitentă albă și, acustic, prin emiterea de semnale sonore intermitente.\n---\nLa trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.\n---\nCând circulația la trecerea la nivel cu calea ferată curentă este dirijată de agenți de cale ferată, conducătorul de vehicul trebuie să respecte semnalele acestora.\n---\nTrecerea la nivel cu calea ferată curentă fără bariere sau semibariere se semnalizează, după caz, cu indicatoarele \"Trecere la nivel cu calea ferată simplă, fără bariere\" sau \"Trecere la nivel cu calea ferată dublă, fără bariere\", însoțite de indicatorul \"Oprire\".\n---\nApropierea de o trecere la nivel cu calea ferată se semnalizează cu indicatoare de avertizare corespunzătoare și/sau cu panouri suplimentare pentru trecerea la nivel cu calea ferată.\n---\nSe interzice oprirea voluntară a vehiculor în următoarele situații: în zona de acțiune a indicatorului „Oprirea interzisă”; la trecerile la nivel cu calea ferată curentă și la o distanță mai mică de 50 m înainte și după acestea; pe poduri, pasaje denivelate, viaducte și sub acestea; în curbe și în alte locuri cu vizibilitate redusă sub 50 m; la trecerile pentru pietoni și la mai puțin de 25 m înainte și după acestea; în intersecții, inclusiv cele cu circulație în sens giratoriu, precum și în zona de preselecție unde sunt aplicate marcaje continue, iar în lipsa acestora, la o distanță mai mică de 25 m de colțul intersecției; în stațiile mijloacelor de transport public de persoane, precum și la mai puțin de 25 m înainte și după acestea; în dreptul altui vehicul oprit pe partea carosabilă, dacă prin aceasta se stânjenește circulația a două vehicule venind din sensuri opuse, precum și în dreptul marcajului continuu dacă ceilalți conducători sunt obligați să-l încalce; în locurile în care se împiedică vizibilitatea asupra unui indicator sau semnal luminos; pe sectoarele de drum cu semnificația „Drum îngustat”, „Prioritate pentru circulația din sens invers” sau „Prioritate față de circulația din sens invers”; pe pistele obligatorii pentru pietoni ori biciclete sau pe benzile rezervate unor categorii de vehicule; pe platformele căii ferate industriale sau de tramvai, ori la mai puțin de 50 m de acestea, dacă ar fi stânjenită circulația vehiculelor; pe partea carosabilă a autostrăzilor, drumurilor expres sau a celor europene (E); pe trotuar, cu excepția cazului în care administratorul drumului a amenajat spații corespunzătoare conform art. 144 alin. (2) și (3); pe pistele pentru biciclete și în orice loc în care este interzisă depășirea.\n---\nLovirea, deteriorarea sau ocolirea porților de gabarit instalate înaintea trecerii la nivel cu calea ferată constituie contravenție.\n---\nConducătorii autovehiculelor aparținând instituțiilor prevăzute la art. 32 alin. (2) lit. a) și b) pot încălca regimul legal de viteză sau alte reguli de circulație, cu excepția celor care reglementează trecerea la nivel cu calea ferată, atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure că din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure ca din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f26",
+    "text": "Semnalul agenților căilor ferate, executat cu un fanion roșu, aflați la trecerea la nivel cu o cale ferată industrială din orașe, vă obligă:",
+    "optiuni": {
+      "A": "să reduceți viteza, să vă asigurați, iar dacă trenul este la mai mult de 50 m de pasaj, să treceți cu atenție;",
+      "B": "să opriți;",
+      "C": "nu aveți nicio obligație, deoarece agentul dirijează manevrele garniturii de tren."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f27",
+    "text": "Ce manevre sunt interzise pe autostradă?",
+    "optiuni": {
+      "A": "oprirea şi efectuarea unei pene de cauciuc;",
+      "B": "învăţarea conducerii unui vehicul;",
+      "C": "încercarea prototipurilor de şasiuri şi de vehicule cu motor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "De asemenea, pe autostrăzi sau pe drumurile expres sunt interzise învățarea conducerii unui vehicul, încercările prototipurilor de șasiuri și de autovehicule, manifestațiile, defilările, caravanele publicitare, antrenamentele și competițiile sportive de orice fel, precum și cortegiile.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f28",
+    "text": "Dacă vreţi să părăsiţi autostrada:",
+    "optiuni": {
+      "A": "măriţi viteza;",
+      "B": "circulaţi cu aceeaşi viteză;",
+      "C": "reduceţi viteza."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/511.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f29",
+    "text": "Ce manevre sunt interzise pe autostradă?",
+    "optiuni": {
+      "A": "folosirea benzii de accelerare pentru a schimba direcţia de mers;",
+      "B": "circulaţia sau staţionarea pe banda de urgenţă, cu excepţia cazurilor justificate;",
+      "C": "deplasarea cu o viteză inferioară limitei maxime permise."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "De asemenea, pe autostrăzi sau pe drumurile expres sunt interzise învățarea conducerii unui vehicul, încercările prototipurilor de șasiuri și de autovehicule, manifestațiile, defilările, caravanele publicitare, antrenamentele și competițiile sportive de orice fel, precum și cortegiile.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f2a",
+    "text": "Este permisă întoarcerea pe autostradă?",
+    "optiuni": {
+      "A": "nu;",
+      "B": "da;",
+      "C": "da, dacă sensul de mers este blocat."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/662.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Suspendare permis 120 zile se prevede in cazurile: a) Depășirea cu peste 70 km/h a vitezei maxime admise; b) Nerespectarea regulilor de trecere la nivel cu cale ferată când barierele sunt coborâte sau semnalul este activ; c) Neoprirea la semnalul polițistului rutier; d) Conducerea pe contrasens pe autostradă.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f2b",
+    "text": "Este permisă pătrunderea pe racordurile dintre cele două părţi carosabile ale unei autostrăzi?",
+    "optiuni": {
+      "A": "nu;",
+      "B": "da, pentru oprire în caz de urgenţă;",
+      "C": "da, pentru întoarcere, în zona intersecţiilor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Nu este permisă staționarea pe partea carosabilă, în timpul nopții, a tractoarelor agricole sau forestiere, a remorcilor, a mopedelor, a bicicletelor, a trotinetelor electrice, a vehiculelor cu tracțiune animală ori a celor trase sau împinse cu mâna.\n---\nVehiculele și animalele, atunci când circulă pe drumurile publice pe care le este permis accesul, trebuie conduse pe partea din dreapta a drumului public, în sensul de circulație, cât mai aproape de marginea părții carosabile, cu respectarea semnificației semnalizării rutiere și a regulilor de circulație.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f2c",
+    "text": "Ce obligaţii aveţi atunci când urmează să părăsiţi autostrada?",
+    "optiuni": {
+      "A": "să reduceţi viteza începând cu 300 m înainte de ieşirea de pe autostradă, în dreptul panoului care marchează această distanţă;",
+      "B": "să circulaţi pe prima bandă cu o viteză de maximum 60 km/oră;",
+      "C": "să semnalizaţi din timp şi să vă angajaţi pe banda de ieşire (decelerare)."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de autovehicule care urmează să părăsească autostrada sunt obligați să semnalizeze din timp și să se angajeze pe banda de ieșire (de decelerare).",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f2d",
+    "text": "Cum procedaţi în cazul în care aveţi o defecţiune la sistemul de rulare pe autostradă?",
+    "optiuni": {
+      "A": "părăsiţi carosabilul în timp ce rulează autovehiculul, opriţi pe banda de urgenţă şi îl semnalizaţi;",
+      "B": "aprindeţi luminile de poziţie;",
+      "C": "aprindeţi proiectoarele."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Certificatul de înmatriculare se reține în cazul în care vehiculul prezintă defecțiuni grave sau abateri tehnice: lipsa ITP, transport neconform de produse periculoase, deficiențe la lumini, frâne, direcție, anvelope, emisii de zgomot sau noxe, cuplaje neconforme, lipsa echipării cu anvelope de iarnă, accesorii care reduc vizibilitatea ori alte scurgeri de substanțe periculoase. De asemenea, se reține dacă există reclame sau folii care afectează citirea numerelor sau iluminarea.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f2e",
+    "text": "Cum veţi proceda corect pentru a intra pe autostradă folosind banda de intrare (accelerare):",
+    "optiuni": {
+      "A": "veţi respecta semnificaţia semnalizării rutiere a drumului respectiv;",
+      "B": "cedaţi trecerea autovehiculelor care circulă pe prima bandă a autostrăzii şi nu stânjeniţi în niciun fel circulaţia acestora;",
+      "C": "nu aveţi nicio obligaţie, deoarece autostrada are suficiente benzi pentru a permite circulaţia tuturor vehiculelor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Conducătorii de autovehicule care intră pe autostradă folosind banda de intrare (de accelerare) trebuie să cedeze trecerea autovehiculelor care circulă pe prima bandă a autostrăzii și nu stânjenesc în niciun fel circulația acestora.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f2f",
+    "text": "Sunteţi corespunzător încadrat pentru a folosi prima ieşire de pe autostradă?",
+    "optiuni": {
+      "A": "da, deoarece circulaţi pe banda din dreapta;",
+      "B": "nu, deoarece veţi călca banda continuă;",
+      "C": "nu, pentru că circulaţi pe banda de urgenţă."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/893.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Dacă pe direcția de deplasare există o pistă pentru biciclete, semnalizată corespunzător, conducătorii vehiculelor menționate la alin.(1) sunt obligați să circule numai pe această pistă. Este interzisă circulația altor participanți la trafic pe pista pentru biciclete.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f30",
+    "text": "Autoturismul echipat cu o remorcă poate circula pe autostradă?",
+    "optiuni": {
+      "A": "nu;",
+      "B": "da, dacă ansamblul respectiv poate depăşi viteza de 50 km/h;",
+      "C": "da, dacă aţi obţinut autorizaţie de la poliţia rutieră."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Autostrada - drumul național de mare capacitate și viteză, semnalizat special, rezervat exclusiv circulației autovehiculelor, cu sau fără remorci, care nu servește proprietății riverane, prevăzut cu două căi unidirecționale, separate printr-o zonă mediană sau, în mod excepțional, prin alte modalități, cu excepția unor locuri speciale sau cu caracter temporar, având cel puțin două benzi de circulație pe sens și bandă de urgență, intersecții denivelate și accese limitate, intrarea și ieșirea fiind permise numai prin locuri special amenajate.\n---\nUn autovehicul poate tracta pe drumul public o singură remorcă. Se exceptează tractorul agricol sau forestier care poate tracta două remorci, precum și autovehiculele amenajate pentru formarea unui autotrend de transport persoane în localitățile turistice, cu condiția ca acesta să nu fie mai lung de 25 m și să nu circule cu viteza mai mare de 25 km/h.\n---\nCirculația autovehiculelor destinate transportului public de persoane și de mărfuri se desfășoară pe banda din partea dreaptă a autostrăzii, cu excepția cazului în care se efectuează depășirea sau semnalizarea rutieră existentă instituie o altă reglementare de utilizare a benzilor.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f31",
+    "text": "Este permisă remorcarea unui autovehicul pe autostradă?",
+    "optiuni": {
+      "A": "nu, legea interzice în mod expres acest lucru;",
+      "B": "da, dacă ansamblul astfel format poate depăşi viteza de 50 km/h;",
+      "C": "da, dacă autovehiculul remorcat este un autoturism."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducerea unui autovehicul și tractor agricol sau forestier sau tractarea unei remorci atunci când circulația acestora pe drumurile publice este interzisă potrivit art. 15 alin. (5), cu excepția cazurilor în care vehiculul, tramvaiul sau înregistrat, nu are montate plăcuțe cu numărul de înmatriculare sau de înregistrare atribuite de autoritatea competentă ori dacă acestea nu sunt conforme cu standardele în vigoare atrage 4 puncte de penalizare.\n---\nUn autovehicul poate tracta pe drumul public o singură remorcă. Se exceptează tractorul agricol sau forestier care poate tracta două remorci, precum și autovehiculele amenajate pentru formarea unui autotrend de transport persoane în localitățile turistice, cu condiția ca acesta să nu fie mai lung de 25 m și să nu circule cu viteza mai mare de 25 km/h.\n---\nConducerea pe drumurile publice a unui vehicul pentru care legea prevede obligativitatea deținerii permisului de conducere de către o persoană al cărei permis de conducere este necorespunzător categoriei din care face parte vehiculul respectiv ori al cărei permis i-a fost retras sau anulat ori căreia exercitarea dreptului de a conduce i-a fost suspendată sau care nu are dreptul de a conduce autovehicule, tramvaie ori tractoare agricole sau forestiere în România se pedepsește cu închisoare de la 6 luni la 3 ani sau cu amendă.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f32",
+    "text": "În care dintre situațiile de mai jos puteți folosi banda de lângă axa drumului pe o autostradă?",
+    "optiuni": {
+      "A": "când efectuați depășirea altor vehicule, dacă celelalte benzi în direcția de mers sunt ocupate;",
+      "B": "când conduceți cu viteza maximă admisă;",
+      "C": "când nu sunteți precedat de alte vehicule."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Pe drumul public cu cel mult două benzi pe sens și cu o a treia bandă pe care este amplasată linia tramvaiului lângă axa drumului, conducătorii de vehicule pot folosi această bandă, cu obligația să lase liberă calea tramvaiului, la apropierea acestuia.\n---\nConducătorul de vehicul care circulă pe banda situată lângă marginea părții carosabile trebuie să acorde prioritate de trecere vehiculelor care efectuează transport public de persoane numai atunci când conducătorii acestora semnalizează intenția de a reintra în trafic din stațiile prevăzute cu alveole și s-au asigurat că prin manevra lor nu pun în pericol siguranța celorlalți participanți la trafic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f33",
+    "text": "Pe o autostradă cu trei benzi, s-a blocat circulaţia. Pe unde vor circula vehiculele de intervenţie?",
+    "optiuni": {
+      "A": "pe banda de urgenţă;",
+      "B": "între banda din stânga şi banda din mijloc;",
+      "C": "între banda din dreapta şi banda din mijloc."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Pe drumul public cu mai multe benzi, conducătorii de autovehicule care circulă pe o bandă care se sfârșește, pentru a continua deplasarea pe banda din stânga trebuie să permită trecerea vehiculelor care circulă pe acea bandă.\n---\nMarcajul cu linie discontinuă simplă poate fi folosit:\n1. pentru separarea sensurilor de circulație, pe drumurile cu două benzi și circulație în ambele sensuri;\n2. pentru separarea benzilor de circulație pe același sens, pe drumurile cu cel puțin două benzi pe sens;\n3. pentru marcarea trecerii de la o linie discontinuă la una continuă. În localități, acest marcaj nu este obligatoriu;\n4. pentru a separa, pe autostrăzi, benzile de accelerare sau de decelerare de benzile curente de circulație;\n5. pentru marcaje de ghidare în intersecții.\n---\nÎn cazul intersecțiilor cu sens giratoriu, conducătorii de vehicule trebuie să respecte regulile privind circulația pe benzi, având obligația să semnalizeze din timp părăsirea intersecției și să se asigure că o pot face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f34",
+    "text": "La circulaţia pe autostrăzi, conducătorului auto îi este interzis:",
+    "optiuni": {
+      "A": "să staţioneze pe banda de urgenţă, cu excepţia cazurilor justificate;",
+      "B": "să oprească pentru a remedia o defecţiune;",
+      "C": "să depăşească alte autovehicule."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Pe autostrăzi este interzisă circulația pietonilor, a autovehiculelor cu gabarite sau mase depășite, fără autorizație specială de transport, precum și a bicicletelor, trotinetelor electrice, mopedelor, vehiculelor cu tracțiune animală, animalelor sau vehiculelor trase/împinse cu mâna, tractoarelor agricole sau forestiere și mașinilor autopropulsate pentru lucrări agricole.\n---\nConducătorului de vehicul prevăzut la alin.(1) îi este interzis: a) să conducă autovehicule care transportă mărfuri sau produse periculoase; b) să conducă vehicule destinate testării sau cele pentru probe; c) să conducă vehicule destinate transportului public de persoane, inclusiv în regim de taxi.\n---\nEste interzisă circulația pe drumuri acoperite cu polei, gheață sau zăpadă dacă autovehiculul nu este echipat corespunzător.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f35",
+    "text": "Ce obligaţii aveţi atunci când intraţi pe autostradă folosind banda de accelerare?",
+    "optiuni": {
+      "A": "să cedaţi trecerea autovehiculelor care circulă pe prima bandă a autostrăzii şi să nu stânjeniţi în niciun fel circulaţia acestora;",
+      "B": "să semnalizaţi stânga, pentru a-i preveni pe ceilalţi conducători să vă acorde prioritate;",
+      "C": "să opriţi şi să vă asiguraţi din faţă şi din spate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorii de autovehicule care intră pe autostradă folosind banda de intrare (de accelerare) trebuie să cedeze trecerea autovehiculelor care circulă pe prima bandă a autostrăzii și nu stânjenesc în niciun fel circulația acestora.\n---\nConducătorii de autovehicule care urmează să părăsească autostrada sunt obligați să semnalizeze din timp și să se angajeze pe banda de ieșire (de decelerare).",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f36",
+    "text": "În această situaţie constataţi că părăsiţi autostrada în mod eronat. Cum procedaţi?",
+    "optiuni": {
+      "A": "reintraţi imediat pe autostradă;",
+      "B": "vă continuaţi drumul;",
+      "C": "opriţi, vă asiguraţi şi reintraţi pe autostradă."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1159.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În situațiile prevăzute la alin. (5), conducătorul de autovehicule, tractoare agricole sau forestiere și tramvaie trebuie să pună în funcțiune luminile de avarie, în mod succesiv, în ordinea opririi și în cazul în care această manevră este imposibilă de blocarea circulației pe sensul de mers.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f37",
+    "text": "Căror categorii de autovehicule le este interzis să circule pe autostradă?",
+    "optiuni": {
+      "A": "celor care, prin construcţie, nu pot depăşi viteza de 50 km/oră;",
+      "B": "motocicletelor cu şi fără ataş;",
+      "C": "tractoarelor şi maşinilor agricole autopropulsate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "C"
+    ],
+    "paragrafe_context": "Este interzis transportul de persoane în stare de ebrietate pe autovehicule din categoria AM, A1, A2 și A, sau în cabina ori caroseria autovehiculului destinat transportului de mărfuri.\n---\nPe autostrăzi este interzisă circulația pietonilor, a autovehiculelor cu gabarite sau mase depășite, fără autorizație specială de transport, precum și a bicicletelor, trotinetelor electrice, mopedelor, vehiculelor cu tracțiune animală, animalelor sau vehiculelor trase/împinse cu mâna, tractoarelor agricole sau forestiere și mașinilor autopropulsate pentru lucrări agricole.\n---\nConducătorilor de autovehicule le este interzis să transporte copii în vârstă de până la 3 ani în autovehicule care nu sunt echipate cu sisteme de siguranță, cu excepția celor destinate transportului public de persoane, precum și a taximetrelor dacă aceștia din urmă ocupă alt loc decât cel de pe scaunul din față, în condițiile prevăzute în regulament. Copiii cu vârsta de până la 3 ani, având o înălțime de până la 150 cm, pot fi transportați în autovehicule care nu sunt echipate cu sisteme de siguranță doar dacă ocupă, pe timpul transportului, alt loc decât cel de pe scaunul din față.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f38",
+    "text": "Cum vă comportaţi dacă intenţionaţi să părăsiţi autostrada în acest loc?",
+    "optiuni": {
+      "A": "frânaţi şi ieşiţi cu o viteză orientativă de 130 km/h;",
+      "B": "semnalizaţi şi vă angajaţi pe banda de ieşire;",
+      "C": "măriţi viteza, pentru a nu stânjeni vehiculele care circulă din spate."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1251.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f39",
+    "text": "Pe autostradă se interzice:",
+    "optiuni": {
+      "A": "circulaţia cu o viteză sub 80 km/h;",
+      "B": "manevra de mers înapoi;",
+      "C": "folosirea benzii de lângă zona mediană ce desparte cele două părţi carosabile."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice circulația, oprirea sau staționarea autovehiculelor pe banda de urgență, cu excepția cazurilor justificate, precum și a autovehiculelor cu regim de circulație prioritar.\n---\nSe interzice circulația, oprirea sau staționarea autovehiculelor pe banda de urgență sau acostament, cu excepția cazurilor justificate, precum și a autovehiculelor cu regim de circulație prioritar.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f3a",
+    "text": "Pe autostradă se interzice:",
+    "optiuni": {
+      "A": "circulaţia autovehiculelor în coloană;",
+      "B": "învăţarea conducerii unui vehicul, încercarea prototipurilor de şasiuri şi de vehicule cu motor;",
+      "C": "executarea de lucrări pe partea carosabilă pe timp de noapte."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice circulația, oprirea sau staționarea autovehiculelor pe banda de urgență, cu excepția cazurilor justificate, precum și a autovehiculelor cu regim de circulație prioritar.\n---\nSe interzice circulația, oprirea sau staționarea autovehiculelor pe banda de urgență sau acostament, cu excepția cazurilor justificate, precum și a autovehiculelor cu regim de circulație prioritar.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f3b",
+    "text": "Căror vehicule le este interzisă circulația pe autostrăzi?",
+    "optiuni": {
+      "A": "motocicletelor și automobilelor care nu pot circula cu mai mult de 60 km/h",
+      "B": "celor care, prin construcţie sau din alte cauze, nu pot depăşi viteza de 50 km/h",
+      "C": "autovehiculelor care transportă încărcături periculoase."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Pe autostrăzi este interzisă circulația pietonilor, a autovehiculelor cu gabarite sau mase depășite, fără autorizație specială de transport, precum și a bicicletelor, trotinetelor electrice, mopedelor, vehiculelor cu tracțiune animală, animalelor sau vehiculelor trase/împinse cu mâna, tractoarelor agricole sau forestiere și mașinilor autopropulsate pentru lucrări agricole.\n---\nEste interzisă circulația autovehiculelor cu mase și/sau gabarite depășite:\na) pe sectoarele de drum unde sunt instalate indicatoare de interzicere, restricție sau limitare a accesului acestora, dacă vehiculul sau ansamblul de vehicule atinge ori depășește lățimea, înălțimea, lungimea sau masele pe axe ori masa totală maximă admisă;\nb) când vizibilitatea este redusă sau partea carosabilă este acoperită cu polei, gheață sau zăpadă.\n---\nEste interzisă circulația pe drumurile publice a vehiculor care nu corespund din punct de vedere tehnic, a celor neasigurate obligatoriu de răspundere civilă auto pentru prejudicii produse terților prin accidente de circulație, a celor pentru care a intervenit suspendarea înmatriculării, precum și a vehiculelor înregistrate al căror termen de valabilitate a inspecției tehnice periodice a expirat ori este anulată.\n---\nEste interzis transportul de persoane în stare de ebrietate pe autovehicule din categoria AM, A1, A2 și A, sau în cabina ori caroseria autovehiculului destinat transportului de mărfuri.\n---\nConducătorilor de autovehicule le este interzis să transporte copii în vârstă de până la 3 ani în autovehicule care nu sunt echipate cu sisteme de siguranță, cu excepția celor destinate transportului public de persoane, precum și a taximetrelor dacă aceștia din urmă ocupă alt loc decât cel de pe scaunul din față, în condițiile prevăzute în regulament. Copiii cu vârsta de până la 3 ani, având o înălțime de până la 150 cm, pot fi transportați în autovehicule care nu sunt echipate cu sisteme de siguranță doar dacă ocupă, pe timpul transportului, alt loc decât cel de pe scaunul din față.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0f3c",
+    "text": "În care dintre situaţii se reţine certificatul de înmatriculare sau înregistrare?",
+    "optiuni": {
+      "A": "când inspecţia tehnică periodică a expirat;",
+      "B": "dacă zgomotul în mers sau staţionare depăşeşte limita legală admisă;",
+      "C": "când motorul emite noxe poluante peste limitele legale admise."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Certificatul de înmatriculare se reține în cazul în care vehiculul prezintă defecțiuni grave sau abateri tehnice: lipsa ITP, transport neconform de produse periculoase, deficiențe la lumini, frâne, direcție, anvelope, emisii de zgomot sau noxe, cuplaje neconforme, lipsa echipării cu anvelope de iarnă, accesorii care reduc vizibilitatea ori alte scurgeri de substanțe periculoase. De asemenea, se reține dacă există reclame sau folii care afectează citirea numerelor sau iluminarea.\n---\nPoliția rutieră dispune măsura reținerii certificatului de înmatriculare sau înregistrare și retragerea plăcuțelor cu numărul de înmatriculare sau de înregistrare a vehiculor neasigurate, aflate în trafic, eliberând dovada fără drept de circulație.\n---\nÎn cazurile prevăzute în prezenta ordonanță de urgență, polițistul rutier dispune și una dintre următoarele măsuri tehnico-administrative:\na) reținerea permisului de conducere și/sau a certificatului de înmatriculare ori de înregistrare sau, după caz, a dovezii înlocuitoare a acestora;\nb) retragerea permisului de conducere, a certificatului de înmatriculare sau înregistrare ori a plăcuțelor cu numărul de înmatriculare sau de înregistrare;\nc) anularea permisului de conducere eliberat de autoritățile române;\nd) ridicarea vehiculelor staționate neregulamentar;\ne) interdicția de a conduce autovehicule pe teritoriul României pentru titularii permiselor de conducere eliberate de o autoritate străină;\nf) relocarea vehiculelor staționate regulamentar;\ng) imobilizarea vehiculului.",
+    "tip_context": "crossencode_prag"
+  }
+]

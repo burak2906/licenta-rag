@@ -1,0 +1,2209 @@
+[
+  {
+    "id": "67f0dc3c2be5222d1c2e1131",
+    "text": "Intenționați să virați la dreapta. Cum procedați cu pietonii care traversează regulamentar strada?",
+    "optiuni": {
+      "A": "virați fără ezitare, deoarece pietonii sunt obligați să aștepte;",
+      "B": "acordați prioritate pietonilor care se află pe sensul dvs. de mers;",
+      "C": "dați semnale de avertizare sonoră, pentru ca pietonii să vă permită trecerea."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1244.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1132",
+    "text": "Care autovehicul va trece primul prin intersecție?",
+    "optiuni": {
+      "A": "autoturismul;",
+      "B": "autocamionul;",
+      "C": "autobuzul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1246.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nConducătorul auto care nu permite părăsirea intersecției vehiculului rămas în interiorul acesteia comite o contravenție.\n---\nContext vizual extras (YOLOv8):\nIndicator Cedează trecerea: Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa se asigure ca pe drumul prioritar nu circula autovehicule, si abia apoi poate sa patrunda in intersectie. Daca pe drumul prioritar circula alte autovehicule, conducatorul auto este obligat sa opreasca pentru a le acorda prioritate.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1133",
+    "text": "Cum procedați în situația dată?",
+    "optiuni": {
+      "A": "circulați cu viteză redusă și, la nevoie, opriți pentru a permite autobuzului să reintre în trafic;",
+      "B": "depășiți autobuzul;",
+      "C": "sunteți obligat să opriți."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1252.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1134",
+    "text": "Cum procedaţi dacă vă aflaţi în autoturismul roşu şi observaţi că de pe drumul fără prioritate se apropie o coloană cu regim prioritar?",
+    "optiuni": {
+      "A": "vă continuaţi drumul, deoarece aveţi prioritate de trecere în sensul giratoriu;",
+      "B": "opriţi şi acordaţi prioritate coloanei cu regim prioritar;",
+      "C": "viraţi la dreapta şi părăsiţi intersecţia."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1257.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nContext vizual extras (YOLOv8):\nIndicator Sfârșitul drumului cu prioritate: Se amplaseaza la 50-200 m de locul unde inceteaza semnificatia indicatorului \"Drum cu prioritate\", avand rolul de a informa conducatorul auto ca in urmatoarea intersectie in care va patrunde, toate drumurile vor fi de aceeasi categorie si se va aplica regula prioritatii de dreapta.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1135",
+    "text": "Semnificația indicatoarelor „Oprire“ și „Cedează trecerea“, instalate în intersecțiile  semaforizate, trebuie respectată:",
+    "optiuni": {
+      "A": "atunci când traficul este redus;",
+      "B": "atunci când semafoarele nu funcționează;",
+      "C": "atunci când indicatoarele sunt instalate împreună cu semaforul pe același suport."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul vehiculului care intră într-o intersecție la culoarea verde a semaforului este obligat să respecte și semnificația indicatoarelor instalate în interiorul acesteia.\n---\nSemnificația indicatoarelor de interzicere sau de restricție începe din dreptul acestora. În lipsa unui semnalizări care să precizeze lungimea sectorului pe care se aplică reglementarea ori a unui indicator care să anunțe sfârșitul interdicției sau al restricției, semnificația acestora indicatoare încetează în intersecția cea mai apropiată. Când indicatoarele de interzicere sau restricție sunt instalate împreună cu un indicator ce anunță intrarea într-o localitate, semnificația lor este valabilă pe drumul respectiv până la întâlnirea indicatorului \"ieșire din localitate\", cu excepția locurilor unde un alt indicator dispune altfel.\n---\nLa intersecțiile prevăzute cu indicatoare și/sau cu marcaje pentru semnalizarea direcției de mers, conducătorii de vehicule trebuie să se încadreze pe benzile corespunzătoare direcției de mers voite cu cel puțin 50 m înainte de intersecție și sunt obligați să respecte semnificația indicatoarelor și marcajelor.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1136",
+    "text": "În ce ordine vor trece autovehiculele prin intersecţia prezentată?",
+    "optiuni": {
+      "A": "tramvaiul 1, tramvaiul 2, autoturismul;",
+      "B": "tramvaiul 2, tramvaiul 1, autoturismul;",
+      "C": "tramvaiul 1, autoturismul, tramvaiul 2."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1269.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1137",
+    "text": "În situația dată, aveți obligația:",
+    "optiuni": {
+      "A": "să opriți, să vă asigurați și să acordați prioritate de trecere înainte de a traversa intersecția;",
+      "B": "nu aveți nicio obligație, întrucât circulați pe un drum prioritar;",
+      "C": "traversați o dată cu autoutilitara și autoturismul, deoarece acestea s-au asigurat."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1273.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Oprire: Este instalat pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar, cand vizibilitatea este redusa. Conducatorul de vehicul care intalneste acest indicator este obligat sa opreasca in locul cu vizibilitate maxima, fara a depasi coltul intersectiei, si sa acorde prioritate tuturor vehiculelor care circula pe drumul prioritar.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1138",
+    "text": "În ce ordine vor trece autovehiculele prin intersecția prezentată?",
+    "optiuni": {
+      "A": "4, 3, 1, 2;",
+      "B": "4, 3, 2, 1;",
+      "C": "3, 4, 1, 2."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1274.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Prioritate pentru circulația din sens invers: Se monteaza pe sectoarele de drum ingustat unde nu au loc sa circule doua vehicule unul pe langa celalalt, fiind precedat de indicatorul \"Drum ingustat\". La intalnirea acestui indicator, conducatorul autovehiculului pierde prioritatea fata de toate autovehiculele care circula din sens opus. Acest indicator poate fi insotit si de un panou aditional pe care sunt precizate categoriile de autovehicule carora li se adreseaza acest indicator.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1139",
+    "text": "Care dintre vehicule va trece primul prin intersecţie?",
+    "optiuni": {
+      "A": "tramvaiul 1;",
+      "B": "tramvaiul 2;",
+      "C": "autoturismul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1283.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nCând două vehicule urmează să se întâlnească într-o intersecție dirijată prin indicatoare, venind de pe două drumuri publice unde sunt instalate indicatoare cu aceeași semnificație, vehiculul care vine din dreapta are prioritate.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nContext vizual extras (YOLOv8):\nIndicator Înainte: Indicatorul se monteaza cu cel mult 50 m inainte de o intersectie, obligand conducatorul auto sa circule pe directia indicata de sageata (nu poate vira stanga sau dreapta, nu poate intoarce). Daca actioneaza asupra unei singure benzi, atunci se va instala deasupra benzii respective. Acest indicator actioneaza doar in intersectia inaintea careia este instalat.",
+    "tip_context": "crossencode_prag+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e113a",
+    "text": "Care este ordinea de trecere prin intersecție?",
+    "optiuni": {
+      "A": "autoturismul, autocamionul, motocicleta;",
+      "B": "autoturismul, motocicleta, autocamionul;",
+      "C": "autocamionul, autoturismul, motocicleta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1289.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e113b",
+    "text": "Ce obligații vă revin la trecerile pentru pietoni?",
+    "optiuni": {
+      "A": "să circulați cu viteză redusă, pentru a putea ocoli pietonii angajați în traversare;",
+      "B": "să reduceți viteza, dacă sunt pietoni angajați în traversare, pentru evitarea unui posibil accident;",
+      "C": "dacă sunt pietoni angajați în traversare pe sensul dvs. de mers, să le acordați prioritate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e113c",
+    "text": "Care dintre cele trei vehicule trece primul prin intersecție?",
+    "optiuni": {
+      "A": "tramvaiul, deoarece are prioritate în mers;",
+      "B": "autoturismul galben, deoarece își schimbă direcția de mers;",
+      "C": "autoturismul roșu, deoarece vine din dreapta celorlalte două vehicule."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1294.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nDepășirea este manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe același sens de circulație, prin schimbarea direcției de mers și ieșirea de pe banda de circulație sau din șirul de vehicule în care s-a aflat inițial.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e113d",
+    "text": "Într-o intersecție, prezența unei ambulanțe ce se deplasează la o intervenție obligă pe ceilalți conducători:",
+    "optiuni": {
+      "A": "să reducă viteza și să-și continue drumul cu atenție;",
+      "B": "să respecte semnificația culorii semaforului;",
+      "C": "să acorde prioritate de trecere ambulanței."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice intrarea într-o intersecție chiar dacă semnalul luminos ori un indicator de prioritate permite, dacă din cauza aglomerării circulației conducătorul de vehicul riscă să rămână imobilizat, stânjenind sau împiedicând desfășurarea traficului.\n---\nIntersecție cu sens giratoriu - intersecție dirijată, semnalizată ca atare, prevăzută cu una sau mai multe benzi de circulație, în care circulația se desfășoară într-o singură direcție în jurul unei zone centrale.\n---\nCând două vehicule urmează să se întâlnească într-o intersecție dirijată prin indicatoare, venind de pe două drumuri publice unde sunt instalate indicatoare cu aceeași semnificație, vehiculul care vine din dreapta are prioritate.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e113e",
+    "text": "În ce ordine vor trece prin intersecție cele trei autovehicule?",
+    "optiuni": {
+      "A": "autobuzul, autocamionul, autoturismul;",
+      "B": "autocamionul, autobuzul, autoturismul;",
+      "C": "autoturismul, autobuzul, autocamionul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1309.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În cazul intersecțiilor cu sens giratoriu, conducătorii de vehicule trebuie să respecte regulile privind circulația pe benzi, având obligația să semnalizeze din timp părăsirea intersecției și să se asigure că o pot face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e113f",
+    "text": "La apropierea de staţiile prevăzute cu alveolă, când circulaţi pe banda de lângă acostament, iar conducătorul autovehiculului de transport public de persoane semnalizează pornirea din staţie:",
+    "optiuni": {
+      "A": "opriţi obligatoriu;",
+      "B": "reduceţi viteza şi, la nevoie, opriţi;",
+      "C": "măriţi viteza."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La apropierea de o stație pentru mijloace de transport public de persoane prevăzută cu alveolă, din care conducătorul unui astfel de vehicul semnalizează intenția de a ieși, conducătorul vehiculului care circulă pe banda de lângă acostament sau bordură este obligat să reducă viteza și, la nevoie, să oprească pentru a-i permite reintrarea în trafic.\n---\nConducătorul de vehicul care circulă pe banda situată lângă marginea părții carosabile trebuie să acorde prioritate de trecere vehiculelor care efectuează transport public de persoane numai atunci când conducătorii acestora semnalizează intenția de a reintra în trafic din stațiile prevăzute cu alveole și s-au asigurat că prin manevra lor nu pun în pericol siguranța celorlalți participanți la trafic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1140",
+    "text": "Cum procedaţi în situaţia dată, dacă vă aflaţi la volanul autoturismului roşu?",
+    "optiuni": {
+      "A": "negociaţi prioritatea cu celălalt conducător;",
+      "B": "acordaţi prioritate;",
+      "C": "circulaţi înaintea autoturismului albastru."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1312.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1141",
+    "text": "La schimbarea direcției de mers spre stânga, la semnalul verde al semaforului, conducătorul de vehicul este obligat să acorde prioritate:",
+    "optiuni": {
+      "A": "numai vehiculelor care vin din sens opus;",
+      "B": "vehiculelor care circulă din sens opus și pietonilor care traversează regulamentar strada pe care acesta urmează să intre;",
+      "C": "numai pietonilor care sunt angajați în traversarea străzii."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Schimbarea direcției de mers prin virare la dreapta sau la stânga este interzisă în locurile unde sunt instalate indicatoare cu această semnificație.\n---\nLa intersecțiile fără marcaje de delimitare a benzilor, conducătorii vehiculelor ocupă în mers, cu cel puțin 50 m înainte de intersecție, următoarele poziții: b) rândul de lângă axa drumului sau de lângă marcajul de separare a sensurilor, cei care vor să schimbe direcția de mers spre stânga. Când circulația se desfășoară pe drumuri cu sens unic, conducătorii de vehicule care intenționează să vireze la stânga sunt obligați să ocupe rândul de lângă bordura sau acostamentul din partea stângă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1142",
+    "text": "Intenționați să virați la dreapta. Cum procedați?",
+    "optiuni": {
+      "A": "treceți prin fața pietonilor;",
+      "B": "acordați prioritate pietonilor;",
+      "C": "acordați prioritate numai bicicliștilor."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1318.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1143",
+    "text": "Cum procedează conducătorul de vehicul care intenționează să circule pe direcția înainte printr-o intersecție nedirijată?",
+    "optiuni": {
+      "A": "reduce viteza și acordă prioritate tuturor vehiculelor;",
+      "B": "reduce viteza și acordă prioritate vehiculelor care vin din dreapta sa;",
+      "C": "reduce viteza și acordă prioritate vehiculelor care circulă din sens opus și urmează să schimbe direcția de mers spre stânga."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nLa intersecțiile fără marcaje de delimitare a benzilor, conducătorii vehiculelor ocupă în mers, cu cel puțin 50 m înainte de intersecție, următoarele poziții: b) rândul de lângă axa drumului sau de lângă marcajul de separare a sensurilor, cei care vor să schimbe direcția de mers spre stânga. Când circulația se desfășoară pe drumuri cu sens unic, conducătorii de vehicule care intenționează să vireze la stânga sunt obligați să ocupe rândul de lângă bordura sau acostamentul din partea stângă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1144",
+    "text": "Care este ordinea de trecere a autovehiculelor prin intersecție?",
+    "optiuni": {
+      "A": "motocicleta, bicicleta, autoturismul;",
+      "B": "autoturismul, motocicleta, bicicleta;",
+      "C": "bicicleta, autoturismul, motocicleta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1337.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1145",
+    "text": "La întâlnirea cărui indicator aveți prioritate de trecere?",
+    "optiuni": {
+      "A": "„Circulație în ambele sensuri\";",
+      "B": "„Prioritate față de circulația din sens invers\";",
+      "C": "„Prioritate pentru circulația din sens invers\"."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Au regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nPrioritate de trecere - dreptul unui participant la trafic de a trece înaintea celorlalți participanți la trafic cu care se intersectează, în conformitate cu prevederile legale privind circulația pe drumurile publice.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1146",
+    "text": "În ce ordine vor circula autoturismele prin intersecțiile prezentate?",
+    "optiuni": {
+      "A": "albastru, roșu, galben;",
+      "B": "roșu, albastru, galben;",
+      "C": "galben, roșu, albastru."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1354.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1147",
+    "text": "Ce trebuie să aveți în vedere dacă intenționați să circulați spre dreapta, după taxi?",
+    "optiuni": {
+      "A": "pietonii vor acorda prioritate necondiționat;",
+      "B": "să acordați prioritate pietonilor aflați pe sensul dumneavoastră de mers;",
+      "C": "pietonii nu au voie să traverseze în acest loc."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1361.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\n1) În zona rezidențială, semnalizată ca atare, pietonii pot folosi toată lățimea părții carosabile, iar jocul copiilor este permis.\n2) (În zona rezidențială) Conducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\nConducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1148",
+    "text": "Cui trebuie să acordaţi prioritate dacă vă aflaţi în autoturismul albastru?",
+    "optiuni": {
+      "A": "autobuzului, fiind vehicul de transport public de persoane;",
+      "B": "autoturismului roşu, deoarece nu-şi schimbă direcţia de mers;",
+      "C": "ambelor vehicule."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1365.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nContext vizual extras (YOLOv8):\nIndicator Alte pericole: Se amplaseaza cu 50-200 m inaintea locului periculos, in orice situatie periculoasa care nu este prevazuta cu un indicator de avertizare specific. La intalnirea acestui indicator, conducatorului auto ii este recomandat preventiv sa reduca viteza si sa circule cu atentie sporita.",
+    "tip_context": "crossencode_prag+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1149",
+    "text": "Ce veți respecta în intersecția prezentată?",
+    "optiuni": {
+      "A": "semnificația luminii semaforului;",
+      "B": "regula priorității de dreapta;",
+      "C": "semnificația indicatoarelor."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1367.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.\n---\nContext vizual extras (YOLOv8):\nIndicator Oprire: Este instalat pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar, cand vizibilitatea este redusa. Conducatorul de vehicul care intalneste acest indicator este obligat sa opreasca in locul cu vizibilitate maxima, fara a depasi coltul intersectiei, si sa acorde prioritate tuturor vehiculelor care circula pe drumul prioritar.\n---\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e114a",
+    "text": "Cum veți proceda în situația dată?",
+    "optiuni": {
+      "A": "veți vira ultimul;",
+      "B": "camionul va trece primul;",
+      "C": "aveți prioritate."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1368.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Drum cu prioritate: Se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde. Drumurile care intersecteaza drumul cu prioritate vor avea instalate unul dintre indicatoarele \"Oprire\" sau \"Cedeaza trecerea\". Cand este amplasat inaintea unei intersectii, acest indicator poate fi insotit si de un panou aditional care va preciza directia drumului cu prioritate.\n---\nIndicator Sfârșitul drumului cu prioritate: Se amplaseaza la 50-200 m de locul unde inceteaza semnificatia indicatorului \"Drum cu prioritate\", avand rolul de a informa conducatorul auto ca in urmatoarea intersectie in care va patrunde, toate drumurile vor fi de aceeasi categorie si se va aplica regula prioritatii de dreapta.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e114b",
+    "text": "La intersecția nedirijată dintre un drum comunal și unul local, prioritatea de trecere se acordă:",
+    "optiuni": {
+      "A": "vehiculelor care circulă pe drumul comunal;",
+      "B": "vehiculelor care circulă pe drumul local;",
+      "C": "vehiculelor care vin din dreapta."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "la intersecția nedirijată atunci când pătrunde pe un drum comunal venind de pe un drum local;\n---\nla intersecția nedirijată atunci când pătrunde pe un drum național venind de pe un drum județean, comunal sau local;\n---\nla intersecția nedirijată atunci când pătrunde pe un drum județean venind de pe un drum comunal sau local;\n---\nVehiculul care circulă pe un drum public pe care este instalat unul dintre indicatoarele având semnificația: 'Drum cu prioritate', 'Intersecție cu un drum fără prioritate' sau 'Prioritate față de circulația din sens invers' are prioritate de trecere.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e114c",
+    "text": "Dacă într-o intersecție conducătorul de vehicul întâlnește semnalul verde al semaforului, precum și indicatorul „Cedează trecerea“, el este obligat:",
+    "optiuni": {
+      "A": "să respecte semnificația semnalului verde;",
+      "B": "să respecte semnificația indicatorului;",
+      "C": "să respecte semnificația semnalului verde, acordând prioritate de trecere vehiculelor care circulă pe drumul prioritar."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul vehiculului care intră într-o intersecție la culoarea verde a semaforului este obligat să respecte și semnificația indicatoarelor instalate în interiorul acesteia.\n---\nSe interzice intrarea într-o intersecție chiar dacă semnalul luminos ori un indicator de prioritate permite, dacă din cauza aglomerării circulației conducătorul de vehicul riscă să rămână imobilizat, stânjenind sau împiedicând desfășurarea traficului.\n---\nCând semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e114d",
+    "text": "Conducătorul de vehicul care circulă pe banda de lângă acostament, în același sens cu autovehiculele din serviciile regulate de transport public de persoane, este obligat:",
+    "optiuni": {
+      "A": "să nu depășească un asemenea vehicul, când se află oprit în stație;",
+      "B": "să permită conducătorilor acestor vehicule să efectueze manevrele necesare repunerii în mișcare din stație, dacă este prevăzută cu alveolă;",
+      "C": "să permită traversarea călătorilor pentru a se urca într-un asemenea vehicul."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La apropierea de o stație pentru mijloace de transport public de persoane prevăzută cu alveolă, din care conducătorul unui astfel de vehicul semnalizează intenția de a ieși, conducătorul vehiculului care circulă pe banda de lângă acostament sau bordură este obligat să reducă viteza și, la nevoie, să oprească pentru a-i permite reintrarea în trafic.\n---\nConducătorul de vehicul care circulă pe banda situată lângă marginea părții carosabile trebuie să acorde prioritate de trecere vehiculelor care efectuează transport public de persoane numai atunci când conducătorii acestora semnalizează intenția de a reintra în trafic din stațiile prevăzute cu alveole și s-au asigurat că prin manevra lor nu pun în pericol siguranța celorlalți participanți la trafic.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nPe drumul public cu mai multe benzi, conducătorii de autovehicule care circulă pe o bandă care se sfârșește, pentru a continua deplasarea pe banda din stânga trebuie să permită trecerea vehiculelor care circulă pe acea bandă.\n---\nDepășirea este manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe același sens de circulație, prin schimbarea direcției de mers și ieșirea de pe banda de circulație sau din șirul de vehicule în care s-a aflat inițial.\n---\nVehiculele care efectuează transport public de persoane se conduc pe banda rezervată acestora, dacă o astfel de bandă există și este semnalizată ca atare. Pe aceeași bandă pot circula și autovehiculele cu regim de circulație prioritară când se deplasează în acțiuni de intervenții sau în misiuni care au caracter de urgență.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e114e",
+    "text": "În acest caz:",
+    "optiuni": {
+      "A": "trebuie să permiteți trecerea autocamionului;",
+      "B": "aveți voie să virați înaintea autocamionului;",
+      "C": "trebuie să permiteți numai trecerea autoturismului."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1387.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Când semnalul de culoare verde începe să funcționeze intermitent înseamnă că timpul afectat traversării drumului este în curs de epuizare și urmează semnalul roșu. În acest caz pietonii angajați în traversarea drumului trebuie să grăbească trecerea, iar dacă drumul este prevăzut cu un refugiu sau spațiu interzis circulației vehiculelor, să aștepte pe acesta apariția semnalului de culoare verde.\n---\nNu se aplică în cazul transportului în autovehicule destinate transportului public de persoane, precum și în taxi, dacă în acestea din urmă copilul ocupă alt loc decât cel de pe scaunul din față. Transportul copilului în vârstă de până la 3 ani, în acest caz, se realizează sub supravegherea unei persoane, alta decât conducătorul de autovehicul.\n---\nÎn cazul pierderii, furtului sau al deteriorării permisului de conducere ori al modificării oricăror date înscrise în acesta, autoritățile competente eliberează, după caz, un duplicat a cărui valabilitate nu poate depăși valabilitatea administrativă a documentului înlocuit sau al permisului de conducere.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e114f",
+    "text": "Care este ordinea de trecere a autovehiculelor, dacă ajung simultan în intersecție?",
+    "optiuni": {
+      "A": "autocamionul, tramvaiul, autoturismul;",
+      "B": "autoturismul, autocamionul, tramvaiul;",
+      "C": "tramvaiul, autoturismul, autocamionul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1396.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nContext vizual extras (YOLOv8):\nIndicator Intersecție cu drum fără prioritate: Se instaleaza in afara localitatilor, pe drumurile cu prioritate, la 100-200 m de intersectia cu un drum fara prioritate si are rolul de a confirma prioritatea celui care intalneste acest indicator.\n---\nIndicator Sfârșitul drumului cu prioritate: Se amplaseaza la 50-200 m de locul unde inceteaza semnificatia indicatorului \"Drum cu prioritate\", avand rolul de a informa conducatorul auto ca in urmatoarea intersectie in care va patrunde, toate drumurile vor fi de aceeasi categorie si se va aplica regula prioritatii de dreapta.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1150",
+    "text": "Cum procedați în această situație, dacă circulația este blocată?",
+    "optiuni": {
+      "A": "nu pătrundeți în intersecție până la deblocarea acesteia;",
+      "B": "nu aveți obligația de a ceda trecerea;",
+      "C": "veți depăși coloana din față prin stânga."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1425.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\ncând circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care urcă se află un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j);\n---\nDacă persoana aflată în una dintre situațiile prevăzute la alin. (1) efectuează transport public de persoane, transport de mărfuri periculoase ori se află în procesul de instruire practică a unor persoane pentru obținerea permisului de conducere, pedeapsa este închisoarea de la 2 la 7 ani.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1151",
+    "text": "Care este ordinea de trecere prin intersecţie a autovehiculelor?",
+    "optiuni": {
+      "A": "autocamionul, autoturismul, motocicleta, troleibuzul;",
+      "B": "troleibuzul, autocamionul, motocicleta, autoturismul;",
+      "C": "autocamionul, autoturismul, troleibuzul, motocicleta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1433.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1152",
+    "text": "Cui trebuie să acorzi prioritate în situaţia dată?",
+    "optiuni": {
+      "A": "vehiculelor care circulă din partea stângă",
+      "B": "vehiculelor care circulă din partea dreaptă",
+      "C": "tuturor vehiculelor"
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1494.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Când semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nÎn situațiile prevăzute la alin. (5), conducătorul de autovehicule, tractoare agricole sau forestiere și tramvaie trebuie să pună în funcțiune luminile de avarie, în mod succesiv, în ordinea opririi și în cazul în care această manevră este imposibilă de blocarea circulației pe sensul de mers.\n---\nContext vizual extras (YOLOv8):\nIndicator Cedează trecerea: Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa se asigure ca pe drumul prioritar nu circula autovehicule, si abia apoi poate sa patrunda in intersectie. Daca pe drumul prioritar circula alte autovehicule, conducatorul auto este obligat sa opreasca pentru a le acorda prioritate.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1153",
+    "text": "Care dintre vehiculele de mai jos nu beneficiază de prioritate de trecere:",
+    "optiuni": {
+      "A": "vehiculele care schimba direcţia de mers spre dreapta, faţă de cele care circulă din sens opus",
+      "B": "vehiculele care traversează o intersecţie pe direcţia înainte şi întâlnesc culoarea verde a semaforului",
+      "C": "vehiculele care coboară faţă de cele care urcă, dacă pe sensul de mers al celor care urcă întâlnesc un obstacol"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nConducătorul de vehicul care circulă pe banda situată lângă marginea părții carosabile trebuie să acorde prioritate de trecere vehiculelor care efectuează transport public de persoane numai atunci când conducătorii acestora semnalizează intenția de a reintra în trafic din stațiile prevăzute cu alveole și s-au asigurat că prin manevra lor nu pun în pericol siguranța celorlalți participanți la trafic.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\nVehiculul care circulă pe un drum public pe care este instalat unul dintre indicatoarele având semnificația: 'Drum cu prioritate', 'Intersecție cu un drum fără prioritate' sau 'Prioritate față de circulația din sens invers' are prioritate de trecere.\n---\nConducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1154",
+    "text": "Care dintre vehicule au prioritate de trecere prin intersecţia prezentată?",
+    "optiuni": {
+      "A": "autocamionul şi autoturismul;",
+      "B": "motocicleta şi tramvaiul;",
+      "C": "motocicleta şi autocamionul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1507.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\nLa ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nVehiculul care circulă pe un drum public pe care este instalat unul dintre indicatoarele având semnificația: 'Drum cu prioritate', 'Intersecție cu un drum fără prioritate' sau 'Prioritate față de circulația din sens invers' are prioritate de trecere.\n---\nConducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nÎn intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.\n---\nCând două vehicule urmează să se întâlnească într-o intersecție dirijată prin indicatoare, venind de pe două drumuri publice unde sunt instalate indicatoare cu aceeași semnificație, vehiculul care vine din dreapta are prioritate.\n---\nPrioritate de trecere - dreptul unui participant la trafic de a trece înaintea celorlalți participanți la trafic cu care se intersectează, în conformitate cu prevederile legale privind circulația pe drumurile publice.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1155",
+    "text": "Trebuie să acordați prioritate autoturismului gri dacă acesta virează la stânga?",
+    "optiuni": {
+      "A": "în funcție de viteza celor două vehicule;",
+      "B": "da;",
+      "C": "nu."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1578.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1156",
+    "text": "Cine are prioritate atunci când două vehicule ce au în funcțiune mijloacele speciale de avertizare luminoase și sonore, se întâlnesc la intrarea într-o intersecție dirijată prin indicatoare și întâlnesc indicatoare ce au aceeași semnificație?",
+    "optiuni": {
+      "A": "vehiculul care circulă din partea dreaptă;",
+      "B": "autovehiculul aparținând poliției;",
+      "C": "autovehiculul aparținând serviciului de ambulanță sau medicină legală."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Au regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cât mai aproape de marginea drumului în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonoră.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1157",
+    "text": "Precizaţi în care dintre situaţii este interzisă staţionarea voluntară a vehiculelor?",
+    "optiuni": {
+      "A": "în dreptul căilor de acces care deservesc proprietăţile alăturate drumurilor publice;",
+      "B": "în zona aglomerată a pieţelor;",
+      "C": "în pante şi în rampe."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "C"
+    ],
+    "paragrafe_context": "Se interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nMarcajul format dintr-o linie în zigzag semnifică interzicerea staționării vehiculelor pe partea drumului pe care este aplicat. O astfel de linie completată cu inscripții precum «Bus», «Taxi» sau «Tram» poate fi folosită pentru semnalizarea stațiilor destinate vehiculelor respective, respectiv a stațiilor de tramvaie care nu sunt prevăzute cu refugiu pentru pietoni.\n---\nMarcajul format dintr-o linie continuă aplicată pe bordura trotuarului sau la marginea părții carosabile interzice staționarea vehiculelor pe acea parte a drumului. Când o asemenea linie însoțește un indicator de interzicere a staționării, aceasta precizează lungimea sectorului de drum pe care este valabilă interzicerea.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1158",
+    "text": "Care dintre autovehicule staţionează greşit?",
+    "optiuni": {
+      "A": "autocamionul;",
+      "B": "autoutilitara;",
+      "C": "ambele autovehicule."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/422.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Viteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1159",
+    "text": "La semnalul nevăzătorilor care traversează strada sunteți obligat:",
+    "optiuni": {
+      "A": "să reduceți viteza vehiculului și să circulați cu atenție;",
+      "B": "să opriți vehiculul;",
+      "C": "să reduceți viteza vehiculului și să claxonați."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Oprirea participanților la trafic este obligatorie și la semnalele date de:\n a) polițiștii de frontieră;\n b) îndrumătorii de circulație ai Ministerului Apărării;\n c) agenții de cale ferată, la trecerile la nivel;\n d) personalul autorizat din zona lucrărilor pe drumurile publice;\n e) membrii patrulelor școlare de circulație, la trecerile pentru pietoni din apropierea unităților de învățământ;\n f) nevăzători, prin ridicarea bastonului alb, atunci când aceștia traversează strada.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e115a",
+    "text": "Este interzisă staţionarea unui autoturism în zona marcajului longitudinal continuu?",
+    "optiuni": {
+      "A": "nu;",
+      "B": "da, în cazul în care conducătorii celorlalte vehicule ar fi determinaţi să treacă peste marcajul respectiv;",
+      "C": "legal, nu este prevăzut."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e115b",
+    "text": "Care dintre autoturisme staționează regulamentar?",
+    "optiuni": {
+      "A": "autoturismul roșu;",
+      "B": "autoturismul albastru;",
+      "C": "ambele autoturisme."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/512.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se exceptează de la obligația de a purta centura de siguranță:\na) conducătorii de autoturisme pe timpul executării manevrei de mers înapoi sau care staționează;\nb) femeile în stare vizibilă de graviditate;\nc) conducătorii de autoturisme care execută servicii de transport public de persoane, în regim de taxi, când transportă pasageri;\nd) persoanele care au certificat medical în care să fie menționată afecțiunea care contraindică purtarea centurii de siguranță;\ne) instructorii auto, pe timpul pregătirii practice a persoanelor care învață să conducă un autovehicul pe drumurile publice sau examinatorul din cadrul autorității competente în timpul desfășurării probelor practice ale examenului pentru obținerea permisului de conducere.\n---\nSe consideră staționare pe partea carosabilă situația în care oricare dintre roțile vehiculului sau remorcii se regăsește pe partea carosabilă.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e115c",
+    "text": "Dacă rămâneţi în pană într-un tunel:",
+    "optiuni": {
+      "A": "opriţi funcţionarea motorului;",
+      "B": "motorul trebuie să funcţioneze, pentru a putea folosi luminile de avarie;",
+      "C": "închideţi autovehiculul şi vă îndepărtaţi de acesta."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Dacă un autovehicul, tractor agricol sau forestier sau o remorcă a rămas în pană pe partea carosabilă a drumului și nu poate fi deplasat în afara acesteia, conducătorul vehiculului este obligat să pună în funcțiune luminile de avarie și să instaleze triunghiurile reflectorizante.\n---\nÎn cazul rămânerii în pană a unui autovehicul, tractor agricol sau forestier ori a remorcii acestuia, conducătorul ansamblului este obligat să îl scoată imediat în afara părții carosabile sau, dacă nu este posibil, să îl deplaseze lângă bordura ori acostament, așezându-l paralel cu axa drumului și luând măsuri pentru remedierea defecțiunilor sau, după caz, de remorcare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e115d",
+    "text": "În care dintre situaţii oprirea este interzisă?",
+    "optiuni": {
+      "A": "în zona de acţiune a indicatorului care interzice depăşirea;",
+      "B": "pe străzile unde circulaţia se desfăşoară în sens unic;",
+      "C": "în dreptul altui vehicul care se află oprit, dacă prin aceasta se stânjeneşte circulaţia a două vehicule venind din sensuri opuse."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A",
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nCirculația rutieră se consideră de asemenea interzisă și în situația în care barierele sau semibarierele sunt în curs de coborâre sau de ridicare.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e115e",
+    "text": "Oprirea vehiculelor este interzisă:",
+    "optiuni": {
+      "A": "pe partea carosabilă a drumurilor naționale;",
+      "B": "în zona de acțiune a indicatorului „Oprirea interzisă“, până la prima intersecție;",
+      "C": "în dreptul căilor de acces care deservesc proprietățile alăturate drumurilor publice."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nEste interzisă circulația autovehiculelor cu mase și/sau gabarite depășite:\na) pe sectoarele de drum unde sunt instalate indicatoare de interzicere, restricție sau limitare a accesului acestora, dacă vehiculul sau ansamblul de vehicule atinge ori depășește lățimea, înălțimea, lungimea sau masele pe axe ori masa totală maximă admisă;\nb) când vizibilitatea este redusă sau partea carosabilă este acoperită cu polei, gheață sau zăpadă.\n---\nPe autostrăzi este interzisă circulația pietonilor, a autovehiculelor cu gabarite sau mase depășite, fără autorizație specială de transport, precum și a bicicletelor, trotinetelor electrice, mopedelor, vehiculelor cu tracțiune animală, animalelor sau vehiculelor trase/împinse cu mâna, tractoarelor agricole sau forestiere și mașinilor autopropulsate pentru lucrări agricole.\n---\nConducătorul de vehicul este interzis să treacă sau să ocolească porțile de gabarit instalate înaintea căilor ferate electrificate, dacă înălțimea sau încărcătura vehiculului ating ori depășesc partea superioară a porții.\n---\nEste interzisă ocuparea trotuarului cu vehicule imobilizate, iar când aceasta este permisă, conform indicatoarelor sau marcajelor, lățimea minimă a trotuarului lăsat la dispoziția pietonilor trebuie să fie de cel puțin un metru.\n---\nSe interzice folosirea triunghiurilor reflectorizante sau a luminilor de avarie în mod nejustificat sau pentru a simula o rămânere în pană în locurile unde oprirea ori staționarea este interzisă.\n---\nSe interzice oprirea voluntară a vehiculor în următoarele situații: în zona de acțiune a indicatorului „Oprirea interzisă”; la trecerile la nivel cu calea ferată curentă și la o distanță mai mică de 50 m înainte și după acestea; pe poduri, pasaje denivelate, viaducte și sub acestea; în curbe și în alte locuri cu vizibilitate redusă sub 50 m; la trecerile pentru pietoni și la mai puțin de 25 m înainte și după acestea; în intersecții, inclusiv cele cu circulație în sens giratoriu, precum și în zona de preselecție unde sunt aplicate marcaje continue, iar în lipsa acestora, la o distanță mai mică de 25 m de colțul intersecției; în stațiile mijloacelor de transport public de persoane, precum și la mai puțin de 25 m înainte și după acestea; în dreptul altui vehicul oprit pe partea carosabilă, dacă prin aceasta se stânjenește circulația a două vehicule venind din sensuri opuse, precum și în dreptul marcajului continuu dacă ceilalți conducători sunt obligați să-l încalce; în locurile în care se împiedică vizibilitatea asupra unui indicator sau semnal luminos; pe sectoarele de drum cu semnificația „Drum îngustat”, „Prioritate pentru circulația din sens invers” sau „Prioritate față de circulația din sens invers”; pe pistele obligatorii pentru pietoni ori biciclete sau pe benzile rezervate unor categorii de vehicule; pe platformele căii ferate industriale sau de tramvai, ori la mai puțin de 50 m de acestea, dacă ar fi stânjenită circulația vehiculelor; pe partea carosabilă a autostrăzilor, drumurilor expres sau a celor europene (E); pe trotuar, cu excepția cazului în care administratorul drumului a amenajat spații corespunzătoare conform art. 144 alin. (2) și (3); pe pistele pentru biciclete și în orice loc în care este interzisă depășirea.\n---\nSe interzice oprirea voluntară a vehiculelor în curbe și în alte locuri cu vizibilitate redusă sub 50 m.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e115f",
+    "text": "Oprirea este interzisă:",
+    "optiuni": {
+      "A": "în zona în care este instalat indicatorul „Staționarea interzisă“;",
+      "B": "în zona indicatorului „Depășirea interzisă“;",
+      "C": "în dreptul căilor de acces care deservesc proprietățile alăturate drumurilor publice."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nEste interzisă aplicarea pe faruri sau semnalizatoare a unor tratamente sau folii care reduc eficiența acestora.\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice folosirea triunghiurilor reflectorizante sau a luminilor de avarie în mod nejustificat sau pentru a simula o rămânere în pană în locurile unde oprirea ori staționarea este interzisă.\n---\nEste interzisă traversarea drumului public prin fața ori spatele unui vehicul oprit, fără asigurare prealabilă.\n---\nEste interzisă lăsarea liberă a mâinilor pe ghidon sau volan, ori deconectarea transmisiei în mers.\n---\nEste interzisă utilizarea nejustificată a luminii interioare, a luminilor decorative ori a sistemelor de iluminare neomologate.\n---\nEste interzisă aplicarea pe parbriz sau geamuri a unor folii sau accesorii care reduc vizibilitatea.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1160",
+    "text": "Oprirea este interzisă:",
+    "optiuni": {
+      "A": "la mai puţin de 25 m de colţul unei intersecţii;",
+      "B": "în zona de acţiune a indicatorului „Staţionarea interzisă“;",
+      "C": "în curbe şi pe sectoarele de drum cu vizibilitate redusă sub 50 m."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nEste interzisă aplicarea pe faruri sau semnalizatoare a unor tratamente sau folii care reduc eficiența acestora.\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice folosirea triunghiurilor reflectorizante sau a luminilor de avarie în mod nejustificat sau pentru a simula o rămânere în pană în locurile unde oprirea ori staționarea este interzisă.\n---\nEste interzisă traversarea drumului public prin fața ori spatele unui vehicul oprit, fără asigurare prealabilă.\n---\nEste interzisă lăsarea liberă a mâinilor pe ghidon sau volan, ori deconectarea transmisiei în mers.\n---\nEste interzisă utilizarea nejustificată a luminii interioare, a luminilor decorative ori a sistemelor de iluminare neomologate.\n---\nEste interzisă aplicarea pe parbriz sau geamuri a unor folii sau accesorii care reduc vizibilitatea.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1161",
+    "text": "În care dintre următoarele situații este interzisă oprirea?",
+    "optiuni": {
+      "A": "pe sectoarele de drum neiluminate;",
+      "B": "la o distanță mai mică de 5 m față de spatele unui tramvai;",
+      "C": "pe drumurile naționale europene."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1162",
+    "text": "Parcarea este permisă:",
+    "optiuni": {
+      "A": "numai în locurile special destinate, semnalizate prin indicatoare sau marcaje;",
+      "B": "pe orice drum public, unde staționarea nu este interzisă, cu condiția să nu se stânjenească circulația celorlalte vehicule;",
+      "C": "numai pe străzile cu o lățime de cel puțin 6 m."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Nu este permisă staționarea pe partea carosabilă, în timpul nopții, a tractoarelor agricole sau forestiere, a remorcilor, a mopedelor, a bicicletelor, a trotinetelor electrice, a vehiculelor cu tracțiune animală ori a celor trase sau împinse cu mâna.\n---\nEste interzisă ocuparea trotuarului cu vehicule imobilizate, iar când aceasta este permisă, conform indicatoarelor sau marcajelor, lățimea minimă a trotuarului lăsat la dispoziția pietonilor trebuie să fie de cel puțin un metru.\n---\nÎn localități, pe drumurile cu sens unic, oprirea sau staționarea voluntară a vehiculelor este permisă și pe partea stângă, dacă rămâne liberă cel puțin o bandă de circulație.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1163",
+    "text": "În ce situație vă este permis să opriți vehiculul sau să staționați pe partea stângă a sensului de mers?",
+    "optiuni": {
+      "A": "pe drumurile cu sens unic, dacă rămâne liberă cel puțin o bandă de circulație;",
+      "B": "pe drumurile secundare;",
+      "C": "pe drumurile cu cel puțin două benzi pe sens."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Nu este permisă oprirea sau staționarea în tuneluri. În situații de urgență sau de pericol conducătorului de autovehicul îi este permisă oprirea sau staționarea numai în locurile special amenajate și semnalizate corespunzător. În caz de imobilizare prelungită a autovehiculului în tunel, conducătorul de vehicul este obligat să oprească motorul.\n---\nÎn localități, pe drumurile cu sens unic, oprirea sau staționarea voluntară a vehiculelor este permisă și pe partea stângă, dacă rămâne liberă cel puțin o bandă de circulație.\n---\n1) În zona rezidențială, semnalizată ca atare, pietonii pot folosi toată lățimea părții carosabile, iar jocul copiilor este permis.\n2) (În zona rezidențială) Conducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\nUn vehicul oprit sau staționat cu toate luminile stinse, în locurile în care acestea sunt permise, atunci când este:\na) pe un drum iluminat, astfel încât vehiculul este vizibil de la o distanță de cel puțin 50 m;\nb) în afara părții carosabile, pe un acostament consolidat;\nc) în localități, la marginea părții carosabile, în cazul motocicletelor cu două roți, fără ataș și a mopedelor, care nu sunt prevăzute cu sursa de energie.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1164",
+    "text": "În care dintre situaţii este interzisă oprirea?",
+    "optiuni": {
+      "A": "la o distanţă mai mică de 25 m înainte şi după indicatorul de staţie pentru mijloacele de transport public de persoane;",
+      "B": "la o distanţă mai mică de 25 m de colţul intersecţiei;",
+      "C": "la o distanţă de 5 m în spatele ultimului vagon de tramvai oprit într-o staţie fără refugiu pentru pietoni."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nCirculația rutieră se consideră de asemenea interzisă și în situația în care barierele sau semibarierele sunt în curs de coborâre sau de ridicare.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1165",
+    "text": "În care dintre situațiile de mai jos este interzisă oprirea vehiculelor pe drumurile publice?",
+    "optiuni": {
+      "A": "în intersecțiile cu sens giratoriu;",
+      "B": "în zona de acțiune a indicatorului „Staționarea interzisă“;",
+      "C": "pe arterele cu un singur sens de circulație."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nEste interzisă circulația pe drumurile publice a vehiculor care nu corespund din punct de vedere tehnic, a celor neasigurate obligatoriu de răspundere civilă auto pentru prejudicii produse terților prin accidente de circulație, a celor pentru care a intervenit suspendarea înmatriculării, precum și a vehiculelor înregistrate al căror termen de valabilitate a inspecției tehnice periodice a expirat ori este anulată.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1166",
+    "text": "Este interzisă oprirea voluntară:",
+    "optiuni": {
+      "A": "pe trecerile pentru pietoni sau la mai puțin de 25 m, înainte și după acestea;",
+      "B": "la o distanță mai mică de 100 m, înainte și după trecerea la nivel cu calea ferată;",
+      "C": "la o distanță mai mică de 50 m, înainte și după stațiile mijloacelor de transport public."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nÎn afara localităților oprirea sau staționarea voluntară a vehiculelor se face în afara părții carosabile, iar atunci când nu este posibil, cât mai aproape de marginea din dreapta a drumului, paralel cu axa acestuia.\n---\nEste interzisă lăsarea liberă a mâinilor pe ghidon sau volan, ori deconectarea transmisiei în mers.\n---\nSe interzice oprirea voluntară a vehiculelor în curbe și în alte locuri cu vizibilitate redusă sub 50 m.\n---\nSe interzice oprirea voluntară a vehiculor în următoarele situații: în zona de acțiune a indicatorului „Oprirea interzisă”; la trecerile la nivel cu calea ferată curentă și la o distanță mai mică de 50 m înainte și după acestea; pe poduri, pasaje denivelate, viaducte și sub acestea; în curbe și în alte locuri cu vizibilitate redusă sub 50 m; la trecerile pentru pietoni și la mai puțin de 25 m înainte și după acestea; în intersecții, inclusiv cele cu circulație în sens giratoriu, precum și în zona de preselecție unde sunt aplicate marcaje continue, iar în lipsa acestora, la o distanță mai mică de 25 m de colțul intersecției; în stațiile mijloacelor de transport public de persoane, precum și la mai puțin de 25 m înainte și după acestea; în dreptul altui vehicul oprit pe partea carosabilă, dacă prin aceasta se stânjenește circulația a două vehicule venind din sensuri opuse, precum și în dreptul marcajului continuu dacă ceilalți conducători sunt obligați să-l încalce; în locurile în care se împiedică vizibilitatea asupra unui indicator sau semnal luminos; pe sectoarele de drum cu semnificația „Drum îngustat”, „Prioritate pentru circulația din sens invers” sau „Prioritate față de circulația din sens invers”; pe pistele obligatorii pentru pietoni ori biciclete sau pe benzile rezervate unor categorii de vehicule; pe platformele căii ferate industriale sau de tramvai, ori la mai puțin de 50 m de acestea, dacă ar fi stânjenită circulația vehiculelor; pe partea carosabilă a autostrăzilor, drumurilor expres sau a celor europene (E); pe trotuar, cu excepția cazului în care administratorul drumului a amenajat spații corespunzătoare conform art. 144 alin. (2) și (3); pe pistele pentru biciclete și în orice loc în care este interzisă depășirea.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1167",
+    "text": "Care dintre autoturisme staționează greșit?",
+    "optiuni": {
+      "A": "autoturismul alb;",
+      "B": "autoturismul roșu;",
+      "C": "ambele autoturisme."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/718.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se exceptează de la obligația de a purta centura de siguranță:\na) conducătorii de autoturisme pe timpul executării manevrei de mers înapoi sau care staționează;\nb) femeile în stare vizibilă de graviditate;\nc) conducătorii de autoturisme care execută servicii de transport public de persoane, în regim de taxi, când transportă pasageri;\nd) persoanele care au certificat medical în care să fie menționată afecțiunea care contraindică purtarea centurii de siguranță;\ne) instructorii auto, pe timpul pregătirii practice a persoanelor care învață să conducă un autovehicul pe drumurile publice sau examinatorul din cadrul autorității competente în timpul desfășurării probelor practice ale examenului pentru obținerea permisului de conducere.\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1168",
+    "text": "Este permisă oprirea în dreptul staţiei de tramvai prevăzută cu refugiu pentru pietoni?",
+    "optiuni": {
+      "A": "da, când tramvaiul nu se află în staţie;",
+      "B": "da, deoarece în astfel de staţii este permisă depăşirea;",
+      "C": "nu."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În cazul în care tramvaiul este oprit într-o stație fără refugiu pentru pietoni, vehiculele trebuie să oprească în ordinea sosirii, în spatele acestuia, și să își reia deplasarea numai după ce ușile tramvaiului au fost închise și s-au asigurat că nu pun în pericol siguranța pietonilor angajați în traversarea drumului public.\n---\nConducătorul de autovehicul sau de tramvai care efectuează transport public de persoane este obligat:\n a) să oprească pentru urcarea sau coborârea pasagerilor numai în stațiile semnalizate ca atare, cu excepția transportului public de persoane în regim de taxi. Dacă stația este prevăzută cu alveolă, oprirea se va face numai în interiorul acesteia;\n b) să deschidă ușile numai după ce vehiculul a fost oprit în stație;\n c) să închidă ușile numai după ce pasagerii au coborât ori au urcat;\n d) să repună în mișcare autovehiculul sau tramvaiul din stație după ce a semnalizat intenția și s-a asigurat că poate efectua în siguranță această manevră.\n---\nConducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1169",
+    "text": "Este interzisă staționarea în dreptul marcajului longitudinal continuu, aplicat între sensurile de circulație?",
+    "optiuni": {
+      "A": "nu;",
+      "B": "da, atunci când conducătorii celorlalte vehicule ar fi obligați astfel să treacă peste marcajul respectiv;",
+      "C": "legal, nu este prevăzut."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nMarcajul format dintr-o linie continuă aplicată pe bordura trotuarului sau la marginea părții carosabile interzice staționarea vehiculelor pe acea parte a drumului. Când o asemenea linie însoțește un indicator de interzicere a staționării, aceasta precizează lungimea sectorului de drum pe care este valabilă interzicerea.\n---\nMarcajele pentru interzicerea staționării se pot realiza:\na) prin linie continuă galbenă aplicată pe bordura trotuarului sau pe banda de consolidare a acostamentului, dublând marcajul de delimitare a părții carosabile spre exteriorul platformei drumului;\nb) printr-o linie în zig-zag la marginea părții carosabile.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e116a",
+    "text": "În această situație, cum puteți staționa regulamentar?",
+    "optiuni": {
+      "A": "cu toate luminile stinse;",
+      "B": "numai cu luminile de poziție;",
+      "C": "numai cu luminile de avarie."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/780.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e116b",
+    "text": "Oprirea voluntară a vehiculelor este interzisă:",
+    "optiuni": {
+      "A": "pe drumurile cu sens unic;",
+      "B": "în zonele rezidențiale semnalizate ca atare;",
+      "C": "la mai puțin de 25 m înainte și după stațiile mijloacelor de transport public de persoane."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice oprirea voluntară a vehiculor în următoarele situații: în zona de acțiune a indicatorului „Oprirea interzisă”; la trecerile la nivel cu calea ferată curentă și la o distanță mai mică de 50 m înainte și după acestea; pe poduri, pasaje denivelate, viaducte și sub acestea; în curbe și în alte locuri cu vizibilitate redusă sub 50 m; la trecerile pentru pietoni și la mai puțin de 25 m înainte și după acestea; în intersecții, inclusiv cele cu circulație în sens giratoriu, precum și în zona de preselecție unde sunt aplicate marcaje continue, iar în lipsa acestora, la o distanță mai mică de 25 m de colțul intersecției; în stațiile mijloacelor de transport public de persoane, precum și la mai puțin de 25 m înainte și după acestea; în dreptul altui vehicul oprit pe partea carosabilă, dacă prin aceasta se stânjenește circulația a două vehicule venind din sensuri opuse, precum și în dreptul marcajului continuu dacă ceilalți conducători sunt obligați să-l încalce; în locurile în care se împiedică vizibilitatea asupra unui indicator sau semnal luminos; pe sectoarele de drum cu semnificația „Drum îngustat”, „Prioritate pentru circulația din sens invers” sau „Prioritate față de circulația din sens invers”; pe pistele obligatorii pentru pietoni ori biciclete sau pe benzile rezervate unor categorii de vehicule; pe platformele căii ferate industriale sau de tramvai, ori la mai puțin de 50 m de acestea, dacă ar fi stânjenită circulația vehiculelor; pe partea carosabilă a autostrăzilor, drumurilor expres sau a celor europene (E); pe trotuar, cu excepția cazului în care administratorul drumului a amenajat spații corespunzătoare conform art. 144 alin. (2) și (3); pe pistele pentru biciclete și în orice loc în care este interzisă depășirea.\n---\nÎn afara localităților oprirea sau staționarea voluntară a vehiculelor se face în afara părții carosabile, iar atunci când nu este posibil, cât mai aproape de marginea din dreapta a drumului, paralel cu axa acestuia.\n---\nSe interzice oprirea voluntară a vehiculelor în curbe și în alte locuri cu vizibilitate redusă sub 50 m.\n---\nÎn localități, pe drumurile cu sens unic, oprirea sau staționarea voluntară a vehiculelor este permisă și pe partea stângă, dacă rămâne liberă cel puțin o bandă de circulație.\n---\nConducătorul de vehicul este interzis să treacă sau să ocolească porțile de gabarit instalate înaintea căilor ferate electrificate, dacă înălțimea sau încărcătura vehiculului ating ori depășesc partea superioară a porții.\n---\nEste interzisă circulația autovehiculelor cu mase și/sau gabarite depășite:\na) pe sectoarele de drum unde sunt instalate indicatoare de interzicere, restricție sau limitare a accesului acestora, dacă vehiculul sau ansamblul de vehicule atinge ori depășește lățimea, înălțimea, lungimea sau masele pe axe ori masa totală maximă admisă;\nb) când vizibilitatea este redusă sau partea carosabilă este acoperită cu polei, gheață sau zăpadă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e116c",
+    "text": "Poate staţiona noaptea, pe un drum public, remorca unui autoturism?",
+    "optiuni": {
+      "A": "nu;",
+      "B": "da, dacă drumul este iluminat;",
+      "C": "da, dacă aceasta este semnalizată cu triunghiuri reflectorizante."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Punerea în circulație sau conducerea pe drumurile publice a unui autovehicul, a unui tramvai sau a unui tractor agricol ori forestier neînmatriculat sau neînregistrat, potrivit legii, se pedepsește cu închisoare de la unu la 3 ani sau cu amendă.\n---\nConducerea pe drumurile publice a unui autovehicul, a unui tramvai sau a unui tractor agricol sau forestier ori tractarea unei remorci ale cărei plăcuțe cu numărul de înmatriculare sau de înregistrare au fost retrase ori a unui vehicul înmatriculat în alt stat, care nu are drept de circulație în România, se pedepsește cu închisoare de la 6 luni la 2 ani sau cu amendă.\n---\nSe consideră oprire imobilizarea voluntară a unui vehicul pe drumul public, pe o durată de cel mult 5 minute. Peste aceasta durată, imobilizarea se consideră staționare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e116d",
+    "text": "În care dintre situațiile de mai jos este interzisă oprirea vehiculelor pe drumurile publice?",
+    "optiuni": {
+      "A": "pe partea carosabilă a drumurilor naționale;",
+      "B": "la o distanță mai mică de 25 m înainte și după indicatorul stației pentru mijloacele de transport public de persoane;",
+      "C": "la mai puțin de 50 m de cel mai apropiat colț al intersecției."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nEste interzisă circulația pe drumurile publice a vehiculor care nu corespund din punct de vedere tehnic, a celor neasigurate obligatoriu de răspundere civilă auto pentru prejudicii produse terților prin accidente de circulație, a celor pentru care a intervenit suspendarea înmatriculării, precum și a vehiculelor înregistrate al căror termen de valabilitate a inspecției tehnice periodice a expirat ori este anulată.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e116e",
+    "text": "Unde vă este permisă staționarea pe partea stângă în direcția de mers?",
+    "optiuni": {
+      "A": "pe străzile cu sens unic;",
+      "B": "în nicio situație;",
+      "C": "pe șoselele cu bandă laterală consolidată."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În localități, pe drumurile cu sens unic, oprirea sau staționarea voluntară a vehiculelor este permisă și pe partea stângă, dacă rămâne liberă cel puțin o bandă de circulație.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e116f",
+    "text": "În care dintre situaţiile prezentate mai jos nu este permisă oprirea voluntară a vehiculelor?",
+    "optiuni": {
+      "A": "la o distanţă mai mică de 50 m de trecerea la nivel cu calea ferată;",
+      "B": "pe pistele obligatorii pentru pietoni;",
+      "C": "pe platforma căii ferate sau de tramvai, dacă prin aceasta este stânjenită circulaţia vehiculelor pe şine."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nConducătorul vehiculului este direct răspunzător în situația în care persoane în vehicul nu este vizibilă cu ocazia dispunerii sau punerii în executare a măsurii tehnico-administrative.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1170",
+    "text": "Este permisă parcarea autoturismelor pe trotuar, dacă se asigură spaţiu de cel puţin 1 m pentru circulaţia pietonilor ?",
+    "optiuni": {
+      "A": "nu, întrucât trotuarul este rezervat în exclusivitate deplasării pietonilor;",
+      "B": "da, dar numai în acele zone unde există reglementări în acest sens;",
+      "C": "da, când vehiculul trebuie scos de pe partea carosabilă pentru a nu stânjeni autovehiculele aflate în mişcare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Este interzisă ocuparea trotuarului cu vehicule imobilizate, iar când aceasta este permisă, conform indicatoarelor sau marcajelor, lățimea minimă a trotuarului lăsat la dispoziția pietonilor trebuie să fie de cel puțin un metru.\n---\nNu este permisă staționarea pe partea carosabilă, în timpul nopții, a tractoarelor agricole sau forestiere, a remorcilor, a mopedelor, a bicicletelor, a trotinetelor electrice, a vehiculelor cu tracțiune animală ori a celor trase sau împinse cu mâna.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1171",
+    "text": "Oprirea voluntară este interzisă:",
+    "optiuni": {
+      "A": "în intersecții;",
+      "B": "pe drumurile cu prioritate;",
+      "C": "pe sectoarele de drum neiluminate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nSe interzice oprirea voluntară a vehiculor în următoarele situații: în zona de acțiune a indicatorului „Oprirea interzisă”; la trecerile la nivel cu calea ferată curentă și la o distanță mai mică de 50 m înainte și după acestea; pe poduri, pasaje denivelate, viaducte și sub acestea; în curbe și în alte locuri cu vizibilitate redusă sub 50 m; la trecerile pentru pietoni și la mai puțin de 25 m înainte și după acestea; în intersecții, inclusiv cele cu circulație în sens giratoriu, precum și în zona de preselecție unde sunt aplicate marcaje continue, iar în lipsa acestora, la o distanță mai mică de 25 m de colțul intersecției; în stațiile mijloacelor de transport public de persoane, precum și la mai puțin de 25 m înainte și după acestea; în dreptul altui vehicul oprit pe partea carosabilă, dacă prin aceasta se stânjenește circulația a două vehicule venind din sensuri opuse, precum și în dreptul marcajului continuu dacă ceilalți conducători sunt obligați să-l încalce; în locurile în care se împiedică vizibilitatea asupra unui indicator sau semnal luminos; pe sectoarele de drum cu semnificația „Drum îngustat”, „Prioritate pentru circulația din sens invers” sau „Prioritate față de circulația din sens invers”; pe pistele obligatorii pentru pietoni ori biciclete sau pe benzile rezervate unor categorii de vehicule; pe platformele căii ferate industriale sau de tramvai, ori la mai puțin de 50 m de acestea, dacă ar fi stânjenită circulația vehiculelor; pe partea carosabilă a autostrăzilor, drumurilor expres sau a celor europene (E); pe trotuar, cu excepția cazului în care administratorul drumului a amenajat spații corespunzătoare conform art. 144 alin. (2) și (3); pe pistele pentru biciclete și în orice loc în care este interzisă depășirea.\n---\nÎn afara localităților oprirea sau staționarea voluntară a vehiculelor se face în afara părții carosabile, iar atunci când nu este posibil, cât mai aproape de marginea din dreapta a drumului, paralel cu axa acestuia.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1172",
+    "text": "Oprirea voluntară a vehiculelor este interzisă:",
+    "optiuni": {
+      "A": "pe platforma căii ferate sau de tramvai, dacă prin aceasta este stânjenită circulația vehiculelor pe șine;",
+      "B": "la mai puțin de 50 m de trecerile pentru pietoni;",
+      "C": "la o distanță mai mică de 150 m de trecerea la nivel cu calea ferată."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice oprirea voluntară a vehiculor în următoarele situații: în zona de acțiune a indicatorului „Oprirea interzisă”; la trecerile la nivel cu calea ferată curentă și la o distanță mai mică de 50 m înainte și după acestea; pe poduri, pasaje denivelate, viaducte și sub acestea; în curbe și în alte locuri cu vizibilitate redusă sub 50 m; la trecerile pentru pietoni și la mai puțin de 25 m înainte și după acestea; în intersecții, inclusiv cele cu circulație în sens giratoriu, precum și în zona de preselecție unde sunt aplicate marcaje continue, iar în lipsa acestora, la o distanță mai mică de 25 m de colțul intersecției; în stațiile mijloacelor de transport public de persoane, precum și la mai puțin de 25 m înainte și după acestea; în dreptul altui vehicul oprit pe partea carosabilă, dacă prin aceasta se stânjenește circulația a două vehicule venind din sensuri opuse, precum și în dreptul marcajului continuu dacă ceilalți conducători sunt obligați să-l încalce; în locurile în care se împiedică vizibilitatea asupra unui indicator sau semnal luminos; pe sectoarele de drum cu semnificația „Drum îngustat”, „Prioritate pentru circulația din sens invers” sau „Prioritate față de circulația din sens invers”; pe pistele obligatorii pentru pietoni ori biciclete sau pe benzile rezervate unor categorii de vehicule; pe platformele căii ferate industriale sau de tramvai, ori la mai puțin de 50 m de acestea, dacă ar fi stânjenită circulația vehiculelor; pe partea carosabilă a autostrăzilor, drumurilor expres sau a celor europene (E); pe trotuar, cu excepția cazului în care administratorul drumului a amenajat spații corespunzătoare conform art. 144 alin. (2) și (3); pe pistele pentru biciclete și în orice loc în care este interzisă depășirea.\n---\nÎn afara localităților oprirea sau staționarea voluntară a vehiculelor se face în afara părții carosabile, iar atunci când nu este posibil, cât mai aproape de marginea din dreapta a drumului, paralel cu axa acestuia.\n---\nSe interzice oprirea voluntară a vehiculelor în curbe și în alte locuri cu vizibilitate redusă sub 50 m.\n---\nÎn localități, pe drumurile cu sens unic, oprirea sau staționarea voluntară a vehiculelor este permisă și pe partea stângă, dacă rămâne liberă cel puțin o bandă de circulație.\n---\nConducătorul de vehicul este interzis să treacă sau să ocolească porțile de gabarit instalate înaintea căilor ferate electrificate, dacă înălțimea sau încărcătura vehiculului ating ori depășesc partea superioară a porții.\n---\nEste interzisă circulația autovehiculelor cu mase și/sau gabarite depășite:\na) pe sectoarele de drum unde sunt instalate indicatoare de interzicere, restricție sau limitare a accesului acestora, dacă vehiculul sau ansamblul de vehicule atinge ori depășește lățimea, înălțimea, lungimea sau masele pe axe ori masa totală maximă admisă;\nb) când vizibilitatea este redusă sau partea carosabilă este acoperită cu polei, gheață sau zăpadă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1173",
+    "text": "Este permisă oprirea în situația dată?",
+    "optiuni": {
+      "A": "da, deoarece stația de tramvai este prevăzută cu refugiu pentru pietoni;",
+      "B": "nu;",
+      "C": "da, dacă în stație nu se află niciun tramvai."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/909.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Nu este permisă oprirea sau staționarea în tuneluri. În situații de urgență sau de pericol conducătorului de autovehicul îi este permisă oprirea sau staționarea numai în locurile special amenajate și semnalizate corespunzător. În caz de imobilizare prelungită a autovehiculului în tunel, conducătorul de vehicul este obligat să oprească motorul.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1174",
+    "text": "Pe ce drumuri sunt permise oprirea și staționarea vehiculelor și pe partea stângă, în sensul de mers?",
+    "optiuni": {
+      "A": "pe drumurile cu trafic redus;",
+      "B": "pe drumurile cu sens unic, dacă rămâne liberă cel puțin o bandă de circulație;",
+      "C": "pe orice drum."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În localități, pe drumurile cu sens unic, oprirea sau staționarea voluntară a vehiculelor este permisă și pe partea stângă, dacă rămâne liberă cel puțin o bandă de circulație.\n---\nUn vehicul oprit sau staționat cu toate luminile stinse, în locurile în care acestea sunt permise, atunci când este:\na) pe un drum iluminat, astfel încât vehiculul este vizibil de la o distanță de cel puțin 50 m;\nb) în afara părții carosabile, pe un acostament consolidat;\nc) în localități, la marginea părții carosabile, în cazul motocicletelor cu două roți, fără ataș și a mopedelor, care nu sunt prevăzute cu sursa de energie.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1175",
+    "text": "Ce obligaţie are conducătorul unui autovehicul imobilizat într-un pasaj subteran?",
+    "optiuni": {
+      "A": "să oprească motorul şi să acţioneze luminile de avarie;",
+      "B": "să tracteze autovehiculul până la ieşirea din pasajul subteran;",
+      "C": "să anunţe imediat pompierii în legătură cu locul în care se află."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În cazul imobilizării unui vehicul pe calea ferată, conducătorul acestuia este obligat să scoată imediat pasagerii din vehicul și să elibereze platforma căii ferate, iar când nu este posibil, să semnalizeze prezența vehiculului cu orice mijloc adecvat.\n---\nNerespectarea obligației de a acționa frâna de ajutor, de a cupla într-o treaptă de viteză inferioară sau în cea de parcare dacă autovehiculul are transmisie automată, atunci când conducătorul autovehiculului imobilizat pe drum public se îndepărtează de acesta atrage 3 puncte de penalizare.\n---\nÎn cazul imobilizării involuntare a autovehiculului, tractorului agricol sau forestier în pasaje subterane sau în tuneluri, conducătorul acestuia este obligat să oprească funcționarea motorului.\n---\nConducătorul unui vehicul implicat într-un accident de circulație în urma căruia a rezultat decesul sau rănirea unei persoane este obligat să ia măsuri de anunțare imediată a poliției, să nu modifice sau să șteargă urmele accidentului și să nu părăsească locul faptei.\n---\nConducătorul de autovehicul care transportă un copil în condițiile prevăzute la alin. (1^8) are obligația să aibă asupra sa certificatul medical, în conținutul căruia trebuie să fie menționată durata de valabilitate a acestuia. Dispozițiile prevăzute la alin. (1^6) se aplică în mod corespunzător.\n---\nConstituie contravenții și se sancționează cu amenda prevăzută în clasa I de sancțiuni următoarele fapte săvârșite de către persoane fizice:\n1. conducerea unui autovehicul în mod nejustificat cu o viteză cu cel puțin 10 km/h sub limita minimă obligatorie stabilită pe tronsonul de drum respectiv;\n2. nerespectarea obligației de semnalizare a manevrei de schimbare a direcției de mers;\n3. nerespectarea de către pietoni a normelor privind circulația pe drumurile publice;\n4. neîndeplinirea obligației proprietarului sau a utilizatorului de autovehicul să solicite documentul de constatare a avariilor în urma unui accident;\n5. nerespectarea normelor privind circulația pe drumurile publice de către coloanele militare, grupuri organizate autorizate și cortegii;\n6. nerespectarea semnificației semnalului luminos intermediar de culoare galbenă al semafoarelor cu săgeți;\n7. conducerea unui vehicul avariat peste termenul de 30 de zile de la data eliberării documentului de constatare a avariei;\n8. nerespectarea obligației pasagerilor aflați într-un autovehicul să poarte centura sau dispozitivele de siguranță omologate;\n9. nerespectarea obligației de către persoana transportată pe motocicletă de a purta casca de protecție omologată;\n10. nerespectarea obligației conducătorului de vehicul, cu excepția transportului public de persoane prin servicii regulate, de a lăsa liber tramvaiul la apropierea acestuia, când drumul are o singură bandă;\n11. nerespectarea regulilor de circulație de către conducătorii de animale;\n12. nerespectarea obligației de a aplica semnul distinctiv pe vehiculele agricole sau forestiere conduse de persoane cu mai puțin de un an vechime de la dobândirea permisului;\n13. lăsarea liberă în timpul conducerii a volanului, ghidonului sau manetei de comandă;\n14. nerespectarea de către pasageri sau călători a obligației de a nu deschide ușile în mers;\n15. nerespectarea semnificației culorii galbene a semaforului;\n16. conducerea unui vehicul ale cărui plăcuțe sunt deteriorate sau murdare;\n17. conducerea unui vehicul pe ale cărui plăcuțe sunt aplicate folii care nu permit citirea lor;\n18. conducerea pe drumurile publice a unui vehicul cu defecțiuni la sistemele de frânare, direcție, luminare sau avertizare sonoră.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1176",
+    "text": "Este permisă staționarea vehiculelor în zona de acțiune a indicatorului „Drum îngustat“?",
+    "optiuni": {
+      "A": "da;",
+      "B": "nu;",
+      "C": "legea nu prevede nimic cu privire la acest aspect."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1177",
+    "text": "Cum veţi parca regulamentar într-o piaţă cu sens giratoriu?",
+    "optiuni": {
+      "A": "paralel cu bordura trotuarului şi cât mai aproape de aceasta;",
+      "B": "parţial pe trotuar;",
+      "C": "în acest loc nu este permisă parcarea."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Intersecție cu sens giratoriu - intersecție dirijată, semnalizată ca atare, prevăzută cu una sau mai multe benzi de circulație, în care circulația se desfășoară într-o singură direcție în jurul unei zone centrale.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1178",
+    "text": "Este permisă staționarea în dreptul căilor de acces care deservesc proprietățile alăturate drumurilor publice?",
+    "optiuni": {
+      "A": "legal, nu este prevăzut;",
+      "B": "da, dar numai a autovehiculelor având o masă totală maximă autorizată de până la 1,5 t;",
+      "C": "nu, deoarece staționarea în astfel de locuri este interzisă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1179",
+    "text": "Se interzice oprirea voluntară:",
+    "optiuni": {
+      "A": "la mai puțin de 100 m de calea ferată industrială;",
+      "B": "pe trotuar;",
+      "C": "în zona de acțiune a indicatorului „Prioritate față de circulația din sens invers\"."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice oprirea voluntară a vehiculelor în curbe și în alte locuri cu vizibilitate redusă sub 50 m.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nSe interzice oprirea voluntară a vehiculor în următoarele situații: în zona de acțiune a indicatorului „Oprirea interzisă”; la trecerile la nivel cu calea ferată curentă și la o distanță mai mică de 50 m înainte și după acestea; pe poduri, pasaje denivelate, viaducte și sub acestea; în curbe și în alte locuri cu vizibilitate redusă sub 50 m; la trecerile pentru pietoni și la mai puțin de 25 m înainte și după acestea; în intersecții, inclusiv cele cu circulație în sens giratoriu, precum și în zona de preselecție unde sunt aplicate marcaje continue, iar în lipsa acestora, la o distanță mai mică de 25 m de colțul intersecției; în stațiile mijloacelor de transport public de persoane, precum și la mai puțin de 25 m înainte și după acestea; în dreptul altui vehicul oprit pe partea carosabilă, dacă prin aceasta se stânjenește circulația a două vehicule venind din sensuri opuse, precum și în dreptul marcajului continuu dacă ceilalți conducători sunt obligați să-l încalce; în locurile în care se împiedică vizibilitatea asupra unui indicator sau semnal luminos; pe sectoarele de drum cu semnificația „Drum îngustat”, „Prioritate pentru circulația din sens invers” sau „Prioritate față de circulația din sens invers”; pe pistele obligatorii pentru pietoni ori biciclete sau pe benzile rezervate unor categorii de vehicule; pe platformele căii ferate industriale sau de tramvai, ori la mai puțin de 50 m de acestea, dacă ar fi stânjenită circulația vehiculelor; pe partea carosabilă a autostrăzilor, drumurilor expres sau a celor europene (E); pe trotuar, cu excepția cazului în care administratorul drumului a amenajat spații corespunzătoare conform art. 144 alin. (2) și (3); pe pistele pentru biciclete și în orice loc în care este interzisă depășirea.\n---\nSe interzice staționarea voluntară a vehiculelor în pante și în rampe.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e117a",
+    "text": "Autoturismul staționează regulamentar?",
+    "optiuni": {
+      "A": "da, deoarece în zonă nu sunt restricții de circulație;",
+      "B": "nu, deoarece se află pe un drum național;",
+      "C": "nu, deoarece obligă camionul la depășirea prin triplare."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1001.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e117b",
+    "text": "În care dintre situații este interzisă staționarea voluntară a vehiculelor?",
+    "optiuni": {
+      "A": "în dreptul căilor de acces care deservesc proprietățile alăturate drumurilor publice;",
+      "B": "în zona rezidențială semnalizată corespunzător;",
+      "C": "pe drumurile județene."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nÎn afara localităților oprirea sau staționarea voluntară a vehiculelor se face în afara părții carosabile, iar atunci când nu este posibil, cât mai aproape de marginea din dreapta a drumului, paralel cu axa acestuia.\n---\nMarcajul format dintr-o linie în zigzag semnifică interzicerea staționării vehiculelor pe partea drumului pe care este aplicat. O astfel de linie completată cu inscripții precum «Bus», «Taxi» sau «Tram» poate fi folosită pentru semnalizarea stațiilor destinate vehiculelor respective, respectiv a stațiilor de tramvaie care nu sunt prevăzute cu refugiu pentru pietoni.\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe consideră staționare pe partea carosabilă situația în care oricare dintre roțile vehiculului sau remorcii se regăsește pe partea carosabilă.\n---\nEste interzisă circulația pe drumurile publice a vehiculor care nu corespund din punct de vedere tehnic, a celor neasigurate obligatoriu de răspundere civilă auto pentru prejudicii produse terților prin accidente de circulație, a celor pentru care a intervenit suspendarea înmatriculării, precum și a vehiculelor înregistrate al căror termen de valabilitate a inspecției tehnice periodice a expirat ori este anulată.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e117c",
+    "text": "Este interzisă staționarea pe un drum public prevăzut cu marcaj longitudinal continuu aplicat între sensurile de circulație?",
+    "optiuni": {
+      "A": "nu, dacă nu obligă celelalte vehicule să treacă peste marcajul continuu;",
+      "B": "nu există prevedere legală;",
+      "C": "da, deoarece este interzis prin lege."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1017.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Marcajul format dintr-o linie continuă aplicată pe bordura trotuarului sau la marginea părții carosabile interzice staționarea vehiculelor pe acea parte a drumului. Când o asemenea linie însoțește un indicator de interzicere a staționării, aceasta precizează lungimea sectorului de drum pe care este valabilă interzicerea.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e117d",
+    "text": "Oprirea este interzisă:",
+    "optiuni": {
+      "A": "la mai puţin de 50 m de colţul intersecţiei",
+      "B": "în locul în care se împiedică vizibilitatea unui semnal luminos",
+      "C": "în curbe cu vizibilitatea sub 100 m."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nEste interzisă aplicarea pe faruri sau semnalizatoare a unor tratamente sau folii care reduc eficiența acestora.\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice folosirea triunghiurilor reflectorizante sau a luminilor de avarie în mod nejustificat sau pentru a simula o rămânere în pană în locurile unde oprirea ori staționarea este interzisă.\n---\nEste interzisă traversarea drumului public prin fața ori spatele unui vehicul oprit, fără asigurare prealabilă.\n---\nEste interzisă lăsarea liberă a mâinilor pe ghidon sau volan, ori deconectarea transmisiei în mers.\n---\nEste interzisă utilizarea nejustificată a luminii interioare, a luminilor decorative ori a sistemelor de iluminare neomologate.\n---\nEste interzisă aplicarea pe parbriz sau geamuri a unor folii sau accesorii care reduc vizibilitatea.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e117e",
+    "text": "Vă este permis să parcați vehiculul pe drumurile publice:",
+    "optiuni": {
+      "A": "în locurile special amenajate și semnalizate prin indicatoare și marcaje rutiere;",
+      "B": "acolo unde nu există parcări amenajate;",
+      "C": "acolo unde circulația în ambele sensuri se desfășoară fără dificultate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducerea pe drumurile publice a unui vehicul pentru care legea prevede obligativitatea deținerii permisului de conducere de către o persoană al cărei permis de conducere este necorespunzător categoriei din care face parte vehiculul respectiv ori al cărei permis i-a fost retras sau anulat ori căreia exercitarea dreptului de a conduce i-a fost suspendată sau care nu are dreptul de a conduce autovehicule, tramvaie ori tractoare agricole sau forestiere în România se pedepsește cu închisoare de la 6 luni la 3 ani sau cu amendă.\n---\nVehiculele și animalele, atunci când circulă pe drumurile publice pe care le este permis accesul, trebuie conduse pe partea din dreapta a drumului public, în sensul de circulație, cât mai aproape de marginea părții carosabile, cu respectarea semnificației semnalizării rutiere și a regulilor de circulație.\n---\nÎnainte de a urma cursurile practice de învățare a conducerii unui vehicul pe drumurile publice, solicitantul trebuie să facă dovada pregătirii teoretice, într-o unitate autorizată, în vederea obținerii permisului de conducere.\n---\nLa solicitarea poliției rutiere sau a poliției locale, proprietarul sau deținătorul mandatat al unui vehicul este obligat să comunice acesteia, în termenul indicat în cuprinsul solicitării, datele de identificare ale persoanei căreia i-a încredințat vehiculul pentru a-l conduce pe drumurile publice. Poliția locală poate solicita aceste date de identificare numai în legătură cu exercitarea competențelor în domeniul circulației pe drumurile publice.\n---\nDacă un drum este prevăzut cu o bandă destinată vehiculelor lente sau transportului public de persoane, semnalizată ca atare, acestea vor circula numai pe banda respectivă.\n---\nPe drumurile publice înguste și/sau cu declivitate, unde trecerea vehiculelor care circulă din sensuri opuse, unele pe lângă altele, este imposibilă sau periculoasă, se procedează după cum urmează:\n---\nÎn localități, pe drumurile cu sens unic, oprirea sau staționarea voluntară a vehiculelor este permisă și pe partea stângă, dacă rămâne liberă cel puțin o bandă de circulație.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nConducerea pe drumurile publice a unui vehicul pentru care legea prevede obligativitatea deținerii permisului de conducere de către o persoană care are o îmbibație alcoolică de peste 0,80 g/l alcool pur în sânge se pedepsește cu închisoare de la unu la 5 ani sau cu amendă.\n---\nConducerea pe drumurile publice a unui vehicul pentru care legea prevede obligativitatea deținerii permisului de conducere de către o persoană care are o îmbibație alcoolică de peste 0,80 g/l alcool pur în sânge se pedepsește cu închisoare de la unu la 5 ani sau cu amendă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e117f",
+    "text": "În care dintre situații oprirea este interzisă:",
+    "optiuni": {
+      "A": "pe străzile cu sens unic;",
+      "B": "în intersecțiile cu sens giratoriu;",
+      "C": "în dreptul indicatorului „Parcarea interzisă\"."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nCirculația rutieră se consideră de asemenea interzisă și în situația în care barierele sau semibarierele sunt în curs de coborâre sau de ridicare.\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1180",
+    "text": "Oprirea voluntară a unui vehicul este interzisă:",
+    "optiuni": {
+      "A": "pe drumurile cu un singur sens de circulație;",
+      "B": "pe drumurile cu o lățime mai mică de 6 m;",
+      "C": "în locurile unde s-ar împiedica observarea unui indicator sau a unui semnal luminos."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nSe interzice oprirea voluntară a vehiculor în următoarele situații: în zona de acțiune a indicatorului „Oprirea interzisă”; la trecerile la nivel cu calea ferată curentă și la o distanță mai mică de 50 m înainte și după acestea; pe poduri, pasaje denivelate, viaducte și sub acestea; în curbe și în alte locuri cu vizibilitate redusă sub 50 m; la trecerile pentru pietoni și la mai puțin de 25 m înainte și după acestea; în intersecții, inclusiv cele cu circulație în sens giratoriu, precum și în zona de preselecție unde sunt aplicate marcaje continue, iar în lipsa acestora, la o distanță mai mică de 25 m de colțul intersecției; în stațiile mijloacelor de transport public de persoane, precum și la mai puțin de 25 m înainte și după acestea; în dreptul altui vehicul oprit pe partea carosabilă, dacă prin aceasta se stânjenește circulația a două vehicule venind din sensuri opuse, precum și în dreptul marcajului continuu dacă ceilalți conducători sunt obligați să-l încalce; în locurile în care se împiedică vizibilitatea asupra unui indicator sau semnal luminos; pe sectoarele de drum cu semnificația „Drum îngustat”, „Prioritate pentru circulația din sens invers” sau „Prioritate față de circulația din sens invers”; pe pistele obligatorii pentru pietoni ori biciclete sau pe benzile rezervate unor categorii de vehicule; pe platformele căii ferate industriale sau de tramvai, ori la mai puțin de 50 m de acestea, dacă ar fi stânjenită circulația vehiculelor; pe partea carosabilă a autostrăzilor, drumurilor expres sau a celor europene (E); pe trotuar, cu excepția cazului în care administratorul drumului a amenajat spații corespunzătoare conform art. 144 alin. (2) și (3); pe pistele pentru biciclete și în orice loc în care este interzisă depășirea.\n---\nEste interzisă traversarea drumului public prin fața ori spatele unui vehicul oprit, fără asigurare prealabilă.\n---\nSe consideră oprire imobilizarea voluntară a unui vehicul pe drumul public, pe o durată de cel mult 5 minute. Peste aceasta durată, imobilizarea se consideră staționare.\n---\nPătrunderea unui vehicul într-o intersecție este interzisă dacă prin aceasta se produce blocarea intersecției.\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nÎn localități, pe drumurile cu sens unic, oprirea sau staționarea voluntară a vehiculelor este permisă și pe partea stângă, dacă rămâne liberă cel puțin o bandă de circulație.\n---\nEste interzisă circulația unui vehicul care are plăcuțele de înmatriculare deteriorate sau neconforme.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1181",
+    "text": "Într-o intersecție unde circulația se desfășoară în sens giratoriu, conducătorilor de vehicule le este interzis:",
+    "optiuni": {
+      "A": "să reducă viteza, întrucât se creează pericolul de blocare;",
+      "B": "să oprească vehiculele, în afara situațiilor impuse de trafic;",
+      "C": "să întoarcă, prin ocolirea sensului giratoriu."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Intersecție cu sens giratoriu - intersecție dirijată, semnalizată ca atare, prevăzută cu una sau mai multe benzi de circulație, în care circulația se desfășoară într-o singură direcție în jurul unei zone centrale.\n---\nÎn cazul intersecțiilor cu sens giratoriu, conducătorii de vehicule trebuie să respecte regulile privind circulația pe benzi, având obligația să semnalizeze din timp părăsirea intersecției și să se asigure că o pot face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nSe interzice intrarea într-o intersecție chiar dacă semnalul luminos ori un indicator de prioritate permite, dacă din cauza aglomerării circulației conducătorul de vehicul riscă să rămână imobilizat, stânjenind sau împiedicând desfășurarea traficului.\n---\nIntersecțiile sunt: a) cu circulație nedirijată; b) cu circulație dirijată. În această categorie sunt incluse și intersecțiile în care circulația se desfășoară în sens giratoriu.\n---\nLa intersecțiile fără marcaje de delimitare a benzilor, conducătorii vehiculelor ocupă în mers, cu cel puțin 50 m înainte de intersecție, următoarele poziții: b) rândul de lângă axa drumului sau de lângă marcajul de separare a sensurilor, cei care vor să schimbe direcția de mers spre stânga. Când circulația se desfășoară pe drumuri cu sens unic, conducătorii de vehicule care intenționează să vireze la stânga sunt obligați să ocupe rândul de lângă bordura sau acostamentul din partea stângă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1182",
+    "text": "Care este deosebirea dintre oprire și staționare?",
+    "optiuni": {
+      "A": "niciuna;",
+      "B": "deosebirea constă în durata de imobilizare a vehiculului;",
+      "C": "deosebirea constă în modul de așezare și asigurare a autovehiculului pe drum."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nNu este permisă oprirea sau staționarea în tuneluri. În situații de urgență sau de pericol conducătorului de autovehicul îi este permisă oprirea sau staționarea numai în locurile special amenajate și semnalizate corespunzător. În caz de imobilizare prelungită a autovehiculului în tunel, conducătorul de vehicul este obligat să oprească motorul.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1183",
+    "text": "Puteți lăsa noaptea, pe un drum public, remorca autovehiculului / tractorului agricol sau forestier?",
+    "optiuni": {
+      "A": "nu, întrucât în acest caz staționarea este interzisă;",
+      "B": "da, deoarece remorca nu face parte din categoria autovehiculelor;",
+      "C": "da, dacă luminile de poziție sunt aprinse."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducerea unui autovehicul și tractor agricol sau forestier sau tractarea unei remorci atunci când circulația acestora pe drumurile publice este interzisă potrivit art. 15 alin. (5), cu excepția cazurilor în care vehiculul, tramvaiul sau înregistrat, nu are montate plăcuțe cu numărul de înmatriculare sau de înregistrare atribuite de autoritatea competentă ori dacă acestea nu sunt conforme cu standardele în vigoare atrage 4 puncte de penalizare.\n---\nUn autovehicul poate tracta pe drumul public o singură remorcă. Se exceptează tractorul agricol sau forestier care poate tracta două remorci, precum și autovehiculele amenajate pentru formarea unui autotrend de transport persoane în localitățile turistice, cu condiția ca acesta să nu fie mai lung de 25 m și să nu circule cu viteza mai mare de 25 km/h.\n---\nDacă un autovehicul, tractor agricol sau forestier sau o remorcă a rămas în pană pe partea carosabilă a drumului și nu poate fi deplasat în afara acesteia, conducătorul vehiculului este obligat să pună în funcțiune luminile de avarie și să instaleze triunghiurile reflectorizante.\n---\nPe timpul nopții sau în condiții de vizibilitate redusă, autovehiculul, tractorul agricol sau forestier sau remorca acestuia care are deficiențe la sistemul de iluminare sau de semnalizare luminoasă nu poate fi tractat/tratat pe drumurile publice fără a avea în funcțiune, în partea stângă, în față, o lumină de întâlnire și în spate, una de poziție.\n---\nConducătorii autovehiculelor, tractoarelor agricole sau forestiere imobilizate pe drumurile publice, care se îndepărtează de acestea, sunt obligați să acționeze frâna de ajutor, să oprească funcționarea motorului și să cupleze într-o treaptă de viteză inferioară sau în cea de parcare dacă autovehiculul, tractorul agricol sau forestier are transmisie automată.\n---\nConducerea pe drumurile publice a unui autovehicul, a unui tramvai sau a unui tractor agricol sau forestier ori tractarea unei remorci ale cărei plăcuțe cu numărul de înmatriculare sau de înregistrare au fost retrase ori a unui vehicul înmatriculat în alt stat, care nu are drept de circulație în România, se pedepsește cu închisoare de la 6 luni la 2 ani sau cu amendă.\n---\nDreptul de a conduce un autovehicul, tractor agricol sau forestier ori tramvai pe drumurile publice îl are numai persoana care posedă permis de conducere valabil, corespunzător categoriei din care face parte vehiculul respectiv, sau dovada înlocuitoare a acestuia cu drept de circulație.\n---\nPunerea în circulație sau conducerea pe drumurile publice a unui autovehicul, tramvai, tractor agricol ori forestier cu număr fals de înmatriculare sau înregistrare se pedepsește cu închisoare de la unu la 5 ani sau cu amendă.\n---\nPunerea în circulație sau conducerea pe drumurile publice a unui autovehicul, a unui tramvai sau a unui tractor agricol ori forestier neînmatriculat sau neînregistrat, potrivit legii, se pedepsește cu închisoare de la unu la 3 ani sau cu amendă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1184",
+    "text": "Dacă circulaţi pe un drum naţional european (E), vă este interzis:",
+    "optiuni": {
+      "A": "să folosiţi pe timpul zilei luminile de întâlnire;",
+      "B": "să opriţi pe partea carosabilă;",
+      "C": "să depăşiţi."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Circulația pe un sector de drum pe care accesul este interzis atrage 2 puncte de penalizare.\n---\nEste interzisă circulația pe drumuri acoperite cu polei, gheață sau zăpadă dacă autovehiculul nu este echipat corespunzător.\n---\nLa intrarea pe un drum care nu este deschis circulației publice, proprietarul sau administratorul acestuia este obligat să instaleze, în loc vizibil, indicator cu semnificația \"Accesul interzis\" și panou cu inscripția \"Drum închis circulației publice\".",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1185",
+    "text": "Ce vă este interzis în această situație?",
+    "optiuni": {
+      "A": "să opriți sau să staționați;",
+      "B": "să depășiți alte vehicule, cu excepția bicicletelor sau a căruțelor;",
+      "C": "să călcați marcajul aplicat pe carosabil."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1136.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nEste interzisă ocuparea trotuarului cu vehicule imobilizate, iar când aceasta este permisă, conform indicatoarelor sau marcajelor, lățimea minimă a trotuarului lăsat la dispoziția pietonilor trebuie să fie de cel puțin un metru.\n---\nSchimbarea direcției de mers prin virare la dreapta sau la stânga este interzisă în locurile unde sunt instalate indicatoare cu această semnificație.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1186",
+    "text": "Ce obligații are conducătorul unui vehicul staționat pe drumul public, dacă se îndepărtează de acesta?",
+    "optiuni": {
+      "A": "să acționeze frâna de ajutor, să oprească funcționarea motorului și să cupleze o treaptă inferioară de viteză;",
+      "B": "să-i semnalizeze prezența pe timp de noapte cu o sursă de lumină;",
+      "C": "să nu oprească prea aproape de următorul vehicul."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La solicitarea poliției rutiere sau a poliției locale, proprietarul sau deținătorul mandatat al unui vehicul este obligat să comunice acesteia, în termenul indicat în cuprinsul solicitării, datele de identificare ale persoanei căreia i-a încredințat vehiculul pentru a-l conduce pe drumurile publice. Poliția locală poate solicita aceste date de identificare numai în legătură cu exercitarea competențelor în domeniul circulației pe drumurile publice.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nÎn cazul imobilizării unui vehicul pe calea ferată, conducătorul acestuia este obligat să scoată imediat pasagerii din vehicul și să elibereze platforma căii ferate, iar când nu este posibil, să semnalizeze prezența vehiculului cu orice mijloc adecvat.\n---\nNerespectarea obligației de a acționa frâna de ajutor, de a cupla într-o treaptă de viteză inferioară sau în cea de parcare dacă autovehiculul are transmisie automată, atunci când conducătorul autovehiculului imobilizat pe drum public se îndepărtează de acesta atrage 3 puncte de penalizare.\n---\nNerespectarea de către proprietarul sau deținătorul mandatat al unui vehicul a obligației de a comunica, în termenul indicat în solicitarea poliției rutiere sau poliției locale, datele de identificare ale persoanei căreia i-a încredințat vehiculul pentru a-l conduce pe drumurile publice, constituie contravenție.\n---\nÎnainte de a urma cursurile practice de învățare a conducerii unui vehicul pe drumurile publice, solicitantul trebuie să facă dovada pregătirii teoretice, într-o unitate autorizată, în vederea obținerii permisului de conducere.\n---\nConducerea pe drumurile publice a unui vehicul pentru care legea prevede obligativitatea deținerii permisului de conducere de către o persoană care are o îmbibație alcoolică de peste 0,80 g/l alcool pur în sânge se pedepsește cu închisoare de la unu la 5 ani sau cu amendă.\n---\nConducerea pe drumurile publice a unui vehicul pentru care legea prevede obligativitatea deținerii permisului de conducere de către o persoană care are o îmbibație alcoolică de peste 0,80 g/l alcool pur în sânge se pedepsește cu închisoare de la unu la 5 ani sau cu amendă.\n---\nÎn zona pietonală, semnalizată ca atare, conducătorul de vehicul poate intra numai dacă locuiește în această zonă sau prestează servicii publice \"din poartă în poartă\" și nu are altă posibilitate de acces. Acesta este obligat să circule cu viteza maximă de 5 km/h, să nu stânjenească ori să împiedice circulația pietonilor și, dacă este necesar, să oprească pentru a permite circulația acestora.\n---\nSe interzice conducătorilor de vehicule să adopte un comportament agresiv în conducerea acestora pe drumurile publice. Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul, a uneia dintre următoarele manevre: \na) deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens; \nb) întoarcerea vehiculului prin folosirea frânei de ajutor; \nc) pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare; \nd) circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia; \ne) folosirea repetată a semnalelor sonore și/sau luminoase fără a obliga nejustificat conducătorul de vehicul care circulă în față sa să elibereze banda de circulație; \nf) conducerea mopedului sau motocicletei având ambele roți ale vehiculului ridicate de pe partea carosabilă numai pe una dintre roți; \ng) mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic sau pentru crearea unei situații de blocaj; \nh) realizarea intenționată a unui derapaj controlat al vehiculului prin rotirea acestuia sau a roților acestuia; \ni) conducerea intenționată a vehiculului în mod repetat înainte și înapoi pe o distanță scurtă, prin mișcări înapoi și înainte succesive pe aceeași bandă sau în zona drumului public.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1187",
+    "text": "Camionul este staționat. Cine încalcă legea dacă încercați să-l depășiți ?",
+    "optiuni": {
+      "A": "conducătorul autocamionului;",
+      "B": "dumneavoastră;",
+      "C": "atât conducătorul autocamionului, cât și dumneavoastră."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1146.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Intersecție cu drum fără prioritate: Se instaleaza in afara localitatilor, pe drumurile cu prioritate, la 100-200 m de intersectia cu un drum fara prioritate si are rolul de a confirma prioritatea celui care intalneste acest indicator.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1188",
+    "text": "Staționarea este interzisă:",
+    "optiuni": {
+      "A": "în zona de acțiune a indicatorului „Circulație în ambele sensuri“;",
+      "B": "pe sectoarele de drum unde este interzisă depășirea prin indicator;",
+      "C": "pe partea carosabilă a drumurilor naționale."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice folosirea triunghiurilor reflectorizante sau a luminilor de avarie în mod nejustificat sau pentru a simula o rămânere în pană în locurile unde oprirea ori staționarea este interzisă.\n---\nEste interzisă ocuparea trotuarului cu vehicule imobilizate, iar când aceasta este permisă, conform indicatoarelor sau marcajelor, lățimea minimă a trotuarului lăsat la dispoziția pietonilor trebuie să fie de cel puțin un metru.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1189",
+    "text": "Ați executat corect oprirea în această situație?",
+    "optiuni": {
+      "A": "da, pentru că autobuzul nu se află în acest moment în stație;",
+      "B": "nu, pentru că acest spațiu este rezervat doar opririi autobuzului;",
+      "C": "da, dacă semnalizați acest lucru cu lumina galbenă intermitentă."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1188.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În situațiile în care există benzi speciale pentru executarea manevrei, schimbarea direcției de deplasare se face prin stânga centrului imaginar al intersecției, iar dacă există un marcaj de ghidare, cu respectarea semnificației acestuia.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e118a",
+    "text": "Se interzice staționarea voluntară:",
+    "optiuni": {
+      "A": "pe drumurile cu mai puțin de două benzi pe sensul de mers;",
+      "B": "în zona de acționare a indicatorului „Circulație în ambele sensuri\";",
+      "C": "în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nSe interzice staționarea voluntară a vehiculelor în pante și în rampe.\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice oprirea voluntară a vehiculelor în curbe și în alte locuri cu vizibilitate redusă sub 50 m.\n---\nSe interzice circulația, oprirea sau staționarea autovehiculelor pe banda de urgență sau acostament, cu excepția cazurilor justificate, precum și a autovehiculelor cu regim de circulație prioritar.\n---\nSe interzice circulația, oprirea sau staționarea autovehiculelor pe banda de urgență, cu excepția cazurilor justificate, precum și a autovehiculelor cu regim de circulație prioritar.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nMarcajele pentru interzicerea staționării se pot realiza:\na) prin linie continuă galbenă aplicată pe bordura trotuarului sau pe banda de consolidare a acostamentului, dublând marcajul de delimitare a părții carosabile spre exteriorul platformei drumului;\nb) printr-o linie în zig-zag la marginea părții carosabile.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e118b",
+    "text": "Este permisă oprirea voluntară a autovehiculului în tuneluri?",
+    "optiuni": {
+      "A": "da;",
+      "B": "nu;",
+      "C": "numai dacă lungimea tunelului depăşeşte 1000 m."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Nu este permisă oprirea sau staționarea în tuneluri. În situații de urgență sau de pericol conducătorului de autovehicul îi este permisă oprirea sau staționarea numai în locurile special amenajate și semnalizate corespunzător. În caz de imobilizare prelungită a autovehiculului în tunel, conducătorul de vehicul este obligat să oprească motorul.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nÎn cazul imobilizării involuntare a autovehiculului, tractorului agricol sau forestier în pasaje subterane sau în tuneluri, conducătorul acestuia este obligat să oprească funcționarea motorului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e118c",
+    "text": "Oprirea voluntară a unui vehicul este interzisă:",
+    "optiuni": {
+      "A": "în zona de acțiune a indicatorului „Staționarea interzisă“;",
+      "B": "în curbe și în alte locuri unde vizibilitatea este redusă sub 100 m;",
+      "C": "în intersecțiile cu sens giratoriu."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nSe interzice oprirea voluntară a vehiculor în următoarele situații: în zona de acțiune a indicatorului „Oprirea interzisă”; la trecerile la nivel cu calea ferată curentă și la o distanță mai mică de 50 m înainte și după acestea; pe poduri, pasaje denivelate, viaducte și sub acestea; în curbe și în alte locuri cu vizibilitate redusă sub 50 m; la trecerile pentru pietoni și la mai puțin de 25 m înainte și după acestea; în intersecții, inclusiv cele cu circulație în sens giratoriu, precum și în zona de preselecție unde sunt aplicate marcaje continue, iar în lipsa acestora, la o distanță mai mică de 25 m de colțul intersecției; în stațiile mijloacelor de transport public de persoane, precum și la mai puțin de 25 m înainte și după acestea; în dreptul altui vehicul oprit pe partea carosabilă, dacă prin aceasta se stânjenește circulația a două vehicule venind din sensuri opuse, precum și în dreptul marcajului continuu dacă ceilalți conducători sunt obligați să-l încalce; în locurile în care se împiedică vizibilitatea asupra unui indicator sau semnal luminos; pe sectoarele de drum cu semnificația „Drum îngustat”, „Prioritate pentru circulația din sens invers” sau „Prioritate față de circulația din sens invers”; pe pistele obligatorii pentru pietoni ori biciclete sau pe benzile rezervate unor categorii de vehicule; pe platformele căii ferate industriale sau de tramvai, ori la mai puțin de 50 m de acestea, dacă ar fi stânjenită circulația vehiculelor; pe partea carosabilă a autostrăzilor, drumurilor expres sau a celor europene (E); pe trotuar, cu excepția cazului în care administratorul drumului a amenajat spații corespunzătoare conform art. 144 alin. (2) și (3); pe pistele pentru biciclete și în orice loc în care este interzisă depășirea.\n---\nEste interzisă traversarea drumului public prin fața ori spatele unui vehicul oprit, fără asigurare prealabilă.\n---\nSe consideră oprire imobilizarea voluntară a unui vehicul pe drumul public, pe o durată de cel mult 5 minute. Peste aceasta durată, imobilizarea se consideră staționare.\n---\nPătrunderea unui vehicul într-o intersecție este interzisă dacă prin aceasta se produce blocarea intersecției.\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nÎn localități, pe drumurile cu sens unic, oprirea sau staționarea voluntară a vehiculelor este permisă și pe partea stângă, dacă rămâne liberă cel puțin o bandă de circulație.\n---\nEste interzisă circulația unui vehicul care are plăcuțele de înmatriculare deteriorate sau neconforme.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e118d",
+    "text": "Este permisă oprirea voluntară a unui vehicul pe trotuar?",
+    "optiuni": {
+      "A": "da, dacă se asigură un spațiu de cel puțin 1 m lățime pentru circulația pietonilor, iar semnalizarea rutieră permite această manevră;",
+      "B": "legal, nu este prevăzut;",
+      "C": "nu."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În localități, pe drumurile cu sens unic, oprirea sau staționarea voluntară a vehiculelor este permisă și pe partea stângă, dacă rămâne liberă cel puțin o bandă de circulație.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe consideră oprire imobilizarea voluntară a unui vehicul pe drumul public, pe o durată de cel mult 5 minute. Peste aceasta durată, imobilizarea se consideră staționare.\n---\nEste interzisă ocuparea trotuarului cu vehicule imobilizate, iar când aceasta este permisă, conform indicatoarelor sau marcajelor, lățimea minimă a trotuarului lăsat la dispoziția pietonilor trebuie să fie de cel puțin un metru.\n---\nPersoana care dirijează manevrarea cu spatele a unui vehicul este obligată să se asigure că manevra se efectuează fără a pune în pericol siguranța participanților la trafic.\n---\nEste interzisă traversarea drumului public prin fața ori spatele unui vehicul oprit, fără asigurare prealabilă.\n---\nConducătorul unui vehicul implicat într-un accident de circulație în urma căruia a rezultat decesul sau rănirea unei persoane este obligat să ia măsuri de anunțare imediată a poliției, să nu modifice sau să șteargă urmele accidentului și să nu părăsească locul faptei.\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nLa apropierea de o stație pentru mijloace de transport public de persoane prevăzută cu alveolă, din care conducătorul unui astfel de vehicul semnalizează intenția de a ieși, conducătorul vehiculului care circulă pe banda de lângă acostament sau bordură este obligat să reducă viteza și, la nevoie, să oprească pentru a-i permite reintrarea în trafic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e118e",
+    "text": "Când circulaţi pe un drum naţional european vă este interzisă:",
+    "optiuni": {
+      "A": "folosirea mijloacelor de averizare sonoră;",
+      "B": "remorcarea altui autovehicul;",
+      "C": "staţionarea voluntară pe partea carosabilă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La intrarea pe un drum care nu este deschis circulației publice, proprietarul sau administratorul acestuia este obligat să instaleze, în loc vizibil, indicator cu semnificația \"Accesul interzis\" și panou cu inscripția \"Drum închis circulației publice\".\n---\nCirculația pe un sector de drum pe care accesul este interzis atrage 2 puncte de penalizare.\n---\nCând pe drumul public circulația este dirijată de un polițist rutier, conducătorii autovehiculelor prevăzute la alin. (1) trebuie să respecte semnalele, indicațiile și dispozițiile acestuia.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e118f",
+    "text": "Autoturismul a oprit regulamentar?",
+    "optiuni": {
+      "A": "da, deoarece drumul nu este intens circulat;",
+      "B": "da, pentru că spațiul rămas este suficient pentru depășire;",
+      "C": "nu, deoarece pe această categorie de drum sunt interzise oprirea și staționarea."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1253.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1190",
+    "text": "Cum asiguraţi un autoturism cu schimbător de viteză, pentru ca acesta să nu se deplaseze din pantă?",
+    "optiuni": {
+      "A": "acţionaţi frâna de serviciu;",
+      "B": "aduceţi maneta în „punctul mort“;",
+      "C": "introduceţi maneta într-o treaptă inferioară şi acţionaţi frâna de ajutor sau staţionare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1191",
+    "text": "Autobuzul este staționat. Care dintre cei doi conducători procedează neregulamentar?",
+    "optiuni": {
+      "A": "conducătorul autobuzului;",
+      "B": "conducătorul autoturismului;",
+      "C": "ambii conducători procedează regulamentar."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1323.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Prin excepție de la prevederile alin. (2), copiii în vârstă de până la 3 ani pentru care este eliberat certificatul medical prevăzut la alin. (1^8) sunt transportați în autovehicule care nu sunt echipate cu sisteme de siguranță pe locurile din spate ale acestuia, sub supravegherea unei persoane, alta decât conducătorul de autovehicul. Dispozițiile prevăzute la alin. (1^10) se aplică în mod corespunzător.\n---\nAutovehiculele care efectuează transport rutier agabaritic, cele de însoțire a acestora, precum și cele care transportă mărfuri și/sau deșeuri periculoase trebuie să aibă montate sau să fie dotate cu echipamente specifice prevăzute de reglementările în vigoare, precum și semnalele speciale de avertizare cu lumină galbenă, prevăzute la art. 32 alin. (1) lit. c), iar conducătorii acestora trebuie să le mențină în funcțiune pe toată perioada deplasării pe drumul public.\n---\nConducătorilor de autovehicule le este interzis să transporte copii în vârstă de până la 3 ani în autovehicule care nu sunt echipate cu sisteme de siguranță, cu excepția celor destinate transportului public de persoane, precum și a taxurilor dacă în acestea din urmă copilul ocupă alte locuri decât cel de pe scaunul din față, în condițiile prevăzute în regulament. Copiii cu vârsta de peste 3 ani, având o înălțime de până la 150 cm, pot fi transportați în autovehicule care nu sunt echipate cu sisteme de siguranță doar dacă ocupă, pe timpul transportului, orice alt loc decât cel de pe scaunul din față.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1192",
+    "text": "Ce autovehicule pot opri în rândul doi, lângă alte vehicule staţionate pe partea dreaptă a carosabilului?",
+    "optiuni": {
+      "A": "toţi cei care au ceva urgent de rezolvat;",
+      "B": "taximetrele, la urcarea sau coborârea pasagerilor, atunci când circulaţia permite acest lucru;",
+      "C": "orice autoturism."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Vehiculul oprit sau staționat pe partea carosabilă trebuie așezat lângă și în paralel cu marginea acesteia, pe un singur rând, dacă printr-un alt mijloc de semnalizare nu se dispune altfel. Motocicletele fără ataș, mopedele și bicicletele pot fi oprite sau staționate și câte două, una lângă alta.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1193",
+    "text": "Oprirea este interzisă:",
+    "optiuni": {
+      "A": "pe sectoarele de drum unde depășirea este interzisă;",
+      "B": "în zona de acțiune a indicatorului „Staționarea interzisă“;",
+      "C": "în dreptul căilor de acces care deservesc proprietățile alăturate drumurilor publice."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nEste interzisă aplicarea pe faruri sau semnalizatoare a unor tratamente sau folii care reduc eficiența acestora.\n---\nSe interzice staționarea voluntară a vehiculelorîn toate cazurile în care este interzisă oprirea voluntară.\n---\nSe interzice folosirea triunghiurilor reflectorizante sau a luminilor de avarie în mod nejustificat sau pentru a simula o rămânere în pană în locurile unde oprirea ori staționarea este interzisă.\n---\nEste interzisă traversarea drumului public prin fața ori spatele unui vehicul oprit, fără asigurare prealabilă.\n---\nEste interzisă lăsarea liberă a mâinilor pe ghidon sau volan, ori deconectarea transmisiei în mers.\n---\nEste interzisă utilizarea nejustificată a luminii interioare, a luminilor decorative ori a sistemelor de iluminare neomologate.\n---\nEste interzisă aplicarea pe parbriz sau geamuri a unor folii sau accesorii care reduc vizibilitatea.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1194",
+    "text": "Ce interdicție aveți în această situație?",
+    "optiuni": {
+      "A": "să acordați prioritate vehiculelor care intră în intersecție;",
+      "B": "să opriți vehiculul;",
+      "C": "să circulați cu o viteză mai mică de 30 km pe oră."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1351.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni\n---\nIndicator Cedează trecerea: Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa se asigure ca pe drumul prioritar nu circula autovehicule, si abia apoi poate sa patrunda in intersectie. Daca pe drumul prioritar circula alte autovehicule, conducatorul auto este obligat sa opreasca pentru a le acorda prioritate.",
+    "tip_context": "empty_context+context_yolo"
+  }
+]

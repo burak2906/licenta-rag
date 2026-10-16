@@ -1,0 +1,32 @@
+[
+  {
+    "intrebare": "Vă este permisă trecerea peste marcajul longitudinal din imagine?",
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/399.jpeg",
+    "fara_imagine": "Nu pot genera sau interpreta imagini. Dacă ai o descriere a imaginii sau ai nevoie de informații despre ceva specific, te rog să-mi spui și voi încerca să te ajut!",
+    "cu_imagine": "În imagine se vede o stradă urbană cu două sensuri de circulație. Pe partea stângă a imaginii se află o serie de copaci înfloriți, iar pe partea dreaptă se află o serie de mașini parcate. Pe partea dreaptă a drumului există și un trotuar unde se află un stâlp de iluminat public și un semafor. Pe partea stângă a drumului se află o serie de mașini care circulă în sens opus față de perspectiva din imagine. Cerul este senin și vremea pare a fi bună. În general, imaginea prezintă o zonă rezidențială sau comercială liniștită."
+  },
+  {
+    "intrebare": "Indicatorul vă obligă:",
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/419.jpeg",
+    "fara_imagine": "Nu pot genera sau interpreta imagini. Dacă ai o descriere a imaginii sau ai nevoie de informații despre ceva specific, te rog să-mi spui mai multe detalii și îți voi oferi ajutorul necesar!",
+    "cu_imagine": "În imagine se vede o stradă urbană cu trafic. Perspectiva este din interiorul unei mașini, probabil din spatele unui volant, ceea ce sugerează că imaginea a fost luată de la conducătorul unei mașini. Pe strada sunt mai multe mașini parcate și în mișcare. Pe partea stângă a imaginii se află clădiri cu mai multe etaje, cu fațade clasice, probabil rezidențiale sau comerciale. Pe partea dreaptă a imaginii se mai văd și alte clădiri și copaci.\n\nÎn prim plan, se observă un semn de circulație circular albastru cu săgeți albe care indică posibilitatea de a merge drept sau de a vira la stânga. Semnul este amplasat pe un stâlp alături de strada. În spatele semnului, se observă un semafor cu lumină roșie.\n\nPe partea stângă a imaginii, se mai observă un alt semn de circulație, dar acesta este mai puțin vizibil. În general, imaginea sugerează o zonă urbană cu trafic moderat și"
+  },
+  {
+    "intrebare": "Acest indicator vă avertizează că urmează:",
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/420.jpeg",
+    "fara_imagine": "Nu pot vedea imagini, dar pot descrie sau explica lucruri pe baza descrierilor textuale. Dacă ai o descriere a imaginii, o poți partaja, și voi încerca să te ajut cu informațiile pe care le ceri.",
+    "cu_imagine": "În imagine se află un semn de circulație triunghiular cu vârful în sus, cu fundal alb și bordură roșie. În interiorul triunghiului se află un semn de exclamare negru, care indică o atenție sau un pericol. Acest tip de semn este folosit pentru a avertiza conducătorii de auto și pietonii despre o situație periculoasă sau o condiție specială pe drum."
+  },
+  {
+    "intrebare": "Puteţi depăşi în această situaţie, dacă vă aflaţi la volanul autoturismului?",
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/424.jpeg",
+    "fara_imagine": "Nu pot vizualiza sau interpreta imagini. Dacă ai o descriere a imaginii sau ai nevoie de informații specifice despre ce este în imagine, te rog să-mi spui mai multe detalii și voi încerca să te ajut!",
+    "cu_imagine": "În imagine, văd o scenă de drum cu două vehicule care circulă pe o șosea cu două benzi. Pe banda din stânga se află o mașină roșie, iar pe banda din dreapta se află un camion albastru. Mașina roșie are două indicatoare de direcție aprinse, unul pe partea stângă și unul pe partea dreaptă, ceea ce sugerează că șoferul poate fi incert sau confuz cu privire la direcția pe care o va lua. Drumul este marcat cu linii discontinue albe care separă benzile de circulație. Pe ambele părți ale drumului există benzi de iarbă verde."
+  },
+  {
+    "intrebare": "Indicatorul precizează:",
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/444.jpeg",
+    "fara_imagine": "Nu pot vizualiza sau interpreta imagini. Dacă ai o descriere a imaginii sau ai nevoie de informații specifice despre ce este în imagine, te rog să-mi spui mai multe detalii, și voi încerca să te ajut!",
+    "cu_imagine": "Această imagine reprezintă un semn de circulație rutieră. Semnul este de culoare albastră și conține următoarele elemente:\n\n1. **Limita de viteză**: În centrul semnului este un cerc alb cu numărul 50, care indică o limită de viteză de 50 km/h.\n2. **Direcții permise**: Există săgeți albe care indică direcțiile în care se poate continua. În acest caz, săgețile arată că se poate continua înainte și spre dreapta.\n\nAcest semn este utilizat pentru a indica o zonă în care limita de viteză este de 50 km/h și pentru a arăta direcțiile permise de deplasare."
+  }
+]

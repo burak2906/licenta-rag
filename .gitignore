@@ -1,0 +1,54 @@
+# Medii virtuale Python
+venv/
+env/
+ENV/
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependențe Node (dacă ai frontend)
+node_modules/
+
+# Fișiere de configurare și chei secrete
+.env
+*.log
+
+# Model weights pentru YOLO (fișierele .pt mari)
+*.pt
+yolov8n.pt
+yolov8s.pt
+yolov8m.pt
+yolov8l.pt
+yolov8x.pt
+# Adaugă și calea specifică dacă ai un folder de weights:
+# weights/
+# runs/
+
+# Baze de date vectoriale și cache pentru RAG (ex: Chroma, FAISS, LangChain cache)
+chroma_db/
+faiss_index/
+*.db
+*.sqlite3
+
+# Fișiere de sistem
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Arhive și dataset-uri grele
+*.zip
+dataset/
+augmented/
+images/
+indicatoare_img/
+poze_demo/
+
+# Baze de date vectoriale / Chroma
+chroma/
+
+# Rezultate YOLO și modele
+runs/

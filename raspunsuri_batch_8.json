@@ -1,0 +1,2442 @@
+[
+  {
+    "id": "67f0dc3c2be5222d1c2e1069",
+    "text": "Schimbarea repetată a luminii de drum cu lumina de întâlnire se folosește pe timp de noapte:",
+    "optiuni": {
+      "A": "în intersecțiile care nu sunt dirijate prin semnale luminoase sau de către un polițist rutier;",
+      "B": "la semnalizarea conducătorului de autovehicule care s-a angajat într-o depășire periculoasă;",
+      "C": "la întâlnirea vehiculelor care vin din sens opus."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Nerespectarea obligației de a folosi și pe timpul zilei luminile de întâlnire sau luminile pentru circulația diurnă, pe toate categoriile de drumuri publice atrage 2 puncte de penalizare.\n---\nPe timpul nopții sau în condiții de vizibilitate redusă conducătorii de autovehicule, tractoare agricole sau forestiere și tramvaie care se apropie de o intersecție nedirijată prin semnale luminoase sau de cei opriți sunt obligați să semnalizeze prin folosirea alternativă a luminilor de întâlnire cu cele de drum.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e106a",
+    "text": "Sunteți obligat să semnalizați orice schimbare a direcției de mers?",
+    "optiuni": {
+      "A": "numai dacă sunt vehicule care vă urmează;",
+      "B": "numai în localități;",
+      "C": "da."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să semnalizeze schimbarea direcției de deplasare, depășirea, oprirea și punerea în mișcare.\n---\nConducătorii de autovehicule, tractoare agricole sau forestiere și tramvaie sunt obligați să folosească instalațiile de iluminare și/sau semnalizare a acestora, după cum urmează: g) luminile indicatoare de direcție pentru semnalizarea schimbării direcției de mers, inclusiv la punerea în mișcare a vehiculului de pe loc.\n---\nSemnalizarea schimbării direcției de mers trebuie să fie menținută pe întreaga durată a manevrei.\n---\nSchimbarea direcției de mers prin virare la dreapta sau la stânga este interzisă în locurile unde sunt instalate indicatoare cu această semnificație.\n---\nLa intersecțiile prevăzute cu indicatoare și/sau cu marcaje pentru semnalizarea direcției de mers, conducătorii de vehicule trebuie să se încadreze pe benzile corespunzătoare direcției de mers voite cu cel puțin 50 m înainte de intersecție și sunt obligați să respecte semnificația indicatoarelor și marcajelor.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e106b",
+    "text": "Brațul stâng, întins orizontal, al unui biciclist semnifică:",
+    "optiuni": {
+      "A": "intenția de a schimba direcția de mers la stânga sau de a depăși;",
+      "B": "intenția de a opri;",
+      "C": "faptul că nu trebuie să fie depășit."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorii vehiculelor cu două roți, precum și cei cu tracțiune animală sau vehicule trase/împinse cu mâna sunt obligați să efectueze următoarele semnale: a) brațul stâng întins orizontal pentru schimbarea direcției de mers spre stânga sau depășire; b) brațul drept întins orizontal pentru schimbarea direcției spre dreapta; c) brațul drept întins oblic în jos pentru oprire.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e106c",
+    "text": "Ce rând trebuie să ocupe conducătorul de vehicul și de la ce distanță, pentru a se deplasa pe direcția înainte, într-o intersecție fără marcaje din afara localității?",
+    "optiuni": {
+      "A": "rândul din stânga, de la o distanță de cel puțin 100 m;",
+      "B": "rândul din stânga sau din dreapta, de la o distanță de cel puțin 50 m;",
+      "C": "rândul din dreapta, de la o distanță de cel puțin 100 m."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nLa intersecțiile fără marcaje de delimitare a benzilor, conducătorii vehiculelor ocupă în mers, cu cel puțin 50 m înainte de intersecție, următoarele poziții: b) rândul de lângă axa drumului sau de lângă marcajul de separare a sensurilor, cei care vor să schimbe direcția de mers spre stânga. Când circulația se desfășoară pe drumuri cu sens unic, conducătorii de vehicule care intenționează să vireze la stânga sunt obligați să ocupe rândul de lângă bordura sau acostamentul din partea stângă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e106d",
+    "text": "În acest sens giratoriu, sunteți încadrat corespunzător pentru:",
+    "optiuni": {
+      "A": "a vira la dreapta;",
+      "B": "a vira la stânga sau pentru a circula înainte;",
+      "C": "a circula înainte."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/860.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Dacă pe direcția de deplasare există o pistă pentru biciclete, semnalizată corespunzător, conducătorii vehiculelor menționate la alin.(1) sunt obligați să circule numai pe această pistă. Este interzisă circulația altor participanți la trafic pe pista pentru biciclete.\n---\nContext vizual extras (YOLOv8):\nIndicator Bandă destinată circulației vehiculelor lente: Este amplasat pe drumurile publice si are rolul de a orienta conducatorii auto asupra benzii pe care se deplaseaza vehiculele lente, cu viteze mai mici decat cea inscriptionata pe panou.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e106e",
+    "text": "De la ce distanță față de vehiculul care circulă din sens opus, pe timp de noapte, sunteți obligat să folosiți luminile de întâlnire?",
+    "optiuni": {
+      "A": "de la cel puțin 100 m;",
+      "B": "de la cel puțin 150 m;",
+      "C": "de la cel puțin 200 m."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Pe timpul nopții, la apropierea a două vehicule care circulă din sensuri opuse, conducătorii acestora sunt obligați ca de la o distanță de cel puțin 200 m să folosească luminile de întâlnire concomitent cu reducerea vitezei.\n---\nNepăstrarea unei distanțe laterale suficiente față de vehiculul care circulă din sens opus este sancționată ca o contravenție.\n---\nTriunghiurile reflectorizante se instalează în față și în spatele vehiculului, pe aceeași bandă de circulație, la o distanță de cel puțin 30 m de acesta, astfel încât să poată fi observate din timp de participanții la trafic care se apropie. În localități, dacă circulația este intensă, triunghiurile pot fi așezate la o distanță mai mică dar vizibilă.\n---\nNepăstrarea unei distanțe corespunzătoare față de vehiculul care circulă înainte, dacă prin aceasta s-a produs un accident din care au rezultat avarierea unui vehicul sau alte pagube materiale atrage 3 puncte de penalizare.\n---\nConducătorul de vehicul care efectuează depășirea este obligat:\na) să se asigure că acela care îl urmează sau îl precedă nu a semnalizat intenția începerii unei manevre similare și că poate depăși fără a pune în pericol sau fără a stânjeni circulația din sens opus;\nb) să semnalizeze intenția de efectuare a depășirii;\nc) să păstreze în timpul depășirii o distanță laterală suficientă față de vehiculul depășit;\nd) să reintre pe banda sa sau în șirul de circulație inițial după ce a semnalizat și s-a asigurat că poate efectua această manevră în condiții de siguranță pentru vehiculul depășit și pentru ceilalți participanți la trafic.\n---\nConducătorii vehiculelor care circulă din sensuri opuse trebuie să păstreze între vehicule o distanță laterală suficientă și să circule cât mai aproape de marginea din dreapta a benzii de circulație respective.\n---\nConducătorul unui vehicul care circulă în spatele altuia are obligația de a păstra o distanță suficientă față de acesta, pentru evitarea coliziunii.\n---\n1) Mijloacele de avertizare sonoră trebuie folosite de la o distanță de cel puțin 25 m față de cei cărora li se adresează, pe o durată de timp care să asigure perceperea semnalului și fără să îi determine pe aceștia la manevre ce pot pune în pericol siguranța circulației.\n(2) Semnalizarea cu mijloacele de avertizare sonoră nu poate fi folosită în zonele de acțiune a indicatorului \"Claxonarea interzisă\".\n(3) Se exceptează de la prevederile alin. (2):\na) conducătorii autovehiculelor cu regim de circulație prioritară când se deplasează în acțiuni de intervenții sau în misiuni care au caracter de urgență;\nb) conducătorii autovehiculelor care folosesc acest semnal pentru evitarea unui pericol iminent.\n---\nConducătorul vehiculului al cărui mers înainte este obstruat de un obstacol sau de prezența altor participanți la trafic, care impune trecerea pe sensul opus, este obligat să reducă viteza și, la nevoie, să oprească pentru a permite trecerea vehiculelor care circulă din sens opus.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e106f",
+    "text": "Dacă ați selectat banda de circulație conform imaginii prezentate, vă este permis:",
+    "optiuni": {
+      "A": "să circulați înainte sau la dreapta;",
+      "B": "să virați numai la dreapta;",
+      "C": "să circulați numai înainte."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/903.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În localități, pe drumurile cu sens unic, oprirea sau staționarea voluntară a vehiculelor este permisă și pe partea stângă, dacă rămâne liberă cel puțin o bandă de circulație.\n---\nDacă un drum este prevăzut cu o bandă destinată vehiculelor lente sau transportului public de persoane, semnalizată ca atare, acestea vor circula numai pe banda respectivă.\n---\nContext vizual extras (YOLOv8):\nIndicator Sfârșitul drumului cu prioritate: Se amplaseaza la 50-200 m de locul unde inceteaza semnificatia indicatorului \"Drum cu prioritate\", avand rolul de a informa conducatorul auto ca in urmatoarea intersectie in care va patrunde, toate drumurile vor fi de aceeasi categorie si se va aplica regula prioritatii de dreapta.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1070",
+    "text": "Ce reprezintă distanța de 50 m necesară pentru semnalizarea schimbării direcției de mers în localități?",
+    "optiuni": {
+      "A": "distanța față de vehiculul care se deplasează în spatele dvs.;",
+      "B": "distanța față de locul în care se termină executarea manevrei de depășire;",
+      "C": "distanța dintre locul în care se semnalizează intenția de a depăși și locul în care se începe manevra."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Semaforul care emite semnale luminoase pentru dirijarea circulației în intersecții se instalează obligatoriu înainte de intersecție, astfel încât să fie vizibile de la o distanță de cel puțin 50 m. Acesta pot fi repetate în mijlocul, deasupra ori de cealaltă parte a intersecției.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1071",
+    "text": "Ce obligații vă revin la executarea manevrei de trecere a vehiculului de pe o bandă pe alta?",
+    "optiuni": {
+      "A": "să semnalizați din timp și să vă asigurați că puteți efectua manevra fără a perturba circulația sau fără a pune în pericol siguranța celorlalți participanți la trafic;",
+      "B": "să vă asigurați din spate;",
+      "C": "să vă asigurați din față și din spate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care executa o manevra de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că o poate face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nConducătorul de vehicul care execută o manevră de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că poate face această manevră fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nAtunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1072",
+    "text": "Ce categorii de vehicule au obligaţia de a folosi luminile de întâlnire pe timp de zi?",
+    "optiuni": {
+      "A": "motocicletele şi mopedele;",
+      "B": "autovehiculele care însoţesc coloane militare sau transportă grupuri de persoane;",
+      "C": "autovehiculele care tractează alte vehicule sau care transportă produse periculoase."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Nerespectarea obligației de a folosi și pe timpul zilei luminile de întâlnire sau luminile pentru circulația diurnă, pe toate categoriile de drumuri publice atrage 2 puncte de penalizare.\n---\nÎn circulația pe toate categoriile de drumuri publice conducătorii de autovehicule și tractoare agricole sau forestiere sunt obligați să folosească și în timpul zilei luminile de întâlnire sau luminile pentru circulația diurnă.\n---\nPe timpul nopții, la apropierea a două vehicule care circulă din sensuri opuse, conducătorii acestora sunt obligați ca de la o distanță de cel puțin 200 m să folosească luminile de întâlnire concomitent cu reducerea vitezei.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1073",
+    "text": "Cum veți proceda în această situație?",
+    "optiuni": {
+      "A": "urmați vehiculul care execută depășirea;",
+      "B": "rămâneți în spatele camionului;",
+      "C": "indicatorul se adresează vehiculelor care circulă din sens opus."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/947.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Bandă destinată circulației vehiculelor lente: Este amplasat pe drumurile publice si are rolul de a orienta conducatorii auto asupra benzii pe care se deplaseaza vehiculele lente, cu viteze mai mici decat cea inscriptionata pe panou.\n---\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1074",
+    "text": "La intersecțiile fără marcaje, conducătorii de vehicule care vor să circule pe direcția înainte vor ocupa:",
+    "optiuni": {
+      "A": "rândul din stânga;",
+      "B": "rândul din dreapta;",
+      "C": "oricare dintre rânduri."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La intersecțiile fără marcaje de delimitare a benzilor, conducătorii vehiculelor ocupă în mers, cu cel puțin 50 m înainte de intersecție, următoarele poziții: b) rândul de lângă axa drumului sau de lângă marcajul de separare a sensurilor, cei care vor să schimbe direcția de mers spre stânga. Când circulația se desfășoară pe drumuri cu sens unic, conducătorii de vehicule care intenționează să vireze la stânga sunt obligați să ocupe rândul de lângă bordura sau acostamentul din partea stângă.\n---\nLa intersecțiile fără marcaje de delimitare a benzilor, conducătorii vehiculelor ocupă în mers, cu cel puțin 50 m înainte de intersecție, următoarele poziții:\na) rândul de lângă bordura sau acostament, cei care vor să schimbe direcția de mers spre dreapta;\nb) rândul de lângă axa drumului sau de lângă marcajul de separare a sensurilor, cei care vor să schimbe direcția de mers spre stânga. Când circulația se desfășoară pe drumuri cu sens unic, conducătorii de vehicule care intenționează să vireze la stânga sunt obligați să ocupe rândul de lângă bordura sau acostamentul din partea stângă;\nc) oricare dintre rânduri, cei care vor să meargă înainte.\n---\nLa intersecțiile prevăzute cu indicatoare și/sau cu marcaje pentru semnalizarea direcției de mers, conducătorii de vehicule trebuie să se încadreze pe benzile corespunzătoare direcției de mers voite cu cel puțin 50 m înainte de intersecție și sunt obligați să respecte semnificația indicatoarelor și marcajelor.\n---\nDacă în apropierea unei intersecții este instalat un indicator sau aplicat un marcaj care obligă să se circule într-o anumită direcție, vehiculele trebuie să fie conduse numai în direcția sau direcțiile indicate.\n---\nSchimbarea direcției de mers spre stânga, în cazul vehiculelor care intra într-o intersecție circulând pe același drum în aliniament, dar din sensuri opuse, se efectuează prin stânga centrului intersecției, fără intersectarea traiectoriilor acestora.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nÎn cazul intersecțiilor cu sens giratoriu, conducătorii de vehicule trebuie să respecte regulile privind circulația pe benzi, având obligația să semnalizeze din timp părăsirea intersecției și să se asigure că o pot face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1075",
+    "text": "Cum trebuie să semnalizați intenția de a depăși alte vehicule, atunci când conduceți vehiculul noaptea, pe un drum neiluminat dintr-o localitate?",
+    "optiuni": {
+      "A": "cu luminile farurilor;",
+      "B": "prin folosirea luminii de drum sau a claxonului;",
+      "C": "cu luminile indicatoare de direcție."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Atunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1076",
+    "text": "Vă este permis să claxonați un biciclist înainte de a-l depăși?",
+    "optiuni": {
+      "A": "da, dacă distanța este de peste 25 m;",
+      "B": "nu;",
+      "C": "numai în reprize foarte scurte."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/967.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1077",
+    "text": "În această situaţie, pe lângă luminile de întâlnire trebuie să folosiţi:",
+    "optiuni": {
+      "A": "luminile de ceaţă;",
+      "B": "luminile de drum;",
+      "C": "semnalizatoarele în funcţiune."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/993.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În situațiile prevăzute la alin. (5), conducătorul de autovehicule, tractoare agricole sau forestiere și tramvaie trebuie să pună în funcțiune luminile de avarie, în mod succesiv, în ordinea opririi și în cazul în care această manevră este imposibilă de blocarea circulației pe sensul de mers.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1078",
+    "text": "Ce obligații revin conducătorilor de vehicule la trecerea autovehiculelor cu regim de circulație prioritară, care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și pe cele de avertizare sonoră?",
+    "optiuni": {
+      "A": "să reducă viteza, să circule cât mai aproape de marginea drumului în sensul de deplasare și să acorde prioritate de trecere;",
+      "B": "să mărească viteza pentru a nu incomoda circulația;",
+      "C": "să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau de bordura trotuarului, în sensul de deplasare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cât mai aproape de marginea drumului în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonoră.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare roșie și sonore.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare sonore și vizuale.\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1079",
+    "text": "Pe drumul public cu cel mult două benzi pe sens şi cu o a treia bandă pe care este amplasată linia tramvaiului lângă axa drumului, conducătorii de vehicule:",
+    "optiuni": {
+      "A": "pot folosi banda pe care este amplasată linia tramvaiului, fără să incomodeze circulaţia acestuia;",
+      "B": "nu pot folosi banda pe care este amplasată linia tramvaiului;",
+      "C": "legal, nu este prevăzut."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Pe drumul public cu cel mult două benzi pe sens și cu o a treia bandă pe care este amplasată linia tramvaiului lângă axa drumului, conducătorii de vehicule pot folosi această bandă, cu obligația să lase liberă calea tramvaiului, la apropierea acestuia.\n---\nPe drumul public cu mai multe benzi, conducătorii de autovehicule care circulă pe o bandă care se sfârșește, pentru a continua deplasarea pe banda din stânga trebuie să permită trecerea vehiculelor care circulă pe acea bandă.\n---\nPe un drum public prevăzut cu minimum 3 benzi pe sens, când conducătorii a două autovehicule circulă în aceeași direcție, dar pe benzi diferite, și intenționează să se înscrie pe banda liberă dintre ei, cel care circulă pe banda din dreapta este obligat să permită celui care vine din stânga să ocupe acea bandă.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nCând drumul are două sau mai multe benzi pe sensul de mers, vehiculele se conduc pe banda situată lângă acostament sau bordură. Celelalte benzi pot fi folosite succesiv, de la dreapta spre stânga, dacă banda de circulație utilizată este ocupată, cu obligația de a reveni pe banda din dreapta atunci când acest lucru este posibil.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e107a",
+    "text": "Este permisă folosirea luminilor de ceață noaptea, dacă cerul este senin?",
+    "optiuni": {
+      "A": "Regulamentul nu precizează;",
+      "B": "da;",
+      "C": "nu."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1025.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Folosirea luminilor de ceață în alte condiții decât pe timp de ceață atrage 3 puncte de penalizare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e107b",
+    "text": "Ce obligații vă revin atunci când conduceți un vehicul pe timpul nopții și vă apropiați de un vehicul care circulă în fața dvs.?",
+    "optiuni": {
+      "A": "să reduceți viteza și să circulați cu atenție sporită;",
+      "B": "să nu vă angajați în depășirea acestuia;",
+      "C": "să folosiți luminile de întâlnire de la o distanță de cel puțin 100 m."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Atunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e107c",
+    "text": "Care este semnalizarea specifică mersului înapoi?",
+    "optiuni": {
+      "A": "claxonatul intermitent, pentru a-i atenționa pe participanții la trafic din spatele vehiculului;",
+      "B": "semnalizarea cu luminile de mers înapoi din dotarea vehiculului;",
+      "C": "folosirea luminilor de avarie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": "Eroare la trimiterea promptului",
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În locurile în care mersul înapoi este permis, dar vizibilitatea în spate este împiedicată, vehiculul poate fi manevrat înapoi numai atunci când conducătorul acestuia este dirijat de cel puțin o persoană aflată în afara vehiculului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e107d",
+    "text": "Ce se înțelege prin distanța de 100 m pentru semnalizarea schimbării direcției de mers în afara localității?",
+    "optiuni": {
+      "A": "distanța față de vehiculul care circulă din spate;",
+      "B": "distanța parcursă din momentul semnalizării intenției de a efectua manevra și locul unde se produce schimbarea direcției de mers;",
+      "C": "distanța față de locul terminării manevrei de depășire."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Intenția conducătorilor de autovehicule, tractoare agricole sau forestiere și tramvaie de a schimba direcția de mers, de a ieși dintr-un rând de vehicule staționate ori de a intra într-un asemenea rând, de a trece pe o altă bandă de circulație sau de a vira spre dreapta ori spre stânga sau a celor care urmează să efectueze întoarcere, depășire ori oprire se semnalizează prin punerea în funcțiune a luminilor indicatoare de direcție cu cel puțin 50 m în localități și 100 m în afara localităților înainte de începerea efectuării manevrelor.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e107e",
+    "text": "Ce categorii de vehicule au obligaţia de a folosi în timpul zilei luminile de întâlnire?",
+    "optiuni": {
+      "A": "autovehiculele care tractează alte vehicule sau care transportă produse periculoase;",
+      "B": "numai autovehiculele ce se deplasează cu viteză mare;",
+      "C": "numai autovehiculele pentru transport public de persoane."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Nerespectarea obligației de a folosi și pe timpul zilei luminile de întâlnire sau luminile pentru circulația diurnă, pe toate categoriile de drumuri publice atrage 2 puncte de penalizare.\n---\nÎn circulația pe toate categoriile de drumuri publice conducătorii de autovehicule și tractoare agricole sau forestiere sunt obligați să folosească și în timpul zilei luminile de întâlnire sau luminile pentru circulația diurnă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e107f",
+    "text": "Luminile de avarie se folosesc în următoarea situație:",
+    "optiuni": {
+      "A": "când sunteți dezorientat în privința traseului de urmat;",
+      "B": "când vehiculul este imobilizat involuntar pe partea carosabilă sau în timp ce sunteți remorcat;",
+      "C": "când luminile de drum s-au defectat."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Linia continuă se folosește în următoarele situații:\na) linia continuă simplă, pentru separarea sensurilor de circulație, a benzilor de același sens la apropierea de intersecții și în zone periculoase;\nb) linia continuă dublă, pentru separarea sensurilor de circulație pe drumuri cu minimum două benzi pe fiecare sens, precum și la drumuri cu o bandă pe sens sau în alte puncte stabilite de administratorul drumului respectiv, cu avizul poliției rutiere.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1080",
+    "text": "Cum veți proceda dacă intenționați să schimbați direcția de mers spre dreapta?",
+    "optiuni": {
+      "A": "semnalizați schimbarea direcției de mers;  pietonii vă vor acorda prioritate;",
+      "B": "semnalizați schimbarea direcției de mers; acordați prioritate vehiculelor care circulă din partea stângă;",
+      "C": "semnalizați schimbarea direcției de mers și acordați prioritate de trecere pietonilor."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1092.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La intersecțiile fără marcaje de delimitare a benzilor, conducătorii vehiculelor ocupă în mers, cu cel puțin 50 m înainte de intersecție, următoarele poziții:\na) rândul de lângă bordura sau acostament, cei care vor să schimbe direcția de mers spre dreapta;\nb) rândul de lângă axa drumului sau de lângă marcajul de separare a sensurilor, cei care vor să schimbe direcția de mers spre stânga. Când circulația se desfășoară pe drumuri cu sens unic, conducătorii de vehicule care intenționează să vireze la stânga sunt obligați să ocupe rândul de lângă bordura sau acostamentul din partea stângă;\nc) oricare dintre rânduri, cei care vor să meargă înainte.\n---\nSchimbarea direcției de mers prin virare la dreapta sau la stânga este interzisă în locurile unde sunt instalate indicatoare cu această semnificație.\n---\nContext vizual extras (YOLOv8):\nIndicator Drum cu prioritate: Se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde. Drumurile care intersecteaza drumul cu prioritate vor avea instalate unul dintre indicatoarele \"Oprire\" sau \"Cedeaza trecerea\". Cand este amplasat inaintea unei intersectii, acest indicator poate fi insotit si de un panou aditional care va preciza directia drumului cu prioritate.\n---\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "crossencode_prag+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1081",
+    "text": "Care este traseul de urmat pentru autoturismul din imagine?",
+    "optiuni": {
+      "A": "traseul 1;",
+      "B": "traseul 2;",
+      "C": "oricare dintre cele două, dacă respectă toate prevederile legii."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1108.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Atestatul profesional este obligatoriu pentru conducătorul autovehiculului care efectuează transport de mărfuri periculoase, transport public de persoane, transport în cont propriu de persoane cu microbuze sau autobuze, precum și pentru autovehiculele de transport marfă cu masa maximă autorizată mai mare de 3,5 tone, care circulă în trafic intern și internațional.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1082",
+    "text": "În care dintre situaţii este interzisă schimbarea direcţiei de mers spre stânga?",
+    "optiuni": {
+      "A": "când conducătorul de vehicul este încadrat pe banda din dreapta;",
+      "B": "când drumul pe care urmează să se intre este semnalizat cu indicatorul „Circulaţia interzisă în ambele sensuri”;",
+      "C": "când strada pe care urmează să se intre este semnalizată cu indicatorul „Drum fără ieşire”."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Schimbarea direcției de mers spre stânga, în cazul vehiculelor care intra într-o intersecție circulând pe același drum în aliniament, dar din sensuri opuse, se efectuează prin stânga centrului intersecției, fără intersectarea traiectoriilor acestora.\n---\nÎn situațiile în care există benzi speciale pentru executarea manevrei, schimbarea direcției de deplasare se face prin stânga centrului imaginar al intersecției, iar dacă există un marcaj de ghidare, cu respectarea semnificației acestuia.\n---\nConducătorul de vehicul care execută o manevră de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că poate face această manevră fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nConducătorul de vehicul care executa o manevra de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că o poate face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nSchimbarea direcției de mers prin virare la dreapta sau la stânga este interzisă în locurile unde sunt instalate indicatoare cu această semnificație.\n---\nLa intersecțiile fără marcaje de delimitare a benzilor, conducătorii vehiculelor ocupă în mers, cu cel puțin 50 m înainte de intersecție, următoarele poziții: b) rândul de lângă axa drumului sau de lângă marcajul de separare a sensurilor, cei care vor să schimbe direcția de mers spre stânga. Când circulația se desfășoară pe drumuri cu sens unic, conducătorii de vehicule care intenționează să vireze la stânga sunt obligați să ocupe rândul de lângă bordura sau acostamentul din partea stângă.\n---\nLa intersecțiile fără marcaje de delimitare a benzilor, conducătorii vehiculelor ocupă în mers, cu cel puțin 50 m înainte de intersecție, următoarele poziții:\na) rândul de lângă bordura sau acostament, cei care vor să schimbe direcția de mers spre dreapta;\nb) rândul de lângă axa drumului sau de lângă marcajul de separare a sensurilor, cei care vor să schimbe direcția de mers spre stânga. Când circulația se desfășoară pe drumuri cu sens unic, conducătorii de vehicule care intenționează să vireze la stânga sunt obligați să ocupe rândul de lângă bordura sau acostamentul din partea stângă;\nc) oricare dintre rânduri, cei care vor să meargă înainte.\n---\nSchimbarea direcției de mers prin viraj spre stânga, dacă prin aceasta se încalcă marcajul longitudinal continuu care separă sensurile de circulație atrage 6 puncte de penalizare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1083",
+    "text": "Ce obligații îi revin conducătorului auto când constată, noaptea, că lumina farurilor nu se mai aprinde?",
+    "optiuni": {
+      "A": "să folosească luminile de poziție până ajunge într-un loc de parcare unde poate remedia defecțiunea;",
+      "B": "să asigure funcționarea cel puțin a luminii de întâlnire din stânga a vehiculului și a unei lumini de poziție din spate;",
+      "C": "să circule cu atenție până la primul service auto."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Neîndeplinirea obligațiilor ce îi revin conducătorului de vehicul care efectuează transport public de persoane sau de mărfuri constituie contravenție.\n---\nÎn cazul vehiculelor de aceeași categorie, obligația de a efectua o manevră de mers înapoi revine conducătorului care urcă, cu excepția cazului când este mai ușor și există condiții pentru conducătorul care coboară să execute această manevră, mai ales atunci când se află aproape de un refugiu.\n---\nNerespectarea obligației de a acționa frâna de ajutor, de a cupla într-o treaptă de viteză inferioară sau în cea de parcare dacă autovehiculul are transmisie automată, atunci când conducătorul autovehiculului imobilizat pe drum public se îndepărtează de acesta atrage 3 puncte de penalizare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1084",
+    "text": "Puteţi depăşi tramvaiul oprit în staţie?",
+    "optiuni": {
+      "A": "nu, deoarece tramvaiul se depăşeşte prin partea stângã;",
+      "B": "nu, deoarece în staţie nu există refugiu pentru pietoni;",
+      "C": "da, deoarece între şina de tramvai şi trotuar există spaţiu suficient pentru depăşire."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1117.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nÎn cazul în care tramvaiul este oprit într-o stație fără refugiu pentru pietoni, vehiculele trebuie să oprească în ordinea sosirii, în spatele acestuia, și să își reia deplasarea numai după ce ușile tramvaiului au fost închise și s-au asigurat că nu pun în pericol siguranța pietonilor angajați în traversarea drumului public.\n---\nConducătorul de autovehicul sau de tramvai care efectuează transport public de persoane este obligat:\n a) să oprească pentru urcarea sau coborârea pasagerilor numai în stațiile semnalizate ca atare, cu excepția transportului public de persoane în regim de taxi. Dacă stația este prevăzută cu alveolă, oprirea se va face numai în interiorul acesteia;\n b) să deschidă ușile numai după ce vehiculul a fost oprit în stație;\n c) să închidă ușile numai după ce pasagerii au coborât ori au urcat;\n d) să repună în mișcare autovehiculul sau tramvaiul din stație după ce a semnalizat intenția și s-a asigurat că poate efectua în siguranță această manevră.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1085",
+    "text": "Care autoturisme s-au încadrat corect pentru a traversa intersecția prezentată?",
+    "optiuni": {
+      "A": "toate;",
+      "B": "autoturismul verde și cel roșu;",
+      "C": "autoturismul albastru și cel galben."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1160.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1086",
+    "text": "Ce se înțelege prin distanța de cel puțin 50 m de la care conducătorul de autovehicul este obligat să semnalizeze intenția de a depăși în localitate?",
+    "optiuni": {
+      "A": "distanța dintre autovehiculul care depășește și cel care urmează să fie depășit;",
+      "B": "distanța dintre locul în care s-a semnalizat intenția de a depăși și locul în care se schimbă poziția de mers a autovehiculelor pentru începerea depășirii;",
+      "C": "distanța dintre autovehiculul angajat în depășire și locul unde efectuează depășirea."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Semaforul care emite semnale luminoase pentru dirijarea circulației în intersecții se instalează obligatoriu înainte de intersecție, astfel încât să fie vizibile de la o distanță de cel puțin 50 m. Acesta pot fi repetate în mijlocul, deasupra ori de cealaltă parte a intersecției.\n---\nPentru asigurarea distanței laterale de siguranță, la depășirea unei biciclete sau a unei trotinete electrice conducătorii de autovehicule, altele decât cele care se deplasează pe două roți, realizează această manevră prin trecerea peste marcajul longitudinal de separare a sensurilor de circulație ori de separare a benzilor pe același sens, cu cel puțin jumătate din lățimea autovehiculului atunci când viteza acestuia de deplasare este mai mare de 50 km/h, sau cu cel puțin prin încălcarea acestora când viteza de deplasare este de cel mult 50 km/h.\n---\nUn vehicul oprit sau staționat cu toate luminile stinse, în locurile în care acestea sunt permise, atunci când este:\na) pe un drum iluminat, astfel încât vehiculul este vizibil de la o distanță de cel puțin 50 m;\nb) în afara părții carosabile, pe un acostament consolidat;\nc) în localități, la marginea părții carosabile, în cazul motocicletelor cu două roți, fără ataș și a mopedelor, care nu sunt prevăzute cu sursa de energie.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1087",
+    "text": "În care dintre situații conducătorul de vehicule este obligat, pe timp de noapte, să schimbe lumina de drum cu cea de întâlnire?",
+    "optiuni": {
+      "A": "când drumul este neiluminat;",
+      "B": "când circulă în localitate, pe un drum cu mai multe benzi pe sens;",
+      "C": "în cazul în care din sens opus se apropie un autovehicul, de la o distanță de cel puțin 200 m."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Pe timpul nopții, la apropierea a două vehicule care circulă din sensuri opuse, conducătorii acestora sunt obligați ca de la o distanță de cel puțin 200 m să folosească luminile de întâlnire concomitent cu reducerea vitezei.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nConducătorul de vehicul care executa o manevra de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că o poate face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nConducătorul vehiculului al cărui mers înainte este obstruat de un obstacol sau de prezența altor participanți la trafic, care impune trecerea pe sensul opus, este obligat să reducă viteza și, la nevoie, să oprească pentru a permite trecerea vehiculelor care circulă din sens opus.\n---\nÎn cazul căderii din vehicule, pe partea carosabilă, a încărcăturii sau a unei părți din aceasta, care constituie un obstacol ce nu poate fi înlăturat imediat, conducătorul este obligat să îl semnalizeze cu unul dintre mijloacele prevăzute la alin. (1)-(3).\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nConducătorul de vehicul care execută o manevră de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că poate face această manevră fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nConducătorul de vehicul care efectuează depășirea este obligat:\na) să se asigure că acela care îl urmează sau îl precedă nu a semnalizat intenția începerii unei manevre similare și că poate depăși fără a pune în pericol sau fără a stânjeni circulația din sens opus;\nb) să semnalizeze intenția de efectuare a depășirii;\nc) să păstreze în timpul depășirii o distanță laterală suficientă față de vehiculul depășit;\nd) să reintre pe banda sa sau în șirul de circulație inițial după ce a semnalizat și s-a asigurat că poate efectua această manevră în condiții de siguranță pentru vehiculul depășit și pentru ceilalți participanți la trafic.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1088",
+    "text": "În această situație, intenționați să virați pe prima stradă la dreapta. Ce obligații aveți?",
+    "optiuni": {
+      "A": "opriți, vă asigurați, apoi schimbați direcția de mers spre dreapta;",
+      "B": "ocoliți sensul giratoriu, apoi schimbați direcția de mers spre dreapta;",
+      "C": "semnalizați intenția de a executa manevra, vă asigurați, vă angajați cât mai aproape de marginea din dreapta, apoi virați la dreapta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1207.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1089",
+    "text": "Circulația pe banda rezervată transportului public de persoane, semnalizată ca atare, este permisă:",
+    "optiuni": {
+      "A": "vehiculelor care efectuează transport public de persoane și autovehiculelor cu regim de circulație prioritar, atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență;",
+      "B": "numai vehiculelor care efectuează transport public de persoane;",
+      "C": "tuturor vehiculelor, dacă nu incomodează circulația vehiculelor prioritare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Dacă un drum este prevăzut cu o bandă destinată vehiculelor lente sau transportului public de persoane, semnalizată ca atare, acestea vor circula numai pe banda respectivă.\n---\nVehiculele care efectuează transport public de persoane se conduc pe banda rezervată acestora, dacă o astfel de bandă există și este semnalizată ca atare. Pe aceeași bandă pot circula și autovehiculele cu regim de circulație prioritară când se deplasează în acțiuni de intervenții sau în misiuni care au caracter de urgență.\n---\nCirculația autovehiculelor destinate transportului public de persoane și de mărfuri se desfășoară pe banda din partea dreaptă a autostrăzii, cu excepția cazului în care se efectuează depășirea sau semnalizarea rutieră existentă instituie o altă reglementare de utilizare a benzilor.\n---\nConducătorul de autovehicul sau de tramvai care efectuează transport public de persoane este obligat:\n a) să oprească pentru urcarea sau coborârea pasagerilor numai în stațiile semnalizate ca atare, cu excepția transportului public de persoane în regim de taxi. Dacă stația este prevăzută cu alveolă, oprirea se va face numai în interiorul acesteia;\n b) să deschidă ușile numai după ce vehiculul a fost oprit în stație;\n c) să închidă ușile numai după ce pasagerii au coborât ori au urcat;\n d) să repună în mișcare autovehiculul sau tramvaiul din stație după ce a semnalizat intenția și s-a asigurat că poate efectua în siguranță această manevră.\n---\nCirculația autovehiculelor destinate transportului public de mărfuri se efectuează, de regulă, numai pe banda marginală din partea dreaptă a autostrăzii sau a drumului expres, în sensul de mers.\n---\nLa apropierea de o stație pentru mijloace de transport public de persoane prevăzută cu alveolă, din care conducătorul unui astfel de vehicul semnalizează intenția de a ieși, conducătorul vehiculului care circulă pe banda de lângă acostament sau bordură este obligat să reducă viteza și, la nevoie, să oprească pentru a-i permite reintrarea în trafic.\n---\nOprirea vehiculelor destinate transportului public de persoane în alte locuri decât stațiile semnalizate este contravenție.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e108a",
+    "text": "Ce obligații are conducătorul care intenționează să repună în mișcare vehiculul aflat între alte vehicule staționate?",
+    "optiuni": {
+      "A": "semnalizează sonor plecarea de pe loc, pentru a fi observat de cei care circulă în același sens;",
+      "B": "semnalizează din timp plecarea de pe loc, se asigură că poate efectua manevra fără a perturba circulația sau fără a pune în pericol siguranța celorlalți participanți la trafic și acordă prioritate vehiculelor care circulă pe drumul public, indiferent de direcția de deplasare;",
+      "C": "manevrează cu grijă vehiculul, pentru a nu lovi vehiculele din fața sau din spatele său, după care se repune în mișcare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e108b",
+    "text": "Cum veți semnaliza faptul că vehiculul cu care circulați a rămas în pană pe partea carosabilă?",
+    "optiuni": {
+      "A": "prin folosirea luminilor de poziție;",
+      "B": "prin instalarea triunghiurilor reflectorizante și prin folosirea luminilor de avarie;",
+      "C": "prin purtarea vestei reflectorizante."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Vehiculele și animalele, atunci când circulă pe drumurile publice pe care le este permis accesul, trebuie conduse pe partea din dreapta a drumului public, în sensul de circulație, cât mai aproape de marginea părții carosabile, cu respectarea semnificației semnalizării rutiere și a regulilor de circulație.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul vehiculului care se angajează în depășire trebuie să se asigure că vehiculul care circulă în fața sau în spatele lui nu a inițiat o asemenea manevră.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e108c",
+    "text": "Sunteți obligat să folosiți luminile de întâlnire în timpul zilei:",
+    "optiuni": {
+      "A": "pe toate categoriile de drumuri publice;",
+      "B": "numai pe drumurile județene, comunale și locale;",
+      "C": "numai pe autostrăzi, drumuri expres și naționale europene."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Nerespectarea obligației de a folosi și pe timpul zilei luminile de întâlnire sau luminile pentru circulația diurnă, pe toate categoriile de drumuri publice atrage 2 puncte de penalizare.\n---\nÎn circulația pe toate categoriile de drumuri publice conducătorii de autovehicule și tractoare agricole sau forestiere sunt obligați să folosească și în timpul zilei luminile de întâlnire sau luminile pentru circulația diurnă.\n---\nConducătorii motocicletelor și mopedelor sunt obligați să folosească luminile de întâlnire pe toată durata deplasării acestora pe drumurile publice.\n---\nPe timpul nopții, la apropierea a două vehicule care circulă din sensuri opuse, conducătorii acestora sunt obligați ca de la o distanță de cel puțin 200 m să folosească luminile de întâlnire concomitent cu reducerea vitezei.\n---\nPe timpul nopții sau în condiții de vizibilitate redusă conducătorii de autovehicule, tractoare agricole sau forestiere și tramvaie care se apropie de o intersecție nedirijată prin semnale luminoase sau de cei opriți sunt obligați să semnalizeze prin folosirea alternativă a luminilor de întâlnire cu cele de drum.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e108d",
+    "text": "În această situație veți circula cu:",
+    "optiuni": {
+      "A": "luminile de drum;",
+      "B": "luminile de întâlnire;",
+      "C": "luminile de poziție."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1263.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Linia continuă se folosește în următoarele situații:\na) linia continuă simplă, pentru separarea sensurilor de circulație, a benzilor de același sens la apropierea de intersecții și în zone periculoase;\nb) linia continuă dublă, pentru separarea sensurilor de circulație pe drumuri cu minimum două benzi pe fiecare sens, precum și la drumuri cu o bandă pe sens sau în alte puncte stabilite de administratorul drumului respectiv, cu avizul poliției rutiere.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\ncând circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care urcă se află un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j);",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e108e",
+    "text": "Balansarea, în plan vertical, a brațului drept al unui biciclist semnifică:",
+    "optiuni": {
+      "A": "intenția de a schimba direcția de mers la dreapta;",
+      "B": "intenția de a opri;",
+      "C": "intenția de a se angaja în depășire."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Persoanele prevăzute la alin. (1) lit. a)-d) pot efectua și următoarele semnale:\n a) balansarea brațului în plan vertical, cu palma mâinii orientată către sol sau cu un mijloc de semnalizare, care semnifică reducerea vitezei;\n b) rotirea vioaie a brațului, care semnifică mărirea vitezei de deplasare a vehiculelor, inclusiv grăbirea traversării drumului de către pietoni.\n---\nSemnalele polițistului care dirijează circulația au următoarele semnificații: d) balansarea pe verticală a brațului, având palma orientată către sol, semnifică reducerea vitezei;",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e108f",
+    "text": "Cum procedați dacă v-ați încadrat pe banda din stânga, deși intenționați să virați la dreapta?",
+    "optiuni": {
+      "A": "semnalizați, claxonați și virați la dreapta;",
+      "B": "virați la stânga;",
+      "C": "întrucât din sens opus nu circulă alte vehicule, virați accelerat la dreapta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1319.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Sfârșitul drumului cu prioritate: Se amplaseaza la 50-200 m de locul unde inceteaza semnificatia indicatorului \"Drum cu prioritate\", avand rolul de a informa conducatorul auto ca in urmatoarea intersectie in care va patrunde, toate drumurile vor fi de aceeasi categorie si se va aplica regula prioritatii de dreapta.\n---\nIndicator Drum cu prioritate: Se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde. Drumurile care intersecteaza drumul cu prioritate vor avea instalate unul dintre indicatoarele \"Oprire\" sau \"Cedeaza trecerea\". Cand este amplasat inaintea unei intersectii, acest indicator poate fi insotit si de un panou aditional care va preciza directia drumului cu prioritate.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1090",
+    "text": "Ce obligație îi revine conducătorului de vehicul care schimbă direcția de mers la dreapta, la semnalul verde al semaforului, în timp ce pietonii sunt angajați la rândul lor în traversare?",
+    "optiuni": {
+      "A": "să semnalizeze schimbarea direcției de mers și să acorde prioritate de trecere pietonilor angajați în traversarea străzii pe care urmează să intre, pe sensul său de mers;",
+      "B": "să semnalizeze schimbarea direcției de mers și să-și continue deplasarea cu prudență, pietonii fiind obligați să-i cedeze trecerea;",
+      "C": "să semnalizeze schimbarea direcției de mers și să păstreze o distanță laterală suficientă față de bordura din dreapta."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Neîndeplinirea obligațiilor ce îi revin conducătorului de vehicul care efectuează transport public de persoane sau de mărfuri constituie contravenție.\n---\nConducătorul de vehicul care executa o manevra de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că o poate face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nConducătorul de vehicul care execută o manevră de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că poate face această manevră fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1091",
+    "text": "Ce obligații are conducătorul de vehicul care intenționează să intre pe prima stradă la dreapta, într-o intersecție cu sens giratoriu?",
+    "optiuni": {
+      "A": "ocolește sensul giratoriu, apoi schimbă direcția de mers spre dreapta;",
+      "B": "semnalizează intenția de a executa manevra, se asigură, se angajează cât mai aproape de marginea din dreapta, apoi intră pe strada respectivă;",
+      "C": "oprește autovehiculul, se asigură și execută schimbarea direcției de mers spre dreapta."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nConducătorul de vehicul care efectuează depășirea este obligat:\na) să se asigure că acela care îl urmează sau îl precedă nu a semnalizat intenția începerii unei manevre similare și că poate depăși fără a pune în pericol sau fără a stânjeni circulația din sens opus;\nb) să semnalizeze intenția de efectuare a depășirii;\nc) să păstreze în timpul depășirii o distanță laterală suficientă față de vehiculul depășit;\nd) să reintre pe banda sa sau în șirul de circulație inițial după ce a semnalizat și s-a asigurat că poate efectua această manevră în condiții de siguranță pentru vehiculul depășit și pentru ceilalți participanți la trafic.\n---\nConducătorul vehiculului al cărui mers înainte este obstruat de un obstacol sau de prezența altor participanți la trafic, care impune trecerea pe sensul opus, este obligat să reducă viteza și, la nevoie, să oprească pentru a permite trecerea vehiculelor care circulă din sens opus.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nConducătorul de vehicul care urmează să fie depășit este obligat:\na) să nu mărească viteza de deplasare;\nb) să circule cât mai aproape de marginea din dreapta a părții carosabile sau a benzii pe care se deplasează.\n---\nLa intersecțiile fără marcaje de delimitare a benzilor, conducătorii vehiculelor ocupă în mers, cu cel puțin 50 m înainte de intersecție, următoarele poziții: b) rândul de lângă axa drumului sau de lângă marcajul de separare a sensurilor, cei care vor să schimbe direcția de mers spre stânga. Când circulația se desfășoară pe drumuri cu sens unic, conducătorii de vehicule care intenționează să vireze la stânga sunt obligați să ocupe rândul de lângă bordura sau acostamentul din partea stângă.\n---\nLa intersecțiile cu circulație dirijată, conducătorul de vehicul este obligat să respecte semnificația indicatoarelor, culoarea semaforului sau indicațiile ori semnalele polițistului rutier.\n---\n1) Conducătorii de vehicule sunt obligați să respecte viteza maximă admisă pe sectorul de drum pe care circulă și pentru categoria din care face parte vehiculul condus, precum și cea impusă prin mijloacele de semnalizare.\n2) Nerespectarea regimului de viteză stabilit conform legii se constată de către polițiștii rutieri, cu mijloace tehnice omologate și verificate metrologic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1092",
+    "text": "Care autoturism își continuă deplasarea prin intersecție?",
+    "optiuni": {
+      "A": "autoturismul alb;",
+      "B": "autoturismul roșu;",
+      "C": "autoturismul albastru."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1390.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În situațiile în care există benzi speciale pentru executarea manevrei, schimbarea direcției de deplasare se face prin stânga centrului imaginar al intersecției, iar dacă există un marcaj de ghidare, cu respectarea semnificației acestuia.\n---\nConducătorul auto care nu permite părăsirea intersecției vehiculului rămas în interiorul acesteia comite o contravenție.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1093",
+    "text": "Pentru a vira la stânga:",
+    "optiuni": {
+      "A": "autoturismele vor folosi traiectoriile care ocolesc prin stânga centrul imaginar al intersecției;",
+      "B": "autoturismul roșu va ceda trecerea;",
+      "C": "autoturismul roșu va trece prin spatele celui albastru."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1393.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1094",
+    "text": "Aveți obligația de a opri imediat vehiculul la semnalele adresate de:",
+    "optiuni": {
+      "A": "personalul autorizat de la trecerile la nivel cu calea ferată industrială;",
+      "B": "conducătorii unor grupuri organizate;",
+      "C": "nevăzătorii, prin ridicarea bastonului alb, atunci când aceștia traversează strada."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare sonore și vizuale.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare roșie și sonore.\n---\nOprirea participanților la trafic este obligatorie și la semnalele date de:\n a) polițiștii de frontieră;\n b) îndrumătorii de circulație ai Ministerului Apărării;\n c) agenții de cale ferată, la trecerile la nivel;\n d) personalul autorizat din zona lucrărilor pe drumurile publice;\n e) membrii patrulelor școlare de circulație, la trecerile pentru pietoni din apropierea unităților de învățământ;\n f) nevăzători, prin ridicarea bastonului alb, atunci când aceștia traversează strada.\n---\nConducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\nConducătorul de vehicul este obligat să oprească atunci când: a) barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare; b) semnalul cu lumini roșii și/sau semnalul sonor sunt în funcțiune; c) întâlnește indicatorul \"Trecerea la nivel cu calea ferată simplă, fără bariere\", \"Trecerea la nivel cu calea ferată dublă, fără bariere\" sau \"Oprire\".",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1095",
+    "text": "Cum trebuie să procedeze corect conducătorul de vehicul, pentru a trece de pe banda întâi a unui drum public pe banda a treia?",
+    "optiuni": {
+      "A": "reduce viteza de mers și trece de pe o bandă pe alta, asigurându-se continuu în oglinda retrovizoare;",
+      "B": "dacă trecerea de pe o bandă pe alta nu s-a făcut cu cel puțin 200 m înainte de intersecție, manevra nu mai este posibilă;",
+      "C": "se asigură din spate și semnalizează intenția de a trece succesiv de pe banda întâi pe a doua, apoi pe a treia."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul trebuie să respecte regimul legal de viteză și să o adapteze în funcție de condițiile de drum, astfel încât să poată efectua orice manevră în condiții de siguranță.\n---\nAtunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1096",
+    "text": "Ce măsuri trebuie să luați atunci când circulați în condiții atmosferice ce împiedică mult vizibilitatea?",
+    "optiuni": {
+      "A": "să circulați pe distanțe scurte și cu luminile de poziție în funcțiune;",
+      "B": "să folosiți luminile de poziție și să circulați cât mai aproape de marginea din dreapta a drumului;",
+      "C": "să folosiți luminile de întâlnire."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În circulația pe drumurile publice mopedul trebuie să fie echipat cu: a) instalație de frânare eficace; b) sistem de avertizare sonoră; c) instalație de evacuare a gazelor de ardere care să respecte normele de poluare fonică și de protecție a mediului; d) lumină de culoare albă în față, respectiv lumină și dispozitiv reflectorizant de culoare roșie în spate; e) lumini de culoare galbenă pentru semnalizarea schimbării direcției de mers, în față și în spate; f) plăcuță cu numărul de înmatriculare, amplasată la 0,2 m deasupra pământului fără a obtura vizibilitatea sistemului de iluminare și semnalizare.\n---\nConducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1097",
+    "text": "Cum trebuie să se încadreze conducătorul de autovehicul, dacă intenţionează să schimbe direcţia de mers spre stânga într-o intersecţie prin care circulă şi tramvaie, iar spaţiul dintre şina din dreapta şi bordura trotuarului permite deplasarea vehiculelor doar pe un singur rând?",
+    "optiuni": {
+      "A": "pe linia tramvaiului;",
+      "B": "pe singurul rând rămas la dispoziţie, lăsând liber traseul tramvaiului;",
+      "C": "în această situaţie nu se poate schimba direcţia de mers spre stânga."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul trebuie să respecte regimul legal de viteză și să o adapteze în funcție de condițiile de drum, astfel încât să poată efectua orice manevră în condiții de siguranță.\n---\nConducătorul de autovehicul trebuie semnalat cu lumina sau luminile speciale din dotare. Se recomandă dotarea autovehiculelor și cu dispozitive sonore pentru semnalizarea acestei manevre.\n---\nCând semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1098",
+    "text": "Care dintre autoturisme s-a încadrat corect pentru a schimba direcția de mers?",
+    "optiuni": {
+      "A": "autoturismul roșu;",
+      "B": "autoturismul albastru;",
+      "C": "ambele autoturisme."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1456.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Nerespectarea regulilor privind manevra de întoarcere, mersul înapoi sau schimbarea benzii de circulație sau a direcției de mers, dacă prin aceasta s-a produs un accident din care a rezultat avarierea unui vehicul sau alte pagube materiale atrage 3 puncte de penalizare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1099",
+    "text": "În care dintre situații se poate folosi semnalizarea cu mijloace de avertizare sonoră într-o localitate în care claxonatul este interzis?",
+    "optiuni": {
+      "A": "la trecerile pentru pietoni;",
+      "B": "în intersecțiile nedirijate;",
+      "C": "ori de câte ori este necesar, pentru evitarea unui pericol imediat."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "1) Mijloacele de avertizare sonoră trebuie folosite de la o distanță de cel puțin 25 m față de cei cărora li se adresează, pe o durată de timp care să asigure perceperea semnalului și fără să îi determine pe aceștia la manevre ce pot pune în pericol siguranța circulației.\n(2) Semnalizarea cu mijloacele de avertizare sonoră nu poate fi folosită în zonele de acțiune a indicatorului \"Claxonarea interzisă\".\n(3) Se exceptează de la prevederile alin. (2):\na) conducătorii autovehiculelor cu regim de circulație prioritară când se deplasează în acțiuni de intervenții sau în misiuni care au caracter de urgență;\nb) conducătorii autovehiculelor care folosesc acest semnal pentru evitarea unui pericol iminent.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e109a",
+    "text": "Conducătorul autoturismului din imagine va circula cu:",
+    "optiuni": {
+      "A": "80 km/h;",
+      "B": "90 km/h;",
+      "C": "100 km/h."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/421.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul autovehiculului cu masă și/sau dimensiuni de gabarit depășite, precum și conducătorii autovehiculelor de însoțire sunt obligați să pună și să mențină în funcțiune semnalele speciale de avertizare cu lumină galbenă, prevăzute la art. 32 alin. (1) lit. c) din Ordonanța de urgență a Guvernului nr. 195/2002, republicată, cu modificările și completările ulterioare, pe toată perioada deplasării pe drumul public.\n---\nConducerea autovehiculului pe drumurile publice acoperite cu zăpadă, gheață sau polei, fără ca acesta să fie dotat cu anvelope de iarnă, iar în cazul autovehiculului de transport marfă cu o masă totală maximă autorizată mai mare de 3,5 tone și al autovehiculului de transport persoane cu mai mult de 9 locuri pe scaune, inclusiv cel al conducătorului auto, fără ca acestea să fie echipate cu anvelope de iarnă pe roțile axei/axelor de tracțiune sau fără a avea montate pe aceste roți lanțuri sau alte echipamente antiderapante certificate constituie contravenție.\n---\nConducătorul vehiculului al cărui mers înainte este obstruat de un obstacol sau de prezența altor participanți la trafic, care impune trecerea pe sensul opus, este obligat să reducă viteza și, la nevoie, să oprească pentru a permite trecerea vehiculelor care circulă din sens opus.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e109b",
+    "text": "Sunteţi obligat să nu depăşiţi viteza de 50 km/h în afara localităţilor, în următoarele situaţii:",
+    "optiuni": {
+      "A": "când partea carosabilă este acoperită cu mâzgă;",
+      "B": "la coborârea drumurilor în pantă;",
+      "C": "la întâlnirea indicatorului „Prioritate pentru circulaţia din sens invers“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nConducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\nLimitele maxime de viteză în afara localităților sunt:\n a) pe autostrăzi - 130 km/h;\n b) pe drumurile expres - 120 km/h;\n c) pe drumurile naționale europene (E) - 100 km/h;\n d) pe celelalte categorii de drumuri - 90 km/h.\n---\nViteza maximă admisă pentru autovehicule cu mase și/sau gabarite depășite ori care transportă produse periculoase este de 40 km/h în localități, iar în afara localităților de 70 km/h.\n---\n1) În zona rezidențială, semnalizată ca atare, pietonii pot folosi toată lățimea părții carosabile, iar jocul copiilor este permis.\n2) (În zona rezidențială) Conducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e109c",
+    "text": "Ce obligaţii aveţi la întâlnirea indicatorului?",
+    "optiuni": {
+      "A": "să circulaţi cu atenţie mărită, pentru a evita pericolele asupra cărora sunteţi avertizat;",
+      "B": "să circulaţi cu viteză redusă, deoarece urmează o intersecţie periculoasă;",
+      "C": "să circulaţi cu lanţuri antiderapante, în condiţii meteo nefavorabile."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/442.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Alte pericole: Se amplaseaza cu 50-200 m inaintea locului periculos, in orice situatie periculoasa care nu este prevazuta cu un indicator de avertizare specific. La intalnirea acestui indicator, conducatorului auto ii este recomandat preventiv sa reduca viteza si sa circule cu atentie sporita.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e109d",
+    "text": "Care este limita maximă de viteză în localităţi?",
+    "optiuni": {
+      "A": "60 km/h;",
+      "B": "50 km/h;",
+      "C": "40 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Viteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.\n---\nViteza maximă admisă pentru autovehicule cu mase și/sau gabarite depășite ori care transportă produse periculoase este de 40 km/h în localități, iar în afara localităților de 70 km/h.\n---\nLimita maximă de viteză în localități este de 50 km/h.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nLimitele maxime de viteză în afara localităților sunt:\n a) pe autostrăzi - 130 km/h;\n b) pe drumurile expres - 120 km/h;\n c) pe drumurile naționale europene (E) - 100 km/h;\n d) pe celelalte categorii de drumuri - 90 km/h.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e109e",
+    "text": "Care sunt vitezele maxime admise pentru subcategoria de autovehicule B1?",
+    "optiuni": {
+      "A": "90 km/h pe autostrăzi, 85 km/h pe drumurile expres sau naţionale europene şi 70 km/h pe celelalte categorii de drumuri;",
+      "B": "110 km/h pe autostrăzi, 90 km/h pe drumurile expres sau naţionale europene şi 80 km/h pe celelalte categorii de drumuri;",
+      "C": "130 km/h pe autostrăzi şi 90 km/h pe celelalte categorii de drumuri."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Vitezele maxime admise în afara localităților pentru categoriile de autovehicule prevăzute în anexa nr. 1 sunt următoarele:\n a) 130 km/h pe autostrăzi, 120 km/h pe drumurile expres, 100 km/h pe drumurile naționale europene (E) și 90 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile A și B;\n b) 110 km/h pe autostrăzi, 100 km/h pe drumurile expres, 90 km/h pe drumurile naționale europene (E) și 80 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile C, D și categoria D1;\n c) 90 km/h pe autostrăzi, 85 km/h pe drumuri expres, 80 km/h pe drumurile naționale europene (E) și 70 km/h pentru celelalte categorii de drumuri, pentru autovehiculele din categoriile A1, B1 și C1;\n d) 45 km/h, pentru tractoarele agricole sau forestiere și mopede.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e109f",
+    "text": "Sunteţi obligat să nu depăşiţi viteza de 50 km/h în afara localităţilor, în următoarele situaţii:",
+    "optiuni": {
+      "A": "pe poduri sau sub poduri;",
+      "B": "la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, pe drumurile cu o singură bandă pe sens;",
+      "C": "în curbe deosebit de periculoase sau cu vizibilitate mai mică de 50 m."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nConducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\nLimitele maxime de viteză în afara localităților sunt:\n a) pe autostrăzi - 130 km/h;\n b) pe drumurile expres - 120 km/h;\n c) pe drumurile naționale europene (E) - 100 km/h;\n d) pe celelalte categorii de drumuri - 90 km/h.\n---\nViteza maximă admisă pentru autovehicule cu mase și/sau gabarite depășite ori care transportă produse periculoase este de 40 km/h în localități, iar în afara localităților de 70 km/h.\n---\n1) În zona rezidențială, semnalizată ca atare, pietonii pot folosi toată lățimea părții carosabile, iar jocul copiilor este permis.\n2) (În zona rezidențială) Conducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10a0",
+    "text": "În care dintre următoarele situaţii sunteţi obligat să circulaţi cu viteză redusă?",
+    "optiuni": {
+      "A": "când sunteţi obosit şi autovehiculul are sistemul de frânare defect;",
+      "B": "la trecerea la nivel cu calea ferată curentă;",
+      "C": "pe drumurile judeţene şi comunale."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10a1",
+    "text": "În situaţia dată:",
+    "optiuni": {
+      "A": "veţi circula cu prudenţă până la prima intersecţie;",
+      "B": "veţi circula cu maximum 30 km/h pe sectorul de drum denivelat;",
+      "C": "veţi circula cu minimum 30 km/h."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/496.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10a2",
+    "text": "Care este limita maximă de viteză în afara localităţilor, pe drumurile expres sau pe cele naţionale europene (E)?",
+    "optiuni": {
+      "A": " 100 km/h pe drumurile naționale europene (E) și 120 km/h pe drumurile expres;",
+      "B": " 110 km/h pe drumurile naționale europene (E) și 130 km/h pe drumurile expres;",
+      "C": " 90 km/h pe drumurile naționale europene (E) și 110 km/h pe drumurile expres;"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Limitele maxime de viteză în afara localităților sunt:\n a) pe autostrăzi - 130 km/h;\n b) pe drumurile expres - 120 km/h;\n c) pe drumurile naționale europene (E) - 100 km/h;\n d) pe celelalte categorii de drumuri - 90 km/h.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nViteza maximă admisă pentru autovehicule cu mase și/sau gabarite depășite ori care transportă produse periculoase este de 40 km/h în localități, iar în afara localităților de 70 km/h.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nVitezele maxime admise în afara localităților pentru categoriile de autovehicule prevăzute în anexa nr. 1 sunt următoarele:\n a) 130 km/h pe autostrăzi, 120 km/h pe drumurile expres, 100 km/h pe drumurile naționale europene (E) și 90 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile A și B;\n b) 110 km/h pe autostrăzi, 100 km/h pe drumurile expres, 90 km/h pe drumurile naționale europene (E) și 80 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile C, D și categoria D1;\n c) 90 km/h pe autostrăzi, 85 km/h pe drumuri expres, 80 km/h pe drumurile naționale europene (E) și 70 km/h pentru celelalte categorii de drumuri, pentru autovehiculele din categoriile A1, B1 și C1;\n d) 45 km/h, pentru tractoarele agricole sau forestiere și mopede.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10a3",
+    "text": "Cu ce viteză veţi efectua virajul spre stânga într-o intersecţie nedirijată?",
+    "optiuni": {
+      "A": "cu o viteză mai mare decât cea legală;",
+      "B": "cu o viteză de cel mult 80 km/h;",
+      "C": "cu o viteză care să nu depăşească 30 km/h în localităţi sau 50 km/h în afara localităţilor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "când efectuează un viraj spre stânga sau spre dreapta și se intersectează cu un conducător de bicicletă sau trotinetă electrică care circulă pe o pistă pentru biciclete, semnalizată ca atare;\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10a4",
+    "text": "Viteza de deplasare trebuie să nu depăşească 30 km/h în localităţi sau 50 km/h în afara localităţilor:",
+    "optiuni": {
+      "A": "când vizibilitatea este sub 100 m în condiţii de ceaţă, ploi torenţiale, ninsori abundente;",
+      "B": "când circulaţi pe poduri sau sub poduri;",
+      "C": "la întâlnirea indicatorului „Prioritate faţă de circulaţia din sens invers“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nViteza maximă admisă pentru autovehicule cu mase și/sau gabarite depășite ori care transportă produse periculoase este de 40 km/h în localități, iar în afara localităților de 70 km/h.\n---\nConducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\nLimita maximă de viteză în localități este de 50 km/h.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10a5",
+    "text": "Limita maximă de viteză cu care este permisă circulaţia autovehiculelor în afara localităţilor, atunci când vizibilitatea este redusă sub 100 m, în condiţii de ceaţă, este de:",
+    "optiuni": {
+      "A": "70 km/h;",
+      "B": "50 km/h;",
+      "C": "90 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Viteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.\n---\nViteza maximă admisă pentru autovehicule cu mase și/sau gabarite depășite ori care transportă produse periculoase este de 40 km/h în localități, iar în afara localităților de 70 km/h.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10a6",
+    "text": "În care dintre următoarele situaţii sunteţi obligat să circulaţi cu o viteză care să nu depăşească 30 km/h în localităţi?",
+    "optiuni": {
+      "A": "în zona de acţiune a indicatorului de avertizare \"Accident\";",
+      "B": "când vizibilitatea este sub 100 m, în condiţii de ceaţă;",
+      "C": "la intersectarea cu vehiculele care circulă din sens opus."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10a7",
+    "text": "Puteţi folosi o viteză mai mare decât cea legală pentru depăşirea unui autovehicul?",
+    "optiuni": {
+      "A": "da, dacă circulaţi pe autostradă;",
+      "B": "da, dacă vă asiguraţi că din sens opus nu circulă niciun alt vehicul;",
+      "C": "nu."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Viteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10a8",
+    "text": "Cu ce viteză sunteţi obligat să circulaţi pe drumurile publice din afara localităţilor, când partea carosabilă este acoperită cu piatră cubică umedă?",
+    "optiuni": {
+      "A": "cu o viteză care să nu depăşească 50 km/h;",
+      "B": "cu o viteză care să permită efectuarea oricărei manevre în condiţii de siguranţă;",
+      "C": "cu o viteză care să nu depăşească limita maximă de 90 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nConducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cât mai aproape de marginea drumului în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonoră.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\n1) Conducătorii de vehicule sunt obligați să respecte viteza maximă admisă pe sectorul de drum pe care circulă și pentru categoria din care face parte vehiculul condus, precum și cea impusă prin mijloacele de semnalizare.\n2) Nerespectarea regimului de viteză stabilit conform legii se constată de către polițiștii rutieri, cu mijloace tehnice omologate și verificate metrologic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10a9",
+    "text": "Viteza maximă cu care pot să conducă un autoturism, pe autostradă, persoanele care au mai puţin de un an de practică de conducere, este de:",
+    "optiuni": {
+      "A": "130 km/h;",
+      "B": "100 km/h;",
+      "C": "110 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Viteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10aa",
+    "text": "La o intersecție semaforizată, semnalul verde se schimbă în galben. Conducătorul unui vehicul, fiind foarte aproape de semafor, oprește brusc și este lovit din spate de conducătorul care îl urma. Care dintre cei doi conducători a greșit?",
+    "optiuni": {
+      "A": "conducătorul primului vehicul, care a oprit brusc;",
+      "B": "conducătorul vehiculului din spate, care nu a păstrat distanța de siguranță în mers;",
+      "C": "ambii conducãtori."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Când semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.\n---\nSemaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.\n---\nConducătorul vehiculului care intră într-o intersecție la culoarea verde a semaforului este obligat să respecte și semnificația indicatoarelor instalate în interiorul acesteia.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ab",
+    "text": "Viteza maximă cu care pot să conducă un autoturism, pe drumurile naţionale, altele decât cele europene (E), persoanele care au mai puţin de un an de practică de conducere, este de:",
+    "optiuni": {
+      "A": "70 km/h;",
+      "B": "90 km/h;",
+      "C": "80 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Viteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ac",
+    "text": "Ce obligaţii vă revin în timpul conducerii autovehiculului cu privire la viteză?",
+    "optiuni": {
+      "A": "să respectaţi viteza maximă admisă pe sectorul de drum pe care circulaţi, corespunzătoare categoriei din care face parte autovehiculul condus;",
+      "B": "să vă conformaţi limitelor de viteză impuse prin mijloacele de semnalizare specifice;",
+      "C": "să rulaţi pe cât posibil în treptele inferioare de viteză, pentru a nu polua mediul."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Pe timpul nopții sau în condiții de vizibilitate redusă conducătorii de autovehicule, tractoare agricole sau forestiere și tramvaie care se apropie de o intersecție nedirijată prin semnale luminoase sau de cei opriți sunt obligați să semnalizeze prin folosirea alternativă a luminilor de întâlnire cu cele de drum.\n---\nConducătorii de autovehicule având locuri prevăzute prin construcție cu centuri de siguranță trebuie să informeze pasagerii cu privire la obligația legală de a le purta în timpul circulației pe drumurile publice.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ad",
+    "text": "Când nu este permis să măriți viteza de deplasare a vehiculului?",
+    "optiuni": {
+      "A": "când circulați pe prima bandă;",
+      "B": "când un alt vehicul s-a angajat în depășirea dvs.;",
+      "C": "în intersecții."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nEste interzisă ocuparea trotuarului cu vehicule imobilizate, iar când aceasta este permisă, conform indicatoarelor sau marcajelor, lățimea minimă a trotuarului lăsat la dispoziția pietonilor trebuie să fie de cel puțin un metru.\n---\nNu este permisă oprirea sau staționarea în tuneluri. În situații de urgență sau de pericol conducătorului de autovehicul îi este permisă oprirea sau staționarea numai în locurile special amenajate și semnalizate corespunzător. În caz de imobilizare prelungită a autovehiculului în tunel, conducătorul de vehicul este obligat să oprească motorul.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nÎn locurile în care mersul înapoi este permis, dar vizibilitatea în spate este împiedicată, vehiculul poate fi manevrat înapoi numai atunci când conducătorul acestuia este dirijat de cel puțin o persoană aflată în afara vehiculului.\n---\n1) În zona rezidențială, semnalizată ca atare, pietonii pot folosi toată lățimea părții carosabile, iar jocul copiilor este permis.\n2) (În zona rezidențială) Conducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ae",
+    "text": "Conducătorul de vehicul care are mai puţin de un an de practică de conducere, va circula cu o viteză maximă admisă în afara localităţilor, mai mică cu:",
+    "optiuni": {
+      "A": "10 km/h;",
+      "B": "20 km/h;",
+      "C": "25 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Viteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.\n---\nConducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10af",
+    "text": "Viteza maximă autorizată pe autostrăzi pentru autovehiculele din categoriile A şi B este de:",
+    "optiuni": {
+      "A": "90 km/h;",
+      "B": "110 km/h;",
+      "C": "130 km/h."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/717.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Vitezele maxime admise în afara localităților pentru categoriile de autovehicule prevăzute în anexa nr. 1 sunt următoarele:\n a) 130 km/h pe autostrăzi, 120 km/h pe drumurile expres, 100 km/h pe drumurile naționale europene (E) și 90 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile A și B;\n b) 110 km/h pe autostrăzi, 100 km/h pe drumurile expres, 90 km/h pe drumurile naționale europene (E) și 80 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile C, D și categoria D1;\n c) 90 km/h pe autostrăzi, 85 km/h pe drumuri expres, 80 km/h pe drumurile naționale europene (E) și 70 km/h pentru celelalte categorii de drumuri, pentru autovehiculele din categoriile A1, B1 și C1;\n d) 45 km/h, pentru tractoarele agricole sau forestiere și mopede.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.\n---\nPe anumite sectoare de drum din interiorul localităților, administratorul drumului poate stabili, pentru autovehiculele din categoriile A și B, și limite de viteză superioare, dar nu mai mult de 80 km/h. Limitele de viteză mai mari de 50 km/h se stabilesc numai cu avizul poliției rutiere.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.\n---\nDepășirea cu 10-20 km/h a vitezei maxime admise pe sectorul de drum pentru categoria din care face parte autovehiculul condus, constatată potrivit legii, cu mijloace tehnice omologate și verificate metrologic atrage 2 puncte de penalizare.\n---\nDepășirea cu 41-50 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus, constatată, potrivit legii, cu mijloace tehnice omologate și verificate metrologic atrage 6 puncte de penalizare.\n---\nDepășirea cu 31-40 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus, constatată, potrivit legii, cu mijloace tehnice omologate și verificate metrologic atrage 4 puncte de penalizare.\n---\nViteza maximă admisă pentru autovehicule cu mase și/sau gabarite depășite ori care transportă produse periculoase este de 40 km/h în localități, iar în afara localităților de 70 km/h.\n---\nLimitele maxime de viteză în afara localităților sunt:\n a) pe autostrăzi - 130 km/h;\n b) pe drumurile expres - 120 km/h;\n c) pe drumurile naționale europene (E) - 100 km/h;\n d) pe celelalte categorii de drumuri - 90 km/h.\n---\nDepășirea cu 21-30 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus atrage 3 puncte de penalizare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10b0",
+    "text": "Viteza de deplasare trebuie redusă până la 30 km/h în localităţi sau 50 km/h în afara localităţilor:",
+    "optiuni": {
+      "A": "la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, dacă acestea se află pe drumurile cu o singură bandă de circulaţie pe sens;",
+      "B": "la întâlnirea indicatorului „Pistă obligatorie pentru biciclişti“;",
+      "C": "la trecerile la nivel cu calea ferată dublă sau simplă prevăzută cu bariere."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nViteza maximă admisă pentru autovehicule cu mase și/sau gabarite depășite ori care transportă produse periculoase este de 40 km/h în localități, iar în afara localităților de 70 km/h.\n---\nLimita maximă de viteză în localități este de 50 km/h.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10b1",
+    "text": "În care dintre următoarele situaţii sunteţi obligat să circulaţi cu o viteză care să nu depăşească 30 km/h în localităţi?",
+    "optiuni": {
+      "A": "la trecerile pentru pietoni semaforizate;",
+      "B": "la circulaţia pe poduri;",
+      "C": "pe drumurile cu denivelări semnalizate ca atare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10b2",
+    "text": "Conduceţi un autoturism care tractează o semiremorcă pe un drum naţional european (E). Care este viteza maximă cu care aveţi voie să circulaţi în afara localităţilor?",
+    "optiuni": {
+      "A": "70 km/h;",
+      "B": "110 km/h;",
+      "C": "90 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Viteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10b3",
+    "text": "Într-o zonă pietonală, semnalizată ca atare, sunteţi obligat să circulaţi cu o viteză de:",
+    "optiuni": {
+      "A": "cel mult 30 km/h;",
+      "B": "cel mult 20 km/h;",
+      "C": "cel mult 5 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În zona pietonală, semnalizată ca atare, conducătorul de vehicul poate intra numai dacă locuiește în această zonă sau prestează servicii publice \"din poartă în poartă\" și nu are altă posibilitate de acces. Acesta este obligat să circule cu viteza maximă de 5 km/h, să nu stânjenească ori să împiedice circulația pietonilor și, dacă este necesar, să oprească pentru a permite circulația acestora.\n---\n1) În zona rezidențială, semnalizată ca atare, pietonii pot folosi toată lățimea părții carosabile, iar jocul copiilor este permis.\n2) (În zona rezidențială) Conducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\nConducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\nÎn zona rezidențială, semnalizată ca atare, pietonii pot folosi toată lățimea părții carosabile, iar jocul copiilor este permis.\n---\nIntersecție cu sens giratoriu - intersecție dirijată, semnalizată ca atare, prevăzută cu una sau mai multe benzi de circulație, în care circulația se desfășoară într-o singură direcție în jurul unei zone centrale.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10b4",
+    "text": "La trecerile pentru pietoni nesemaforizate, semnalizate corespunzător, când drumul are cel mult o bandă pe sens, iar pietonii aflaţi pe trotuar, în imediata apropiere a părţii carosabile, intenţionează să se angajeze în traversare, trebuie:",
+    "optiuni": {
+      "A": "să circulaţi cu o viteză care să nu depăşească 30 km/h în localităţi sau 50 km/h în afara acestora;",
+      "B": "să reduceţi brusc viteza şi să acordaţi prioritate de trecere pietonilor care au acest drept;",
+      "C": "nu aveţi nicio obligaţie legală şi nici vreo răspundere în cazul unui eventual accident."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10b5",
+    "text": "Ce obligaţii vă revin în ceea ce priveşte regimul vitezei de circulaţie?",
+    "optiuni": {
+      "A": "să respectaţi regimul legal de viteză aplicabil pe traseul pe care vă deplasaţi;",
+      "B": "să adaptaţi viteza în funcţie de condiţiile de drum, astfel încât să puteţi efectua orice manevră în condiţii de siguranţă;",
+      "C": "să nu depăşiţi viteza legală în zonele în care este instalată aparatura radar."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nNerespectarea obligației de reducere a vitezei în cazurile prevăzute de regulament constituie contravenție.\n---\n1) Conducătorii de vehicule sunt obligați să respecte viteza maximă admisă pe sectorul de drum pe care circulă și pentru categoria din care face parte vehiculul condus, precum și cea impusă prin mijloacele de semnalizare.\n2) Nerespectarea regimului de viteză stabilit conform legii se constată de către polițiștii rutieri, cu mijloace tehnice omologate și verificate metrologic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10b6",
+    "text": "Cum trebuie să procedaţi atunci când, circulând pe drumul naţional într-o localitate rurală, treceţi pe lângă o coloană militară care se deplasează în aceeaşi direcţie?",
+    "optiuni": {
+      "A": "măriţi viteza şi depăşiţi coloana;",
+      "B": "folosiţi avertizorul sonor de la minimum 150 m;",
+      "C": "reduceţi viteza până la limitele prevăzute de lege, dacă drumul are o singură bandă pe sens."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Bicicletele și trotinetele electrice, atunci când circulă pe drumul public, trebuie conduse numai pe un singur rând.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10b7",
+    "text": "Într-o zonă rezidenţială puteţi circula cu:",
+    "optiuni": {
+      "A": "viteza minimă obligatorie de 20 km/h;",
+      "B": "viteza maximă de 20 km/h;",
+      "C": "viteza maximă de 30 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "1) În zona rezidențială, semnalizată ca atare, pietonii pot folosi toată lățimea părții carosabile, iar jocul copiilor este permis.\n2) (În zona rezidențială) Conducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10b8",
+    "text": "Viteza se va reduce obligatoriu:",
+    "optiuni": {
+      "A": "la trecerile pentru pietoni",
+      "B": "la semnalul polițistului de frontieră",
+      "C": "la intalnirea indicatorului \"Cedează trecerea\"."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Nerespectarea obligației de reducere a vitezei în cazurile prevăzute de regulament constituie contravenție.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10b9",
+    "text": "În care dintre următoarele situaţii sunteţi obligat să circulaţi cu o viteză care să nu depăşească 30 km/h în localităţi?",
+    "optiuni": {
+      "A": "într-o zonă rezidenţială, semnalizată ca atare;",
+      "B": "la trecerea prin intersecţiile cu circulaţie nedirijată;",
+      "C": "într-o zonă pietonală, semnalizată ca atare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ba",
+    "text": "Care este limita legală de viteză în afara localităţilor, pe celelalte categorii de drumuri, altele decât autostrăzile, drumurile expres sau cele naţionale europene (E)?",
+    "optiuni": {
+      "A": "70 km/h;",
+      "B": "90 km/h;",
+      "C": "100 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Limitele maxime de viteză în afara localităților sunt:\n a) pe autostrăzi - 130 km/h;\n b) pe drumurile expres - 120 km/h;\n c) pe drumurile naționale europene (E) - 100 km/h;\n d) pe celelalte categorii de drumuri - 90 km/h.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10bb",
+    "text": "Cu ce viteză veţi circula în condiţii de ceaţă, ploi torenţiale, ninsori abundente, dacă vizibilitatea este redusă sub 100 m?",
+    "optiuni": {
+      "A": "maxim 50 km/h în localităţi sau 60 km/h în afara localităţilor;",
+      "B": "reduceţi viteza până la limita evitării oricărui pericol;",
+      "C": "maxim 30 km/h în localităţi sau 50 km/h în afara localităţilor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nCirculația în timpul nopții sau ziua, pe timp de ceață, ninsoare abundentă sau ploaie torențială, cu un autovehicul și tractor agricol sau forestier fără lumini sau fără semnalizare corespunzătoare atrage 4 puncte de penalizare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10bc",
+    "text": "Viteza de deplasare trebuie să nu depăşească 30 km/h în localităţi sau 50 km/h în afara localităţilor:",
+    "optiuni": {
+      "A": "la întâlnirea indicatorului „Drum cu prioritate“;",
+      "B": "în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;",
+      "C": "atunci când se circulă în aceeaşi direcţie cu autobuzele oprite în staţie, pe drumurile cu o singură bandă pe sens."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nViteza maximă admisă pentru autovehicule cu mase și/sau gabarite depășite ori care transportă produse periculoase este de 40 km/h în localități, iar în afara localităților de 70 km/h.\n---\nConducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\nLimita maximă de viteză în localități este de 50 km/h.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10bd",
+    "text": "Limita maximă de viteză pe care administratorul drumului public o poate stabili pe anumite sectoare, din interiorul localităţilor, pentru autovehiculele din categoriile A şi B, nu poate fi mai mare de:",
+    "optiuni": {
+      "A": "50 km/h;",
+      "B": "80 km/h;",
+      "C": "110 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Pe anumite sectoare de drum din interiorul localităților, administratorul drumului poate stabili, pentru autovehiculele din categoriile A și B, și limite de viteză superioare, dar nu mai mult de 80 km/h. Limitele de viteză mai mari de 50 km/h se stabilesc numai cu avizul poliției rutiere.\n---\nAdministratorul drumului public poate amenaja pe anumite zone ale trotuarului, cu avizul poliției rutiere, spații destinate opririi sau staționării vehiculelor, marcate și semnalizate corespunzător. Amenajările se pot executa numai dacă: a) se respectă culoarul destinat circulației pietonilor, stabilit potrivit normativelor în vigoare, care nu poate fi mai mic de 1 m lățime; b) locurile de parcare/staționare se realizează din dreptul carosabilului; c) oprirea/staționarea în parcările nu sunt amplasate pe pistele amenajate.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10be",
+    "text": "Sunteţi obligat să circulaţi cu o viteză care să nu depăşească 50 km/h în afara localităţilor, în următoarele situaţii:",
+    "optiuni": {
+      "A": "la trecerea pe lângă animale care se deplasează pe partea carosabilă sau pe acostament;",
+      "B": "la circulaţia prin tunele;",
+      "C": "în zona pietonală, semnalizată ca atare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nConducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\n1) În zona rezidențială, semnalizată ca atare, pietonii pot folosi toată lățimea părții carosabile, iar jocul copiilor este permis.\n2) (În zona rezidențială) Conducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10bf",
+    "text": "Sunteţi obligat să reduceţi viteza până la limita legală la trecerile pentru pietoni nesemaforizate, dar semnalizate prin indicatoare şi marcaje, dacă:",
+    "optiuni": {
+      "A": "drumul are cel mult o bandă pe sens, iar pietonii aflaţi pe trotuar intenţionează să se angajeze în traversare;",
+      "B": "drumul are cel puţin două benzi pe sens;",
+      "C": "trecerile sunt localizate în dreptul staţiilor de tramvai."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10c0",
+    "text": "Care este viteza maximă prevăzută de lege pentru circulaţia în zonele rezidenţiale?",
+    "optiuni": {
+      "A": "5 km/h;",
+      "B": "10 km/h;",
+      "C": "20 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Viteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.\n---\n1) Conducătorii de vehicule sunt obligați să respecte viteza maximă admisă pe sectorul de drum pe care circulă și pentru categoria din care face parte vehiculul condus, precum și cea impusă prin mijloacele de semnalizare.\n2) Nerespectarea regimului de viteză stabilit conform legii se constată de către polițiștii rutieri, cu mijloace tehnice omologate și verificate metrologic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10c1",
+    "text": "Care este limita inferioară de viteză ce poate fi stabilită în interiorul localităţilor?",
+    "optiuni": {
+      "A": "nu mai puţin de 30 km/h;",
+      "B": "nu mai puţin de 40 km/h;",
+      "C": "nu există prevedere legală."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10c2",
+    "text": "Limita inferioară de viteză pe care administratorul drumului public o poate stabili pe anumite sectoare, din interiorul localităţilor, nu poate fi mai mică de:",
+    "optiuni": {
+      "A": "10 km/h pentru tramvaie şi 30 km/h pentru toate autovehiculele;",
+      "B": "20 km/h pentru tramvaie şi 40 km/h pentru toate autovehiculele;",
+      "C": "30 km/h pentru tramvaie şi 50 km/h pentru toate autovehiculele."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Pe anumite sectoare de drum din interiorul localităților, administratorul drumului poate stabili, pentru autovehiculele din categoriile A și B, și limite de viteză superioare, dar nu mai mult de 80 km/h. Limitele de viteză mai mari de 50 km/h se stabilesc numai cu avizul poliției rutiere.\n---\nAdministratorul drumului public poate amenaja pe anumite zone ale trotuarului, cu avizul poliției rutiere, spații destinate opririi sau staționării vehiculelor, marcate și semnalizate corespunzător. Amenajările se pot executa numai dacă: a) se respectă culoarul destinat circulației pietonilor, stabilit potrivit normativelor în vigoare, care nu poate fi mai mic de 1 m lățime; b) locurile de parcare/staționare se realizează din dreptul carosabilului; c) oprirea/staționarea în parcările nu sunt amplasate pe pistele amenajate.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10c3",
+    "text": "Viteza maximă cu care pot să conducă un autoturism, pe drumurile naţionale europene (E), persoanele care au mai puţin de un an de practică de conducere, este de:",
+    "optiuni": {
+      "A": "100 km/h;",
+      "B": "80 km/h;",
+      "C": "90 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Viteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10c4",
+    "text": "În care dintre următoarele situaţii sunteţi obligat să circulaţi cu o viteză care să nu depăşească 30 km/h în localităţi?",
+    "optiuni": {
+      "A": "la trecerile la nivel cu linia de tramvai;",
+      "B": "la trecerile la nivel cu calea ferată industrială;",
+      "C": "când partea carosabilă este acoperită cu mâzgă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10c5",
+    "text": "Cu ce viteză veţi circula când partea carosabilă este acoperită cu polei, gheaţă, zăpadă bătătorită, mâzgă sau piatră cubică umedă?",
+    "optiuni": {
+      "A": "viteza va fi redusă la jumătate din viteza legală;",
+      "B": "viteza să nu depăşească 30 km/h în localităţi sau 50 km/h în afara localităţilor;",
+      "C": "viteza va fi redusă în funcţie de condiţiile atmosferice."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nEste interzisă circulația autovehiculelor cu mase și/sau gabarite depășite:\na) pe sectoarele de drum unde sunt instalate indicatoare de interzicere, restricție sau limitare a accesului acestora, dacă vehiculul sau ansamblul de vehicule atinge ori depășește lățimea, înălțimea, lungimea sau masele pe axe ori masa totală maximă admisă;\nb) când vizibilitatea este redusă sau partea carosabilă este acoperită cu polei, gheață sau zăpadă.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10c6",
+    "text": "Cu ce viteză maximă pot circula în afara localităţilor autovehiculele din categoriile A şi B?",
+    "optiuni": {
+      "A": "130 km/h pe autostrăzi, 120 km/h pe drumurile expres, 100 km/h pe drumurile naţionale europene şi 90 km/h pe celelalte categorii de drumuri;",
+      "B": "110 km/h pe autostrăzi, 100 km/h pe drumurile expres, 90 km/h pe drumurile naţionale europene şi 80 km/h pe celelalte categorii de drumuri;",
+      "C": "130 km/h pe autostrăzi şi 80 km/h pe celelalte categorii de drumuri."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Viteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.\n---\nLimitele maxime de viteză în afara localităților sunt:\n a) pe autostrăzi - 130 km/h;\n b) pe drumurile expres - 120 km/h;\n c) pe drumurile naționale europene (E) - 100 km/h;\n d) pe celelalte categorii de drumuri - 90 km/h.\n---\nVitezele maxime admise în afara localităților pentru categoriile de autovehicule prevăzute în anexa nr. 1 sunt următoarele:\n a) 130 km/h pe autostrăzi, 120 km/h pe drumurile expres, 100 km/h pe drumurile naționale europene (E) și 90 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile A și B;\n b) 110 km/h pe autostrăzi, 100 km/h pe drumurile expres, 90 km/h pe drumurile naționale europene (E) și 80 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile C, D și categoria D1;\n c) 90 km/h pe autostrăzi, 85 km/h pe drumuri expres, 80 km/h pe drumurile naționale europene (E) și 70 km/h pentru celelalte categorii de drumuri, pentru autovehiculele din categoriile A1, B1 și C1;\n d) 45 km/h, pentru tractoarele agricole sau forestiere și mopede.\n---\nViteza maximă admisă pentru autovehicule cu mase și/sau gabarite depășite ori care transportă produse periculoase este de 40 km/h în localități, iar în afara localităților de 70 km/h.\n---\nPe anumite sectoare de drum din interiorul localităților, administratorul drumului poate stabili, pentru autovehiculele din categoriile A și B, și limite de viteză superioare, dar nu mai mult de 80 km/h. Limitele de viteză mai mari de 50 km/h se stabilesc numai cu avizul poliției rutiere.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10c7",
+    "text": "Viteza de deplasare trebuie redusă:",
+    "optiuni": {
+      "A": "la întâlnirea indicatorului „Cedează trecerea“;",
+      "B": "atunci când se circulă din direcţia opusă tramvaielor, troleibuzelor şi autobuzelor oprite în staţie, pe drumurile cu o singură bandă pe sens;",
+      "C": "la întâlnirea indicatorului „Prioritate faţă de circulaţia din sens invers“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Vehiculele grele, lente sau cu mase ori gabarite depășite sau cele care se deplasează cu viteză redusă trebuie conduse numai pe banda de lângă acostament sau bordura, dacă în sensul de mers nu este amenajată o bandă destinată acestora.\n---\nSemnalul de culoare galbenă intermitent permite trecerea, conducătorul de vehicul fiind obligat să circule cu viteză redusă, să respecte semnificația semnalizării rutiere și a regulilor de circulație aplicabile în acel loc.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure că din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.\n---\nLa trecerea la nivel cu calea ferată curentă, conducătorul de vehicul este obligat să circule cu viteză redusă și să se asigure ca din partea stângă sau din partea dreaptă nu se apropie un vehicul feroviar.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10c8",
+    "text": "Viteza va fi redusă până la limita legală în următoarele situaţii:",
+    "optiuni": {
+      "A": "în perimetrul pieţelor aglomerate;",
+      "B": "la întâlnirea indicatorului „Oprire“;",
+      "C": "când partea carosabilă este acoperită cu polei, gheaţă, zăpadă bătătorită, mâzgă sau piatră cubică umedă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10c9",
+    "text": "În care dintre următoarele situaţii sunteţi obligat să circulaţi cu o viteză care să nu depăşească 30 km/h în localităţi?",
+    "optiuni": {
+      "A": "în curbele deosebit de periculoase, semnalizate ca atare;",
+      "B": "în curbele în care vizibilitatea este sub 50 m;",
+      "C": "în zonele în care este interzisă depăşirea."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ca",
+    "text": "Sunteţi obligat să circulaţi cu o viteză care să nu depăşească 30 km/h în localităţi, în următoarele situaţii:",
+    "optiuni": {
+      "A": "în zona de acţiune a indicatorului de avertizare „Copii“, în intervalul orar 07.00-22.00;",
+      "B": "într-o zonă rezidenţială;",
+      "C": "la schimbarea benzii de circulaţie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nConducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\n1) În zona rezidențială, semnalizată ca atare, pietonii pot folosi toată lățimea părții carosabile, iar jocul copiilor este permis.\n2) (În zona rezidențială) Conducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10cb",
+    "text": "Conducătorul unui autovehicul poate executa o depăşire la întâlnirea indicatorului „Limitare de viteză“?",
+    "optiuni": {
+      "A": "da, dacă în timpul manevrei viteza sa nu este mai mare decât cea înscrisă pe indicator;",
+      "B": "nu, până la întâlnirea indicatorului care semnalizează terminarea zonei de limitare a vitezei;",
+      "C": "da, dacă depăşirea se execută în afara unei localităţi."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "la întâlnirea unui ansamblu de vehicule cu un vehicul conducătorul acestuia din urmă trebuie să manevreze cu spatele;\n---\nla întâlnirea unui vehicul greu cu un vehicul ușor, conducătorul acestuia din urmă trebuie să manevreze cu spatele;\n---\nConducătorul de vehicul care executa o manevra de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că o poate face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10cc",
+    "text": "Ce obligaţii aveţi, în calitate de conducător auto?",
+    "optiuni": {
+      "A": "să circulaţi cu o viteză cel puţin egală celei prescrise de indicatorul „Viteză minimă obligatorie“;",
+      "B": "să nu acceleraţi în intersecţie;",
+      "C": "să circulaţi cu o viteză inferioară celei înscrise în indicatorul „Viteză minimă obligatorie“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul autovehiculului cu masă și/sau dimensiuni de gabarit depășite, precum și conducătorii autovehiculelor de însoțire sunt obligați să pună și să mențină în funcțiune semnalele speciale de avertizare cu lumină galbenă, prevăzute la art. 32 alin. (1) lit. c) din Ordonanța de urgență a Guvernului nr. 195/2002, republicată, cu modificările și completările ulterioare, pe toată perioada deplasării pe drumul public.",
+    "tip_context": "crossencode_prag"
+  }
+]

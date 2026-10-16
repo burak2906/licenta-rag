@@ -1,0 +1,1030 @@
+[
+  {
+    "articol": "Indicator Curbă la stânga",
+    "continut": "Indicator Curbă la stânga: Este amplasat la cel mult 200 m de o curba la stanga. Conducatorul trebuie sa circule cu viteza redusa in curbe, iar daca vizibilitatea este redusa sub 50 m., toate manevrele (depasirea, oprirea, stationarea, mersul inapoi, intoarcerea) sunt interzise."
+  },
+  {
+    "articol": "Indicator Drum îngustat pe ambele părți",
+    "continut": "Indicator Drum îngustat pe ambele părți: Se amplaseaza la 100-200 m de locul in care sectorul de drum incepe sa se ingusteze pe ambele parti cu cel putin jumatate de metru. La intalnirea acestui indicator, conducatorul auto poate preventiv sa reduca viteza, iar manevrele de oprire, stationare, mersul inapoi si intoarcerea sunt interzise. Depasirea este permisa."
+  },
+  {
+    "articol": "Indicator Curbă la dreapta",
+    "continut": "Indicator Curbă la dreapta: Este amplasat la cel mult 200 m de o curba la dreapta. Conducatorul trebuie sa circule cu viteza redusa in curbe, iar daca vizibilitatea este redusa sub 50 m., toate manevrele (depasirea, oprirea, stationarea, mersul inapoi, intoarcerea) sunt interzise. Este permisa depasirea in curbele cu vizibilitate."
+  },
+  {
+    "articol": "Indicator Curbă dublă",
+    "continut": "Indicator Curbă dublă: Se instaleaza atunci cand urmeaza o succesiune de curbe, daca distanta dintre acestea e mai mica de 250 m. Se amplaseaza la 100-200 m inaintea primei curbe. Aceste indicatoare pot fi insotite si de panouri aditionale, pe care este specificata distanta pana la terminarea sectorului de drum periculos, daca lungimea acestuia depaseste 1000 m. Conducatorul trebuie sa circule cu viteza redusa in curbe, iar daca vizibilitatea este redusa sub 50 m., toate manevrele (depasirea, oprirea, stationarea, mersul inapoi, intoarcerea) sunt interzise."
+  },
+  {
+    "articol": "Indicator Coborăre periculoasă",
+    "continut": "Indicator Coborăre periculoasă: Se amplaseaza la 100-200 m de inceputul sectorului de drum, cand panta depaseste 7%. Conducatorul auto nu este obligat sa reduca viteza, dar nu are voie sa stationeze pe toata lungimea pantei. Daca, in varful pantei, vizibilitatea este redusa sub 50 m, toate manevrele sunt interzise. Daca drumul nu este suficient de lat pentru a permite trecerea a doua vehicule unul pe langa celalalt, are prioritate cel care urca fata de cel care coboara."
+  },
+  {
+    "articol": "Indicator Urcare cu înclinare mare",
+    "continut": "Indicator Urcare cu înclinare mare: Se instaleaza la 100-200 m de inceputul sectorului de drum, cand panta depaseste 7%. Conducatorul auto nu este obligat sa reduca viteza, dar toate manevrele sunt interzise. Daca drumul nu este suficient de lat pentru a permite trecerea a doua vehicule unul pe langa celalalt, avand prioritate cel care urca fata de cel care coboara."
+  },
+  {
+    "articol": "Indicator Curbă dublă sau o succesiune de mai mult de două curbe, prima la dreapta",
+    "continut": "Indicator Curbă dublă sau o succesiune de mai mult de două curbe, prima la dreapta: Se instaleaza atunci cand urmeaza o succesiune de curbe, daca distanta dintre acestea e mai mica de 250 m. Se amplaseaza la 100-200 m inaintea primei curbe. Aceste indicatoare pot fi insotite si de panouri aditionale, pe care este specificata distanta pana la terminarea sectorului de drum periculos, daca lungimea acestuia depaseste 1000 m. Conducatorul trebuie sa circule cu viteza redusa in curbe, iar daca vizibilitatea este redusa, toate manevrele (depasirea, oprirea, stationarea, mersul inapoi, intoarcerea) sunt interzise."
+  },
+  {
+    "articol": "Indicator Curbă deosebit de periculoasă",
+    "continut": "Indicator Curbă deosebit de periculoasă: Acest indicator se monteaza in curbe cu raze mai mici de 100 m, sensul sagetilor indicand sensul virajului. Conducatorul trebuie sa circule cu viteza de max. 30 km/h in localitate si max. 50 km/h in afara localitatii, toate manevrele (depasirea, oprirea, stationarea, mersul inapoi, intoarcerea) fiind interzise."
+  },
+  {
+    "articol": "Indicator Panouri succesive pentru curbe deosebit de periculoase",
+    "continut": "Indicator Panouri succesive pentru curbe deosebit de periculoase: Se instaleaza cate 5 astfel de panouri in curbe cu raze mai mici de 100 m sau in curbe periculoase precedate de aliniamente mai lungi de 1000 m. Sunt amplasate in zona exterioara a curbelor, varful sagetilor indicand sensul virajului."
+  },
+  {
+    "articol": "Indicator Drum îngustat pe partea dreaptă",
+    "continut": "Indicator Drum îngustat pe partea dreaptă: Se amplaseaza la 100-200 m de locul in care sectorul de drum incepe sa se ingusteze pe ambele parti cu cel putin jumatate de metru. La intalnirea acestui indicator, conducatorul auto poate preventiv sa reduca viteza, iar manevrele de oprire, stationare, mersul inapoi si intoarcerea sunt interzise. Depasirea este permisa."
+  },
+  {
+    "articol": "Indicator Drum îngustat pe partea stângă",
+    "continut": "Indicator Drum îngustat pe partea stângă: Se amplaseaza la 100-200 m de locul in care sectorul de drum incepe sa se ingusteze pe ambele parti cu cel putin jumatate de metru. La intalnirea acestui indicator, conducatorul auto poate preventiv sa reduca viteza, iar manevrele de oprire, stationare, mersul inapoi si intoarcerea sunt interzise. Depasirea este permisa."
+  },
+  {
+    "articol": "Indicator Acostament periculos",
+    "continut": "Indicator Acostament periculos: Intoarcerea este interzisa (soliditatea drumului nu permite)."
+  },
+  {
+    "articol": "Indicator Drum aglomerat",
+    "continut": "Indicator Drum aglomerat: La intalnirea acestui indicator, conducatorul auto este obligat sa pastreze o distanta de siguranta fata de vehiculul care se deplaseaza in fata sa. Se amplaseaza pe drumurile publice pe care traficul este intens."
+  },
+  {
+    "articol": "Indicator Tunel",
+    "continut": "Indicator Tunel: Se gaseste la 50-200 m de intrarea in tunel. In tunel, conducatorul auto preventiv, poate sa reduca viteza si toate manevrele (depasirea cu exceptia motocicletelor fara atas, vehiculelor fara motor si ciclomotoarelor, cand vizibilitatea este peste 20 m. iar latimea drumului mai mare de 7 m., oprirea, stationarea, mersul inapoi, intoarcerea) sunt interzise. In cazul imobilizarii in tunel, conducatorul auto este obligat sa opreasca motorul si sa semnalizeze prezenta autovehiculului."
+  },
+  {
+    "articol": "Indicator Pod mobil",
+    "continut": "Indicator Pod mobil: Se amplaseaza la 100-200 m de podul mobil. Daca podul este ridicat, oprirea este obligatorie. Pe pod, sunt interzise toate manevrele (depasirea cu exceptia motocicletelor fara atas, vehiculelor fara motor si ciclomotoarelor, cand vizibilitatea este peste 20 m. iar latimea drumului mai mare de 7 m., oprirea, stationarea, mersul inapoi, intoarcerea)."
+  },
+  {
+    "articol": "Indicator Ieșire spre un chei sau mal abrupt",
+    "continut": "Indicator Ieșire spre un chei sau mal abrupt: Se amplaseaza la 100-200 m de chei sau mal abrupt pentru a atentiona conducatorul auto ca, pe directia inainte, drumul se termina deasupra cheiului sau malului abrupt."
+  },
+  {
+    "articol": "Indicator Drum cu denivelări",
+    "continut": "Indicator Drum cu denivelări: Se amplaseaza la 50-200 m de locul periculos. Daca lungimea sectorului de drum depaseste 0,3 km, indicatorul este insotit de un panou aditional pe care este specificata lungimea sectorului de drum cu denivelari. La intalnirea acestui indicator conducatorii auto sunt obligati sa reduca viteza la max. 30 km/h in localitate si max. 50 km/h in afara localitatii."
+  },
+  {
+    "articol": "Indicator Denivelare pentru limitarea vitezei",
+    "continut": "Indicator Denivelare pentru limitarea vitezei: Denivelare pentru limitarea vitezei"
+  },
+  {
+    "articol": "Indicator Drum lunecos",
+    "continut": "Indicator Drum lunecos: Se afla montat la 100-200 m de sectorul periculos. Conducatorului auto ii este recomandat sa reduca viteza, sa circule cu atentie sporita, sa nu bruscheze volanul si comenzile autovehiculului, si sa evite folosirea franelor. Daca drumul este acoperit cu polei, zapada batatorita, mazga sau piatra cubica umeda, conducatorul auto este obligat sa reduca viteza la max. 30 km/h in localitate si max. 50 km/h in afara localitatii."
+  },
+  {
+    "articol": "Indicator Împreșcare cu pietriș",
+    "continut": "Indicator Împreșcare cu pietriș: Se amplaseaza la 100-200 m de sectorul de drum periculos. Poate fi insotit de indicatorul \"Interzis autovehiculelor de a circula fara a mentine intre ele un interval de cel putin ... m\", deoarece exista riscul ca pietrisul de pe partea carosabila sa fie aruncat de rotile vehiculului catre ceilalti participanti la trafic. La intalnirea acestui indicator, conducatorului auto ii este recomandat preventiv sa reduca viteza si sa pastreze o distanta fata de vehiculul care circula in fata sa."
+  },
+  {
+    "articol": "Indicator Căderi de pietre",
+    "continut": "Indicator Căderi de pietre: Este instalat la 100-200 m de locul periculos. Poate fi insotit de un panou aditional pe care este inscriptionata lungimea sectorului de drum periculos, daca acesta depaseste 300 m. Conducatorului auto ii este recomandat preventiv sa reduca viteza si sa circule cu atentie sporita."
+  },
+  {
+    "articol": "Indicator Presemnalizare trecere pietoni",
+    "continut": "Indicator Presemnalizare trecere pietoni: Se instaleaza la 50-200 m de o trecere de pietoni, pe drumurile intens circulate, pe sectoarele de drum unde vizibilitatea este redusa sau in afara localitatilor. Conducatorului auto ii este recomandat preventiv sa reduca viteza si sa circule cu atentie sporita. Acest indicator nu se instaleaza cand locul amplasarii sale coincide cu locul amplasarii indicatorului \"Copii\"."
+  },
+  {
+    "articol": "Indicator Copii",
+    "continut": "Indicator Copii: Conducatorii auto intalnesc acest indicator pe sectoarele de drum frecvent circulate de copii (aflate in imediata apropiere a gradinitelor, scolilor si a locurilor de joaca). Conducatorul este obligat sa reduca viteza sub 30 km/h in localitati, respectiv sub 50 km/k in afara localitatilor in intervalul ora 0700-2200 si sa circule cu atentie sporita. Pe drumurile cu circulatie in ambele sensuri prevazute cu o singura banda pe sens, pe distanta cuprinsa intre aceste indicatoare aferente celor doua sensuri, marcajul de separare a sensurilor este cu linie continua."
+  },
+  {
+    "articol": "Indicator Bicicliști",
+    "continut": "Indicator Bicicliști: Se amplaseaza la 100-200 m de locul in care drumul public se intersecteaza cu o pista pentru biciclisti. La intalnirea acestui indicator, conducatorului auto ii este recomandat preventiv sa reduca viteza."
+  },
+  {
+    "articol": "Indicator Animale",
+    "continut": "Indicator Animale: Se amplaseaza la 100-200 m de sectorul de drum periculos, unde exista riscul ca animalele sa traverseze sau sa circule pe drumul public. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa circule cu atentie sporita. La trecerea pe langa animale care sunt conduse pe partea carosabila sau pe acostament, conducatorul auto este obligat sa reduca viteza la max. 30 km/h in localitate si max. 50 km/h in afara localitatii."
+  },
+  {
+    "articol": "Indicator Animale",
+    "continut": "Indicator Animale: Se amplaseaza la 100-200 m de sectorul de drum periculos, unde exista riscul ca animalele sa traverseze sau sa circule pe drumul public. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa circule cu atentie sporita. La trecerea pe langa animale care sunt conduse pe partea carosabila sau pe acostament, conducatorul auto este obligat sa reduca viteza la max. 30 km/h in localitate si max. 50 km/h in afara localitatii."
+  },
+  {
+    "articol": "Indicator Lucrări",
+    "continut": "Indicator Lucrări: Se instaleaza la 20-200 m de sectorul de drum pe care se executa lucrari. Fondul de culoare galbena semnifica caracterul temporar al lucrarii. La intalnirea acestui indicator, conducatorului auto ii este recomandat preventiv sa reduca viteza."
+  },
+  {
+    "articol": "Indicator Semafoare",
+    "continut": "Indicator Semafoare: Se instaleaza la 30-200 m de locul in care se afla semaforul, daca se considera ca prezenta semaforului ar putea surprinde conducatorii auto."
+  },
+  {
+    "articol": "Indicator Aeroport",
+    "continut": "Indicator Aeroport: Se amplaseaza pe drumurile publice ce trec pe sub culoarele aeriene din apropierea aeroporturilor, pentru a atentiona conducatorul auto de zgomotul puternic sau de zborurile la joasa inaltime a avioanelor."
+  },
+  {
+    "articol": "Indicator Vânt lateral",
+    "continut": "Indicator Vânt lateral: Este amplaseaza in locurile unde exista frecvent curenti puternici de aer care pot afecta circulatia rutiera. Conducatorii auto trebuie sa fie atenti la trecerea pe langa un autovehicul cu gabarit mare deoarece se poate forma fenomenul de absorbtie."
+  },
+  {
+    "articol": "Indicator Circulație în ambele sensuri",
+    "continut": "Indicator Circulație în ambele sensuri: Este intalnit la iesirea de pe un drum public cu sens unic. Are rolul de a atentiona conducatorul auto ca pe sectorul de drum urmator se va circula in ambele sensuri."
+  },
+  {
+    "articol": "Indicator Alte pericole",
+    "continut": "Indicator Alte pericole: Se amplaseaza cu 50-200 m inaintea locului periculos, in orice situatie periculoasa care nu este prevazuta cu un indicator de avertizare specific. La intalnirea acestui indicator, conducatorului auto ii este recomandat preventiv sa reduca viteza si sa circule cu atentie sporita."
+  },
+  {
+    "articol": "Indicator Accident",
+    "continut": "Indicator Accident: Este un indicator care modifica regimul normal de desfasurare a circulatiei. Conducatorul auto este obligat sa reduca viteza la max. 30 km/h in localitate, respectiv max. 50 km/h in afara localitatii."
+  },
+  {
+    "articol": "Indicator Intersecție de drumuri",
+    "continut": "Indicator Intersecție de drumuri: Este amplasat numai in afara localitatilor, la 50-200 m inaintea unei intersectii nedirijate de drumuri din aceeasi categorie. In aceasta intersectie se aplica regula prioritatii de dreapta iar conducatorul auto este obligat sa reduca viteza la max. 30 km/h in localitate, respectiv max. 50 km/h in afara localitatii."
+  },
+  {
+    "articol": "Indicator Intersecție cu drum fără prioritate",
+    "continut": "Indicator Intersecție cu drum fără prioritate: Se instaleaza in afara localitatilor, pe drumurile cu prioritate, la 100-200 m de intersectia cu un drum fara prioritate si are rolul de a confirma prioritatea celui care intalneste acest indicator."
+  },
+  {
+    "articol": "Indicator Intersecție cu drum fără prioritate",
+    "continut": "Indicator Intersecție cu drum fără prioritate: Se instaleaza in afara localitatilor, pe drumurile cu prioritate, la 100-200 m de intersectia cu un drum fara prioritate si are rolul de a confirma prioritatea celui care intalneste acest indicator."
+  },
+  {
+    "articol": "Indicator Intersecție cu drum fără prioritate",
+    "continut": "Indicator Intersecție cu drum fără prioritate: Se instaleaza in afara localitatilor, pe drumurile cu prioritate, la 100-200 m de intersectia cu un drum fara prioritate si are rolul de a confirma prioritatea celui care intalneste acest indicator."
+  },
+  {
+    "articol": "Indicator Intersecție cu drum fără prioritate",
+    "continut": "Indicator Intersecție cu drum fără prioritate: Se instaleaza in afara localitatilor, pe drumurile cu prioritate, la 100-200 m de intersectia cu un drum fara prioritate si are rolul de a confirma prioritatea celui care intalneste acest indicator."
+  },
+  {
+    "articol": "Indicator Presemnalizare intersecție cu sens giratoriu",
+    "continut": "Indicator Presemnalizare intersecție cu sens giratoriu: Se amplaseaza cu 50-200 m inaintea intersectiilor cu sens giratoriu. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza."
+  },
+  {
+    "articol": "Indicator Trecere la nivel cu cale ferată cu bariere sau semibariere",
+    "continut": "Indicator Trecere la nivel cu cale ferată cu bariere sau semibariere: Se amplaseaza la 50 m (in localitate)/ 150 m (in afara localitatilor) inainte de trecerea la nivel cu o cale ferata cu bariere sau semibariere. Conducatorul auto este obligat sa reduca viteza la intalnirea acestui indicator (la mai putin de 50 m). In localitate, amplasarea indicatorului se va face pe acelasi stalp cu panoul suplimentar cu o dunga rosie oblica, iar in afara localitatii pe panoul suplimentar cu trei dungi rosii oblice."
+  },
+  {
+    "articol": "Indicator Trecere la nivel cu o cale ferată fără bariere",
+    "continut": "Indicator Trecere la nivel cu o cale ferată fără bariere: Se amplaseaza la 50 m (in localitate) / 150 m (in afara localitatilor) inainte de trecerea la nivel cu o cale ferata fara bariere. La intalnirea acestui indicator, conducatorul auto este obligat sa opreasca pentru a se asigura, inainte de a traversa calea ferata."
+  },
+  {
+    "articol": "Indicator Trecere la nivel cu linii de tramvai",
+    "continut": "Indicator Trecere la nivel cu linii de tramvai: Se amplaseaza cu 50-200 m inaintea intersectiilor in care tramvaiele urmeaza sa vireze la dreapta ori la stanga. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa acorde prioritate tramvaiului."
+  },
+  {
+    "articol": "Indicator Mașini și utilaje agricole",
+    "continut": "Indicator Mașini și utilaje agricole: Mașini și utilaje agricole"
+  },
+  {
+    "articol": "Indicator Presemnalizarea unei amenajări rutiere care permite întoarcerea vehiculului",
+    "continut": "Indicator Presemnalizarea unei amenajări rutiere care permite întoarcerea vehiculului: Presemnalizarea unei amenajări rutiere care permite întoarcerea vehiculului"
+  },
+  {
+    "articol": "Indicator Baliză direcțională care indică ocolirea obstacolului prin partea stângă",
+    "continut": "Indicator Baliză direcțională care indică ocolirea obstacolului prin partea stângă: Avertizeaza conducatorul de vehicul ca obstacolul intalnit se va ocoli pe partea stanga."
+  },
+  {
+    "articol": "Indicator Baliză direcțională care indică ocolirea obstacolului prin partea dreaptă",
+    "continut": "Indicator Baliză direcțională care indică ocolirea obstacolului prin partea dreaptă: Avertizeaza conducatorul de vehicul ca obstacolul intalnit se va ocoli pe partea dreapta."
+  },
+  {
+    "articol": "Indicator Baliză bidirecțională",
+    "continut": "Indicator Baliză bidirecțională: Avertizeaza conducatorul de vehicul ca va intalni obstacole pe drumul public, care pot fi ocolite pe ambele parti (stanga sau dreapta)."
+  },
+  {
+    "articol": "Indicator Panouri suplimentare pentru trecerea la nivel cu cale ferată",
+    "continut": "Indicator Panouri suplimentare pentru trecerea la nivel cu cale ferată: Sunt montate inaintea trecerii la nivel cu calea ferata. Primul panou (cel cu trei dungi) se monteaza la 150 m de calea ferata, al doilea (cel cu doua dungi) - la 100 m, iar ultimul (cel cu o singura dubga) - la 50 m de calea ferata. La intalnirea indicatorului cu trei dungi, conducatorul auto preventiv, trebuie sa reduca viteza. La intalnirea ultimului indicator, cel cu o singura dunga, conducatorul auto nu mai are voie sa execute nicio manevra (depasirea, oprirea, stationarea, mersul inapoi, intoarcerea). In localitate, din cauza conditiilor de trafic, nu se instaleaza decat cel de-al treilea panou."
+  },
+  {
+    "articol": "Indicator Panouri suplimentare la nodurile rutiere de pe autostrăzi",
+    "continut": "Indicator Panouri suplimentare la nodurile rutiere de pe autostrăzi: Se monteaza la 300 m (primul panou), 200 m (al doilea panou) si la 100 m (al treilea panou) de urmatoare bifurcatie de pe o autostrada. Fiecare linie alba inseamna 100 m."
+  },
+  {
+    "articol": "Indicator Trecere la nivel cu o cale ferată, fără bariere",
+    "continut": "Indicator Trecere la nivel cu o cale ferată, fără bariere: Amplasat la 6-10 m de trecerea la nivel cu o cale ferata simpla, fara bariere indicatorul obliga conducatorul de vehicul sa opreasca in locul cu vizibilitate maxima, dar fara a depasi acest indicator, pentru a se asigura ca nu se apropie niciun tren."
+  },
+  {
+    "articol": "Indicator Trecere la nivel cu cale ferată dublă, fără bariere",
+    "continut": "Indicator Trecere la nivel cu cale ferată dublă, fără bariere: Amplasat la 6-10 m de trecerea la nivel cu o cale ferata dubla, fara bariere indicatorul obliga conducatorul de vehicul sa opreasca in locul cu vizibilitate maxima, dar fara a depasi acest indicator, pentru a se asigura ca nu se apropie niciun tren."
+  },
+  {
+    "articol": "Indicator Accesul interzis",
+    "continut": "Indicator Accesul interzis: In general, se amplaseaza pe drumurile cu sens unic, pe sensul pe care nu este permisa circulatia. Interzice accesul tuturor vehiculelor (inclusiv bicicletelor si vehiculelor cu tractiune animala). Acest indicator poate fi insotit si de un panou aditional pe care sunt precizate categoriile de autovehicule care au voie sa intre pe sectorul de drum respectiv, carora nu li se adreseaza deci restrictia de fata."
+  },
+  {
+    "articol": "Indicator Circulația interzisă în ambele sensuri",
+    "continut": "Indicator Circulația interzisă în ambele sensuri: Se amplaseaza la intrarea pe drumurile publice pe care accesul tuturor vehiculelor este interzis in ambele sensuri. Se poate permite accesul riveranilor (persoanele care locuiesc in zona). Acest indicator poate fi insotit si de un panou aditional pe care sunt precizate categoriile de autovehicule exceptate."
+  },
+  {
+    "articol": "Indicator Accesul interzis autovehiculelor cu excepția motocicletelor fără ataș",
+    "continut": "Indicator Accesul interzis autovehiculelor cu excepția motocicletelor fără ataș: Interzice accesul autoturismelor, autocamioanelor, autobuzelor, tractoarelor, etc; permite accesul motocicletelor fara atas, ciclomotoarelor, vehiculelor fara motor."
+  },
+  {
+    "articol": "Indicator Accesul interzis motocicletelor",
+    "continut": "Indicator Accesul interzis motocicletelor: Se amplaseaza la intrarea pe drumurile publice pe care accesul motocicletelor este interzis."
+  },
+  {
+    "articol": "Indicator Accesul interzis bicicletelor",
+    "continut": "Indicator Accesul interzis bicicletelor: Se intalneste la intrarea pe drumurile publice pe care accesul bicicletelor este interzis."
+  },
+  {
+    "articol": "Indicator Accesuk interzis mopedelor (ciclometrelor)",
+    "continut": "Indicator Accesuk interzis mopedelor (ciclometrelor): Se amplaseaza la intrarea pe drumurile publice pe care accesul mopedelor este interzis."
+  },
+  {
+    "articol": "Indicator Accesul interzis vehiculelor destinate transportului de mărfuri",
+    "continut": "Indicator Accesul interzis vehiculelor destinate transportului de mărfuri: Se instaleaza la inceputul drumurilor publice pe care accesul vehiculelor destinate transportului de marfuri este interzis. Acest indicator poate fi insotit si de un panou aditional pe care este inscrisa masa maxima autorizata. Vehiculele destinate transportului de marfuri care nu depasesc aceasta masa au voie sa circule pe sectorul de drum respectiv."
+  },
+  {
+    "articol": "Indicator Accesul interzis autovehiculelor cu remorcă, cu excepția celor cu semiremorcă sau cu remorcă cu o osie",
+    "continut": "Indicator Accesul interzis autovehiculelor cu remorcă, cu excepția celor cu semiremorcă sau cu remorcă cu o osie: Se instaleaza la intrarea pe drumurile publice pe care accesul autovehiculelor cu remorca, cu exceptia celor cu semiremorca sau cu remorca cu o osie, este interzis."
+  },
+  {
+    "articol": "Indicator Accesul interzis autobuzelor",
+    "continut": "Indicator Accesul interzis autobuzelor: Se monteaza la intrarea pe drumurile publice pe care accesul autobuzelor este interzis."
+  },
+  {
+    "articol": "Indicator Accesul interzis pietonilor",
+    "continut": "Indicator Accesul interzis pietonilor: Intezice accesul pietonilor pe sectorul de drum public pe care este amplasat. Daca indicatorul se afla numai pe una dintre partile drumului, atunci circulatia pietonilor este interzisa numai pe acea parte. Pentru a se interzice accesul pietonilor pe ambele sensuri, se vor instala doua indicatoare, cate unul pe fiecare parte."
+  },
+  {
+    "articol": "Indicator Accesul interzis vehiculelor cu tracțiune animală",
+    "continut": "Indicator Accesul interzis vehiculelor cu tracțiune animală: Se monteaza la intrarea pe drumurile publice pe care accesul vehiculelor cu tractiune animala este interzis."
+  },
+  {
+    "articol": "Indicator Accesul interzis vehiculelor împinse sau trase cu mâna",
+    "continut": "Indicator Accesul interzis vehiculelor împinse sau trase cu mâna: Se amplaseaza la intrarea pe drumurile publice pe care accesul vehiculelor impinse sau trase cu mana este interzis."
+  },
+  {
+    "articol": "Indicator Accesul interzis tractoarelor și mașinilor autopropulsate pentru lucrări",
+    "continut": "Indicator Accesul interzis tractoarelor și mașinilor autopropulsate pentru lucrări: Poate fi intalnit in localitatile rurale, pe drumurile publice pe care accesul tractoarelor si masinilor autopropulsate pentru lucrari este interzis."
+  },
+  {
+    "articol": "Indicator Accesul interzis autovehiculelor",
+    "continut": "Indicator Accesul interzis autovehiculelor: Se amplaseaza la intrarea pe drumurile publice pe care accesul vehiculelor cu motor este interzis. Permite accesul celor fara motor."
+  },
+  {
+    "articol": "Indicator Accesul interzis autovehiculelor și vehiculelor cu tracțiune animală",
+    "continut": "Indicator Accesul interzis autovehiculelor și vehiculelor cu tracțiune animală: Se instaleaza la intrarea pe drumurile publice pe care accesul vehiculelor cu motor si a vehiculelor cu tractiune animala este interzis. Permite accesul doar a bicicletelor si a vehiculelor impinse sau trase cu mana."
+  },
+  {
+    "articol": "Indicator Accesul interzis vehiculelor cu lățimea mai mare de ... m",
+    "continut": "Indicator Accesul interzis vehiculelor cu lățimea mai mare de ... m: Se amplaseaza pe sectoarele de drum cu latime redusa, precum si in intersectiile care preced aceste sectoare de drum. In cel de-al doilea caz, indicatorul este insotit de un panou aditional pe care este precizata distanta pana la locul periculos. Latimea inscrisa pe indicator este cu 0,8 m mai mica decat latimea libera de trecere asigurata pe sectorul de drum respectiv."
+  },
+  {
+    "articol": "Indicator Accesul interzis vehiculelor cu înălțimea mai mare de .. m",
+    "continut": "Indicator Accesul interzis vehiculelor cu înălțimea mai mare de .. m: Se monteaza pe sectorul de drum cu inaltime mai mica de 5,10 m (capetele podurilor, pasaje inferioare, etc.), precum si in intersectia care il precede. In cel de-al doilea caz, indicatorul este insotit de un panou aditional pe care este precizata distanta pana la locul periculos. Inaltimea inscrisa pe indicator este cu 5 cm mai mica decat inaltimea de libera de trecere asigurata pe sectorul de drum respectiv."
+  },
+  {
+    "articol": "Indicator Accesul interzis vehiculelor cu masă mai mare de .. t",
+    "continut": "Indicator Accesul interzis vehiculelor cu masă mai mare de .. t: Poate fi intalnit pe sectorul de drum pe care este interzis accesul vehiculelor cu o masa mai mare decat cea inscriptionata pe panou, precum si in intersectia care il precede. In cel de-al doilea caz, indicatorul este insotit de un panou aditional pe care este precizata distanta pana la locul periculos."
+  },
+  {
+    "articol": "Indicator Accesul interzis vehiculelor cu masă mai mare de ... t pe osia simplă",
+    "continut": "Indicator Accesul interzis vehiculelor cu masă mai mare de ... t pe osia simplă: Are rolul de a preciza inceputul sectorului de drum pe care este interzis accesul vehiculelor cu o masa pe osia simpla mai mare decat cea inscriptionata pe panou."
+  },
+  {
+    "articol": "Indicator Accesul interzis vehiculelor cu masă pe osia dublă mai mare de ... t",
+    "continut": "Indicator Accesul interzis vehiculelor cu masă pe osia dublă mai mare de ... t: Se instaleaza pe sectorul de drum pe care este interzis accesul vehiculelor cu o masa pe osia dubla mai mare decat cea inscriptionata pe panou."
+  },
+  {
+    "articol": "Indicator Accesul interzis vehiculelor cu masa pe osia tripla mai mare de ... t",
+    "continut": "Indicator Accesul interzis vehiculelor cu masa pe osia tripla mai mare de ... t: Se amplaseaza pe sectorul de drum pe care este interzis accesul vehiculelor cu o masa pe osia tripla mai mare decat cea inscriptionata pe panou."
+  },
+  {
+    "articol": "Indicator Accesul interzis autovehiculelor sau ansamblurilor de vehicule cu lungimea mai mare de ... m",
+    "continut": "Indicator Accesul interzis autovehiculelor sau ansamblurilor de vehicule cu lungimea mai mare de ... m: Se amplaseaza la intrarea pe drumurile publice pe care accesul autovehiculelor sau ansamblurilor de vehicule, cu lungimea mai mare decat cea inscriptionata pe panou, este interzis."
+  },
+  {
+    "articol": "Indicator Interzis autovehiculelor de a circula fără a menține între ele un interval de cel puțin ... m",
+    "continut": "Indicator Interzis autovehiculelor de a circula fără a menține între ele un interval de cel puțin ... m: Se instaleaza pe sectorul de drum unde trebuie pastrata o distanta minima intre autovehicule. Poate fi insotit de un panou aditional pe care este inscrisa lungimea sectorului de drum pe care se impune restrictia."
+  },
+  {
+    "articol": "Indicator Interzis a vira la stânga",
+    "continut": "Indicator Interzis a vira la stânga: Se afla instalat inaintea intersectiei in care se interzice virajul la stanga, deoarece pe drumul respectiv circulatia se desfasoara intr-un singur sens sau intrucat executarea virajului ar pune in pericol ceilalti participanti la trafic. Indicatorul interzice si intoarcerea. Zona de actiune a indicatorului se termina dupa prima intersectie."
+  },
+  {
+    "articol": "Indicator Interzis a vira la dreapta",
+    "continut": "Indicator Interzis a vira la dreapta: Se afla instalat inaintea intersectiei in care se interzice virajul la dreapta, deoarece pe drumul respectiv circulatia se desfasoara intr-un singur sens sau intrucat executarea virajului ar pune in pericol ceilalti participanti la trafic. Zona de actiune a indicatorului se termina dupa prima intersectie."
+  },
+  {
+    "articol": "Indicator Întoarcerea interzisă",
+    "continut": "Indicator Întoarcerea interzisă: Are rolul de a interzice intoarcerea in zona respectiva, deoarece daca s-ar executa aceasta manevra ceilalti participanti la trafic ar putea fi pusi in pericol."
+  },
+  {
+    "articol": "Indicator Depășirea autovehiculelor, cu excepția motocicletelor fără ataș, interzisă",
+    "continut": "Indicator Depășirea autovehiculelor, cu excepția motocicletelor fără ataș, interzisă: La intalnirea acestui indicator depasirea autovehiculelor, cu exceptia motocicletelor fara atas, este interzisa. Conducatorul auto care intalneste acest indicator nu are voie sa depaseasca niciun vehicul cu motor, cu exceptia motocicletelor fara atas, insa are voie sa depaseasca vehicule simple (biciclete, vehicule cu tractiune animala, vehicule impinse sau trase cu mana). Raza de actiune a indicatorului se termina la intalnirea indicatorului \"Sfarsitul interzicerii de a depasi\" sau \"Sfarsitul tuturor restrictiilor\", daca pe acel sector de drum a mai fost stabilita vre-o restrictie. De asemenea, zona de actiune a indicatorului mai poate fi limitata si de coltul primei intersectii pe sensul de mers (unde ii inceteaza practic actiunea). In zona sa de actiune este interzisa si oprirea (deci si stationarea, intoarcerea si mersul inapoi)."
+  },
+  {
+    "articol": "Indicator Depășirea interzisă autovehiculelor destinate transportului de mărfuri",
+    "continut": "Indicator Depășirea interzisă autovehiculelor destinate transportului de mărfuri: Are rolul de a preciza inceputul sectorului de drum pe care depasirea este interzisa autovehiculelor destinate transportului de marfuri. Raza de actiune a indicatorului se termina la intalnirea indicatorului \"Sfarsitul interzicerii de a depasi\" sau \"Sfarsitul tuturor restrictiilor \" daca pe acel sector de drum a mai fost stabilita vre-o alta restrictie. De asemenea, zona de actiune a indicatorului mai poate fi limitata si de coltul primei intersectii pe sensul de mers. Conducatorii autobuzelor, autoturismelor, motocicletelor au voie sa depaseasca. In zona sa de actiune este interzisa si oprirea (deci si stationarea, intoarcerea si mersul inapoi)."
+  },
+  {
+    "articol": "Indicator Limitare de viteză",
+    "continut": "Indicator Limitare de viteză: Este montat pe sectorul de drum unde viteza de circulatie a vehiculelor trebuie limitata. Zona de actiune incepe din dreptul indicatorului si se termina la intalnirea indicatorului \"Sfarsitul limitarii de viteza\" sau \"Sfarsitul tuturor restrictiilor\". Daca indicatorul este insotit si de un panou cu numele localitatii, atunci limita de viteza este valabila pentru intreaga localitate."
+  },
+  {
+    "articol": "Indicator Limitare de viteză diferențiată pe categorii de autovehicule",
+    "continut": "Indicator Limitare de viteză diferențiată pe categorii de autovehicule: Se amplaseaza pe sectorul de drum unde viteza de circulatie trebuie limitata pe categorii de autovehicule. Zona de actiune incepe din dreptul indicatorului si se termina la intalnirea indicatorului \"Sfarsitul tuturor restrictiilor\". Daca acest indicator este insotit si de indicatorul de localitate, atunci limita de viteza este valabila pentru intreaga localitate."
+  },
+  {
+    "articol": "Indicator Claxonarea interzisă",
+    "continut": "Indicator Claxonarea interzisă: La intalnirea acestui indicator claxonarea este interzisa in intervalul orar 6.00 - 22.00 (intre 22.00 - 6.00 se interzice prin lege claxonarea in orice localitate). Se poate claxona pentru evitarea unui pericol imediat. Poate fi insotit de indicatorul de localitate, caz in care restrictia se aplica pe intreg teritoriul localitatii."
+  },
+  {
+    "articol": "Indicator Vamă",
+    "continut": "Indicator Vamă: Se amplaseaza inaintea punctului vamal. La intalnirea acestui indicator, conducatorul de vehicul este obligat sa opreasca la punctul vamal."
+  },
+  {
+    "articol": "Indicator Taxă de trecere",
+    "continut": "Indicator Taxă de trecere: Indicatorul se aseaza inaintea unei zone prin care trecerea este permisa numai dupa ce se plateste o taxa."
+  },
+  {
+    "articol": "Indicator Control poliție",
+    "continut": "Indicator Control poliție: Conducatorul auto poate intalni acest indicator inaintea unei zone in care este prezenta politia."
+  },
+  {
+    "articol": "Indicator Sfârșitul tuturor restricțiilor",
+    "continut": "Indicator Sfârșitul tuturor restricțiilor: Se monteaza in zona in care se termina o restrictie. La intalnirea lui se sfarsesc doar trei restrictii: limitarea de viteza, depasirea interzisa si claxonatul interzis."
+  },
+  {
+    "articol": "Indicator Sfârșitul limitării de viteză",
+    "continut": "Indicator Sfârșitul limitării de viteză: Are rolul de a preciza sfarsitul sectorului de drum pe care era impusa limitarea de viteza."
+  },
+  {
+    "articol": "Indicator Sfârșitul interzicerii de a depăși",
+    "continut": "Indicator Sfârșitul interzicerii de a depăși: Este instalat in zona in care se termina interzicerea de a depasi."
+  },
+  {
+    "articol": "Indicator Staționare interzisă",
+    "continut": "Indicator Staționare interzisă: La intalnirea acestui indicator stationarea vehiculelor este interzisa. Zona de actiune a indicatorului inceteaza la cel mai apropiat colt de intersectie pe sensul de mers. Acest indicator poate fi insotit si de alte panouri aditionale care marcheaza inceputul, continuarea sau sfarsitul zonei de actiune (\"Inceputul zonei de actiune a indicatorului\", \"Confirmarea zonei de actiune a indicatorului\", \"Sfarsitul zonei de actiune a indicatorului\") sau poate avea inscriptionate pe panou niste sageti cu aceeasi semnificatie."
+  },
+  {
+    "articol": "Indicator Oprire interzisă",
+    "continut": "Indicator Oprire interzisă: Se afla instalat in locurile in care oprirea vehiculelor este interzisa. Semnificaţia indicatoarelor de interzicere sau de restricţie începe din dreptul acestora. În lipsa unei semnalizări care să precizeze lungimea sectorului pe care se aplică reglementarea ori a unor indicatoare care să anunţe sfârşitul interdicţiei sau al restricţiei, semnificaţia acestor indicatoare încetează în intersecţia cea mai apropiată. Acest indicator poate fi insotit si de alte panouri aditionale care marcheaza inceputul, continuarea sau sfarsitul zonei de actiune (\"Inceputul zonei de actiune a indicatorului\", \"Confirmarea zonei de actiune a indicatorului\", \"Sfarsitul zonei de actiune a indicatorului\") sau poate avea inscriptionate pe panou niste sageti cu aceeasi semnificatie."
+  },
+  {
+    "articol": "Indicator Staționarea alternată",
+    "continut": "Indicator Staționarea alternată: Indicatorul alaturat se monteaza pe sectorul de drum in locurile in care stationarea vehiculelor este interzisa in zilele impare."
+  },
+  {
+    "articol": "Indicator Staționare alternată",
+    "continut": "Indicator Staționare alternată: Indicatorul alaturat se monteaza pe sectorul de drum in locurile in care stationarea vehiculelor este interzisa in zilele pare."
+  },
+  {
+    "articol": "Indicator Zonă de staționare cu durată limitată",
+    "continut": "Indicator Zonă de staționare cu durată limitată: Conducatorul auto va intalni acest indicator in locurile cu durata de stationare limitata. Poate fi insotit si de un panou aditional pe care sunt specificate intervalele de timp in care actioneaza indicatorul sau daca se percepe o taxa pentru stationare. Zona de actiune a indicatorului inceteazi la intalnirea indicatorului \"Sfarsitul zonei de stationare cu durata limitata\"."
+  },
+  {
+    "articol": "Indicator Sfârșitul zonei cu staționare cu durată limitată",
+    "continut": "Indicator Sfârșitul zonei cu staționare cu durată limitată: Are rolul de a preciza sfarsitul zonei de stationare cu durata limitata."
+  },
+  {
+    "articol": "Indicator Zonă cu limitare de viteză la 30 km/h",
+    "continut": "Indicator Zonă cu limitare de viteză la 30 km/h: Este instalat in zona in care viteza de circulatie trebuie limitata la 30 km/h."
+  },
+  {
+    "articol": "Indicator Sfârșitul zonei de viteză limitată la 30 km/h",
+    "continut": "Indicator Sfârșitul zonei de viteză limitată la 30 km/h: Este amplasat la sfarsitul zonei in care viteza de circulatie era limitata la 30km/h."
+  },
+  {
+    "articol": "Indicator Accesul interzis autovehiculelor care transportă substanțe explozive sau ușor inflamabile",
+    "continut": "Indicator Accesul interzis autovehiculelor care transportă substanțe explozive sau ușor inflamabile: Se monteaza in locul in care accesul vehiculelor care transporta substante explozive sau usor inflamabile este interzis (in general in zonele intens populate sau in zonele unde prezenta unor astfel de substante ar constitui un pericol)."
+  },
+  {
+    "articol": "Indicator Accesul interzis vehiculelor care transportă mărfuri periculoase",
+    "continut": "Indicator Accesul interzis vehiculelor care transportă mărfuri periculoase: Indicatorul din imaginea alaturata se amplaseaza in locul in care accesul vehiculelor care transporta marfuri periculoase este interzis."
+  },
+  {
+    "articol": "Indicator Accesul interzis autovehiculelor care transportă substanțe de natură să polueze apele",
+    "continut": "Indicator Accesul interzis autovehiculelor care transportă substanțe de natură să polueze apele: La intalnirea acestui indicator accesul vehiculelor care transporta substante de natura sa polueze apele este interzis."
+  },
+  {
+    "articol": "Indicator Cedează trecerea",
+    "continut": "Indicator Cedează trecerea: Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa se asigure ca pe drumul prioritar nu circula autovehicule, si abia apoi poate sa patrunda in intersectie. Daca pe drumul prioritar circula alte autovehicule, conducatorul auto este obligat sa opreasca pentru a le acorda prioritate."
+  },
+  {
+    "articol": "Indicator Oprire",
+    "continut": "Indicator Oprire: Este instalat pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar, cand vizibilitatea este redusa. Conducatorul de vehicul care intalneste acest indicator este obligat sa opreasca in locul cu vizibilitate maxima, fara a depasi coltul intersectiei, si sa acorde prioritate tuturor vehiculelor care circula pe drumul prioritar."
+  },
+  {
+    "articol": "Indicator Drum cu prioritate",
+    "continut": "Indicator Drum cu prioritate: Se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde. Drumurile care intersecteaza drumul cu prioritate vor avea instalate unul dintre indicatoarele \"Oprire\" sau \"Cedeaza trecerea\". Cand este amplasat inaintea unei intersectii, acest indicator poate fi insotit si de un panou aditional care va preciza directia drumului cu prioritate."
+  },
+  {
+    "articol": "Indicator Sfârșitul drumului cu prioritate",
+    "continut": "Indicator Sfârșitul drumului cu prioritate: Se amplaseaza la 50-200 m de locul unde inceteaza semnificatia indicatorului \"Drum cu prioritate\", avand rolul de a informa conducatorul auto ca in urmatoarea intersectie in care va patrunde, toate drumurile vor fi de aceeasi categorie si se va aplica regula prioritatii de dreapta."
+  },
+  {
+    "articol": "Indicator Prioritate pentru circulația din sens invers",
+    "continut": "Indicator Prioritate pentru circulația din sens invers: Se monteaza pe sectoarele de drum ingustat unde nu au loc sa circule doua vehicule unul pe langa celalalt, fiind precedat de indicatorul \"Drum ingustat\". La intalnirea acestui indicator, conducatorul autovehiculului pierde prioritatea fata de toate autovehiculele care circula din sens opus. Acest indicator poate fi insotit si de un panou aditional pe care sunt precizate categoriile de autovehicule carora li se adreseaza acest indicator."
+  },
+  {
+    "articol": "Indicator Prioritate față circulația din sens invers",
+    "continut": "Indicator Prioritate față circulația din sens invers: Montat pe sectoarele de drum ingustat unde nu au loc sa circule doua vehicule unul pe langa celalalt indicatorul din imagine este precedat de indicatorul \"Drum ingustat\". La intalnirea acestui indicator, conducatorul autovehiculului are prioritate fata de toate autovehiculele care circula din sens opus."
+  },
+  {
+    "articol": "Indicator Înainte",
+    "continut": "Indicator Înainte: Indicatorul se monteaza cu cel mult 50 m inainte de o intersectie, obligand conducatorul auto sa circule pe directia indicata de sageata (nu poate vira stanga sau dreapta, nu poate intoarce). Daca actioneaza asupra unei singure benzi, atunci se va instala deasupra benzii respective. Acest indicator actioneaza doar in intersectia inaintea careia este instalat."
+  },
+  {
+    "articol": "Indicator Înainte",
+    "continut": "Indicator Înainte: Indicatorul se monteaza cu cel mult 50 m inainte de o intersectie, obligand conducatorul auto sa circule pe directia indicata de sageata (nu poate vira stanga sau dreapta, nu poate intoarce). Daca actioneaza asupra unei singure benzi, atunci se va instala deasupra benzii respective. Acest indicator actioneaza doar in intersectia inaintea careia este instalat."
+  },
+  {
+    "articol": "Indicator La dreapta",
+    "continut": "Indicator La dreapta: Se instaleaza pe partea opusa intrarii intr-o intersectie sau suspendat in mijlocul intersectiei, obligand conducatorul auto sa vireze in directia indicata de sageata, dar fara a ocoli indicatorul (pana la indicator). Indicatorul actioneaza numai in intersectia inaintea careia este instalat. Efectuandu-se un viraj, este obligatorie reducerea vitezei la maxim 30 km/h in localitate, respectiv max. 50 km/h in afara localitatii."
+  },
+  {
+    "articol": "Indicator La dreapta",
+    "continut": "Indicator La dreapta: Se amplaseaza inaintea intrarii intr-o intersectie, obligand conducatorul auto sa vireze pe directia indicata de sageata, dupa ocolirea indicatorului. Zona de actiune a acestui indicator o constituie intersectia inaintea careia este instalat. Efectuandu-se un viraj, este obligatorie reducerea vitezei la maxim 30 km/h in localitate, respectiv max. 50 km/h in afara localitatii."
+  },
+  {
+    "articol": "Indicator Înainte sau la dreapta",
+    "continut": "Indicator Înainte sau la dreapta: Conducatorul auto va intalni acest indicator inaintea intrarii intr-o intersectie, obligand conducatorul auto sa circule pe una din directiile indicate de sageti. Actioneaza doar in intersectia inaintea caruia este instalat."
+  },
+  {
+    "articol": "Indicator Ocolire",
+    "continut": "Indicator Ocolire: Indicatorul din imaginea alaturata se amplaseaza inaintea unui obstacol aflat pe partea carosabila, pe care conducatorul auto trebuie sa il ocoleasca in sensul indicat de sageata. Refugiile statiilor de tramvai sunt semnalizate cu astfel de indicatoare."
+  },
+  {
+    "articol": "Indicator Ocolire",
+    "continut": "Indicator Ocolire: Indicatorul din imaginea alaturata se amplaseaza inaintea unui obstacol aflat pe partea carosabila, pe care conducatorul auto poate sa il ocoleasca pe ambele parti. Refugiile statiilor de tramvai sunt semnalizate cu astfel de indicatoare."
+  },
+  {
+    "articol": "Indicator Intersecție cu sens giratoriu",
+    "continut": "Indicator Intersecție cu sens giratoriu: Se amplaseaza inaintea unei intersectii cu sens giratoriu sau pe zona circulara din mijlocul intersectiei. Se circula in sensul indicat de sageti, ocolind insula, afara de situatia cand viram stanga. Oprirea si stationarea sunt interzise, depasirea este permisa, intoarcerea este permisa numai prin ocolirea insulei. La intalnirea acestui indicator, conducatorul auto este obligat sa acorde prioritate vehiculelor care circula in interiorul intersectiei."
+  },
+  {
+    "articol": "Indicator Pistă pentru biciclete",
+    "continut": "Indicator Pistă pentru biciclete: Are rolul de a preciza inceputul unei piste de biciclete pe care este permisa numai circulatia bicicletelor. Indicatoarul se monteaza si la intersectia pistei cu un drum public."
+  },
+  {
+    "articol": "Indicator Drum obligatoriu pentru categoria de vehicule",
+    "continut": "Indicator Drum obligatoriu pentru categoria de vehicule: Drum obligatoriu pentru categoria de vehicule"
+  },
+  {
+    "articol": "Indicator Drum pentru pietoni",
+    "continut": "Indicator Drum pentru pietoni: Permite circulatia numai a pietonilor pe drumul inaintea caruia este instalat."
+  },
+  {
+    "articol": "Indicator Delimitare piste pentru pietoni și biciclete",
+    "continut": "Indicator Delimitare piste pentru pietoni și biciclete: Poate fi intalnit la inceputul unui sector de drum pe care este permisa circulatia numai a pietonilor si a bicicletelor, acestia fiind obligati sa circule numai pe pista specifica pentru categoria din care fac parte."
+  },
+  {
+    "articol": "Indicator Pistă comună pentru pietoni și bicicliști",
+    "continut": "Indicator Pistă comună pentru pietoni și bicicliști: Pistă comună pentru pietoni și bicicliști"
+  },
+  {
+    "articol": "Indicator Viteză minimă obligatorie",
+    "continut": "Indicator Viteză minimă obligatorie: Se monteaza in zona in care se impune o viteza de circulatie minima. La intalnirea acestui indicator, conducatorul auto este obligat sa circule cu o viteza superioara celei inscriptionate pe indicator, dar mai mica decat cea maxima legala admisa pe sectorul de drum respectiv."
+  },
+  {
+    "articol": "Indicator Sfârșitul vitezei minime obligatorii",
+    "continut": "Indicator Sfârșitul vitezei minime obligatorii: Se instaleaza in zona in care se termina sectorul de drum cu viteza minima obligatorie."
+  },
+  {
+    "articol": "Indicator Lanțuri pentru zăpadă",
+    "continut": "Indicator Lanțuri pentru zăpadă: Se amplaseaza in zonele in care, pe timp de iarna, conducatorii autovehiculelor cu masa totala maxima autorizata mai mare de 3,5 t. au obligatia de a monta lanturi antiderapante daca partea carosabila este acoperita cu zapada, gheata sau polei."
+  },
+  {
+    "articol": "Indicator Direcție obligatorie pentru autovehiculele care transportă mărfuri periculoase",
+    "continut": "Indicator Direcție obligatorie pentru autovehiculele care transportă mărfuri periculoase: La intalnirea acestui indicator, vehiculele care transporta marfuri periculoase sunt obligate sa circule pe directia indicata de sageata: inainte"
+  },
+  {
+    "articol": "Indicator Direcție obligatorie pentru vehicule care transportă mărfuri periculoase",
+    "continut": "Indicator Direcție obligatorie pentru vehicule care transportă mărfuri periculoase: La intalnirea acestui indicator, vehiculele care transporta marfuri periculoase sunt obligate sa circule pe directia indicata de sageata: la dreapta"
+  },
+  {
+    "articol": "Indicator Direcție obligatorie pentru vehicule care transportă mărfuri periculoase",
+    "continut": "Indicator Direcție obligatorie pentru vehicule care transportă mărfuri periculoase: La intalnirea acestui indicator, vehiculele care transporta marfuri periculoase sunt obligate sa circule pe directia indicata de sageata: la stanga"
+  },
+  {
+    "articol": "Indicator Direcția și distanța până la telefonul pentru apel de urgență",
+    "continut": "Indicator Direcția și distanța până la telefonul pentru apel de urgență: Direcția și distanța până la telefonul pentru apel de urgență"
+  },
+  {
+    "articol": "Indicator Rovignietă",
+    "continut": "Indicator Rovignietă: Rovignietă"
+  },
+  {
+    "articol": "Indicator Trecere de pietoni",
+    "continut": "Indicator Trecere de pietoni: Trecere pentru pietoni"
+  },
+  {
+    "articol": "Indicator Trecere pentru pietoni",
+    "continut": "Indicator Trecere pentru pietoni: Acest indicator se instaleaza in apropierea unei treceri pentru pietoni. Acesta poate fi precedat si de indicatorul \"Presemnalizare trecere pentru pietoni\"."
+  },
+  {
+    "articol": "Indicator Limite generale de viteză",
+    "continut": "Indicator Limite generale de viteză: Se instaleaza dupa trecerea frontierei unui stat. Are rolul de a informa conducatorul de vehicul care sunt limitele generale de viteza aplicabile diferitelor categorii de drumuri."
+  },
+  {
+    "articol": "Indicator Sens unic",
+    "continut": "Indicator Sens unic: Se monteaza la intrarea pe drumurile cu sens unic. Terminarea sectorului cu sens unic se semnalizeaza cu indicatorul \"Circulatia in ambele sensuri\". Pe drumul cu sens unic este interzisa manevra de intoarcere. Depasirea se poate face si pe partea stanga; se poate opri sau stationa si pe stanga; este permis mersul inapoi cel mult 50 m; este permis virajul stanga sau dreapta; virajul la stanga presupune incadrarea pe banda de langa bordura din stanga."
+  },
+  {
+    "articol": "Indicator Sens unic",
+    "continut": "Indicator Sens unic: Se afla instalat pe drumurile cu sens unic, atunci cand intrarea se face dintr-un drum lateral. Sageata indica sensul in care este obligat sa vireze conducatorul auto."
+  },
+  {
+    "articol": "Indicator Autostradă",
+    "continut": "Indicator Autostradă: Conducatorul auto va intalni acest indicator la intrarea pe autostrada. La intalnirea acestui indicator conducatorii auto sunt obligati sa circule cu cel putin 50 km/h. Pe autostrada sunt interzise mersul inapoi, oprirea, stationarea, intoarcerea precum si circulatia sau imobilizarea voluntara pe banda de urgenta."
+  },
+  {
+    "articol": "Indicator Sfârșit de autostradă",
+    "continut": "Indicator Sfârșit de autostradă: Acest indicator se monteaza la iesirea de pe o autostrada."
+  },
+  {
+    "articol": "Indicator Limite maxime de viteză pe autostradă, ân funcție de condițiile meteorologice",
+    "continut": "Indicator Limite maxime de viteză pe autostradă, ân funcție de condițiile meteorologice: Se afla instalat pe autostrada pentru a impune conducatorilor auto sa circule cu limite diferite de viteza, in functie de conditiile meteorologice."
+  },
+  {
+    "articol": "Indicator Spital",
+    "continut": "Indicator Spital: Este montat in apropierea spitalelor pentru informarea conducatorilor auto in legatura cu existenta unei unitati medicale. Poate fi insotit de un panou aditional pe care este inscriptionata distanta pana la spital."
+  },
+  {
+    "articol": "Indicator Poliția",
+    "continut": "Indicator Poliția: Se amplaseaza in apropierea unui post de politie la care se pot declara accidentele de circulatie, precum si existenta obstacolelor intalnite pe drumul public. Pe indicator poate fi inscrisa si distanta pana la sediu."
+  },
+  {
+    "articol": "Indicator Post prim-ajutor",
+    "continut": "Indicator Post prim-ajutor: Are rolul de a informa conducatorul auto ca in apropiere se afla un post de prim ajutor. Pe indicator poate fi inscrisa si distanta pana la respectivul punct."
+  },
+  {
+    "articol": "Indicator Pasarelă pentru pietoni",
+    "continut": "Indicator Pasarelă pentru pietoni: Se amplaseaza in apropierea pasarelelor pentru pietoni. Pentru traversarea drumurilor din zona pietonii sunt obligati sa circule folosind pasarela."
+  },
+  {
+    "articol": "Indicator Pasaj subteran pentru pietoni",
+    "continut": "Indicator Pasaj subteran pentru pietoni: Se monteaza in apropierea unui pasaj subteran. Pentru traversarea drumurilor din zona pietonii sunt obligati sa circule prin pasaj."
+  },
+  {
+    "articol": "Indicator Stație de autobuz",
+    "continut": "Indicator Stație de autobuz: Se instaleaza pe trotuar, foarte aproape de partea carosabila, in statiile de autobuz sau troleibuz."
+  },
+  {
+    "articol": "Indicator Stație de tramvai",
+    "continut": "Indicator Stație de tramvai: Se instaleaza atat pe trotuar (in cazul statiilor fara refugiu pentru pietoni), cat si in spatiile de refugiu (in cazul in care exista)."
+  },
+  {
+    "articol": "Indicator Stație de taximetre",
+    "continut": "Indicator Stație de taximetre: Se monteaza in locurile special amenajate pentru stationarea taxiurilor."
+  },
+  {
+    "articol": "Indicator Drum pentru autovehicule",
+    "continut": "Indicator Drum pentru autovehicule: Se afla amplasat la intrarea pe drumurile pe care este permisa doar circulatia autovehiculelor."
+  },
+  {
+    "articol": "Indicator Sfârșitul drumului pentru autovehicule",
+    "continut": "Indicator Sfârșitul drumului pentru autovehicule: Conducatorul auto va intalni acest indicator la iesirea de pe drumurile pe care este permisa doar circulatia autovehiculelor."
+  },
+  {
+    "articol": "Indicator Vulcanizare",
+    "continut": "Indicator Vulcanizare: Este montat in apropierea unei vulcanizari. Pe indicator poate fi inscris si programul de functionare."
+  },
+  {
+    "articol": "Indicator Telefon",
+    "continut": "Indicator Telefon: Are rolul de a indica conducatorului auto ca in apropiere se afla un telefon public."
+  },
+  {
+    "articol": "Indicator Stație alimentare cu carburant",
+    "continut": "Indicator Stație alimentare cu carburant: Se instaleaza in apropierea unei statii de alimentare cu combustibili pentru autovehicule. Pe indicator poate fi inscris si programul de functionare."
+  },
+  {
+    "articol": "Indicator Stație pentru alimentare cu carburant, inclusiv benzină fără plumb",
+    "continut": "Indicator Stație pentru alimentare cu carburant, inclusiv benzină fără plumb: Se instaleaza in apropierea unei statii de alimentare cu combustibili pentru autovehicule."
+  },
+  {
+    "articol": "Indicator Stație de alimentare cu carburanți inclusiv benzină fără plumb și gaz petrolier lichefiat",
+    "continut": "Indicator Stație de alimentare cu carburanți inclusiv benzină fără plumb și gaz petrolier lichefiat: Se monteaza in apropierea unei statii de alimentare cu cu carburanti, incluziv benzina fara plumb si gaz petrolier lichefiat."
+  },
+  {
+    "articol": "Indicator Hotel sau motel",
+    "continut": "Indicator Hotel sau motel: Hotel sau motel"
+  },
+  {
+    "articol": "Indicator Restaurant",
+    "continut": "Indicator Restaurant: Restaurant"
+  },
+  {
+    "articol": "Indicator Bufet sau cofetărie",
+    "continut": "Indicator Bufet sau cofetărie: Bufet sau cofetărie"
+  },
+  {
+    "articol": "Indicator Teren pentru camping (tabără turistică)",
+    "continut": "Indicator Teren pentru camping (tabără turistică): Se monteaza in apropierea unui teren special amenajat pentru camping"
+  },
+  {
+    "articol": "Indicator Teren pentru caravane (tabără turistică)",
+    "continut": "Indicator Teren pentru caravane (tabără turistică): Acest indicator poate fi intalnit in apropierea unui teren special amenajat pentru stationarea autovehiculelor si rulotelor."
+  },
+  {
+    "articol": "Indicator Teren pentru caravane și camping",
+    "continut": "Indicator Teren pentru caravane și camping: Conducatorul auto va intalni acest indicator in apropierea unui teren special amenajat pentru stationarea autovehiculelor si rulotelor si pentru camping."
+  },
+  {
+    "articol": "Indicator Loc pentru popas",
+    "continut": "Indicator Loc pentru popas: Are rolul de a informa ca in apropiere se afla un teren special amenajat pentru popasuri."
+  },
+  {
+    "articol": "Indicator Cabană pentru turiști",
+    "continut": "Indicator Cabană pentru turiști: Cabană pentru turiști"
+  },
+  {
+    "articol": "Indicator WC public",
+    "continut": "Indicator WC public: WC public"
+  },
+  {
+    "articol": "Indicator Service auto",
+    "continut": "Indicator Service auto: Conducatorul auto poate intalni acest indicator in apropierea unui service auto. Pe indicator poate fi inscris si programul de functionare."
+  },
+  {
+    "articol": "Indicator Parcare",
+    "continut": "Indicator Parcare: Are rolul de a informa conducatorul auto ca in apropiere se afla un spatiu destinat parcarii. Pe indicator pot fi inscriptionate anumite reguli stabilite de administratorul responsabil."
+  },
+  {
+    "articol": "Indicator Parcare",
+    "continut": "Indicator Parcare: Are rolul de a informa conducatorul auto ca in apropiere se afla un spatiu destinat parcarii. Pe indicator pot fi inscriptionate anumite reguli stabilite de administratorul responsabil."
+  },
+  {
+    "articol": "Indicator Parcare subterană sau în clădire",
+    "continut": "Indicator Parcare subterană sau în clădire: Se instaleaza in apropierea unei parcari subterane sau in cladire."
+  },
+  {
+    "articol": "Indicator Complex de servicii",
+    "continut": "Indicator Complex de servicii: Se afla amplasat in apropierea unui complex ce ofera conducatorilor auto diverse servicii (restaurant, hotel, telefon, service auto). Pe indicator se inscriptioneaza si distanta pana la respectivul complex."
+  },
+  {
+    "articol": "Indicator Zona rezidențială",
+    "continut": "Indicator Zona rezidențială: Se monteaza la intrarea in zonele rezidentiale. Sunt zone cu trafic mixt, atat pietonal cat si auto, ceea ce ii obliga pe conducatorii auto sa circule cu viteza de cel mult 20 km/h."
+  },
+  {
+    "articol": "Indicator Sfârșitul zonei rezidențiale",
+    "continut": "Indicator Sfârșitul zonei rezidențiale: Se afla montat la iesirea din zonele rezidentiale."
+  },
+  {
+    "articol": "Indicator Zonă cu viteză recomandată de 30 km/h",
+    "continut": "Indicator Zonă cu viteză recomandată de 30 km/h: In general se amplaseaza in zonele urbane, in care viteza inscrisa pe indicator este considerata ca fiind potrivita pentru circulatia in conditii de siguranta. Viteza inscrisa pe indicator nu este viteza minima si nici maxima."
+  },
+  {
+    "articol": "Indicator Sfârșitul zonei cu viteză recomandată de 30 km/h",
+    "continut": "Indicator Sfârșitul zonei cu viteză recomandată de 30 km/h: Are rolul de a preciza sfarsitul zonei cu viteza recomandata."
+  },
+  {
+    "articol": "Indicator Zonă pietonală",
+    "continut": "Indicator Zonă pietonală: Se monteaza la intrarea in zonele pietonale. Acestea reprezinta una sau mai multe strazi rezervate pietonilor, unde accesul vehiculelor se face numai daca se locuieste in zona sau presteaza servicii publice si nu exista alta posibilitate de acces. Conducatorii auto sunt obligati sa circule cu viteza de cel mult 5 km/h."
+  },
+  {
+    "articol": "Indicator Sfârșitul zonei pietonale",
+    "continut": "Indicator Sfârșitul zonei pietonale: Are rolul de a preciza sfarsitul zonei pietonale."
+  },
+  {
+    "articol": "Indicator Tunel",
+    "continut": "Indicator Tunel: Se monteaza la intrarea intr-un tunel. Pe indicator poate fi inscrisa si lungimea tunelului. Se aprind obligatoriu luminile de intalnire. Toate manevrele sunt interzise cu exceptia depasirii vehiculelor fara motor, motocicletelor fara atas si mopedelor, cand vizibilitatea este peste 20 m si latimea drumului cel putin 7 m."
+  },
+  {
+    "articol": "Indicator Sfârșit de tunel",
+    "continut": "Indicator Sfârșit de tunel: Indicatorul se instaleaza la iesirea dintr-un tunel, marcand terminarea acestuia."
+  },
+  {
+    "articol": "Indicator Îmbarcare pe vagoane platformă de cale ferată",
+    "continut": "Indicator Îmbarcare pe vagoane platformă de cale ferată: Conducatorul auto va intalni acest indicator in zona de imbarcare pe vagoane platforma de cale ferata. La intalnirea acestui indicator conducatorul auto trebuie preventiv sa reduca viteza si sa circule cu atentie sporita."
+  },
+  {
+    "articol": "Indicator Îmbarcare pe ferry-boat",
+    "continut": "Indicator Îmbarcare pe ferry-boat: Conducatorul auto va intalni acest indicator in zona de imbarcare pe ferry-boat. La intalnirea acestui indicator conducatorul auto trebuie preventiv sa reduca viteza si sa circule cu atentie sporita."
+  },
+  {
+    "articol": "Indicator Port",
+    "continut": "Indicator Port: Se amplaseaza in apropierea unui port."
+  },
+  {
+    "articol": "Indicator Gară",
+    "continut": "Indicator Gară: Se amplaseaza in apropierea unei gari."
+  },
+  {
+    "articol": "Indicator Autogară",
+    "continut": "Indicator Autogară: Se amplaseaza in apropierea unei autogari."
+  },
+  {
+    "articol": "Indicator Închirieri auto",
+    "continut": "Indicator Închirieri auto: Se amplaseaza in apropierea unui centru de inchirieri auto."
+  },
+  {
+    "articol": "Indicator Plajă",
+    "continut": "Indicator Plajă: Se instaleaza in apropierea unei plaje."
+  },
+  {
+    "articol": "Indicator Zonă de vânătoare",
+    "continut": "Indicator Zonă de vânătoare: Se monteaza in apropierea unei zone de vanatoare. Pe indicator poate fi si o sageata care indica directia spre acesta zona."
+  },
+  {
+    "articol": "Indicator Zonă de pescuit",
+    "continut": "Indicator Zonă de pescuit: Se monteaza in apropierea unei zone de pescuit. Pe indicator poate fi si o sageata care indica directia spre acesta zona."
+  },
+  {
+    "articol": "Indicator Centru viticol",
+    "continut": "Indicator Centru viticol: Se instaleaza in apropierea unui centru viticol. Pe indicator poate fi scrisa si distanta in metri pana la aceste zone."
+  },
+  {
+    "articol": "Indicator Zona industrială",
+    "continut": "Indicator Zona industrială: Se instaleaza in apropierea unei zone industriale. Pe indicator poate fi scrisa si distanta in metri pana la aceste zone."
+  },
+  {
+    "articol": "Indicator Poșta",
+    "continut": "Indicator Poșta: Acest indicator se monteaza la 200 m de o posta."
+  },
+  {
+    "articol": "Indicator Apă potabilă",
+    "continut": "Indicator Apă potabilă: Se monteaza la 200 m de o instalatie de apa potabila."
+  },
+  {
+    "articol": "Indicator Loc de joacă pentru copii",
+    "continut": "Indicator Loc de joacă pentru copii: Se instaleaza in apropierea unui loc special amenajat pentru copii."
+  },
+  {
+    "articol": "Indicator Stadion",
+    "continut": "Indicator Stadion: Indicatorul din imaginea alaturata se amplaseaza in apropierea unui stadion. Pe indicator poate fi inscrisa si denumirea stadionului."
+  },
+  {
+    "articol": "Indicator Supermarket",
+    "continut": "Indicator Supermarket: Se amplaseaza in apropierea unui supermarket. Pe indicator poate fi inscriptionata si distanta la care se afla."
+  },
+  {
+    "articol": "Indicator Acces internet",
+    "continut": "Indicator Acces internet: Se amplaseaza in apropierea unui centru cu acces la internet. Pe indicator poate fi inscriptionata si distanta la care se afla."
+  },
+  {
+    "articol": "Indicator Teatru",
+    "continut": "Indicator Teatru: Indicatorul din imaginea alaturata se amplaseaza in apropierea unui teatru. Pe indicator poate fi inscrisa si denumirea teatrului."
+  },
+  {
+    "articol": "Indicator Muzeu",
+    "continut": "Indicator Muzeu: Indicatorul din imaginea alaturata se amplaseaza in apropierea unui muzeu. Pe indicator poate fi inscrisa si denumirea muzeului."
+  },
+  {
+    "articol": "Indicator Cântar pentru autovehicule",
+    "continut": "Indicator Cântar pentru autovehicule: Se amplaseaza in apropierea unui cantar pentru autovehicule. Pe indicator poate fi inscriptionata si distanta la care se afla."
+  },
+  {
+    "articol": "Indicator Control radar",
+    "continut": "Indicator Control radar: Se afla instalat in apropierea unui post de control al vitezei vehiculelor."
+  },
+  {
+    "articol": "Indicator Informații rutiere",
+    "continut": "Indicator Informații rutiere: Are rolul de a informa conducatorul auto care sunt frecventele radio din zona respectiva."
+  },
+  {
+    "articol": "Indicator Viteză recomandată",
+    "continut": "Indicator Viteză recomandată: Se amplaseaza pe drumurile publice in care viteza inscrisa pe indicator este considerata ca fiind optima pentru circulatia in conditii de siguranta si pentru asigurarea unui trafic fluent. Viteza mentionata este viteza recomandata, nu minima sau maxima."
+  },
+  {
+    "articol": "Indicator Punct de informare turistică",
+    "continut": "Indicator Punct de informare turistică: Informeaza conducatorul ca in apropiere se afla un punct de informare turistica."
+  },
+  {
+    "articol": "Indicator Denumirea străzii",
+    "continut": "Indicator Denumirea străzii: Denumirea străzii"
+  },
+  {
+    "articol": "Indicator Intrare stradă indicată",
+    "continut": "Indicator Intrare stradă indicată: Intrare stradă indicată"
+  },
+  {
+    "articol": "Indicator Numărul imobilului",
+    "continut": "Indicator Numărul imobilului: "
+  },
+  {
+    "articol": "Indicator Monitorizare trafic",
+    "continut": "Indicator Monitorizare trafic: Monitorizare trafic"
+  },
+  {
+    "articol": "Indicator Refugiu rezervat depanării",
+    "continut": "Indicator Refugiu rezervat depanării: Refugiu rezervat depanării"
+  },
+  {
+    "articol": "Indicator Presemnalizarea sediului Poliției autostrăzii",
+    "continut": "Indicator Presemnalizarea sediului Poliției autostrăzii: Presemnalizarea sediului Poliției autostrăzii"
+  },
+  {
+    "articol": "Indicator Distanța de siguranță între vehiculele pentru viteze de cel mult 60 km/h",
+    "continut": "Indicator Distanța de siguranță între vehiculele pentru viteze de cel mult 60 km/h: Distanța de siguranță între vehiculele pentru viteze de cel mult 60 km/h"
+  },
+  {
+    "articol": "Indicator Distanța de siguranță între vehiculele pentru viteze mai maride  90 km/h",
+    "continut": "Indicator Distanța de siguranță între vehiculele pentru viteze mai maride  90 km/h: Distanța de siguranță între vehiculele pentru viteze mai maride  90 km/h"
+  },
+  {
+    "articol": "Indicator Acces pe bază de tichet",
+    "continut": "Indicator Acces pe bază de tichet: Acces pe bază de tichet"
+  },
+  {
+    "articol": "Indicator Presemnalizarea direcțiilor la o intersecție de drumuri din afara localității",
+    "continut": "Indicator Presemnalizarea direcțiilor la o intersecție de drumuri din afara localității: Este instalat la 100-200 m de o intersectie de drumuri. In general, se instaleaza la intersectii de drumuri judetene, nationale sau la intersectii de drumuri nationale cu drumuri judetene."
+  },
+  {
+    "articol": "Indicator Presemnalizarea direcțiilor la o intersecție denivelată de drumuri",
+    "continut": "Indicator Presemnalizarea direcțiilor la o intersecție denivelată de drumuri: In localitate se amplaseaza la 50-100 m de intersectia denivelata de drumuri, iar in afara localitatii la 100-200 m. In general, se instaleaza la intersectii de drumuri judetene, nationale sau la intersectii de drumuri nationale cu drumuri judetene."
+  },
+  {
+    "articol": "Indicator Presemnalizarea direcțiilor indicate",
+    "continut": "Indicator Presemnalizarea direcțiilor indicate: Poate fi intalnit in afara localitatilor, la 100-200 m de o intersectie. Are rolul de a informa conducatorul auto despre diferitele trasee pe care le poate urma."
+  },
+  {
+    "articol": "Indicator Presemnalizarea traseului de ocolire a localității",
+    "continut": "Indicator Presemnalizarea traseului de ocolire a localității: Conducatorul auto va intalni acest indicator la 100-200 m de intersectia cu drumul de ocolire a localitatii (indicatorul marcand tocmai ruta ce permite evitarea localitatii). Pe indicator mai pot fi scrise si alte trasee, spre alte localitati importante."
+  },
+  {
+    "articol": "Indicator Presemnalizare direcțiilor într-o intersecție cu sens giratoriu",
+    "continut": "Indicator Presemnalizare direcțiilor într-o intersecție cu sens giratoriu: Se monteaza in afara localitatilor, la 100-200 m de o intersectie cu sens giratoriu. Are rolul de a informa conducatorul auto asupra diferitelor trasee."
+  },
+  {
+    "articol": "Indicator Drum închis sau deschis circulației publice",
+    "continut": "Indicator Drum închis sau deschis circulației publice: Se instaleaza pe drumurile publice pentru a-i informa pe conducatorii de vehicule daca un drum este deschis sau nu circulatiei publice."
+  },
+  {
+    "articol": "Indicator Presemnalizarea traseului de urmat în cazul unei restricții de circulație",
+    "continut": "Indicator Presemnalizarea traseului de urmat în cazul unei restricții de circulație: Conducatorul auto poate intalni acest indicator amplasat la 100-200 m de intersectia cu drumul de evitare. Acest indicator poate fi montat si in orase, avand un caracter permanent (cand indicatorul este negru pe un fond alb) sau un caracter temporar (cand indicatorul este negru pe un fond galben)."
+  },
+  {
+    "articol": "Indicator Presemnalizare pe autostradă pentru parcare",
+    "continut": "Indicator Presemnalizare pe autostradă pentru parcare: Indicatorul alaturat se monteaza pe o autostrada pentru a indica conducatorilor auto spatiile special amenajate unde pot parca."
+  },
+  {
+    "articol": "Indicator Presemnalizare pe autostradă pentru spațiu de servicii",
+    "continut": "Indicator Presemnalizare pe autostradă pentru spațiu de servicii: Are rolul de a preciza locul unde se afla spatiul de servicii, pe o autostrada."
+  },
+  {
+    "articol": "Indicator Confirmarea direcției de mers pe autostradă spre localități mai importante și distanțele până la acestea",
+    "continut": "Indicator Confirmarea direcției de mers pe autostradă spre localități mai importante și distanțele până la acestea: Confirmarea directiei de mers pe autostrada spre localitati mai importante si distantele pana la acestea"
+  },
+  {
+    "articol": "Indicator Presemnalizarea unui loc periculos, o intersecție sau o restricție pe un drum lateral",
+    "continut": "Indicator Presemnalizarea unui loc periculos, o intersecție sau o restricție pe un drum lateral: In localitate se amplaseaza la 50-100 m, iar in afara localitatii la 100-200 m de un loc periculos sau de o alta restrictie."
+  },
+  {
+    "articol": "Indicator Bandă rezervată circulației de transport public de persoane",
+    "continut": "Indicator Bandă rezervată circulației de transport public de persoane: Indicatorul din imaginea alaturata se amplaseaza in orase, pe drumurile cu mai multe benzi, pentru a informa conducatorul auto ca una dintre benzi este rezervata circulatiei autovehiculelor de transport public de persoane. Zona de actiune a indicatorului se termina la prima intersectie."
+  },
+  {
+    "articol": "Indicator Drum fără ieșire",
+    "continut": "Indicator Drum fără ieșire: Se amplaseaza la intersectia drumului public cu un drum fara iesire."
+  },
+  {
+    "articol": "Indicator Presemnalizarea traseului de urmat în vederea efectuării virajului la stânga",
+    "continut": "Indicator Presemnalizarea traseului de urmat în vederea efectuării virajului la stânga: Indicatorul se aseaza inainte unei intersectii, care precede o alta intersectie in care virajul la stanga este interzis. Are rolul de a orienta conducatorul de vehicul asupra traseului pe care trebuie sa-l urmeze daca vrea sa vireze la stanga."
+  },
+  {
+    "articol": "Indicator Traseu de urmat pentru anumite categorii de autovehicule",
+    "continut": "Indicator Traseu de urmat pentru anumite categorii de autovehicule: Se monteaza pe drumul public si are rolul de a-i orienta pe conducatorii fiecarei categorii de vehicule reprezentate pe indicator, asupra directiei pe care trebuie sa o urmeze: inainte."
+  },
+  {
+    "articol": "Indicator Traseu de urmat pentru un anumit tip de autovehicule",
+    "continut": "Indicator Traseu de urmat pentru un anumit tip de autovehicule: Se monteaza pe drumul public si are rolul de a-i orienta pe conducatorii fiecarei categorii de vehicule reprezentate pe indicator, asupra directiei pe care trebuie sa o urmeze: la dreapta."
+  },
+  {
+    "articol": "Indicator Traseu de urmat pentru un anumit tip de autovehicul",
+    "continut": "Indicator Traseu de urmat pentru un anumit tip de autovehicul: Se monteaza pe drumul public si are rolul de a-i orienta pe conducatorii fiecarei categorii de vehicule reprezentate pe indicator, asupra directiei pe care trebuie sa o urmeze: la stanga."
+  },
+  {
+    "articol": "Indicator Selectarea circulației pe direcții de mers în apropierea intersecției",
+    "continut": "Indicator Selectarea circulației pe direcții de mers în apropierea intersecției: Se instaleaza pe drumurile publice, cu mai multe benzi pe sens, pentru ca soferii sa se poata incadra din timp pe banda corespunzatoare directiei de mers pe care vor sa o urmeze."
+  },
+  {
+    "articol": "Indicator Selectarea circulației pe direcții de mers în apropierea intersecției",
+    "continut": "Indicator Selectarea circulației pe direcții de mers în apropierea intersecției: Se instaleaza pe drumurile publice, cu mai multe benzi pe sens, pentru ca soferii sa se poata incadra din timp pe banda corespunzatoare directiei de mers pe care vor sa o urmeze."
+  },
+  {
+    "articol": "Indicator Selectarea direcției de mers în apropierea intersecției",
+    "continut": "Indicator Selectarea direcției de mers în apropierea intersecției: Se instaleaza pe drumurile publice, cu mai multe benzi pe sens, pentru ca soferii sa se poata incadra din timp pe banda corespunzatoare directiei de mers pe care vor sa o urmeze."
+  },
+  {
+    "articol": "Indicator Bandă destinată circulației vehiculelor lente",
+    "continut": "Indicator Bandă destinată circulației vehiculelor lente: Este amplasat pe drumurile publice si are rolul de a orienta conducatorii auto asupra benzii pe care se deplaseaza vehiculele lente, cu viteze mai mici decat cea inscriptionata pe panou."
+  },
+  {
+    "articol": "Indicator Terminarea benzii de circulație din dreapta a părții de carosabil",
+    "continut": "Indicator Terminarea benzii de circulație din dreapta a părții de carosabil: Indicatorul se monteaza pe drumurile publice avand rolul de a-i obliga pe conducatorii ce se deplaseaza pe o banda care se termina sa acorde prioritate vehiculelor care circula pe banda pe care vor intra."
+  },
+  {
+    "articol": "Indicator Terminarea benzii de circulație din stânga părții carosabile",
+    "continut": "Indicator Terminarea benzii de circulație din stânga părții carosabile: Indicatorul se monteaza pe drumurile publice avand rolul de a-i obliga pe conducatorii ce se deplaseaza pe o banda care se termina sa acorde prioritate vehiculelor care circula pe banda pe care vor intra."
+  },
+  {
+    "articol": "Indicator Viteză minimă obligatorie pentru o bandă de circulație",
+    "continut": "Indicator Viteză minimă obligatorie pentru o bandă de circulație: Poate fi intalnit pe drumurile publice avand rolul de a-i obliga pe conducatorii de vehicule sa se incadreze pe banda corespunzatoare vitezei cu care se deplaseaza."
+  },
+  {
+    "articol": "Indicator Viteză minimă obligatorie pentru diferite benzi de circulație",
+    "continut": "Indicator Viteză minimă obligatorie pentru diferite benzi de circulație: Poate fi intalnit pe drumurile publice avand rolul de a-i obliga pe conducatorii de vehicule sa se incadreze pe banda corespunzatoare vitezei cu care se deplaseaza."
+  },
+  {
+    "articol": "Indicator Limitare de viteză pentru diferite benzi de circulație",
+    "continut": "Indicator Limitare de viteză pentru diferite benzi de circulație: Se amplaseaza pe drumurile cu mai multe benzi pe acelasi sens de circulatie. Are rolul de a-i obliga pe conducatorii auto sa circule cu o viteza mai mica decat cea inscrisa pe indicator pentru banda respectiva."
+  },
+  {
+    "articol": "Indicator Bandă de circulație rezervată autovehiculelor de transport public de persoane",
+    "continut": "Indicator Bandă de circulație rezervată autovehiculelor de transport public de persoane: Acest indicator are rolul de a le interzice conducatorilor de vehicule sa circule pe benzile destinate exclusiv transportului public de persoane."
+  },
+  {
+    "articol": "Indicator Direcția spre localitatea indicată",
+    "continut": "Indicator Direcția spre localitatea indicată: Se amplaseaza in intersectii pentru a informa conducatorii auto asupra directiei pe care trebuie sa o urmeze pentru a ajunge la localitatea inscriptionata pe indicator."
+  },
+  {
+    "articol": "Indicator Direcție spre autostrada indicată",
+    "continut": "Indicator Direcție spre autostrada indicată: Se amplaseaza in intersectii pentru a informa conducatorii auto asupra directiei pe care trebuie sa o urmeze pentru a ajunge la localitatea inscriptionata pe indicator."
+  },
+  {
+    "articol": "Indicator Direcția spre localitatea indicată",
+    "continut": "Indicator Direcția spre localitatea indicată: Se amplaseaza in intersectii pentru a informa conducatorii auto asupra directiei pe care trebuie sa o urmeze pentru a ajunge la localitatea inscriptionata pe indicator."
+  },
+  {
+    "articol": "Indicator Direcția de urmat pentru autovehiculele destinate transportului de mărfuri",
+    "continut": "Indicator Direcția de urmat pentru autovehiculele destinate transportului de mărfuri: Conducatorul auto poate intalni acest indicator la inceputul unei localitati si pe parcurul acesteia. Are rolul de a informa conducatorii de autovehicule destinate transportului de marfuri asupra traseului pe care trebuie sa-l urmeze."
+  },
+  {
+    "articol": "Indicator Direcția spre obiectivul turistic",
+    "continut": "Indicator Direcția spre obiectivul turistic: Acest indicator are rolul de a-i informa pe turisti in ce directie se afla obiectivele turistice."
+  },
+  {
+    "articol": "Indicator Direcția spre obiective locale",
+    "continut": "Indicator Direcția spre obiective locale: Indicatorul din imagine se monteaza in localitati pentru a informa conducatorii de vehicule asupra directiei pe care trebuie sa o urmeze pentru a ajunge la obiectivul local inscriptionat pe indicator."
+  },
+  {
+    "articol": "Indicator Direcția spre aeroport",
+    "continut": "Indicator Direcția spre aeroport: Se monteaza la intersectia drumului public cu un drum de acces spre aeroport."
+  },
+  {
+    "articol": "Indicator Direcția de urmat în cazul devierii temporare a circulației",
+    "continut": "Indicator Direcția de urmat în cazul devierii temporare a circulației: Este amplasat in intersectia de la care conducatorul auto trebuie sa urmeze o anumita directie in cazul devierii temporare a circulatiei."
+  },
+  {
+    "articol": "Indicator Direcția de urma în cazul devierii temporare a circulației",
+    "continut": "Indicator Direcția de urma în cazul devierii temporare a circulației: Este amplasat in intersectia de la care conducatorul auto trebuie sa urmeze o anumita directie in cazul devierii temporare a circulatiei."
+  },
+  {
+    "articol": "Indicator Drum național",
+    "continut": "Indicator Drum național: Are rolul de a confirma ca drumul pe care se afla conducatorul auto este un drum national. Numarul inscriptionat pe indicator reprezinta numarul drumului national."
+  },
+  {
+    "articol": "Indicator Drum județean",
+    "continut": "Indicator Drum județean: Are rolul de a confirma ca drumul pe care se afla conducatorul auto este un drum judetean. Numarul inscriptionat pe indicator reprezinta numarul drumului judetean."
+  },
+  {
+    "articol": "Indicator Drum comunal",
+    "continut": "Indicator Drum comunal: Se monteaza in vederea confirmarii ca drumul pe care se afla conducatorul auto este un drum comunal. Numarul inscriptionat pe indicator reprezinta numarul drumului comunal."
+  },
+  {
+    "articol": "Indicator Drum deschis traficului internațional",
+    "continut": "Indicator Drum deschis traficului internațional: Drum deschis traficului internațional"
+  },
+  {
+    "articol": "Indicator Direcția drumului deschis traficului internațional",
+    "continut": "Indicator Direcția drumului deschis traficului internațional: Se amplaseaza in vederea confirmarii ca drumul pe care se afla conducatorul auto este un drum deschis traficului international."
+  },
+  {
+    "articol": "Indicator Traseu de tranzit european",
+    "continut": "Indicator Traseu de tranzit european: Traseu de tranzit european"
+  },
+  {
+    "articol": "Indicator Simbolul și numărul autostrăzii",
+    "continut": "Indicator Simbolul și numărul autostrăzii: Simbolul și numărul autostrăzii"
+  },
+  {
+    "articol": "Indicator Intrare în localitate",
+    "continut": "Indicator Intrare în localitate: Se amplaseaza la intrarea intr-o localitate, marcand inceputul acesteia."
+  },
+  {
+    "articol": "Indicator Intrare în localitate",
+    "continut": "Indicator Intrare în localitate: Se afla montat la intrarea intr-o localitate. Se specifica si viteza maxima admisa in localitatea respectiva."
+  },
+  {
+    "articol": "Indicator Ieșire din localitate",
+    "continut": "Indicator Ieșire din localitate: Conducatorul auto va intalni acest indicator la iesirea dintr-o localitate, daca pe urmatorii 300 m nu este instalat un alt indicator care sa indice intrarea intr-o alta localitate."
+  },
+  {
+    "articol": "Indicator Ieșire din localitate",
+    "continut": "Indicator Ieșire din localitate: Se amplaseaza la iesirea dintr-o localitate."
+  },
+  {
+    "articol": "Indicator Limitp de județ",
+    "continut": "Indicator Limitp de județ: Se amplaseaza la intrarea intr-un judet, marcand granita judeteana."
+  },
+  {
+    "articol": "Indicator Curs de apă sau viaduct",
+    "continut": "Indicator Curs de apă sau viaduct: Curs de apă sau viaduct"
+  },
+  {
+    "articol": "Indicator Confirmarea direcției de mers spre o localitate și distanța până la aceasta",
+    "continut": "Indicator Confirmarea direcției de mers spre o localitate și distanța până la aceasta: Confirmarea direcției de mers spre o localitate și distanța până la aceasta"
+  },
+  {
+    "articol": "Indicator Confirmarea direcției de mers spre localități mai importante și distanțele până la acestea",
+    "continut": "Indicator Confirmarea direcției de mers spre localități mai importante și distanțele până la acestea: Confirmarea direcției de mers spre localități mai importante și distanțele până la acestea"
+  },
+  {
+    "articol": "Indicator Organizarea traficului pe benzi de circulație",
+    "continut": "Indicator Organizarea traficului pe benzi de circulație: Organizarea traficului pe benzi de circulație"
+  },
+  {
+    "articol": "Indicator Telefon de urgență (Poliție, Ambulanță, Pompieri, Depanare).",
+    "continut": "Indicator Telefon de urgență (Poliție, Ambulanță, Pompieri, Depanare).: Telefon de urgență (Poliție, Ambulanță, Pompieri, Depanare)."
+  }
+]

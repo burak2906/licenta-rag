@@ -1,0 +1,2441 @@
+[
+  {
+    "id": "67f0dc3c2be5222d1c2e0e75",
+    "text": "Dacă semaforul în funcțiune se află instalat de cealaltă parte a intersecției, conducătorul de vehicul:",
+    "optiuni": {
+      "A": "nu este obligat să respecte semnificația semnalelor luminoase, deoarece nu i se adresează;",
+      "B": "este obligat să respecte semnificația semnalelor luminoase, doar dacă semaforul este însoțit de un semn adițional care indică direcțiile cărora li se adresează semnalele;",
+      "C": "este obligat să respecte semnificația semnalelor luminoase ale acestuia, dacă un alt semafor instalat la intrarea în intersecție are în funcțiune un semnal similar."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La semnalul de culoare roșie vehiculul trebuie oprit înaintea marcajului pentru oprire sau, după caz, pentru trecerea pietonilor, iar în lipsa acestuia, în dreptul semaforului. Dacă semaforul este instalat deasupra ori de cealaltă parte a intersecției, linia marcajului pentru oprire sau pentru trecerea pietonilor, vehiculul trebuie oprit înainte de marginea părții carosabile a drumului ce urmează a fi intersectat.\n---\nSemaforul care emite semnale luminoase pentru dirijarea circulației în intersecții se instalează obligatoriu înainte de intersecție, astfel încât să fie vizibile de la o distanță de cel puțin 50 m. Acesta pot fi repetate în mijlocul, deasupra ori de cealaltă parte a intersecției.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e76",
+    "text": "Ce vehicule au voie să pătrundă în intersecție la culoarea roșie a semaforului?",
+    "optiuni": {
+      "A": "niciun vehicul, cu excepția celor destinate stingerii incendiilor, ale ambulanței și ale poliției, când se deplasează în acțiuni de intervenție sau în misiuni care impun urgență;",
+      "B": "autovehiculele care virează la stânga;",
+      "C": "autovehiculele poliției și cele care execută virajul la stânga."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La semnalul de culoare roșie vehiculul trebuie oprit înaintea marcajului pentru oprire sau, după caz, pentru trecerea pietonilor, iar în lipsa acestuia, în dreptul semaforului. Dacă semaforul este instalat deasupra ori de cealaltă parte a intersecției, linia marcajului pentru oprire sau pentru trecerea pietonilor, vehiculul trebuie oprit înainte de marginea părții carosabile a drumului ce urmează a fi intersectat.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e77",
+    "text": "Dacă virați la stânga:",
+    "optiuni": {
+      "A": "ați selectat corect banda de circulație, dar opriți, pentru că semaforul este pe culoarea roșie;",
+      "B": "ați selectat bine banda de circulație, deci vă continuați deplasarea;",
+      "C": "puteți vira numai la dreapta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/450.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Schimbarea direcției de mers prin viraj spre stânga, dacă prin aceasta se încalcă marcajul longitudinal continuu care separă sensurile de circulație atrage 6 puncte de penalizare.\n---\nSchimbarea direcției de mers prin virare la dreapta sau la stânga este interzisă în locurile unde sunt instalate indicatoare cu această semnificație.\n---\nContext vizual extras (YOLOv8):\nIndicator Drum cu prioritate: Se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde. Drumurile care intersecteaza drumul cu prioritate vor avea instalate unul dintre indicatoarele \"Oprire\" sau \"Cedeaza trecerea\". Cand este amplasat inaintea unei intersectii, acest indicator poate fi insotit si de un panou aditional care va preciza directia drumului cu prioritate.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e78",
+    "text": "Ce obligații aveți la semnalul galben intermitent al semaforului electric?",
+    "optiuni": {
+      "A": "opriți, pentru că nu puteți intra în intersecție;",
+      "B": "reduceți viteza și vă continuați deplasarea cu atenție, ocolind pietonii;",
+      "C": "reduceți viteza și circulați respectând regulile aplicabile în acea intersecție."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Semnalul de culoare galbenă intermitent permite trecerea, conducătorul de vehicul fiind obligat să circule cu viteză redusă, să respecte semnificația semnalizării rutiere și a regulilor de circulație aplicabile în acel loc.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e79",
+    "text": "Care autovehicule pot fi echipate cu lumini speciale de avertizare de culoare albastră?",
+    "optiuni": {
+      "A": "legea nu prevede;",
+      "B": "orice autovehicul pentru care se obține aprobarea poliției rutiere;",
+      "C": "vehiculele aparținând poliției, jandarmeriei și poliției de frontieră."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cât mai aproape de marginea drumului în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonoră.\n---\nAutovehiculele care efectuează transport rutier agabaritic, cele de însoțire a acestora, precum și cele care transportă mărfuri și/sau deșeuri periculoase trebuie să aibă montate sau să fie dotate cu echipamente specifice prevăzute de reglementările în vigoare, precum și semnalele speciale de avertizare cu lumină galbenă, prevăzute la art. 32 alin. (1) lit. c), iar conducătorii acestora trebuie să le mențină în funcțiune pe toată perioada deplasării pe drumul public.\n---\nAutovehiculele prevăzute la alin. (2) lit. a), b) și c) trebuie să fie echipate cu mijloace speciale sonore de avertizare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e7a",
+    "text": "Semnalul galben intermitent al semaforului:",
+    "optiuni": {
+      "A": "anunță apariția semnalului roșu;",
+      "B": "obligă conducătorii vehiculelor să reducă viteza și să circule respectând regulile de circulație aplicabile în acea intersecție;",
+      "C": "interzice intrarea în intersecție."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Semnalul de culoare galbenă intermitent permite trecerea, conducătorul de vehicul fiind obligat să circule cu viteză redusă, să respecte semnificația semnalizării rutiere și a regulilor de circulație aplicabile în acel loc.\n---\nSemaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.\n---\nCând semaforul este însoțit de una sau mai multe lămpi care emit lumină intermitentă de culoare verde sub forma uneia sau unor săgeți pe fond negru către dreapta, aceasta permite trecerea numai în direcția indicată, oricare ar fi în acel moment semnalul în funcțiune al semaforului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e7b",
+    "text": "Ce obligații îi revin conducătorului de vehicul în momentul apropierii de o intersecție, dacă semnalul verde se schimbă cu cel galben?",
+    "optiuni": {
+      "A": "să grăbească traversarea;",
+      "B": "să traverseze intersecția cu viteză redusă;",
+      "C": "să oprească autovehiculul în fața marcajului de oprire sau a marcajului pentru trecerea pietonilor ori în dreptul semaforului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Neîndeplinirea obligațiilor ce îi revin conducătorului de vehicul care efectuează transport public de persoane sau de mărfuri constituie contravenție.\n---\nLa intersecțiile cu circulație dirijată, conducătorul de vehicul este obligat să respecte semnificația indicatoarelor, culoarea semaforului sau indicațiile ori semnalele polițistului rutier.\n---\nConducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nConducătorul vehiculului care intră într-o intersecție la culoarea verde a semaforului este obligat să respecte și semnificația indicatoarelor instalate în interiorul acesteia.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e7c",
+    "text": "Ce obligații vă revin atunci când, pe un drum public, întâlniți autovehicule aparținând Serviciului de Ambulanță sau Serviciului Român de Informații, care folosesc mijloacele de avertizare luminoasă și sonoră?",
+    "optiuni": {
+      "A": "să opriți imediat pe dreapta părții carosabile;",
+      "B": "să circulați în regim normal, dar cu prudență și folosind luminile intermitente de avarie;",
+      "C": "să reduceți viteza și să eliberați banda pe care vă deplasați sau să circulați cât mai aproape de bordură ori acostament."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Participanții la trafic sunt obligați să anunțe administratorul drumului public ori cel mai apropiat polițist atunci când au cunoștință despre existența pe drum a unui obstacol sau a oricărei alte situații periculoase pentru fluența și siguranța circulației.\n---\nConducerea unui autovehicul și tractor agricol sau forestier sau tractarea unei remorci atunci când circulația acestora pe drumurile publice este interzisă potrivit art. 15 alin. (5), cu excepția cazurilor în care vehiculul, tramvaiul sau înregistrat, nu are montate plăcuțe cu numărul de înmatriculare sau de înregistrare atribuite de autoritatea competentă ori dacă acestea nu sunt conforme cu standardele în vigoare atrage 4 puncte de penalizare.\n---\nPe un drum public prevăzut cu minimum 3 benzi pe sens, când conducătorii a două autovehicule circulă în aceeași direcție, dar pe benzi diferite, și intenționează să se înscrie pe banda liberă dintre ei, cel care circulă pe banda din dreapta este obligat să permită celui care vine din stânga să ocupe acea bandă.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e7d",
+    "text": "Semnalul luminos intermitent de culoare albă, având cadența lentă, funcționează:",
+    "optiuni": {
+      "A": "pe timpul cât semnalele luminoase de culoare roșie de la trecerea la nivel cu calea ferată sunt stinse;",
+      "B": "pe timpul cât semnalele luminoase ale semaforului defect sunt stinse;",
+      "C": "pe timpul cât barierele ori semibarierele sunt în curs de coborâre sau de ridicare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul poate traversa calea ferată curentă prevăzută cu bariere sau semibariere, dacă acestea sunt ridicate și semnalele luminoase și sonore nu funcționează, iar semnalul cu lumină albă intermitentă cu cadență lentă este în funcțiune.\n---\nÎn intersecții dirijarea circulației tramvaielor se poate realiza și prin semafoare având semnale luminoase de culoare albă, corelate cu semnalele luminoase pentru dirijarea circulației celorlalte vehicule.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e7e",
+    "text": "Ce obligații aveți dacă întâlniți un vehicul cu semnalele speciale de avertizare luminoase de culoare albastră în funcțiune?",
+    "optiuni": {
+      "A": "nicio obligație, deoarece semnalul albastru se adresează coloanelor în mișcare;",
+      "B": "opriți cât mai aproape de marginea drumului;",
+      "C": "acordați prioritate vehiculului de mai sus."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare roșie și sonore.\n---\nConducătorul autovehiculului cu masă și/sau dimensiuni de gabarit depășite, precum și conducătorii autovehiculelor de însoțire sunt obligați să pună și să mențină în funcțiune semnalele speciale de avertizare cu lumină galbenă, prevăzute la art. 32 alin. (1) lit. c) din Ordonanța de urgență a Guvernului nr. 195/2002, republicată, cu modificările și completările ulterioare, pe toată perioada deplasării pe drumul public.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e7f",
+    "text": "La trecerea autovehiculelor cu regim de circulaţie prioritar, care au în funcţiune mijloacele de avertizare sonoră şi luminoasă de culoare albastră, sunteţi obligat:",
+    "optiuni": {
+      "A": "să reduceţi viteza;",
+      "B": "să circulaţi cât mai aproape de marginea drumului în sensul de deplasare;",
+      "C": "să acordaţi prioritate de trecere."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să reducă viteza, să circule cât mai aproape de marginea drumului în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonoră.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare roșie și sonore.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare sonore și vizuale.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nConducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nConducătorii autovehiculelor aparținând instituțiilor prevăzute la art. 32 alin. (2) lit. a) și b) pot încălca regimul legal de viteză sau alte reguli de circulație, cu excepția celor care reglementează trecerea la nivel cu calea ferată, atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență.\n---\nFolosirea nejustificată a mijloacelor speciale de avertizare luminoasă sau sonoră de către conducătorii autovehiculelor care au regim de circulație prioritară constituie contravenție.\n---\nSemnalele mijloacelor de avertizare luminoasă pot fi folosite și fără a fi însoțite de cele sonore, în funcție de natura misiunii ori de condițiile de trafic, situație în care autovehiculul respectiv nu are regim de circulație prioritară.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e80",
+    "text": "Ce obligație aveți dacă întâlniți într-o intersecție indicatorul „Înainte sau la stânga“ și semaforul se află pe culoarea verde?",
+    "optiuni": {
+      "A": "circulați înainte sau la stânga;",
+      "B": "circulați numai înainte;",
+      "C": "circulați în orice direcție, deoarece semnalul verde vă permite acest lucru."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Dacă în apropierea unei intersecții este instalat un indicator sau aplicat un marcaj care obligă să se circule într-o anumită direcție, vehiculele trebuie să fie conduse numai în direcția sau direcțiile indicate.\n---\nSe interzice intrarea într-o intersecție chiar dacă semnalul luminos ori un indicator de prioritate permite, dacă din cauza aglomerării circulației conducătorul de vehicul riscă să rămână imobilizat, stânjenind sau împiedicând desfășurarea traficului.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e81",
+    "text": "Ce obligații aveți dacă întâlniți un vehicul care semnalizează cu luminile speciale de avertizare de culoare albastră și semnalele sonore?",
+    "optiuni": {
+      "A": "nicio obligație, deoarece semnalul albastru se adresează coloanelor în mișcare;",
+      "B": "opriți cât mai aproape de marginea drumului;",
+      "C": "reduceți viteza, circulați cât mai aproape de bordură sau acostament și acordați prioritate vehiculului respectiv."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare roșie și sonore.\n---\nLa trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e82",
+    "text": "Semaforul de avertizare constituit dintr-un corp de iluminat de culoare galbenă intermitentă vă obligă:",
+    "optiuni": {
+      "A": "să acordați prioritate de trecere;",
+      "B": "să circulați cu viteză redusă;",
+      "C": "să opriți în orice situație."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Semaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.\n---\nDupă numărul corpurilor de iluminat, semafoarele sunt: a) cu un corp de iluminat, cu lumina intermitentă de avertizare; b) cu două corpuri de iluminat, pentru pietoni și conducători de biciclete sau trotinete electrice; c) cu trei corpuri de iluminat, pentru vehicule; d) cu patru sau mai multe corpuri de iluminat, pentru tramvaie.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e83",
+    "text": "Ce semnificație are lumina de culoare roșie a semaforului, atât pentru conducătorii de vehicule, cât și pentru pietoni?",
+    "optiuni": {
+      "A": "îi obligă atât pe conducători, cât și pe pietoni să se oprească;",
+      "B": "îi obligă pe conducători să oprească, iar pe pietoni să traverseze cu prudență;",
+      "C": "permite vehiculelor să vireze la dreapta, cu respectarea priorității."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La semnalul de culoare roșie vehiculul trebuie oprit înaintea marcajului pentru oprire sau, după caz, pentru trecerea pietonilor, iar în lipsa acestuia, în dreptul semaforului. Dacă semaforul este instalat deasupra ori de cealaltă parte a intersecției, linia marcajului pentru oprire sau pentru trecerea pietonilor, vehiculul trebuie oprit înainte de marginea părții carosabile a drumului ce urmează a fi intersectat.\n---\nSemnalele luminoase pentru pietoni sunt de culoare verde și roșie. Acestea funcționează corelat cu semnalele pentru dirijarea circulației vehiculelor.\n---\nNerespectarea de către bicicliști sau conducătorii de trotinete a interdicției de a trece la culoarea roșie a semaforului, a semnalelor agentului de cale ferată ori a altor indicații legale constituie contravenție.\n---\nAtunci când semnalul de culoare roșie funcționează concomitent cu cel de culoare galbenă, aceasta anunță apariția semnalului de culoare verde.\n---\nSemnalul luminos destinat dirijării circulației bicicletelor are în câmpul său imaginea unei biciclete de culoare roșie, respectiv verde pe fond negru. Aceeași destinație o are și semnalul luminos al unui semafor însoțit de un panou adițional pe care figurează o bicicletă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e84",
+    "text": "Cum veţi proceda la întâlnirea semnalului intermitent de culoare galbenă?",
+    "optiuni": {
+      "A": "acest semnal nu vă permite trecerea;",
+      "B": "veţi circula cu viteză redusă;",
+      "C": "veţi respecta semnificaţia semnalizării rutiere şi a regulilor de circulaţie aplicabile în acel loc."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Semnalul de culoare galbenă intermitent permite trecerea, conducătorul de vehicul fiind obligat să circule cu viteză redusă, să respecte semnificația semnalizării rutiere și a regulilor de circulație aplicabile în acel loc.\n---\nSemaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e85",
+    "text": "Semnalul verde al semaforului permite deplasarea:",
+    "optiuni": {
+      "A": "pe oricare direcție, dacă printr-un mijloc de semnalizare nu se dispune altfel;",
+      "B": "numai pe direcția înainte;",
+      "C": "pe oricare direcție, dacă vehiculul se află pe banda din mijloc."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Semnalul de culoare verde permite trecerea.\n---\nSemnalul de culoare verde permite trecerea.\n---\nCând semaforul este însoțit de una sau mai multe lămpi care emit lumină intermitentă de culoare verde sub forma uneia sau unor săgeți pe fond negru către dreapta, aceasta permite trecerea numai în direcția indicată, oricare ar fi în acel moment semnalul în funcțiune al semaforului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e86",
+    "text": "Cum este corect să procedați dacă semafoarele funcționează cu lumina galbenă intermitentă?",
+    "optiuni": {
+      "A": "reduceți viteza și traversați intersecția;",
+      "B": "reduceți viteza și cedați trecerea;",
+      "C": "opriți și cedați trecerea."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/719.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Semaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.\n---\nDacă vehiculul nu este dotat cu lumini de avarie sau acestea sunt defecte, conducătorul poate folosi, pe timpul nopții sau în condiții de vizibilitate redusă, o lampă portativă cu lumină galbenă intermitentă, care se instalează la partea din spate a vehiculului.\n---\nConducătorul de vehicul poate traversa calea ferată curentă prevăzută cu bariere sau semibariere, dacă acestea sunt ridicate și semnalele luminoase și sonore nu funcționează, iar semnalul cu lumină albă intermitentă cu cadență lentă este în funcțiune.\n---\nContext vizual extras (YOLOv8):\nIndicator Drum cu prioritate: Se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde. Drumurile care intersecteaza drumul cu prioritate vor avea instalate unul dintre indicatoarele \"Oprire\" sau \"Cedeaza trecerea\". Cand este amplasat inaintea unei intersectii, acest indicator poate fi insotit si de un panou aditional care va preciza directia drumului cu prioritate.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e87",
+    "text": "În această situație trebuie să cedați trecerea vehiculului din dreapta?",
+    "optiuni": {
+      "A": "da, deoarece se aplică regula priorității de dreapta;",
+      "B": "da, deoarece vă intersectați cu un drum prioritar;",
+      "C": "nu, deoarece semaforul este pe culoarea verde."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/779.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La semnalul de culoare roșie vehiculul trebuie oprit înaintea marcajului pentru oprire sau, după caz, pentru trecerea pietonilor, iar în lipsa acestuia, în dreptul semaforului. Dacă semaforul este instalat deasupra ori de cealaltă parte a intersecției, linia marcajului pentru oprire sau pentru trecerea pietonilor, vehiculul trebuie oprit înainte de marginea părții carosabile a drumului ce urmează a fi intersectat.\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "crossencode_prag+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e88",
+    "text": "Semnalul roșu al semaforului:",
+    "optiuni": {
+      "A": "obligă conducătorii vehiculelor care circulă pe direcția înainte să oprească;",
+      "B": "obligă conducătorii vehiculelor, indiferent de direcția de deplasare, să oprească;",
+      "C": "permite trecerea autovehiculelor care schimbă direcția de mers spre stânga."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Semafoarele se montează în axul vertical al stâlpului sau pe consolă, pe portal ori suspendate pe cabluri, succesiunea culorilor lentilelor, de sus în jos, fiind următoarea: a) la semaforul cu trei culori ordinea semnalelor este: roșu, galben, verde; b) la semaforul cu două culori ordinea semnalelor este: roșu, verde; c) la semaforul pentru tramvaie sunt dispuse trei pe orizontală la partea superioară și unul la partea inferioară, toate cu lumină albă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e89",
+    "text": "Care dintre autovehicule pot traversa intersecția din imagine?",
+    "optiuni": {
+      "A": "niciunul;",
+      "B": "autocamionul și autobuzul;",
+      "C": "autoturismul galben și autoturismul roșu."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/859.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e8a",
+    "text": "Semnalul de culoare galbenă al semaforului:",
+    "optiuni": {
+      "A": "permite intrarea în intersecție, dacă urmează după lumina verde;",
+      "B": "permite schimbarea direcției de mers către dreapta;",
+      "C": "interzice intrarea în intersecție, dacă vehiculul poate fi oprit în condiții de siguranță."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Când semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.\n---\nAtunci când semnalul de culoare roșie funcționează concomitent cu cel de culoare galbenă, aceasta anunță apariția semnalului de culoare verde.\n---\nLa semnalul de culoare roșie vehiculul trebuie oprit înaintea marcajului pentru oprire sau, după caz, pentru trecerea pietonilor, iar în lipsa acestuia, în dreptul semaforului. Dacă semaforul este instalat deasupra ori de cealaltă parte a intersecției, linia marcajului pentru oprire sau pentru trecerea pietonilor, vehiculul trebuie oprit înainte de marginea părții carosabile a drumului ce urmează a fi intersectat.\n---\nSemaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.\n---\nSemnalul de culoare galbenă intermitent permite trecerea, conducătorul de vehicul fiind obligat să circule cu viteză redusă, să respecte semnificația semnalizării rutiere și a regulilor de circulație aplicabile în acel loc.\n---\nSemafoarele se montează în axul vertical al stâlpului sau pe consolă, pe portal ori suspendate pe cabluri, succesiunea culorilor lentilelor, de sus în jos, fiind următoarea: a) la semaforul cu trei culori ordinea semnalelor este: roșu, galben, verde; b) la semaforul cu două culori ordinea semnalelor este: roșu, verde; c) la semaforul pentru tramvaie sunt dispuse trei pe orizontală la partea superioară și unul la partea inferioară, toate cu lumină albă.\n---\nSemnalul luminos intermediar care are forma unei sau unor săgeți de culoare galbenă ori albă cu vârful orientat către dreapta sau stânga jos anunță schimbarea semnalului verde. În cazul benzilor cu circulație reversibilă, ori faptul că banda deasupra căreia se află este pe punctul de a fi închisă circulației conducătorilor cărora li se adresează, aceștia fiind obligați să se deplaseze pe banda sau benzile indicate de săgeți.\n---\nCând semaforul este însoțit de una sau mai multe lămpi care emit lumină intermitentă de culoare verde sub forma uneia sau unor săgeți pe fond negru către dreapta, aceasta permite trecerea numai în direcția indicată, oricare ar fi în acel moment semnalul în funcțiune al semaforului.\n---\nNerespectarea de către bicicliști sau conducătorii de trotinete a interdicției de a trece la culoarea roșie a semaforului, a semnalelor agentului de cale ferată ori a altor indicații legale constituie contravenție.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e8b",
+    "text": "În care dintre următoarele situații conducătorilor de vehicule le este interzis să execute virajul spre stânga la lumina de culoare verde a semaforului electric?",
+    "optiuni": {
+      "A": "când întâlnesc indicatorul „Înainte sau la stânga“;",
+      "B": "când se află pe o stradă cu sens unic;",
+      "C": "când întâlnesc indicatorul „Înainte sau la dreapta“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nSe interzice conducătorilor de vehicule să adopte un comportament agresiv în conducerea acestora pe drumurile publice. Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul, a uneia dintre următoarele manevre: \na) deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens; \nb) întoarcerea vehiculului prin folosirea frânei de ajutor; \nc) pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare; \nd) circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia; \ne) folosirea repetată a semnalelor sonore și/sau luminoase fără a obliga nejustificat conducătorul de vehicul care circulă în față sa să elibereze banda de circulație; \nf) conducerea mopedului sau motocicletei având ambele roți ale vehiculului ridicate de pe partea carosabilă numai pe una dintre roți; \ng) mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic sau pentru crearea unei situații de blocaj; \nh) realizarea intenționată a unui derapaj controlat al vehiculului prin rotirea acestuia sau a roților acestuia; \ni) conducerea intenționată a vehiculului în mod repetat înainte și înapoi pe o distanță scurtă, prin mișcări înapoi și înainte succesive pe aceeași bandă sau în zona drumului public.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere și în următoarele situații:",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e8c",
+    "text": "Dacă semnalul verde este însoțit de un indicator „Înainte sau la dreapta“, conducătorului de vehicul îi este permis să circule:",
+    "optiuni": {
+      "A": "în toate direcțiile, deoarece semnalele luminoase primează asupra semnalizării rutiere;",
+      "B": "numai la stânga;",
+      "C": "numai înainte sau la dreapta."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Când semaforul este însoțit de una sau mai multe lămpi care emit lumină intermitentă de culoare verde sub forma uneia sau unor săgeți pe fond negru către dreapta, aceasta permite trecerea numai în direcția indicată, oricare ar fi în acel moment semnalul în funcțiune al semaforului.\n---\nDacă în apropierea unei intersecții este instalat un indicator sau aplicat un marcaj care obligă să se circule într-o anumită direcție, vehiculele trebuie să fie conduse numai în direcția sau direcțiile indicate.\n---\nSe interzice intrarea într-o intersecție chiar dacă semnalul luminos ori un indicator de prioritate permite, dacă din cauza aglomerării circulației conducătorul de vehicul riscă să rămână imobilizat, stânjenind sau împiedicând desfășurarea traficului.\n---\nCând semnalul de culoare verde începe să funcționeze intermitent înseamnă că timpul afectat traversării drumului este în curs de epuizare și urmează semnalul roșu. În acest caz pietonii angajați în traversarea drumului trebuie să grăbească trecerea, iar dacă drumul este prevăzut cu un refugiu sau spațiu interzis circulației vehiculelor, să aștepte pe acesta apariția semnalului de culoare verde.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e8d",
+    "text": "Semnalul verde al semaforului vă permite:",
+    "optiuni": {
+      "A": "să circulați pe direcția înainte sau la stânga;",
+      "B": "să circulați în orice direcție;",
+      "C": "să circulați pe direcția înainte sau la dreapta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1024.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Semnalul de culoare verde permite trecerea.\n---\nSemnalul de culoare verde permite trecerea.\n---\nCând semaforul este însoțit de una sau mai multe lămpi care emit lumină intermitentă de culoare verde sub forma uneia sau unor săgeți pe fond negru către dreapta, aceasta permite trecerea numai în direcția indicată, oricare ar fi în acel moment semnalul în funcțiune al semaforului.\n---\nContext vizual extras (YOLOv8):\nIndicator Drum cu prioritate: Se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde. Drumurile care intersecteaza drumul cu prioritate vor avea instalate unul dintre indicatoarele \"Oprire\" sau \"Cedeaza trecerea\". Cand este amplasat inaintea unei intersectii, acest indicator poate fi insotit si de un panou aditional care va preciza directia drumului cu prioritate.",
+    "tip_context": "crossencode_prag+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e8e",
+    "text": "Lumina galbenă intermitentă instalată în zona trecerilor pentru pietoni vă obligă la:",
+    "optiuni": {
+      "A": "reducerea vitezei, având grijă să feriți pietonii care traversează;",
+      "B": "reducerea vitezei și folosirea luminii farurilor, pentru avertizarea pietonilor care intenționează să se angajeze în traversare;",
+      "C": "reducerea vitezei și respectarea semnalizării și a regulilor de circulație aplicabile în acea zonă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Semaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.\n---\nCând un semafor cu trei culori are o lumină verde intermitentă suplimentară, montată la același nivel cu lumina verde normală a semaforului, sub forma unei săgeți verzi pe fond negru, cu vârful spre dreapta, aprinderea acesteia semnifică permisiunea pentru vehicule de a-și continua drumul în direcția indicată de săgeată, indiferent de culoarea semaforului electric, cu condiția acordării priorității de trecere vehiculelor și pietonilor care au drept de circulație.\n---\nSemnalele speciale de avertizare luminoase sunt emise intermitent de dispozitivele de iluminare montate pe autovehicule și au următoarele semnificații: a) lumina roșie obligă participanții la trafic să oprească în direcția de mers cât mai aproape de marginea drumului; b) lumina albastră obligă participanții la trafic să acorde prioritate de trecere; c) lumina galbenă obligă participanții la trafic să circule cu atenție.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e8f",
+    "text": "Când deasupra fiecărei benzi de circulație se află în funcțiune câte un semafor, conducătorul trebuie:",
+    "optiuni": {
+      "A": "să respecte semnificația semnalului luminos al semaforului instalat deasupra benzii din stânga;",
+      "B": "să respecte semnificația semnalului luminos al semaforului instalat pe trotuar;",
+      "C": "să respecte semnificația semnalului luminos instalat deasupra benzii pe care se află."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Când deasupra benzilor de circulație sunt instalate dispozitive care emit semnale roșii și verzi, acestea sunt destinate semnalizării benzilor cu circulație reversibilă. Semnalul roșu, având forma a două bare încrucișate, interzice accesul vehiculelor pe banda deasupra căreia se găsește, iar semnalul verde, de forma unei săgeți cu vârful în jos, permite intrarea vehiculului și circulația pe acea bandă.\n---\nSemnalul luminos intermediar care are forma unei sau unor săgeți de culoare galbenă ori albă cu vârful orientat către dreapta sau stânga jos anunță schimbarea semnalului verde. În cazul benzilor cu circulație reversibilă, ori faptul că banda deasupra căreia se află este pe punctul de a fi închisă circulației conducătorilor cărora li se adresează, aceștia fiind obligați să se deplaseze pe banda sau benzile indicate de săgeți.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e90",
+    "text": "Când semaforul este însoțit de lumina intermitentă de culoare verde, sub forma unei săgeți pe fond negru către dreapta, aveți următoarea obligație:",
+    "optiuni": {
+      "A": "niciuna, indicatorul fiind de informare;",
+      "B": "niciuna, întrucât indicatorul nu vi se adresează;",
+      "C": "să circulați numai în direcția indicată, oricare ar fi în acel moment semnalul în funcțiune al semaforului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Când semaforul este însoțit de una sau mai multe lămpi care emit lumină intermitentă de culoare verde sub forma uneia sau unor săgeți pe fond negru către dreapta, aceasta permite trecerea numai în direcția indicată, oricare ar fi în acel moment semnalul în funcțiune al semaforului.\n---\nCând un semafor cu trei culori are o lumină verde intermitentă suplimentară, montată la același nivel cu lumina verde normală a semaforului, sub forma unei săgeți verzi pe fond negru, cu vârful spre dreapta, aprinderea acesteia semnifică permisiunea pentru vehicule de a-și continua drumul în direcția indicată de săgeată, indiferent de culoarea semaforului electric, cu condiția acordării priorității de trecere vehiculelor și pietonilor care au drept de circulație.\n---\nCând semnalul de culoare verde începe să funcționeze intermitent înseamnă că timpul afectat traversării drumului este în curs de epuizare și urmează semnalul roșu. În acest caz pietonii angajați în traversarea drumului trebuie să grăbească trecerea, iar dacă drumul este prevăzut cu un refugiu sau spațiu interzis circulației vehiculelor, să aștepte pe acesta apariția semnalului de culoare verde.\n---\nSemaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e91",
+    "text": "Cum veți proceda în situația dată?",
+    "optiuni": {
+      "A": "reduceți viteza și traversați cu atenție;",
+      "B": "opriți și așteptați apariția luminii de culoare verde;",
+      "C": "acordați prioritate pietonilor, după care vă continuați deplasarea."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1153.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Cedează trecerea: Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa se asigure ca pe drumul prioritar nu circula autovehicule, si abia apoi poate sa patrunda in intersectie. Daca pe drumul prioritar circula alte autovehicule, conducatorul auto este obligat sa opreasca pentru a le acorda prioritate.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e92",
+    "text": "Câte corpuri de iluminat are semaforul care se adresează pietonilor și bicicliștilor?",
+    "optiuni": {
+      "A": "două corpuri;",
+      "B": "trei corpuri;",
+      "C": "patru corpuri."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Semnalele pentru tramvaie se formează de la caseta cu patru corpuri de iluminat de culoare albă, dintre care trei sunt poziționate orizontal și unul sub cel din mijloc, însoțite de panouri cu semne adiționale.\n---\nSemaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.\n---\nSemnalele luminoase sunt lumini albe sau colorate diferit, emise succesiv, continuu sau intermitent, de unul sau mai multe corpuri de iluminat care compun un semafor.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e93",
+    "text": "Ce autovehicul își poate continua deplasarea în imaginea prezentată?",
+    "optiuni": {
+      "A": "autocamionul;",
+      "B": "autoturismul verde;",
+      "C": "autoturismul roșu."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1166.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e94",
+    "text": "Cum procedați corect dacă circulați înainte și semaforul indică lumină galbenă intermitentă?",
+    "optiuni": {
+      "A": "opriți, deoarece la următoarea comutare va apărea lumina roșie;",
+      "B": "reduceți viteza, iar dacă se impune, acordați  prioritate;",
+      "C": "opriți întotdeauna."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1189.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Când un semafor cu trei culori are o lumină verde intermitentă suplimentară, montată la același nivel cu lumina verde normală a semaforului, sub forma unei săgeți verzi pe fond negru, cu vârful spre dreapta, aprinderea acesteia semnifică permisiunea pentru vehicule de a-și continua drumul în direcția indicată de săgeată, indiferent de culoarea semaforului electric, cu condiția acordării priorității de trecere vehiculelor și pietonilor care au drept de circulație.\n---\nSemaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e95",
+    "text": "Care dintre autovehicule își poate continua deplasarea?",
+    "optiuni": {
+      "A": "toate trei;",
+      "B": "autobuzul și autocamionul;",
+      "C": "autoturismul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1196.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Pe drumul public cu mai multe benzi, conducătorii de autovehicule care circulă pe o bandă care se sfârșește, pentru a continua deplasarea pe banda din stânga trebuie să permită trecerea vehiculelor care circulă pe acea bandă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e96",
+    "text": "La semnalul intermitent de culoare galbenă:",
+    "optiuni": {
+      "A": "opriţi şi aşteptaţi culoarea verde;",
+      "B": "reduceţi viteza şi respectaţi regulile de circulaţie;",
+      "C": "nu aveţi nicio obligaţie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Semnalul de culoare galbenă intermitent permite trecerea, conducătorul de vehicul fiind obligat să circule cu viteză redusă, să respecte semnificația semnalizării rutiere și a regulilor de circulație aplicabile în acel loc.\n---\nSemaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.\n---\nCând semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.\n---\nAtunci când semnalul de culoare roșie funcționează concomitent cu cel de culoare galbenă, aceasta anunță apariția semnalului de culoare verde.\n---\nSemnalul de culoare verde intermitent și semnalul de culoare roșie interzic pietonilor să se angajeze în traversare pe partea carosabilă.\n---\nSemnalul luminos intermediar care are forma unei sau unor săgeți de culoare galbenă ori albă cu vârful orientat către dreapta sau stânga jos anunță schimbarea semnalului verde. În cazul benzilor cu circulație reversibilă, ori faptul că banda deasupra căreia se află este pe punctul de a fi închisă circulației conducătorilor cărora li se adresează, aceștia fiind obligați să se deplaseze pe banda sau benzile indicate de săgeți.\n---\nCând semnalul de culoare verde începe să funcționeze intermitent înseamnă că timpul afectat traversării drumului este în curs de epuizare și urmează semnalul roșu. În acest caz pietonii angajați în traversarea drumului trebuie să grăbească trecerea, iar dacă drumul este prevăzut cu un refugiu sau spațiu interzis circulației vehiculelor, să aștepte pe acesta apariția semnalului de culoare verde.\n---\nSemnalul de culoare roșie interzice trecerea.\n---\nCând semaforul este însoțit de una sau mai multe lămpi care emit lumină intermitentă de culoare verde sub forma uneia sau unor săgeți pe fond negru către dreapta, aceasta permite trecerea numai în direcția indicată, oricare ar fi în acel moment semnalul în funcțiune al semaforului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e97",
+    "text": "Cum veți proceda corect în această intersecție, dacă semaforul este instalat deasupra intersecției?",
+    "optiuni": {
+      "A": "respectați semnificația semaforului, indiferent de direcția de mers, dacă acesta este dublat de un semafor însoțitor înainte de intersecție;",
+      "B": "nu aveți obligația de a respecta indicația semnalelor luminoase plasate deasupra intersecției;",
+      "C": "respectați indicațiile semaforului, dacă vizibilitatea vă permite acest lucru."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1231.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La semnalul de culoare roșie vehiculul trebuie oprit înaintea marcajului pentru oprire sau, după caz, pentru trecerea pietonilor, iar în lipsa acestuia, în dreptul semaforului. Dacă semaforul este instalat deasupra ori de cealaltă parte a intersecției, linia marcajului pentru oprire sau pentru trecerea pietonilor, vehiculul trebuie oprit înainte de marginea părții carosabile a drumului ce urmează a fi intersectat.\n---\nContext vizual extras (YOLOv8):\nIndicator Sfârșitul drumului cu prioritate: Se amplaseaza la 50-200 m de locul unde inceteaza semnificatia indicatorului \"Drum cu prioritate\", avand rolul de a informa conducatorul auto ca in urmatoarea intersectie in care va patrunde, toate drumurile vor fi de aceeasi categorie si se va aplica regula prioritatii de dreapta.",
+    "tip_context": "crossencode_prag+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e98",
+    "text": "Este permisă schimbarea direcției de mers spre stânga de către conducătorul autovehiculului încadrat corespunzător pe banda de circulație, dacă semaforul pentru această manevră indică semnalul verde, iar cel pentru direcția înainte, semnalul roșu?",
+    "optiuni": {
+      "A": "da, deoarece semnalul care i se adresează este verde;",
+      "B": "nu, deoarece unul dintre semnale este roșu;",
+      "C": "nu, deoarece semafoarele sunt defazate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care executa o manevra de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că o poate face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nConducătorul de vehicul care execută o manevră de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că poate face această manevră fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nSchimbarea direcției de mers prin virare la dreapta sau la stânga este interzisă în locurile unde sunt instalate indicatoare cu această semnificație.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e99",
+    "text": "Semaforul instalat pe trotuar are în funcțiune semnalul roșu, iar cel suspendat, pentru direcția de mers la stânga, semnalul verde. Conducătorul de vehicul care dorește să meargă înainte are dreptul să intre în intersecție?",
+    "optiuni": {
+      "A": "da, deoarece semaforul suspendat are semnalul verde în funcțiune;",
+      "B": "nu, deoarece semaforul de pe trotuar, care i se adresează, are semnalul roșu în funcțiune;",
+      "C": "nu, deoarece deplasarea pe direcția înainte este permisă numai atunci când semnalul verde este în funcțiune la ambele semafoare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La semnalul de culoare roșie vehiculul trebuie oprit înaintea marcajului pentru oprire sau, după caz, pentru trecerea pietonilor, iar în lipsa acestuia, în dreptul semaforului. Dacă semaforul este instalat deasupra ori de cealaltă parte a intersecției, linia marcajului pentru oprire sau pentru trecerea pietonilor, vehiculul trebuie oprit înainte de marginea părții carosabile a drumului ce urmează a fi intersectat.\n---\nCând semaforul este însoțit de una sau mai multe lămpi care emit lumină intermitentă de culoare verde sub forma uneia sau unor săgeți pe fond negru către dreapta, aceasta permite trecerea numai în direcția indicată, oricare ar fi în acel moment semnalul în funcțiune al semaforului.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e9a",
+    "text": "Ce semnificație are lumina de culoare roșie a semaforului?",
+    "optiuni": {
+      "A": "obligă atât conducătorii de vehicule cât și pietonii să se oprească;",
+      "B": "îi obligă la oprire doar pe conducătorii auto care circulă pe direcția înainte, permițând în unele\r\nsituații virajul la dreapta, pietonilor fiindu-le interzisă traversarea;",
+      "C": "nu permite intrarea în intersecție a autovehiculelor, ci doar traversarea străzii de către pietoni."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Nerespectarea de către bicicliști sau conducătorii de trotinete a interdicției de a trece la culoarea roșie a semaforului, a semnalelor agentului de cale ferată ori a altor indicații legale constituie contravenție.\n---\nAtunci când semnalul de culoare roșie funcționează concomitent cu cel de culoare galbenă, aceasta anunță apariția semnalului de culoare verde.\n---\nLa semnalul de culoare roșie vehiculul trebuie oprit înaintea marcajului pentru oprire sau, după caz, pentru trecerea pietonilor, iar în lipsa acestuia, în dreptul semaforului. Dacă semaforul este instalat deasupra ori de cealaltă parte a intersecției, linia marcajului pentru oprire sau pentru trecerea pietonilor, vehiculul trebuie oprit înainte de marginea părții carosabile a drumului ce urmează a fi intersectat.\n---\nSemnalul luminos destinat dirijării circulației bicicletelor are în câmpul său imaginea unei biciclete de culoare roșie, respectiv verde pe fond negru. Aceeași destinație o are și semnalul luminos al unui semafor însoțit de un panou adițional pe care figurează o bicicletă.\n---\nPe lămpile de culoare roșie sau verde ale semafoarelor pot fi aplicate săgeți de culoare neagră care indică direcțiile de deplasare corespunzătoare acestora. În acest caz interdicția sau permisiunea de trecere impusă de semnalul luminos este limitată la direcția sau direcțiile indicate prin aceste săgeți. Aceeași semnificație o au și săgețile aplicate pe panourile adiționale ce însoțesc, la partea inferioară, semafoarele. Săgeata pentru mersul înainte are vârful în sus.\n---\nSemnalele luminoase pentru pietoni sunt de culoare verde și roșie. Acestea funcționează corelat cu semnalele pentru dirijarea circulației vehiculelor.\n---\nSemnalul de culoare verde intermitent și semnalul de culoare roșie interzic pietonilor să se angajeze în traversare pe partea carosabilă.\n---\nSemnalul de culoare roșie interzice trecerea.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e9b",
+    "text": "Semnalul galben intermitent al semaforului vă avertizează că:",
+    "optiuni": {
+      "A": "sunteti obligat sa respectati regulile de circulatie aplicabile in acea intersectie",
+      "B": "va este interzisa intrarea in intersectie",
+      "C": "semaforul este defect."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Semaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e9c",
+    "text": "Cum procedați când vă apropiați de o intersecție unde, în afara semaforului care are în funcțiune semnalul de culoare verde, întâlniți și indicatorul „Cedează trecerea“?",
+    "optiuni": {
+      "A": "respectați semnificația culorii semaforului;",
+      "B": "respectați semnificația indicatorului rutier;",
+      "C": "respectați semnificația semaforului și acordați prioritate de trecere vehiculelor care circulă pe drumul prioritar."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Când semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e9d",
+    "text": "Cum veți proceda corect în intersecția dată?",
+    "optiuni": {
+      "A": "respectați indicațiile semnalului luminos, dacă toate semafoarele au aceeași culoare, în același timp;",
+      "B": "respectați regulile generale de circulație, dacă semafoarele nu au aceeași culoare;",
+      "C": "respectați semnificația semnalului luminos pentru virajul la stânga."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1442.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Drum cu prioritate: Se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde. Drumurile care intersecteaza drumul cu prioritate vor avea instalate unul dintre indicatoarele \"Oprire\" sau \"Cedeaza trecerea\". Cand este amplasat inaintea unei intersectii, acest indicator poate fi insotit si de un panou aditional care va preciza directia drumului cu prioritate.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e9e",
+    "text": "Ce semnifică semnalul roșu al semaforului, care funcționează concomitent cu cel galben?",
+    "optiuni": {
+      "A": "semaforul este în regim de avarie;",
+      "B": "trecerea unei coloane de vehicule;",
+      "C": "oprire."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1446.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Atunci când semnalul de culoare roșie funcționează concomitent cu cel de culoare galbenă, aceasta anunță apariția semnalului de culoare verde.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0e9f",
+    "text": "Care dintre vehicule îşi pot continua deplasarea în intersecţie?",
+    "optiuni": {
+      "A": "tramvaiele, pentru că au prioritate de trecere",
+      "B": "autoturismul albastru",
+      "C": "autoturismul albastru şi autoturismul galben"
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1498.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nLa ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nCând semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ea0",
+    "text": "Cum sunt semnalizate benzile de circulație reversibilă, care vă permit să continuați deplasarea?",
+    "optiuni": {
+      "A": "cu dispozitive de culoare galbenă intermitentă;",
+      "B": "cu semnalul verde de forma unei săgeți cu vârful în jos;",
+      "C": "cu semnul roșu în cruce."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Când deasupra benzilor de circulație sunt instalate dispozitive care emit semnale roșii și verzi, acestea sunt destinate semnalizării benzilor cu circulație reversibilă. Semnalul roșu, având forma a două bare încrucișate, interzice accesul vehiculelor pe banda deasupra căreia se găsește, iar semnalul verde, de forma unei săgeți cu vârful în jos, permite intrarea vehiculului și circulația pe acea bandă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ea1",
+    "text": "Cum trebuie să procedaţi atunci când intenţionaţi să finalizaţi o depăşire?",
+    "optiuni": {
+      "A": "semnalizaţi revenirea şi efectuaţi manevra în condiţii de siguranţă;",
+      "B": "după reîncadrare, semnalizaţi cu luminile de avarie;",
+      "C": "claxonaţi şi vă angajaţi pe partea dreaptă, direct în faţa vehiculului depăşit."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Atunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ea2",
+    "text": "Conducătorul de autovehicul poate efectua depăşirea pe partea dreaptă a autovehiculului al cărui conducător a semnalizat intenţia schimbării direcţiei de mers spre stânga?",
+    "optiuni": {
+      "A": "da, dacă vehiculul din faţă s-a angajat corespunzător părăsirii sensului de mers;",
+      "B": "da, dacă s-a creat spaţiu suficient pentru această manevră;",
+      "C": "nu."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Depășirea se efectuează numai pe partea stângă a vehiculului depășit. Tramvaiul sau vehiculul al cărui conducător a semnalizat intenția și s-a încadrat corespunzător părăsirii sensului de mers spre stânga se depășește prin partea dreaptă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ea3",
+    "text": "Depășirea nu este permisă:",
+    "optiuni": {
+      "A": "atunci când vehiculul ce urmează a fi depășit rulează cu viteza admisă de lege;",
+      "B": "în orice locuri și situații în care vizibilitatea nu permite executarea manevrei;",
+      "C": "atunci când traficul rutier este aglomerat."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Nu este permisă staționarea pe partea carosabilă, în timpul nopții, a tractoarelor agricole sau forestiere, a remorcilor, a mopedelor, a bicicletelor, a trotinetelor electrice, a vehiculelor cu tracțiune animală ori a celor trase sau împinse cu mâna.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nSuspendare permis 120 zile se prevede in cazurile: a) Depășirea cu peste 70 km/h a vitezei maxime admise; b) Nerespectarea regulilor de trecere la nivel cu cale ferată când barierele sunt coborâte sau semnalul este activ; c) Neoprirea la semnalul polițistului rutier; d) Conducerea pe contrasens pe autostradă.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ea4",
+    "text": "Depăşirea vehiculelor pe drumurile publice este interzisă:",
+    "optiuni": {
+      "A": "pe sectorul de drum unde s-a format o coloană de autovehicule în aşteptare, dacă prin aceasta se intră pe sensul opus de circulaţie;",
+      "B": "în intersecţiile dirijate doar cu indicatoare rutiere;",
+      "C": "atunci când cel depăşit este remorcat şi are puse în funcţiune luminile de avarie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Este interzisă circulația pe drumurile publice a vehiculor care nu corespund din punct de vedere tehnic, a celor neasigurate obligatoriu de răspundere civilă auto pentru prejudicii produse terților prin accidente de circulație, a celor pentru care a intervenit suspendarea înmatriculării, precum și a vehiculelor înregistrate al căror termen de valabilitate a inspecției tehnice periodice a expirat ori este anulată.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nEste interzisă circulația autovehiculelor cu mase și/sau gabarite depășite:\na) pe sectoarele de drum unde sunt instalate indicatoare de interzicere, restricție sau limitare a accesului acestora, dacă vehiculul sau ansamblul de vehicule atinge ori depășește lățimea, înălțimea, lungimea sau masele pe axe ori masa totală maximă admisă;\nb) când vizibilitatea este redusă sau partea carosabilă este acoperită cu polei, gheață sau zăpadă.\n---\nDe asemenea, pe autostrăzi sau pe drumurile expres sunt interzise învățarea conducerii unui vehicul, încercările prototipurilor de șasiuri și de autovehicule, manifestațiile, defilările, caravanele publicitare, antrenamentele și competițiile sportive de orice fel, precum și cortegiile.\n---\nSe interzice mersul înapoi cu vehiculul:\na) în cazurile prevăzute la art. 126, cu excepția art. 126, lit. d);\nb) pe o distanță mai mare de 50 m;\nc) la ieșirea de pe proprietăți alăturate drumurilor publice.\n---\nSe interzice conducătorilor de vehicule să adopte un comportament agresiv în conducerea acestora pe drumurile publice. Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul, a uneia dintre următoarele manevre: \na) deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens; \nb) întoarcerea vehiculului prin folosirea frânei de ajutor; \nc) pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare; \nd) circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia; \ne) folosirea repetată a semnalelor sonore și/sau luminoase fără a obliga nejustificat conducătorul de vehicul care circulă în față sa să elibereze banda de circulație; \nf) conducerea mopedului sau motocicletei având ambele roți ale vehiculului ridicate de pe partea carosabilă numai pe una dintre roți; \ng) mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic sau pentru crearea unei situații de blocaj; \nh) realizarea intenționată a unui derapaj controlat al vehiculului prin rotirea acestuia sau a roților acestuia; \ni) conducerea intenționată a vehiculului în mod repetat înainte și înapoi pe o distanță scurtă, prin mișcări înapoi și înainte succesive pe aceeași bandă sau în zona drumului public.\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nEste interzisă traversarea drumului public prin fața ori spatele unui vehicul oprit, fără asigurare prealabilă.\n---\nÎn circulația pe drumurile publice se interzice deținerea la vedere, montarea și folosirea mijloacelor speciale de avertizare sonoră și luminoasă pe și în alte autovehicule decât cele prevăzute la art. 32 alin. (2), precum și deținerea, montarea sau folosirea pe autovehicule a sistemelor care perturbă buna funcționare a dispozitivelor de supraveghere a traficului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ea5",
+    "text": "În care dintre situațiile de mai jos este interzisă depășirea vehiculelor?",
+    "optiuni": {
+      "A": "în zona de acțiune a indicatorului „Alte pericole“;",
+      "B": "la mai puțin de 50 m de o intersecție;",
+      "C": "în curbe, unde vizibilitatea este redusă sub 50 m."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ea6",
+    "text": "În care dintre situaţii este permisă depăşirea?",
+    "optiuni": {
+      "A": "în intersecţia semnalizată cu indicatoare de prioritate;",
+      "B": "în intersecţia dirijată prin semnale luminoase;",
+      "C": "în intersecţia dirijată prin semnale ale poliţistului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": "Eroare la trimiterea promptului",
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "În situația în care anularea permisului de conducere nu s-a dispus de instanță, eliberarea unui nou permis de conducere se face la cererea titularului permisului de conducere, care face dovada că a fost executată măsura educativă sau pedeapsa privativă de libertate, sau că s-a dispus restituirea dreptului de a conduce, potrivit legii.\n---\nNu constituie depășire, în sensul alin. (1), situația în care un vehicul circulă mai repede pe una dintre benzi decât vehiculele care circulă pe altă bandă în același sens de circulație.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nConducătorul vehiculului este direct răspunzător în situația în care persoane în vehicul nu este vizibilă cu ocazia dispunerii sau punerii în executare a măsurii tehnico-administrative.\n---\nÎn locurile în care mersul înapoi este permis, dar vizibilitatea în spate este împiedicată, vehiculul poate fi manevrat înapoi numai atunci când conducătorul acestuia este dirijat de cel puțin o persoană aflată în afara vehiculului.\n---\nConducătorul de vehicul care efectuează depășirea este obligat:\na) să se asigure că acela care îl urmează sau îl precedă nu a semnalizat intenția începerii unei manevre similare și că poate depăși fără a pune în pericol sau fără a stânjeni circulația din sens opus;\nb) să semnalizeze intenția de efectuare a depășirii;\nc) să păstreze în timpul depășirii o distanță laterală suficientă față de vehiculul depășit;\nd) să reintre pe banda sa sau în șirul de circulație inițial după ce a semnalizat și s-a asigurat că poate efectua această manevră în condiții de siguranță pentru vehiculul depășit și pentru ceilalți participanți la trafic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ea7",
+    "text": "Ce vehicule pot fi depășite, prin excepție, pe un pod?",
+    "optiuni": {
+      "A": "vehiculele cu tracțiune animală, motociclete fără ataș și biciclete;",
+      "B": "tractoarele și alte autovehicule lente;",
+      "C": "niciun vehicul."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Prin excepție de la prevederile alin.(2), copiii în vârstă de până la 3 ani pot fi transportați în autovehicule echipate cu sisteme de siguranță doar dacă ocupă alt loc decât cel de pe scaunul din față, sub supravegherea unei persoane, alta decât conducătorul de autovehicul, în autovehiculele destinate transportului public de persoane.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ea8",
+    "text": "În care dintre situaţii este interzisă depăşirea unui moped?",
+    "optiuni": {
+      "A": "pe trecerile pentru pietoni, semnalizate cu indicator sau cu marcaj;",
+      "B": "la mai puţin de 50 m de trecerile la nivel cu calea ferată;",
+      "C": "în zona de acţiune a indicatorului „Depăşirea autovehiculelor, cu excepţia motocicletelor fără ataş, interzisă“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Depășirea este manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe același sens de circulație, prin schimbarea direcției de mers și ieșirea de pe banda de circulație sau din șirul de vehicule în care s-a aflat inițial.\n---\nEste interzisă circulația unui vehicul care are plăcuțele de înmatriculare deteriorate sau neconforme.\n---\nNu constituie depășire, în sensul alin. (1), situația în care un vehicul circulă mai repede pe una dintre benzi decât vehiculele care circulă pe altă bandă în același sens de circulație.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ea9",
+    "text": "Din ce direcție trebuie să se asigure un conducător auto, înainte de a trece la efectuarea unei depășiri?",
+    "optiuni": {
+      "A": "din față;",
+      "B": "din spate;",
+      "C": "atât din față, cât și din spate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Atunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eaa",
+    "text": "Precizaţi în care dintre situaţiile de mai jos este interzisă depăşirea:",
+    "optiuni": {
+      "A": "la coborârile a căror pantă depăşeşte 10%;",
+      "B": "pe trecerile pentru pietoni sau pe cele la nivel cu calea ferată curentă şi la mai puţin de 50 m de acestea;",
+      "C": "în situaţia în care, din sens opus, un vehicul este nevoit să execute o manevră, pentru a evita coliziunea."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Circulația rutieră se consideră de asemenea interzisă și în situația în care barierele sau semibarierele sunt în curs de coborâre sau de ridicare.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nNu constituie depășire, în sensul alin. (1), situația în care un vehicul circulă mai repede pe una dintre benzi decât vehiculele care circulă pe altă bandă în același sens de circulație.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eab",
+    "text": "Se consideră depășire faptul că vehiculele de pe o bandă circulă mai repede decât vehiculele de pe celelalte benzi?",
+    "optiuni": {
+      "A": "nu;",
+      "B": "nu, dacă se circulă pe banda din stânga;",
+      "C": "da, dacă se circulă pe banda din dreapta."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Nu constituie depășire, în sensul alin. (1), situația în care un vehicul circulă mai repede pe una dintre benzi decât vehiculele care circulă pe altă bandă în același sens de circulație.\n---\nAtunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eac",
+    "text": "În care dintre situațiile prezentate este interzisă depășirea vehiculelor pe drumurile publice?",
+    "optiuni": {
+      "A": "la întâlnirea indicatorului „Circulație în ambele sensuri“;",
+      "B": "la o distanță mai mică de 50 m de stația de tramvai, când acesta este oprit;",
+      "C": "la trecerile pentru pietoni prevăzute cu indicatoare și marcaje."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Este interzisă circulația pe drumurile publice a vehiculor care nu corespund din punct de vedere tehnic, a celor neasigurate obligatoriu de răspundere civilă auto pentru prejudicii produse terților prin accidente de circulație, a celor pentru care a intervenit suspendarea înmatriculării, precum și a vehiculelor înregistrate al căror termen de valabilitate a inspecției tehnice periodice a expirat ori este anulată.\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nCu aceeași pedeapsă se sancționează și persoana care încredințează un vehicul pentru care legea prevede obligativitatea deținerii permisului de conducere pentru conducerea pe drumurile publice unei persoane despre care știe că se află în una dintre situațiile prevăzute în alin. (1) sau alin. (2) sau sub influența alcoolului ori a unor substanțe psihoactive.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ead",
+    "text": "Cum se semnalizează, noaptea, intenția de a depăși alt vehicul, într-o localitate, pe un drum neiluminat?",
+    "optiuni": {
+      "A": "cu faza de drum a luminii farurilor;",
+      "B": "cu luminile indicatoare de direcție;",
+      "C": "prin folosirea combinată a fazei scurte și a semnalului sonor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Depășirea se efectuează numai pe partea stângă a vehiculului depășit. Tramvaiul sau vehiculul al cărui conducător a semnalizat intenția și s-a încadrat corespunzător părăsirii sensului de mers spre stânga se depășește prin partea dreaptă.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eae",
+    "text": "Tramvaiul poate fi depăşit pe partea stângă?",
+    "optiuni": {
+      "A": "nu;",
+      "B": "da, în staţiile fără refugiu, pentru protejarea călătorilor care urcă sau coboară;",
+      "C": "da, atunci când între şina din dreapta şi bordură nu există spaţiu suficient pentru depăşire."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Tramvaiul aflat în mers poate fi depășit și pe partea stângă atunci când drumul este cu sens unic sau când între șina din dreapta și marginea trotuarului nu există spațiu suficient.\n---\nDepășirea se efectuează numai pe partea stângă a vehiculului depășit. Tramvaiul sau vehiculul al cărui conducător a semnalizat intenția și s-a încadrat corespunzător părăsirii sensului de mers spre stânga se depășește prin partea dreaptă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eaf",
+    "text": "Cum trebuie să procedaţi dacă, circulând cu viteza maximă admisă de lege, observaţi că un alt autovehicul încearcă să vă depăşească?",
+    "optiuni": {
+      "A": "să nu măriţi viteza şi să circulaţi pe partea din dreapta a drumului, permiţând efectuarea depăşirii;",
+      "B": "să semnalizaţi cu lumina intermitentă că aţi înţeles intenţia celuilalt autovehicul de a vă depăşi;",
+      "C": "să folosiţi semnalele sonore şi luminoase, pentru a-l atenţiona pe conducătorul celuilalt autovehicul că depăşeşte limita vitezei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\nÎn zona pietonală, semnalizată ca atare, conducătorul de vehicul poate intra numai dacă locuiește în această zonă sau prestează servicii publice \"din poartă în poartă\" și nu are altă posibilitate de acces. Acesta este obligat să circule cu viteza maximă de 5 km/h, să nu stânjenească ori să împiedice circulația pietonilor și, dacă este necesar, să oprească pentru a permite circulația acestora.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eb0",
+    "text": "Cum trebuie să procedeze conducătorul de autovehiculul / tractorul agricol sau forestier, înainte de a se angaja într-o depășire?",
+    "optiuni": {
+      "A": "semnalizează și se apropie cât mai mult de axul drumului, pentru a-și asigura vizibilitatea asupra circulației din sens opus;",
+      "B": "avertizează prin semnale acustice sau optice pe conducătorul vehiculului ce urmează a fi depășit;",
+      "C": "se asigură că manevra se poate efectua în condiții de siguranță, după care semnalizează intenția de a schimba direcția de mers."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În cazul imobilizării involuntare a autovehiculului, tractorului agricol sau forestier în pantă sau în rampă, pe lângă obligațiile prevăzute la alin. (1) conducătorul trebuie să bracheze roțile directoare.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat să aplice pe parbrizul și pe luneta autovehiculului semnul distinctiv stabilit pentru conducătorii de autovehicule începători, dacă are o vechime mai mică de un an de la obținerea permisului de conducere.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat:\n1. să aibă asupra sa actul de identitate, permisul de conducere, certificatul de înmatriculare sau de înregistrare și, după caz, atestatul profesional, precum și celelalte documente prevăzute de legislația în vigoare;\n3. să verifice funcționarea sistemului de lumini și de semnalizare, a instalației de climatizare, să mențină permanent curate parbrizul, luneta și geamurile laterale ale autovehiculului, tractorului agricol sau forestier, precum și plăcuțele cu numărul de înmatriculare sau înregistrare ale autovehiculului, tractorului agricol sau forestier și remorcii.\n---\nConducătorului de autovehicul, tractor agricol sau forestier ori tramvai, instructorului auto atestat sau examinatorului care se află în procesul de instruire practică ori de examinare pentru permisul de conducere, implicat într-un accident de circulație, îi este interzis consumul de alcool sau de substanțe psihoactive până la testarea concentrației alcoolului ori recoltarea probelor biologice.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat: a. să permită controlul stării tehnice a vehiculului, precum și al bunurilor transportate, în condițiile legii.\n---\nSe interzice conducătorului de autovehicul, tractor agricol sau forestier ori tramvai să conducă fără permis de conducere valabil.\n---\nProprietarul, deținătorul mandatat sau conducătorul auto al cărui autovehicul și tractor agricol sau forestier, remorcă ori tramvai a fost avariat în alte împrejurări decât într-un accident de circulație este obligat să se prezinte în 24 de ore de la constatare la unitatea de poliție pe raza căreia s-a produs evenimentul, pentru întocmirea documentelor de constatare.\n---\nDacă un autovehicul, tractor agricol sau forestier sau o remorcă a rămas în pană pe partea carosabilă a drumului și nu poate fi deplasat în afara acesteia, conducătorul vehiculului este obligat să pună în funcțiune luminile de avarie și să instaleze triunghiurile reflectorizante.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat:\n1. să circule numai pe sectoarele de drum pe care îi este permis accesul și să respecte normele referitoare la masele totale maxime autorizate și admise și/sau dimensiunile maxime admise de autoritatea competentă pentru autovehicule, tractoarele agricole sau forestiere conduse.\n---\nSe interzice conducătorului de autovehicul, tractor agricol sau forestier ori tramvai: 6. să deschidă ușile vehiculului sau tramvaiului în timpul mersului, să părăsească de pe loc cu ușile deschise.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eb1",
+    "text": "Pot fi depășite autovehiculele pe partea dreaptă?",
+    "optiuni": {
+      "A": "nu, în nicio situație;",
+      "B": "da, dacă spațiul lateral dintre vehicule permite acest lucru;",
+      "C": "da, în cazul vehiculelor care urmează să vireze la stânga, iar spațiul rămas permite depășirea prin dreapta."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Circulația autovehiculelor destinate transportului public de persoane și de mărfuri se desfășoară pe banda din partea dreaptă a autostrăzii, cu excepția cazului în care se efectuează depășirea sau semnalizarea rutieră existentă instituie o altă reglementare de utilizare a benzilor.\n---\nMarcajele de delimitare a părții carosabile sunt amplasate în lungul drumului, se execută la limita din dreapta a părții carosabile în sensul de mers, cu excepția autostrăzilor și a drumurilor expres, unde marcajul se aplică și pe partea stângă, lângă mijlocul fizic de separare a sensurilor de circulație. Aceste marcaje pot fi cu linie continuă sau discontinuă simplă.\n---\nPe autovehiculele Autorității Vamale Române, precum și ale Agenției Naționale de Administrare Fiscală, inscripționate vizibil cu denumirea și sigla instituției din care fac parte, pot fi instalate dispozitive luminoase cu mesaje variabile, de care se poate face uz pentru oprirea în trafic a autovehiculelor în scopul exercitării atribuțiilor de control specifice, potrivit legii.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eb2",
+    "text": "În care dintre situaţii este interzisă depăşirea?",
+    "optiuni": {
+      "A": "în apropierea vârfurilor de rampă, când vizibilitatea este redusă sub 50 m;",
+      "B": "în curbe, dacă vizibilitatea este redusă sub 50 m;",
+      "C": "la întâlnirea indicatorului „Drum cu prioritate“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Circulația rutieră se consideră de asemenea interzisă și în situația în care barierele sau semibarierele sunt în curs de coborâre sau de ridicare.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nNu constituie depășire, în sensul alin. (1), situația în care un vehicul circulă mai repede pe una dintre benzi decât vehiculele care circulă pe altă bandă în același sens de circulație.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eb3",
+    "text": "În ce situaţii nu vă este permisă depăşirea?",
+    "optiuni": {
+      "A": "când un autobuz se află oprit în staţie;",
+      "B": "pe un drum în rampă, când vizibilitatea este peste 50 m;",
+      "C": "într-o intersecţie nedirijată."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\ncând circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care urcă se află un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j);\n---\nÎn situația în care anularea permisului de conducere nu s-a dispus de instanță, eliberarea unui nou permis de conducere se face la cererea titularului permisului de conducere, care face dovada că a fost executată măsura educativă sau pedeapsa privativă de libertate, sau că s-a dispus restituirea dreptului de a conduce, potrivit legii.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eb4",
+    "text": "În care dintre următoarele situaţii nu este permisă depăşirea?",
+    "optiuni": {
+      "A": "când autobuzul se află oprit în staţie;",
+      "B": "în apropierea vârfurilor de rampă, când vizibilitatea este sub 50 m;",
+      "C": "într-o intersecţie nedirijată."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\ncând circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care urcă se află un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j);\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nÎn situația în care anularea permisului de conducere nu s-a dispus de instanță, eliberarea unui nou permis de conducere se face la cererea titularului permisului de conducere, care face dovada că a fost executată măsura educativă sau pedeapsa privativă de libertate, sau că s-a dispus restituirea dreptului de a conduce, potrivit legii.\n---\nPermisul de conducere se reține în următoarele cazuri: la săvârșirea uneia dintre contravențiile prevăzute la art. 100 alin. (3), art. 101 alin. (3), art. 102 alin. (3) și în situația prevăzută la art. 115 alin. (1).",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eb5",
+    "text": "În care dintre situaţii este permisă depăşirea?",
+    "optiuni": {
+      "A": "în intersecţiile dirijate prin semnale sonore;",
+      "B": "în intersecţiile dirijate;",
+      "C": "în intersecţiile nedirijate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În situația în care anularea permisului de conducere nu s-a dispus de instanță, eliberarea unui nou permis de conducere se face la cererea titularului permisului de conducere, care face dovada că a fost executată măsura educativă sau pedeapsa privativă de libertate, sau că s-a dispus restituirea dreptului de a conduce, potrivit legii.\n---\nNu constituie depășire, în sensul alin. (1), situația în care un vehicul circulă mai repede pe una dintre benzi decât vehiculele care circulă pe altă bandă în același sens de circulație.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nConducătorul vehiculului este direct răspunzător în situația în care persoane în vehicul nu este vizibilă cu ocazia dispunerii sau punerii în executare a măsurii tehnico-administrative.\n---\nÎn locurile în care mersul înapoi este permis, dar vizibilitatea în spate este împiedicată, vehiculul poate fi manevrat înapoi numai atunci când conducătorul acestuia este dirijat de cel puțin o persoană aflată în afara vehiculului.\n---\nConducătorul de vehicul care efectuează depășirea este obligat:\na) să se asigure că acela care îl urmează sau îl precedă nu a semnalizat intenția începerii unei manevre similare și că poate depăși fără a pune în pericol sau fără a stânjeni circulația din sens opus;\nb) să semnalizeze intenția de efectuare a depășirii;\nc) să păstreze în timpul depășirii o distanță laterală suficientă față de vehiculul depășit;\nd) să reintre pe banda sa sau în șirul de circulație inițial după ce a semnalizat și s-a asigurat că poate efectua această manevră în condiții de siguranță pentru vehiculul depășit și pentru ceilalți participanți la trafic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eb6",
+    "text": "Cum se execută depăşirea autoturismelor şi a autocamioanelor pe un drum fără marcaje, pe care circulaţia se desfăşoară în sens unic?",
+    "optiuni": {
+      "A": "pe partea stângă;",
+      "B": "pe partea dreaptă;",
+      "C": "pe ambele părţi."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Marcajele de delimitare a părții carosabile sunt amplasate în lungul drumului, se execută la limita din dreapta a părții carosabile în sensul de mers, cu excepția autostrăzilor și a drumurilor expres, unde marcajul se aplică și pe partea stângă, lângă mijlocul fizic de separare a sensurilor de circulație. Aceste marcaje pot fi cu linie continuă sau discontinuă simplă.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eb7",
+    "text": "Cum procedează conducătorul autovehiculului / tractorului agricol sau forestier,  în situația în care vehiculul din fața sa schimbă direcția de mers spre stânga, iar pe partea dreaptă nu este loc suficient pentru depășire?",
+    "optiuni": {
+      "A": "semnalizează și execută depășirea cu viteză redusă;",
+      "B": "încearcă depășirea prin stânga;",
+      "C": "așteaptă eliberarea benzii pentru a-și continua deplasarea."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorului de autovehicul, tractor agricol sau forestier ori tramvai, instructorului auto atestat sau examinatorului care se află în procesul de instruire practică ori de examinare pentru permisul de conducere, implicat într-un accident de circulație, îi este interzis consumul de alcool sau de substanțe psihoactive până la testarea concentrației alcoolului ori recoltarea probelor biologice.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat:\n1. să aibă asupra sa actul de identitate, permisul de conducere, certificatul de înmatriculare sau de înregistrare și, după caz, atestatul profesional, precum și celelalte documente prevăzute de legislația în vigoare;\n3. să verifice funcționarea sistemului de lumini și de semnalizare, a instalației de climatizare, să mențină permanent curate parbrizul, luneta și geamurile laterale ale autovehiculului, tractorului agricol sau forestier, precum și plăcuțele cu numărul de înmatriculare sau înregistrare ale autovehiculului, tractorului agricol sau forestier și remorcii.\n---\nÎn cazul imobilizării involuntare a autovehiculului, tractorului agricol sau forestier în pantă sau în rampă, pe lângă obligațiile prevăzute la alin. (1) conducătorul trebuie să bracheze roțile directoare.\n---\nConducătorii autovehiculelor, tractoarelor agricole sau forestiere imobilizate pe drumurile publice, care se îndepărtează de acestea, sunt obligați să acționeze frâna de ajutor, să oprească funcționarea motorului și să cupleze într-o treaptă de viteză inferioară sau în cea de parcare dacă autovehiculul, tractorul agricol sau forestier are transmisie automată.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat să aplice pe parbrizul și pe luneta autovehiculului semnul distinctiv stabilit pentru conducătorii de autovehicule începători, dacă are o vechime mai mică de un an de la obținerea permisului de conducere.\n---\nÎn cazul imobilizării involuntare a autovehiculului, tractorului agricol sau forestier în pasaje subterane sau în tuneluri, conducătorul acestuia este obligat să oprească funcționarea motorului.\n---\nSe interzice conducătorului de autovehicul, tractor agricol sau forestier ori tramvai: 6. să deschidă ușile vehiculului sau tramvaiului în timpul mersului, să părăsească de pe loc cu ușile deschise.\n---\nDacă un autovehicul, tractor agricol sau forestier sau o remorcă a rămas în pană pe partea carosabilă a drumului și nu poate fi deplasat în afara acesteia, conducătorul vehiculului este obligat să pună în funcțiune luminile de avarie și să instaleze triunghiurile reflectorizante.\n---\nSe interzice conducătorului de autovehicul, tractor agricol sau forestier și pasagerilor ca în timpul opririi sau staționării să deschidă ori să lase deschise ușile acestuia sau să coboare fără să se asigure că nu creează un pericol pentru circulație.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat:\n1. să circule numai pe sectoarele de drum pe care îi este permis accesul și să respecte normele referitoare la masele totale maxime autorizate și admise și/sau dimensiunile maxime admise de autoritatea competentă pentru autovehicule, tractoarele agricole sau forestiere conduse.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eb8",
+    "text": "Ce obligaţii aveţi când sesizaţi că urmează să fiţi depăşit de un alt autovehicul?",
+    "optiuni": {
+      "A": "să reduceţi viteza de mers;",
+      "B": "să nu măriţi viteza de mers;",
+      "C": "să circulaţi cât mai aproape de marginea din dreapta a carosabilului sau a benzii pe care vă deplasaţi."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de autovehicule care urmează să părăsească autostrada sunt obligați să semnalizeze din timp și să se angajeze pe banda de ieșire (de decelerare).\n---\nConducătorul de vehicul care efectuează depășirea este obligat:\na) să se asigure că acela care îl urmează sau îl precedă nu a semnalizat intenția începerii unei manevre similare și că poate depăși fără a pune în pericol sau fără a stânjeni circulația din sens opus;\nb) să semnalizeze intenția de efectuare a depășirii;\nc) să păstreze în timpul depășirii o distanță laterală suficientă față de vehiculul depășit;\nd) să reintre pe banda sa sau în șirul de circulație inițial după ce a semnalizat și s-a asigurat că poate efectua această manevră în condiții de siguranță pentru vehiculul depășit și pentru ceilalți participanți la trafic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eb9",
+    "text": "Vă este permis să depășiți bicicliștii?",
+    "optiuni": {
+      "A": "da, dacă prin claxonare bicicliștii sunt determinați să se angajeze cât mai spre dreapta;",
+      "B": "nu, pentru că din cauza circulației din sens opus nu se poate păstra o distanță laterală corespunzătoare;",
+      "C": "bicicliștii pot fi depășiți fără restricții."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/720.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eba",
+    "text": "Este permisă depăşirea în această situaţie?",
+    "optiuni": {
+      "A": "da, dar numai după oprirea autoturismului;",
+      "B": "nu;",
+      "C": "da, dar numai dacă vizibilitatea permite."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/721.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\ncând circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care urcă se află un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j);",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ebb",
+    "text": "Cum procedează conducătorul autovehiculului / tractorului agricol sau forestier când, aflându-se într-o comună, în imediata apropiere a unei treceri pentru pietoni semnalizate ca atare, intenționează să depășească un vehicul aflat în mișcare?",
+    "optiuni": {
+      "A": "execută depășirea cu viteză redusă;",
+      "B": "nu execută depășirea;",
+      "C": "execută depășirea cu viteză sporită."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorului de autovehicul, tractor agricol sau forestier ori tramvai, instructorului auto atestat sau examinatorului care se află în procesul de instruire practică ori de examinare pentru permisul de conducere, implicat într-un accident de circulație, îi este interzis consumul de alcool sau de substanțe psihoactive până la testarea concentrației alcoolului ori recoltarea probelor biologice.\n---\nÎn cazul imobilizării involuntare a autovehiculului, tractorului agricol sau forestier în pantă sau în rampă, pe lângă obligațiile prevăzute la alin. (1) conducătorul trebuie să bracheze roțile directoare.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat:\n1. să aibă asupra sa actul de identitate, permisul de conducere, certificatul de înmatriculare sau de înregistrare și, după caz, atestatul profesional, precum și celelalte documente prevăzute de legislația în vigoare;\n3. să verifice funcționarea sistemului de lumini și de semnalizare, a instalației de climatizare, să mențină permanent curate parbrizul, luneta și geamurile laterale ale autovehiculului, tractorului agricol sau forestier, precum și plăcuțele cu numărul de înmatriculare sau înregistrare ale autovehiculului, tractorului agricol sau forestier și remorcii.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ebc",
+    "text": "Este permisă depăşirea vehiculelor în intersecţii?",
+    "optiuni": {
+      "A": "nu;",
+      "B": "da, dacă intersecţia este dirijată;",
+      "C": "da, dar numai a bicicletelor şi a mopedelor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ebd",
+    "text": "Camionul execută corect depăşirea autoturismului?",
+    "optiuni": {
+      "A": "da, deoarece conducătorul autoturismului a semnalizat intenţia de a vira la stânga, iar spaţiul rămas liber permite trecerea camionului prin partea dreaptă;",
+      "B": "nu, deoarece în intersecţii depăşirea este interzisă;",
+      "C": "nu, deoarece depăşirea se execută numai pe partea stângă."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/749.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ebe",
+    "text": "Care dintre conducătorii autovehiculelor execută corect depăşirea tramvaiului aflat în mers?",
+    "optiuni": {
+      "A": "ambii conducători;",
+      "B": "conducătorul motocicletei;",
+      "C": "conducătorul autoturismului."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/763.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Intenția conducătorilor de autovehicule, tractoare agricole sau forestiere și tramvaie de a schimba direcția de mers, de a ieși dintr-un rând de vehicule staționate ori de a intra într-un asemenea rând, de a trece pe o altă bandă de circulație sau de a vira spre dreapta ori spre stânga sau a celor care urmează să efectueze întoarcere, depășire ori oprire se semnalizează prin punerea în funcțiune a luminilor indicatoare de direcție cu cel puțin 50 m în localități și 100 m în afara localităților înainte de începerea efectuării manevrelor.\n---\nPolițistul rutier aflat într-un autovehicul al poliției poate executa semnele cu brațul, cu sau fără baston reflectorizant, scos pe partea laterală dreaptă a vehiculului. Acest semnal semnifică oprire pentru conducătorii vehiculelor care circulă în spatele autovehiculului poliției. Același semnal efectuat pe partea stângă a autovehiculului semnifică oprire pentru conducătorii vehiculelor care circulă pe banda din partea stângă în același sens de mers ori în sens opus celui al autovehiculului poliției.\n---\nConducătorii de autovehicule, tractoare agricole sau forestiere și tramvaie sunt obligați să folosească instalațiile de iluminare și/sau semnalizare a acestora, după cum urmează: luminile de întâlnire ale autovehiculelor care însoțesc coloane militare sau cortegii, transportă grupuri organizate de persoane și cele care tractează alte vehicule sau care transportă mărfuri ori produse periculoase, în timpul zilei;",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ebf",
+    "text": "Este permisă depășirea când din sens opus se apropie, la mică distanță, alt vehicul?",
+    "optiuni": {
+      "A": "da, dacă prin depășire se trece peste axa drumului;",
+      "B": "da, dacă drumul are o lățime suficientă, iar prin depășire nu se trece peste axa drumului;",
+      "C": "da, dacă nu există interdicția de a depăși."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Atunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.\n---\nNepăstrarea unei distanțe laterale suficiente față de vehiculul care circulă din sens opus este sancționată ca o contravenție.\n---\nEste interzisă ocuparea trotuarului cu vehicule imobilizate, iar când aceasta este permisă, conform indicatoarelor sau marcajelor, lățimea minimă a trotuarului lăsat la dispoziția pietonilor trebuie să fie de cel puțin un metru.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ec0",
+    "text": "Puteți efectua depășirea în situația dată?",
+    "optiuni": {
+      "A": "da, deoarece căruța se deplasează foarte încet;",
+      "B": "nu, întrucât depășirea este interzisă în această situație;",
+      "C": "da, dacă funcționează lumina intermitentă de culoare albă."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/777.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ec1",
+    "text": "Puteţi executa depăşirea în această situaţie?",
+    "optiuni": {
+      "A": "da, legea nu interzice;",
+      "B": "nu, deoarece drumul se îngustează;",
+      "C": "nu, deoarece urmează un drum în lucru."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/781.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ec2",
+    "text": "Este permisă depășirea când din sens opus se apropie un alt vehicul?",
+    "optiuni": {
+      "A": "da, dacă cel care se apropie din sens opus a redus viteza de deplasare pentru a facilita depășirea;",
+      "B": "nu, dacă cel care se apropie din sens opus este obligat să efectueze manevre de evitare a coliziunii;",
+      "C": "da, dacă spațiul lateral este suficient."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": "Eroare la trimiterea promptului",
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Atunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.\n---\nDepășirea este manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe același sens de circulație, prin schimbarea direcției de mers și ieșirea de pe banda de circulație sau din șirul de vehicule în care s-a aflat inițial.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ec3",
+    "text": "În timp ce conduceţi un autoturism, aveţi voie să efectuaţi manevra de depăşire a unui autobuz oprit în staţie pentru urcarea şi coborârea călătorilor?",
+    "optiuni": {
+      "A": "da;",
+      "B": "da, numai dacă lăţimea drumului public este mai mare de 6 m;",
+      "C": "nu, în acest caz depăşirea este interzisă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ec4",
+    "text": "Cum este definită depășirea?",
+    "optiuni": {
+      "A": "trecerea unui vehicul pe lângă altul, când circulă în același sens, dar pe o bandă alăturată;",
+      "B": "manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe același sens de circulație, prin schimbarea direcției de mers și ieșirea de pe banda de circulație sau din șirul de vehicule în care s-a aflat inițial;",
+      "C": "trecerea unui vehicul prin dreptul altuia."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice depășirea vehiculelor în apropierea vârfurilor de rampă, când vizibilitatea este redusă sub 50 m.\n---\nDepășirea este manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe același sens de circulație, prin schimbarea direcției de mers și ieșirea de pe banda de circulație sau din șirul de vehicule în care s-a aflat inițial.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ec5",
+    "text": "Conducătorul autoturismului roşu s-a angajat corect în depăşirea autocamionului?",
+    "optiuni": {
+      "A": "nu, deoarece nu s-a asigurat şi nu a semnalizat intenţia de a depăşi;",
+      "B": "da, deoarece din sens opus nu circulă niciun vehicul;",
+      "C": "nu, deoarece încalcă semnificaţia indicatorului."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/832.jpeg",
+    "raspuns_fara_context": "Eroare la trimiterea promptului",
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Depășirea se efectuează numai pe partea stângă a vehiculului depășit. Tramvaiul sau vehiculul al cărui conducător a semnalizat intenția și s-a încadrat corespunzător părăsirii sensului de mers spre stânga se depășește prin partea dreaptă.\n---\nConducătorul autovehiculului cu masă și/sau dimensiuni de gabarit depășite, precum și conducătorii autovehiculelor de însoțire sunt obligați să pună și să mențină în funcțiune semnalele speciale de avertizare cu lumină galbenă, prevăzute la art. 32 alin. (1) lit. c) din Ordonanța de urgență a Guvernului nr. 195/2002, republicată, cu modificările și completările ulterioare, pe toată perioada deplasării pe drumul public.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ec6",
+    "text": "Execută corect autoturismul manevra de depăşire?",
+    "optiuni": {
+      "A": "nu, deoarece autobuzul are prioritate la plecarea din staţie;",
+      "B": "nu, deoarece această manevră nu este permisă în dreptul staţiilor mijloacelor de transport public de persoane;",
+      "C": "da, manevra este regulamentară."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/845.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ec7",
+    "text": "Există vreo excepție de la regula depășirii pe partea stângă?",
+    "optiuni": {
+      "A": "nu;",
+      "B": "da, în cazul autovehiculului care intenționează să vireze spre stânga, și în cazul tramvaiului;",
+      "C": "da, numai în cazul în care depășirea se face pe o stradă semnalizată cu indicatorul „Drum fără ieșire“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ec8",
+    "text": "Autoturismul roşu poate depăşi în situaţia dată?",
+    "optiuni": {
+      "A": "da, deoarece a semnalizat intenţia şi din sens opus nu se apropie niciun vehicul;",
+      "B": "da, deoarece se află la mai mult de 150 m de calea ferată;",
+      "C": "nu, deoarece depăşeşte o coloană oprită la trecerea la nivel cu calea ferată."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/861.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni\n---\nIndicator Prioritate pentru circulația din sens invers: Se monteaza pe sectoarele de drum ingustat unde nu au loc sa circule doua vehicule unul pe langa celalalt, fiind precedat de indicatorul \"Drum ingustat\". La intalnirea acestui indicator, conducatorul autovehiculului pierde prioritatea fata de toate autovehiculele care circula din sens opus. Acest indicator poate fi insotit si de un panou aditional pe care sunt precizate categoriile de autovehicule carora li se adreseaza acest indicator.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ec9",
+    "text": "Cum procedaţi la întâlnirea unui obstacol pe sensul dumneavoastră de mers, în situaţia în care pentru a-l depăşi intraţi pe contrasens, iar din faţă se apropie alt vehicul:",
+    "optiuni": {
+      "A": "reduceţi viteza şi, la nevoie, opriţi;",
+      "B": "opriţi şi înlăturaţi obstacolul;",
+      "C": "opriţi şi aşteptaţi echipajul de intervenţie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nConducătorul vehiculului al cărui mers înainte este obstruat de un obstacol sau de prezența altor participanți la trafic, care impune trecerea pe sensul opus, este obligat să reducă viteza și, la nevoie, să oprească pentru a permite trecerea vehiculelor care circulă din sens opus.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0eca",
+    "text": "Puteți efectua depășirea în situația dată?",
+    "optiuni": {
+      "A": "nu;",
+      "B": "da, dacă v-ați asigurat din ambele sensuri că nu se apropie niciun tren;",
+      "C": "da, deoarece căruța se deplasează cu o viteză foarte mică."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/01JD1TPZBYYT3XE1CBVSY626HA.jpg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ecb",
+    "text": "Este regulamentar să depășiți autobuzul oprit în stație?",
+    "optiuni": {
+      "A": "da, dacă vă asigurați și semnalizați;",
+      "B": "da, numai dacă autobuzul are refugiu pentru pietoni;",
+      "C": "nu, până la plecarea autobuzului din stație."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/885.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de autovehicul sau de tramvai care efectuează transport public de persoane este obligat:\n a) să oprească pentru urcarea sau coborârea pasagerilor numai în stațiile semnalizate ca atare, cu excepția transportului public de persoane în regim de taxi. Dacă stația este prevăzută cu alveolă, oprirea se va face numai în interiorul acesteia;\n b) să deschidă ușile numai după ce vehiculul a fost oprit în stație;\n c) să închidă ușile numai după ce pasagerii au coborât ori au urcat;\n d) să repună în mișcare autovehiculul sau tramvaiul din stație după ce a semnalizat intenția și s-a asigurat că poate efectua în siguranță această manevră.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ecc",
+    "text": "Când este permisă depăşirea prin stânga a tramvaielor aflate în mers?",
+    "optiuni": {
+      "A": "atunci când drumul public este cu sens unic;",
+      "B": "când între şina de tramvai din dreapta şi marginea trotuarului nu există suficient spaţiu pentru depăşire;",
+      "C": "în nici o situaţie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Tramvaiul aflat în mers poate fi depășit și pe partea stângă atunci când drumul este cu sens unic sau când între șina din dreapta și marginea trotuarului nu există spațiu suficient.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ecd",
+    "text": "Vă este permis să executaţi depăşirea în situaţia prezentată?",
+    "optiuni": {
+      "A": "nu, deoarece efectuaţi manevra pe un pod;",
+      "B": "da, întrucât axul drumului nu este marcat cu o linie continuă;",
+      "C": "nu, deoarece podul nu are parapeţi din beton."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/905.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În situația în care anularea permisului de conducere nu s-a dispus de instanță, eliberarea unui nou permis de conducere se face la cererea titularului permisului de conducere, care face dovada că a fost executată măsura educativă sau pedeapsa privativă de libertate, sau că s-a dispus restituirea dreptului de a conduce, potrivit legii.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nDacă persoana aflată în una dintre situațiile prevăzute în alin. (1) și alin. (2) efectuează transport public de persoane, transport de substanțe sau produse periculoase ori se află în procesul de instruire practică a unor persoane pentru obținerea permisului de conducere sau în timpul desfășurării probelor practice ale examenului pentru obținerea permisului de conducere, pedeapsa este închisoarea de la 2 la 7 ani.\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ece",
+    "text": "Puteţi depăşi în situaţia dată?",
+    "optiuni": {
+      "A": "da, dacă vă asiguraţi că manevra poate fi executată şi semnalizaţi corespunzător;",
+      "B": "nu, deoarece vizibilitatea este redusă;",
+      "C": "nu, deoarece prin această manevră veţi trece peste axul drumului."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/910.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ecf",
+    "text": "În care dintre următoarele situații vă este interzis să efectuați depășirea?",
+    "optiuni": {
+      "A": "pe drumurile cu o singură bandă de circulație pe sens;",
+      "B": "la mai puțin de 150 m de trecerile la nivel cu calea ferată;",
+      "C": "în zona de acțiune a indicatorului „Depășirea interzisă“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ed0",
+    "text": "Se interzice depășirea:",
+    "optiuni": {
+      "A": "atunci când se încalcă marcajul continuu longitudinal;",
+      "B": "în zonele cu trafic intens;",
+      "C": "când se încalcă marcajul discontinuu longitudinal."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice depășirea coloanei oficiale.\n---\nSe interzice oprirea voluntară a vehiculelor în locurile unde este interzisă depășirea.\n---\nSe interzice depășirea vehiculelor în curbe și în orice alte locuri unde vizibilitatea este redusă sub 50 m.\n---\nNerespectarea semnificației indicatorilor și marcajelor de interzicere sau restricție ori a celor temporare de către conducătorul de vehicul reprezintă contravenție, cu excepția celor ce interzic accesul sau depășirea și sunt sancționate diferit.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ed1",
+    "text": "În ce situații este interzisă depășirea unei biciclete?",
+    "optiuni": {
+      "A": "în zona de acțiune a indicatorului „Depășirea autovehiculelor, cu excepția motocicletelor fără ataș, interzisă“;",
+      "B": "pe trecerile de pietoni semnalizate;",
+      "C": "la mai puțin de 100 m de trecerea la nivel cu calea ferată."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Remorca atașată unei biciclete trebuie să fie echipată, în partea din spate, cu un dispozitiv reflectorizant de culoare roșie, iar dacă lumina din spate a bicicletei este obturată de aceasta, trebuie să fie echipată și cu o lumină de culoare roșie.\n---\nPe autostrăzi este interzisă circulația pietonilor, a autovehiculelor cu gabarite sau mase depășite, fără autorizație specială de transport, precum și a bicicletelor, trotinetelor electrice, mopedelor, vehiculelor cu tracțiune animală, animalelor sau vehiculelor trase/împinse cu mâna, tractoarelor agricole sau forestiere și mașinilor autopropulsate pentru lucrări agricole.\n---\nDacă pe direcția de deplasare există o pistă pentru biciclete, semnalizată corespunzător, conducătorii vehiculelor menționate la alin.(1) sunt obligați să circule numai pe această pistă. Este interzisă circulația altor participanți la trafic pe pista pentru biciclete.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ed2",
+    "text": "Ce obligații aveți înainte de efectuarea unei depășiri?",
+    "optiuni": {
+      "A": "să semnalizați intenția și să efectuați depășirea;",
+      "B": "să vă asigurați din față și să reduceți corespunzător viteza;",
+      "C": "să vă asigurați și să semnalizați intenția de depășire."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care efectuează depășirea este obligat:\na) să se asigure că acela care îl urmează sau îl precedă nu a semnalizat intenția începerii unei manevre similare și că poate depăși fără a pune în pericol sau fără a stânjeni circulația din sens opus;\nb) să semnalizeze intenția de efectuare a depășirii;\nc) să păstreze în timpul depășirii o distanță laterală suficientă față de vehiculul depășit;\nd) să reintre pe banda sa sau în șirul de circulație inițial după ce a semnalizat și s-a asigurat că poate efectua această manevră în condiții de siguranță pentru vehiculul depășit și pentru ceilalți participanți la trafic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ed3",
+    "text": "Ce trebuie să aveți în vedere atunci când intenționați să depășiți atât bicicliști, cât și grupuri de pietoni care se deplasează pe carosabil?",
+    "optiuni": {
+      "A": "puteți depăși numai după ce pietonii și bicicliștii v-au făcut semn în acest sens;",
+      "B": "respectați prevederile legale;",
+      "C": "bicicliștii și pietonii pot fi depășiți numai dacă distanța laterală este de 3 m."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nAtunci când prin manevra de depășire se trece peste axa care separă sensurile de circulație, conducătorii de vehicule trebuie să se asigure că din sens opus nu se apropie un vehicul și că dispun de spațiu suficient pentru a reintra pe banda inițială, unde au obligația să revină după efectuarea manevrei de depășire.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ed4",
+    "text": "Se poate efectua depăşirea în situaţia dată?",
+    "optiuni": {
+      "A": "da, legea nu interzice;",
+      "B": "da, deoarece din sens opus nu se apropie niciun vehicul;",
+      "C": "nu, deoarece vă aflaţi în curbă."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1002.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care efectuează depășirea este obligat:\na) să se asigure că acela care îl urmează sau îl precedă nu a semnalizat intenția începerii unei manevre similare și că poate depăși fără a pune în pericol sau fără a stânjeni circulația din sens opus;\nb) să semnalizeze intenția de efectuare a depășirii;\nc) să păstreze în timpul depășirii o distanță laterală suficientă față de vehiculul depășit;\nd) să reintre pe banda sa sau în șirul de circulație inițial după ce a semnalizat și s-a asigurat că poate efectua această manevră în condiții de siguranță pentru vehiculul depășit și pentru ceilalți participanți la trafic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ed5",
+    "text": "Este corectă manevra de devansare pe autostradă a unui autovehicul pe banda dreaptă a acestuia?",
+    "optiuni": {
+      "A": "da;",
+      "B": "nu;",
+      "C": "da, dar numai dacă se folosesc semnalele de atenţionare sonore şi luminoase."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Depășirea este manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe același sens de circulație, prin schimbarea direcției de mers și ieșirea de pe banda de circulație sau din șirul de vehicule în care s-a aflat inițial.\n---\nConducerea unui autovehicul și tractor agricol sau forestier sau tractarea unei remorci atunci când circulația acestora pe drumurile publice este interzisă potrivit art. 15 alin. (5), cu excepția cazurilor în care vehiculul, tramvaiul sau înregistrat, nu are montate plăcuțe cu numărul de înmatriculare sau de înregistrare atribuite de autoritatea competentă ori dacă acestea nu sunt conforme cu standardele în vigoare atrage 4 puncte de penalizare.\n---\nPentru a putea întoarce vehiculul de pe un sens de mers pe celălalt prin manevrare înainte și înapoi sau prin viraj, conducătorul acestuia este obligat să semnalizeze și să se asigure că din față, din spate sau din lateral nu circulă în acel moment niciun vehicul.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ed6",
+    "text": "În care dintre situaţii depăşirea este interzisă?",
+    "optiuni": {
+      "A": "în intersecţiile cu circulaţie nedirijată şi la trecerile pentru pietoni semnalizate;",
+      "B": "în intersecţii şi la o distanţă de 50 m de acestea;",
+      "C": "în zona de acţiune a indicatorului „Limitare de viteză“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Circulația rutieră se consideră de asemenea interzisă și în situația în care barierele sau semibarierele sunt în curs de coborâre sau de ridicare.\n---\nSe interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ed7",
+    "text": "În care dintre următoarele situaţii vă este interzis să măriţi viteza de deplasare?",
+    "optiuni": {
+      "A": "când urmează să fiţi depăşit;",
+      "B": "la sesizarea aparaturii de detectare a sistemelor radar;",
+      "C": "pe timp de noapte."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nCirculația rutieră se consideră de asemenea interzisă și în situația în care barierele sau semibarierele sunt în curs de coborâre sau de ridicare.\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0ed8",
+    "text": "Vă apropiați de o trecere la nivel cu calea ferată curentă fără bariere, în traversarea căreia s-a angajat o căruță aflată în fața dvs. În această situație puteți efectua depășirea?",
+    "optiuni": {
+      "A": "da, dacă aceasta nu a ajuns încă la linia de tren;",
+      "B": "da, întrucât căruța este un vehicul lent;",
+      "C": "nu."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.",
+    "tip_context": "crossencode_prag"
+  }
+]

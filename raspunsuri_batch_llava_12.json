@@ -1,0 +1,2181 @@
+[
+  {
+    "id": "67f0dc3c2be5222d1c2e11f9",
+    "text": "În cazul unei fracturi de claviculă (umărul se află într-o poziţie atârnândă, uşor înainte şi în jos), se procedează astfel:",
+    "optiuni": {
+      "A": "se aşază braţul într-o eşarfă;",
+      "B": "se aduce umărul în poziţie normală;",
+      "C": "se lasă braţul liber."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e11fa",
+    "text": "Dezinfecţia plăgilor ce necesită a fi pansate se face cu:",
+    "optiuni": {
+      "A": "apă oxigenată sau iod;",
+      "B": "ser fiziologic;",
+      "C": "apă potabilă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e11fb",
+    "text": "Cum acţionaţi în cazul unui accidentat a cărui inimă s-a oprit?",
+    "optiuni": {
+      "A": "plecaţi, întrucât nu se mai poate face nimic;",
+      "B": "începeţi compresia artificială a inimii şi respiraţia artificială;",
+      "C": "mişcaţi energic accidentatul, pentru a-şi reveni."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e11fc",
+    "text": "Ce trebuie să aibă în vedere prima intervenţie, la faţa locului, pentru salvarea victimei?",
+    "optiuni": {
+      "A": "spălarea rănilor vizibile;",
+      "B": "degajarea căilor respiratorii şi asigurarea funcţiei respiratorii;",
+      "C": "igienizarea şi pansarea rănilor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Autovehiculul de însoțire trebuie să fie echipat cu un dispozitiv special de avertizare cu lumină galbenă și să aibă montată, în funcție de locul ocupat la însoțire, la partea stângă din față sau din spate, plăcuță de identificare reflectorizantă, având fondul alb și chenarul roșu.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e11fd",
+    "text": "În funcţie de starea accidentatului, măsurile de prim ajutor se vor lua în următoarea ordine:",
+    "optiuni": {
+      "A": "oprirea hemoragiei, pansarea rănilor, imobilizarea fracturilor, respiraţia artificială, masajul cardiac;",
+      "B": "respiraţia artificială, masajul cardiac, oprirea hemoragiei, pansarea rănilor, imobilizarea fracturilor;",
+      "C": "imobilizarea fracturilor, pansarea rănilor, respiraţia artificială, masajul cardiac, oprirea hemoragiei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e11fe",
+    "text": "Ce trebuie să aveţi în vedere la scoaterea persoanelor accidentate din autovehicul?",
+    "optiuni": {
+      "A": "ca operaţiunea să se desfăşoare rapid şi fără să provoace alte traumatisme;",
+      "B": "să nu se agraveze leziunile;",
+      "C": "să nu se îndepărteze indiciile care ar putea ajuta la explicarea modului în care s-a produs accidentul."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care circulă pe banda situată lângă marginea părții carosabile trebuie să acorde prioritate de trecere vehiculelor care efectuează transport public de persoane numai atunci când conducătorii acestora semnalizează intenția de a reintra în trafic din stațiile prevăzute cu alveole și s-au asigurat că prin manevra lor nu pun în pericol siguranța celorlalți participanți la trafic.\n---\nPregătirea teoretică și practică a persoanelor în vederea obținerii permisului de conducere este precedată de o evaluare obligatorie a capacităților psihologice solicitate în activitatea de conducere a autovehiculelor, tractoarelor agricole sau forestiere ori tramvaielor. Evaluarea psihologică este obligatorie în vederea obținerii certificatului de atestare profesională pentru conducătorii de autovehicule și de tramvaie stabiliți prin prezenta ordonanță de urgență.\n---\nAutovehiculele care efectuează transport rutier agabaritic, cele de însoțire a acestora, precum și cele care transportă mărfuri și/sau deșeuri periculoase trebuie să aibă montate sau să fie dotate cu echipamente specifice prevăzute de reglementările în vigoare, precum și semnalele speciale de avertizare cu lumină galbenă, prevăzute la art. 32 alin. (1) lit. c), iar conducătorii acestora trebuie să le mențină în funcțiune pe toată perioada deplasării pe drumul public.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e11ff",
+    "text": "Ce trebuie să folosiţi pentru imobilizarea fracturilor de la membrele superioare?",
+    "optiuni": {
+      "A": "atele improvizate;",
+      "B": "o eşarfă simplă;",
+      "C": "în acest caz nu se intervine."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "1) Mijloacele de avertizare sonoră trebuie folosite de la o distanță de cel puțin 25 m față de cei cărora li se adresează, pe o durată de timp care să asigure perceperea semnalului și fără să îi determine pe aceștia la manevre ce pot pune în pericol siguranța circulației.\n(2) Semnalizarea cu mijloacele de avertizare sonoră nu poate fi folosită în zonele de acțiune a indicatorului \"Claxonarea interzisă\".\n(3) Se exceptează de la prevederile alin. (2):\na) conducătorii autovehiculelor cu regim de circulație prioritară când se deplasează în acțiuni de intervenții sau în misiuni care au caracter de urgență;\nb) conducătorii autovehiculelor care folosesc acest semnal pentru evitarea unui pericol iminent.\n---\nDispozitivul de fixare în scaun pentru copii trebuie să fie omologat și adecvat pentru caracteristicile fizice ale copiilor, conform anexei nr. 1F.\n---\nSemnalul de liberă trecere pentru tramvaie este dat de combinația luminoasă a lămpii inferioare cu una dintre cele trei lămpi situate la partea superioară a casetei.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1200",
+    "text": "În cazul unui accidentat cu hemoragie masivă, acţionaţi astfel:",
+    "optiuni": {
+      "A": "aşezaţi persoana pe abdomen şi îi daţi să bea cât mai multe lichide;",
+      "B": "aşezaţi persoana pe un scaun în poziţia şezând şi vorbiţi cu ea;",
+      "C": "aşezaţi persoana pe spate, cu picioarele ridicate, imobilizaţi eventualele fracturi, nu îi daţi să bea lichide şi o protejaţi contra frigului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1201",
+    "text": "Cum se recunoaşte o fractură deschisă la membre?",
+    "optiuni": {
+      "A": "zona fracturată este tumefiată;",
+      "B": "pielea este străpunsă în zona fracturii;",
+      "C": "accidentatul nu se poate mişca."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1202",
+    "text": "Persoanele accidentate, cu arsuri multiple pe corp şi membre, trebuie să fie:",
+    "optiuni": {
+      "A": "dezbrăcate rapid de haine, după stingerea flăcărilor;",
+      "B": "transportate urgent la o unitate medicală;",
+      "C": "spălate, bandajate şi apoi transportate la cea mai apropiată unitate sanitară."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1203",
+    "text": "În cazul imobilizării unei fracturi, atela trebuie să fie:",
+    "optiuni": {
+      "A": "rigidă şi suficient de lungă pentru a cuprinde capetele fracturii;",
+      "B": "moale;",
+      "C": "nu contează."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În cazul imobilizării involuntare a autovehiculului, tractorului agricol sau forestier în pantă sau în rampă, pe lângă obligațiile prevăzute la alin. (1) conducătorul trebuie să bracheze roțile directoare.\n---\nImobilizarea unui vehicul se dispune și în cazul în care conducătorul acestuia ori unul dintre pasageri săvârșește o faptă de natură penală sau este urmărit pentru săvârșirea unei infracțiuni.\n---\nÎn cazul imobilizării unui vehicul pe calea ferată, conducătorul acestuia este obligat să scoată imediat pasagerii din vehicul și să elibereze platforma căii ferate, iar când nu este posibil, să semnalizeze prezența vehiculului cu orice mijloc adecvat.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1204",
+    "text": "Stopul respirator, în cazul persoanelor accidentate, poate fi determinat de:",
+    "optiuni": {
+      "A": "multiple fracturi ale membrelor;",
+      "B": "pierderea intensă de sânge;",
+      "C": "astuparea căilor respiratorii."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1205",
+    "text": "Ce simptome ale stopului cardiac prezintă o persoană, victimă a unui accident de circulaţie?",
+    "optiuni": {
+      "A": "leziuni profunde în zona toracelui;",
+      "B": "lipsa pulsului;",
+      "C": "apariţia hemoragiei pe gură."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1206",
+    "text": "Într-un pansament, pe plagă, se aplică:",
+    "optiuni": {
+      "A": "o compresă de vată sterilă;",
+      "B": "o compresă din tifon steril;",
+      "C": "o compresă oarecare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1207",
+    "text": "Imobilizarea unui braţ fracturat se face:",
+    "optiuni": {
+      "A": "în dreptul osului fracturat;",
+      "B": "cuprinzând osul fracturat şi articulaţia superioară;",
+      "C": "cuprinzând osul fracturat şi cele două articulaţii, respectiv cea superioară şi inferioară."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Imobilizarea unui vehicul se dispune și în cazul în care conducătorul acestuia ori unul dintre pasageri săvârșește o faptă de natură penală sau este urmărit pentru săvârșirea unei infracțiuni.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1208",
+    "text": "Ce trebuie să conţină biletul care se prinde lângă garoul aplicat unei persoane rănite?",
+    "optiuni": {
+      "A": "datele de stare civilă ale persoanei;",
+      "B": "poziţia în care a fost găsită victima;",
+      "C": "ora şi minutul aplicării garoului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care circulă pe banda situată lângă marginea părții carosabile trebuie să acorde prioritate de trecere vehiculelor care efectuează transport public de persoane numai atunci când conducătorii acestora semnalizează intenția de a reintra în trafic din stațiile prevăzute cu alveole și s-au asigurat că prin manevra lor nu pun în pericol siguranța celorlalți participanți la trafic.\n---\nVehiculele grele, lente sau cu mase ori gabarite depășite sau cele care se deplasează cu viteză redusă trebuie conduse numai pe banda de lângă acostament sau bordura, dacă în sensul de mers nu este amenajată o bandă destinată acestora.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1209",
+    "text": "Cum trebuie aşezată într-un mijloc de transport o persoană rănită, care prezintă leziuni ale coloanei vertebrale?",
+    "optiuni": {
+      "A": "în poziţie şezândă;",
+      "B": "orizontal, cu faţa în sus;",
+      "C": "persoana nu trebuie mişcată până la sosirea ambulanţei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e120a",
+    "text": "O hemoragie produsă la unul dintre membrele unei persoane rănite se va opri prin:",
+    "optiuni": {
+      "A": "dezinfectarea rănii, pansarea şi aplicarea atelelor;",
+      "B": "ridicarea membrului accidentat în poziţie verticală;",
+      "C": "acţiunea compresivă asupra vasului lezat sau aplicarea garoului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Dacă, urmare a faptei prevăzute în alin. (1), s-a produs un accident de circulație care a avut ca urmare vătămarea integrității corporale sau a sănătății uneia sau mai multor persoane, pedeapsa este închisoarea de la unu la 5 ani, iar dacă s-a produs moartea uneia sau mai multor persoane, pedeapsa este închisoarea de la 3 la 10 ani.\n---\nPermisul de conducere se reține de către polițistul rutier dacă un conducător auto este implicat într-un accident soldat cu decesul sau rănirea unei persoane și a încălcat o regulă de circulație prevăzută la art. 102 alin. (3) lit. a) sau la art. 102 alin. (4), eliberându-se o dovadă înlocuitoare fără drept de circulație.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e120b",
+    "text": "Victima care a pierdut mult sânge trebuie să fie aşezată:",
+    "optiuni": {
+      "A": "cu faţa în sus;",
+      "B": "cu faţa în jos;",
+      "C": "cu picioarele situate mai sus decât nivelul corpului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e120c",
+    "text": "Ce trebuie să faceţi pentru evitarea complicaţiilor în cazul unei fracturi?",
+    "optiuni": {
+      "A": "să imobilizaţi zona fracturată;",
+      "B": "să sterilizaţi şi să pansaţi zona fracturată;",
+      "C": "să aplicaţi un garou de cauciuc deasupra fracturii."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În cazul în care tramvaiul este oprit într-o stație fără refugiu pentru pietoni, vehiculele trebuie să oprească în ordinea sosirii, în spatele acestuia, și să își reia deplasarea numai după ce ușile tramvaiului au fost închise și s-au asigurat că nu pun în pericol siguranța pietonilor angajați în traversarea drumului public.\n---\nÎn cazul intersecțiilor cu sens giratoriu, conducătorii de vehicule trebuie să respecte regulile privind circulația pe benzi, având obligația să semnalizeze din timp părăsirea intersecției și să se asigure că o pot face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nVehiculele trebuie să oprească, în ordinea sosirii, în locul în care există vizibilitate maximă asupra căii ferate fără a trece de indicatoarele prevăzute la alin. (1) lit. c) sau, după caz, înaintea marcajului pentru oprire ori înaintea barierelor sau semibarierelor, când acestea sunt închise, în curs de coborâre sau de ridicare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e120d",
+    "text": "Gravitatea unei hemoragii se apreciază în funcţie de:",
+    "optiuni": {
+      "A": "cantitatea sângelui pierdut;",
+      "B": "culoarea sângelui scurs;",
+      "C": "fluiditatea sângelui scurs."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Contravențiilor prevăzute în prezenta ordonanță de urgență li se stabilesc clase de sancțiuni cărora le corespunde un număr de puncte-amendă, în funcție de gravitatea faptelor și de pericolul social pe care acestea îl prezintă.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e120e",
+    "text": "Bandajele se folosesc:",
+    "optiuni": {
+      "A": "pentru susţinerea părţilor lezate;",
+      "B": "pentru acoperirea şi pentru susţinerea rănilor, precum şi pentru oprirea hemoragiilor;",
+      "C": "pentru imobilizarea fracturilor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Linia continuă se folosește în următoarele situații:\na) linia continuă simplă, pentru separarea sensurilor de circulație, a benzilor de același sens la apropierea de intersecții și în zone periculoase;\nb) linia continuă dublă, pentru separarea sensurilor de circulație pe drumuri cu minimum două benzi pe fiecare sens, precum și la drumuri cu o bandă pe sens sau în alte puncte stabilite de administratorul drumului respectiv, cu avizul poliției rutiere.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e120f",
+    "text": "Imobilizarea unei fracturi fără atele se face cu:",
+    "optiuni": {
+      "A": "o folie de material plastic;",
+      "B": "eşarfe şi triunghiuri de pânză;",
+      "C": "carton rigid."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1210",
+    "text": "În cazul unui accident cu victime şi cu deformarea accentuată a caroseriei, procedaţi la:",
+    "optiuni": {
+      "A": "victimele conştiente sunt sfătuite să nu se mişte, iar degajarea acestora trebuie să se realizeze cât mai repede şi numai de către echipaje specializate;",
+      "B": "degajarea victimelor trebuie să se realizeze cât mai repede, prin orice mijloace;",
+      "C": "se administrează calmante victimelor care sunt conştiente."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Orice persoană care este implicată sau are cunoștință de producerea unui accident de circulație în urma căruia a rezultat decesul sau rănirea uneia sau a mai multor persoane, precum și în situația în care un eveniment este implicat un vehicul care transportă mărfuri periculoase este obligată să anunțe de îndată poliția și să apeleze numărul național unic pentru apeluri de urgență 112.\n---\nConducătorul unui vehicul implicat într-un accident de circulație în urma căruia a rezultat decesul sau rănirea unei persoane este obligat să ia măsuri de anunțare imediată a poliției, să nu modifice sau să șteargă urmele accidentului și să nu părăsească locul faptei.\n---\nPietonii surprinși și accidentați ca urmare a traversării prin locuri nepermise, la culoarea roșie a semaforului destinat acestora, sau a nerespectării altor obligații stabilite de normele rutiere poartă întreaga răspundere a accidentării lor, în condițiile în care conducătorul vehiculului respectiv a respectat prevederile legale privind circulația prin acel sector.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1211",
+    "text": "O funcţie a bandajului este:",
+    "optiuni": {
+      "A": "de a opri hemoragia;",
+      "B": "de a preveni murdărirea hainelor;",
+      "C": "de a acoperi aspectul neplăcut al rănii."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1212",
+    "text": "Resuscitarea cardio-respiratorie trebuie efectuată:",
+    "optiuni": {
+      "A": "oricărui accidentat;",
+      "B": "accidentaţilor aflaţi în stare de inconştienţă, care nu respiră şi nu au puls;",
+      "C": "numai accidentaţilor care au suferit fracturi uşoare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1213",
+    "text": "Cum procedaţi în situaţia în care, după resuscitarea cardio-respiratorie, accidentatul îşi recapătă pulsul?",
+    "optiuni": {
+      "A": "încetaţi compresiile exterioare ale pieptului;",
+      "B": "continuaţi compresiile exterioare ale pieptului;",
+      "C": "aplicaţi un bandaj toracic."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1214",
+    "text": "În cazul unui accidentat care nu respiră, pulsul este verificat:",
+    "optiuni": {
+      "A": "sub mandibulă",
+      "B": "lângă ureche",
+      "C": "pe partea laterală a epiglotei (Mărul lui Adam), în scobitura dintre trahee şi muşchii gâtului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Orice persoană care este implicată sau are cunoștință de producerea unui accident de circulație în urma căruia a rezultat decesul sau rănirea uneia sau a mai multor persoane, precum și în situația în care un eveniment este implicat un vehicul care transportă mărfuri periculoase este obligată să anunțe de îndată poliția și să apeleze numărul național unic pentru apeluri de urgență 112.\n---\nConducătorul unui vehicul implicat într-un accident de circulație în urma căruia a rezultat decesul sau rănirea unei persoane este obligat să ia măsuri de anunțare imediată a poliției, să nu modifice sau să șteargă urmele accidentului și să nu părăsească locul faptei.\n---\nImobilizarea unui vehicul se dispune și în cazul în care conducătorul acestuia ori unul dintre pasageri săvârșește o faptă de natură penală sau este urmărit pentru săvârșirea unei infracțiuni.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1215",
+    "text": "Semnele unei fracturi sunt:",
+    "optiuni": {
+      "A": "durere în zona afectată;",
+      "B": "durere şi poziţie nefirească;",
+      "C": "temperatură mărită şi transpiraţie abundentă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1216",
+    "text": "Transportarea victimelor la spital se poate realiza cu:",
+    "optiuni": {
+      "A": "o ambulanţă special dotată în acest sens;",
+      "B": "o ambulanţă însoţită de un medic;",
+      "C": "vehiculul care a provocat accidentul, dacă starea victimei permite acest lucru."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "În intersecții dirijarea circulației tramvaielor se poate realiza și prin semafoare având semnale luminoase de culoare albă, corelate cu semnalele luminoase pentru dirijarea circulației celorlalte vehicule.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1217",
+    "text": "Căile respiratorii pot fi astupate prin:",
+    "optiuni": {
+      "A": "aşezarea pe spate a victimei;",
+      "B": "aşezarea pe o parte a victimei;",
+      "C": "intrarea unor corpi străini pe căile respiratorii."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1218",
+    "text": "În cazul persoanelor accidentate, care prezintă fracturi de coloană, este recomandabil să se foloseascã:",
+    "optiuni": {
+      "A": "orice mijloc de transport, dacă se deplasează în direcţia unei unităţi sanitare;",
+      "B": "mijloacele de transport cu platformă, respectiv furgonete, camioane, dacă ambulanţa nu se poate deplasa la locul accidentului;",
+      "C": "autoturismele, întrucât asigură confort şi rapiditate în deplasare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Certificatul de înmatriculare se reține în cazul în care vehiculul prezintă defecțiuni grave sau abateri tehnice: lipsa ITP, transport neconform de produse periculoase, deficiențe la lumini, frâne, direcție, anvelope, emisii de zgomot sau noxe, cuplaje neconforme, lipsa echipării cu anvelope de iarnă, accesorii care reduc vizibilitatea ori alte scurgeri de substanțe periculoase. De asemenea, se reține dacă există reclame sau folii care afectează citirea numerelor sau iluminarea.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1219",
+    "text": "La un accidentat cu corpi străini în interiorul plăgilor, procedura corectă este:",
+    "optiuni": {
+      "A": "extragerea corpilor străini din plăgi;",
+      "B": "spălarea corpilor străini cu apă curată;",
+      "C": "corpii străini nu se extrag din plăgi, întrucât se pot produce complicaţii."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e121a",
+    "text": "Oprirea hemoragiei se face prin legarea strânsă a braţului:",
+    "optiuni": {
+      "A": "în dreptul rănii;",
+      "B": "deasupra rănii;",
+      "C": "sub rană."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În afara localităților oprirea sau staționarea voluntară a vehiculelor se face în afara părții carosabile, iar atunci când nu este posibil, cât mai aproape de marginea din dreapta a drumului, paralel cu axa acestuia.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e121b",
+    "text": "Accidentatul cu hemoragie externă trebuie aşezat:",
+    "optiuni": {
+      "A": "în aşa fel încât rana care sângerează să fie mai jos decât planul corpului;",
+      "B": "nu are importanţă dacă rana este situată mai sus sau mai jos decât planul corpului;",
+      "C": "în aşa fel încât rana sângerândă să fie mai sus decât nivelul corpului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e121c",
+    "text": "Atunci când victimei unui accident de circulaţie i s-au oprit bătăile inimii (stop cardiac), masajul cardiac se execută:",
+    "optiuni": {
+      "A": "prin apăsarea ritmică cu podul palmelor suprapuse a toracelui victimei, în dreptul inimii;",
+      "B": "prin lovirea cu palmele a obrajilor victimei;",
+      "C": "prin încrucişarea ritmică a braţelor victimei simultan cu respiraţia artificială."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e121d",
+    "text": "Substanţele antiseptice se folosesc pentru:",
+    "optiuni": {
+      "A": "dezinfectarea rănilor;",
+      "B": "calmarea durerilor;",
+      "C": "oprirea hemoragiei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e121e",
+    "text": "Cum procedaţi în cazul unui accidentat care are puls, dar nu respiră?",
+    "optiuni": {
+      "A": "îi faceţi o resuscitare cardio-respiratorie;",
+      "B": "îi daţi câteva palme peste faţă, până îşi revine;",
+      "C": "începeţi respiraţia artificială."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e121f",
+    "text": "Pentru a acorda primul ajutor în caz de fracturi, se fac următoarele manevre:",
+    "optiuni": {
+      "A": "se împing fragmentele osoase care au perforat pielea;",
+      "B": "se fixează focarul de fractură, pentru a preveni mişcarea fragmentelor osoase în timpul imobilizării membrului, în atele care să fie destul de lungi pentru a prinde articulaţia de deasupra şi cea de dedesubtul focarului de fractură;",
+      "C": "se imobilizează fractura cu feşe sterile."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1220",
+    "text": "Când gura unui rănit rămâne încleştată, respiraţia artificială se poate face:",
+    "optiuni": {
+      "A": "prin gura închisă a victimei;",
+      "B": "prin nările victimei;",
+      "C": "în acest caz nu se mai face respiraţie artificială."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1221",
+    "text": "Ce măsuri se iau în cazul accidentării foarte grave a unei persoane, într-un accident de circulaţie?",
+    "optiuni": {
+      "A": "transportul imediat la cea mai apropiată unitate sanitară, cu orice mijloc de transport posibil;",
+      "B": "transportul imediat până la prima localitate şi anunţarea ambulanţei;",
+      "C": "acordarea primului ajutor, până la sosirea ambulanţei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul unui vehicul implicat într-un accident de circulație în urma căruia a rezultat decesul sau rănirea unei persoane este obligat să ia măsuri de anunțare imediată a poliției, să nu modifice sau să șteargă urmele accidentului și să nu părăsească locul faptei.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1222",
+    "text": "Ce trebuie să aveţi în vedere înaintea transportării unei victime la spital?",
+    "optiuni": {
+      "A": "ca funcţia respiratorie şi funcţia circulatorie să fie asigurate;",
+      "B": "ca punctul sanitar către care vă îndreptaţi să nu fie la o distanţă mai mare de 50 km;",
+      "C": "ca autovehiculul cu care va fi transportată victima să asigure confortul necesar."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1223",
+    "text": "În cazul plăgilor însoţite de hemoragii arteriale, persoanelor rănite trebuie să li se aplice un garou de cauciuc:",
+    "optiuni": {
+      "A": "deasupra plăgii;",
+      "B": "sub plagă;",
+      "C": "peste plagă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1224",
+    "text": "Cum se procedează cu accidentatul readus la viaţă prin resuscitare cardio-respiratorie?",
+    "optiuni": {
+      "A": "se va transporta la domiciliu sau la locul de muncă;",
+      "B": "se va transporta întotdeauna la o unitate medicală specializată;",
+      "C": "se va aştepta sosirea poliţiei rutiere."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1225",
+    "text": "Ce tip de hemoragie este mai periculoasă?",
+    "optiuni": {
+      "A": "cea care determină o sângerare lentă şi continuă;",
+      "B": "cea care determină o pierdere rapidă a sângelui;",
+      "C": "orice mică sângerare vizibilă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1226",
+    "text": "Imobilizarea membrului inferior fracturat al unei victime într-un accident de circulaţie se face:",
+    "optiuni": {
+      "A": "prin bandajarea strânsă a locului fracturii;",
+      "B": "prin folosirea atelelor;",
+      "C": "prin folosirea pansamentului compresiv."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1227",
+    "text": "În rănile cu hemoragie se va avea în vedere, în faza iniţială:",
+    "optiuni": {
+      "A": "curăţarea şi pansarea rănii;",
+      "B": "pansarea rănii;",
+      "C": "oprirea hemoragiei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1228",
+    "text": "Cum se imobilizează fractura labei piciorului?",
+    "optiuni": {
+      "A": "se suspendă piciorul într-o chingă rigidă;",
+      "B": "cu atele sau cu un bandaj gros, de la degete până la genunchi;",
+      "C": "cu o faşă de la gleznă până la şold."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1229",
+    "text": "Cum se acordă primul ajutor în cazul plăgilor tăiate?",
+    "optiuni": {
+      "A": "acoperiţi rana şi opriţi sângerarea, apoi transportaţi rănitul la medic sau la spital;",
+      "B": "opriţi sângerarea prin coaserea plăgii;",
+      "C": "transportaţi rănitul la medic, fără să faceţi nimic altceva."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e122a",
+    "text": "În cazul unei entorse a gleznei, procedaţi astfel:",
+    "optiuni": {
+      "A": "interziceţi victimei să se sprijine pe glezna respectivă;",
+      "B": "ridicaţi piciorul afectat şi aplicaţi un bandaj elastic strâns;",
+      "C": "nu interveniţi şi aşteptaţi ca victima să fie transportată la spital."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e122b",
+    "text": "La imobilizarea cu atele, în cazul fracturilor, se va ţine cont ca:",
+    "optiuni": {
+      "A": "atela să nu fie rigidă;",
+      "B": "nu sunt necesare criterii pentru imobilizarea fracturilor cu atele;",
+      "C": "atela să fie suficient de lungă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Imobilizarea unui vehicul se dispune și în cazul în care conducătorul acestuia ori unul dintre pasageri săvârșește o faptă de natură penală sau este urmărit pentru săvârșirea unei infracțiuni.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e122c",
+    "text": "În cazul în care există mai multe persoane accidentate este important să se stabilească priorităţile?",
+    "optiuni": {
+      "A": "da, primul ajutor se acordă cu prioritate persoanei celei mai grav accidentate;",
+      "B": "nu, nu are importanţă ordinea în care se acordă primul ajutor;",
+      "C": "se începe acordarea primului ajutor de la victima cea mai apropiată de salvator."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Orice persoană care este implicată sau are cunoștință de producerea unui accident de circulație în urma căruia a rezultat decesul sau rănirea uneia sau a mai multor persoane, precum și în situația în care un eveniment este implicat un vehicul care transportă mărfuri periculoase este obligată să anunțe de îndată poliția și să apeleze numărul național unic pentru apeluri de urgență 112.\n---\nConducătorii de vehicule sau de animale implicați în accidente de circulație din care a rezultat moartea sau vătămarea integrității corporale ori a sănătății uneia sau mai multor persoane sunt obligați să se supună recoltării mostrelor biologice în vederea stabilirii alcoolemiei sau, după caz, a consumului de substanțe psihoactive.\n---\nCertificatul de înmatriculare se reține în cazul în care vehiculul prezintă defecțiuni grave sau abateri tehnice: lipsa ITP, transport neconform de produse periculoase, deficiențe la lumini, frâne, direcție, anvelope, emisii de zgomot sau noxe, cuplaje neconforme, lipsa echipării cu anvelope de iarnă, accesorii care reduc vizibilitatea ori alte scurgeri de substanțe periculoase. De asemenea, se reține dacă există reclame sau folii care afectează citirea numerelor sau iluminarea.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e122d",
+    "text": "Cum trebuie scoase dintr-un autovehicul persoanele rănite?",
+    "optiuni": {
+      "A": "prin ridicare;",
+      "B": "prin tragere;",
+      "C": "prin împingere."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e122e",
+    "text": "În cazul unui accident de circulaţie cu victime şi cu deformarea accentuată a caroseriei sau a blocării uşilor, ocupanţii vehiculelor pot fi imobilizaţi. Cum se acţionează în astfel de situaţii?",
+    "optiuni": {
+      "A": "se extrag victimele rapid şi ferm;",
+      "B": "se apelează la serviciile specializate ale unităţilor de pompieri, care intervin cu utilaje de descarcerare;",
+      "C": "se cere ajutorul celor din jur şi se scot rapid victimele dintre fiarele contorsionate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul unui vehicul implicat într-un accident de circulație în urma căruia a rezultat decesul sau rănirea unei persoane este obligat să ia măsuri de anunțare imediată a poliției, să nu modifice sau să șteargă urmele accidentului și să nu părăsească locul faptei.\n---\nDacă, urmare a faptei prevăzute în alin. (1), s-a produs un accident de circulație care a avut ca urmare vătămarea integrității corporale sau a sănătății uneia sau mai multor persoane, pedeapsa este închisoarea de la unu la 5 ani, iar dacă s-a produs moartea uneia sau mai multor persoane, pedeapsa este închisoarea de la 3 la 10 ani.\n---\nOrice persoană care este implicată sau are cunoștință de producerea unui accident de circulație în urma căruia a rezultat decesul sau rănirea uneia sau a mai multor persoane, precum și în situația în care un eveniment este implicat un vehicul care transportă mărfuri periculoase este obligată să anunțe de îndată poliția și să apeleze numărul național unic pentru apeluri de urgență 112.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e122f",
+    "text": "Trusa pentru primul ajutor medical trebuie să conţină, în principal:",
+    "optiuni": {
+      "A": "foarfece cu vârfuri boante, dispozitiv intermediar pentru respiraţie „gură la gură”, comprese sterile, feşe, pansamente, mănuşi de unică folosinţă din latex, folie de supravieţuire izotermă, broşură de prim ajutor autorizată de Ministerul Sănătăţii Publice",
+      "B": "role de leucoplast, plasturi, alcool medicinal, dispozitive pentru suspendarea membrelor accidentate şi adresele personalului medical care sunt de serviciu la camerele de gardă",
+      "C": "butelie cu oxigen tehnic, un furtun de legătură şi un manometru care să reziste la o presiune de cel puţin 6 atmosfere, o mască din pansament steril şi dispozitive pentru curăţarea rănilor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Pentru a fi conduse pe drumurile publice, autovehiculele, cu excepția celor din categoriile AM, A1, A2 și A, tractoarele agricole sau forestiere și tramvaiele trebuie să fie dotate cu trusă medicală de prim ajutor, două triunghiuri reflectorizante și un stingător de incendiu, omologate.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1230",
+    "text": "Ce funcţii poate avea un bandaj de tifon aplicat pe o rană deschisă?",
+    "optiuni": {
+      "A": "protejează împotriva infectării rănii",
+      "B": "oprește hemoragia",
+      "C": "scade tensiunea arterială."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1231",
+    "text": "Până la transportarea victimei la spital, poziţia de aşteptare poate fi:",
+    "optiuni": {
+      "A": "o poziţie cât mai comodă;",
+      "B": "o poziţie care să permită o bună respiraţie;",
+      "C": "o poziţie comodă pentru transport."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1232",
+    "text": "Sunteți obligat să aveți în autovehicul / tractor agricol sau forestier:",
+    "optiuni": {
+      "A": "numai trusa medicală de prim ajutor;",
+      "B": "numai trusa medicală de prim ajutor și triunghiuri reflectorizante;",
+      "C": "o trusă medicală de prim ajutor, două triunghiuri reflectorizante și un stingător de incendiu omologat."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat:\n1. să aibă asupra sa actul de identitate, permisul de conducere, certificatul de înmatriculare sau de înregistrare și, după caz, atestatul profesional, precum și celelalte documente prevăzute de legislația în vigoare;\n3. să verifice funcționarea sistemului de lumini și de semnalizare, a instalației de climatizare, să mențină permanent curate parbrizul, luneta și geamurile laterale ale autovehiculului, tractorului agricol sau forestier, precum și plăcuțele cu numărul de înmatriculare sau înregistrare ale autovehiculului, tractorului agricol sau forestier și remorcii.\n---\nConducătorii autovehiculelor, tractoarelor agricole sau forestiere imobilizate pe drumurile publice, care se îndepărtează de acestea, sunt obligați să acționeze frâna de ajutor, să oprească funcționarea motorului și să cupleze într-o treaptă de viteză inferioară sau în cea de parcare dacă autovehiculul, tractorul agricol sau forestier are transmisie automată.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat: a. să permită controlul stării tehnice a vehiculului, precum și al bunurilor transportate, în condițiile legii.\n---\nÎn cazul imobilizării involuntare a autovehiculului, tractorului agricol sau forestier în pasaje subterane sau în tuneluri, conducătorul acestuia este obligat să oprească funcționarea motorului.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat:\n1. să circule numai pe sectoarele de drum pe care îi este permis accesul și să respecte normele referitoare la masele totale maxime autorizate și admise și/sau dimensiunile maxime admise de autoritatea competentă pentru autovehicule, tractoarele agricole sau forestiere conduse.\n---\nConducătorul de autovehicul, tractor agricol sau forestier ori tramvai este obligat să aplice pe parbrizul și pe luneta autovehiculului semnul distinctiv stabilit pentru conducătorii de autovehicule începători, dacă are o vechime mai mică de un an de la obținerea permisului de conducere.\n---\nDacă un autovehicul, tractor agricol sau forestier sau o remorcă a rămas în pană pe partea carosabilă a drumului și nu poate fi deplasat în afara acesteia, conducătorul vehiculului este obligat să pună în funcțiune luminile de avarie și să instaleze triunghiurile reflectorizante.\n---\nÎn cazul imobilizării involuntare a autovehiculului, tractorului agricol sau forestier în pantă sau în rampă, pe lângă obligațiile prevăzute la alin. (1) conducătorul trebuie să bracheze roțile directoare.\n---\nSe interzice montarea la autovehicul, tractor agricol sau forestier, tramvai ori remorcă a luminilor de altă culoare sau intensitate, a altor lumini, dispozitive ori accesorii de avertizare decât cele omologate.\n---\nÎn cazul rămânerii în pană a unui autovehicul, tractor agricol sau forestier ori a remorcii acestuia, conducătorul ansamblului este obligat să îl scoată imediat în afara părții carosabile sau, dacă nu este posibil, să îl deplaseze lângă bordura ori acostament, așezându-l paralel cu axa drumului și luând măsuri pentru remedierea defecțiunilor sau, după caz, de remorcare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1233",
+    "text": "Perna de aer (AIRBAG-ul) asigură:",
+    "optiuni": {
+      "A": "amortizarea rapidă a trepidaţiilor datorate denivelărilor existente pe drumul public;",
+      "B": "protecţia suplimentară a persoanelor în cazul unui impact puternic al autovehiculului;",
+      "C": "posibilitatea conducerii relaxate, cu capul sprijinit de aceasta."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1234",
+    "text": "Care dintre variantele de mai jos reprezintă calităţi ale unui ulei de motor?",
+    "optiuni": {
+      "A": "culoarea;",
+      "B": "vâscozitatea;",
+      "C": "punctul de congelare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1235",
+    "text": "Uzura pneurilor creşte foarte mult:",
+    "optiuni": {
+      "A": "la demarări şi frânări intense, consecinţe ale unui stil agresiv de conducere;",
+      "B": "atunci când se conduce preventiv-defensiv;",
+      "C": "la circulaţia pe timp nefavorabil."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1236",
+    "text": "Utilizarea frânei de serviciu este semnalizată cu:",
+    "optiuni": {
+      "A": "luminile de culoare portocalie;",
+      "B": "luminile de avarie din față și din spate;",
+      "C": "luminile roșii din spate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1237",
+    "text": "Ce deprindere greşită a conducătorului auto determină frecvent defectarea ambreiajului?",
+    "optiuni": {
+      "A": "coborârea pantelor cu motorul oprit sau aducerea schimbătorului de viteze în punctul mort;",
+      "B": "rularea cu jocuri mari la pedala de ambreiaj sau la mecanismul de direcţie;",
+      "C": "aşteptarea la semafor având pedala de ambreiaj apăsată."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1238",
+    "text": "Ce factor influenţează cel mai mult durata de serviciu a pneurilor?",
+    "optiuni": {
+      "A": "presiunea;",
+      "B": "temperatura mediului ambiant;",
+      "C": "starea tehnică a frânei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1239",
+    "text": "Neeliberarea completă a frânei de staţionare determină:",
+    "optiuni": {
+      "A": "zgomote în zona manetei frânei de mână;",
+      "B": "un consum suplimentar de carburant;",
+      "C": "încălzirea excesivă a butucilor roţilor din spate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e123a",
+    "text": "Cea mai frecventă defecţiune a instalaţiei de răcire a motorului este:",
+    "optiuni": {
+      "A": "slăbirea sau ruperea curelei de antrenare a ventilatorului şi a pompei de apă;",
+      "B": "înfundarea prizei de aer care alimentează ventilatorul;",
+      "C": "patinarea ambreiajului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e123b",
+    "text": "Prezenţa calaminei pe suprafaţa bujiilor şi fumul albăstrui al eşapamentului indică:",
+    "optiuni": {
+      "A": "mecanismul motor (grup piston-cilindru) este uzat;",
+      "B": "rularea frecventă cu o viteză inferioară limitei legale;",
+      "C": "folosirea unor bujii necorespunzătoare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Prezența calaminei pe suprafața bujiilor și fumul de culoare albăstruie emis de eșapament indică uzura grupului piston-cilindru al motorului. Aceste semne sunt cauzate de pătrunderea uleiului în camera de ardere, fenomen frecvent întâlnit atunci când segmenții sau garniturile pistonului sunt uzați. Fumul albastru nu este legat de viteza de rulare sau de folosirea bujiilor necorespunzătoare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e123c",
+    "text": "La folosirea pe termen lung a soluţiilor antigel, trebuie aplicate următoarele reguli:",
+    "optiuni": {
+      "A": "se va urmări întotdeauna nivelul optim al lichidului din vasul de expansiune;",
+      "B": "după cel mult 3 ani soluţia antigel va fi complet înlocuită, chiar dacă densitatea acesteia corespunde cerinţelor;",
+      "C": "se va urmări culoarea lichidului din vasul de expansiune."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e123d",
+    "text": "Cum puteţi folosi în condiţii optime capacitatea de frânare a motorului, atunci când coborâţi o pantă lungă şi înclinată?",
+    "optiuni": {
+      "A": "schimbaţi într-o treaptă superioară;",
+      "B": "schimbaţi la timp într-o treaptă inferioară;",
+      "C": "după schimbarea vitezei, aduceţi imediat maneta în „punctul mort“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e123e",
+    "text": "Temperatura lichidului de răcire care asigură performanţa maximă şi uzura minimă a motorului este cuprinsă în intervalul:",
+    "optiuni": {
+      "A": "100-120 grade C;",
+      "B": "60-70 grade C;",
+      "C": "90-95 grade C."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e123f",
+    "text": "La apariţia defecţiunilor tehnice ale mecanismului de direcţie se procedează astfel:",
+    "optiuni": {
+      "A": "se apelează la cunoştinţe care au mai întâlnit astfel de situaţii;",
+      "B": "se continuă deplasarea, întrucât defecţiunea se datorează stării drumului public;",
+      "C": "se apelează numai la atelierele specializate, care au personal calificat."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Certificatul de înmatriculare se reține în cazul în care vehiculul prezintă defecțiuni grave sau abateri tehnice: lipsa ITP, transport neconform de produse periculoase, deficiențe la lumini, frâne, direcție, anvelope, emisii de zgomot sau noxe, cuplaje neconforme, lipsa echipării cu anvelope de iarnă, accesorii care reduc vizibilitatea ori alte scurgeri de substanțe periculoase. De asemenea, se reține dacă există reclame sau folii care afectează citirea numerelor sau iluminarea.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1240",
+    "text": "Uzura prematură a pneurilor din faţă se datorează, în primul rând:",
+    "optiuni": {
+      "A": "dereglării geometriei direcţiei;",
+      "B": "circulaţiei frecvente cu viteză redusă;",
+      "C": "fenomenul este specific autovehiculelor care au tracţiunea pe puntea din spate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1241",
+    "text": "Când este indicat să verificați presiunea din anvelope?",
+    "optiuni": {
+      "A": "întotdeauna la 300 km;",
+      "B": "de regulă, înainte de a porni la drum;",
+      "C": "numai pe timp de iarnă, când anvelopele sunt reci."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Semnificația indicatoarelor de interzicere sau de restricție începe din dreptul acestora. În lipsa unui semnalizări care să precizeze lungimea sectorului pe care se aplică reglementarea ori a unui indicator care să anunțe sfârșitul interdicției sau al restricției, semnificația acestora indicatoare încetează în intersecția cea mai apropiată. Când indicatoarele de interzicere sau restricție sunt instalate împreună cu un indicator ce anunță intrarea într-o localitate, semnificația lor este valabilă pe drumul respectiv până la întâlnirea indicatorului \"ieșire din localitate\", cu excepția locurilor unde un alt indicator dispune altfel.\n---\nCând două vehicule urmează să se întâlnească într-o intersecție dirijată prin indicatoare, venind de pe două drumuri publice unde sunt instalate indicatoare cu aceeași semnificație, vehiculul care vine din dreapta are prioritate.\n---\nConducătorul de vehicul este obligat să oprească atunci când: a) barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare; b) semnalul cu lumini roșii și/sau semnalul sonor sunt în funcțiune; c) întâlnește indicatorul \"Trecerea la nivel cu calea ferată simplă, fără bariere\", \"Trecerea la nivel cu calea ferată dublă, fără bariere\" sau \"Oprire\".",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1242",
+    "text": "Cum trebuie să aveți reglat sistemul de lumini pentru circulația pe timp de noapte?",
+    "optiuni": {
+      "A": "astfel încât să vedeți și să fiți văzut, fără a-i stânjeni pe ceilalți participanți la trafic;",
+      "B": "să vedeți cât mai bine în față, indiferent dacă sunt deranjați ceilalți participanți la trafic cu care vă întersectați;",
+      "C": "să asigurați, cel puțin, funcționarea farului din partea dreaptă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În circulația pe drumurile publice mopedul trebuie să fie echipat cu: a) instalație de frânare eficace; b) sistem de avertizare sonoră; c) instalație de evacuare a gazelor de ardere care să respecte normele de poluare fonică și de protecție a mediului; d) lumină de culoare albă în față, respectiv lumină și dispozitiv reflectorizant de culoare roșie în spate; e) lumini de culoare galbenă pentru semnalizarea schimbării direcției de mers, în față și în spate; f) plăcuță cu numărul de înmatriculare, amplasată la 0,2 m deasupra pământului fără a obtura vizibilitatea sistemului de iluminare și semnalizare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1243",
+    "text": "Dacă efortul depus pentru acţionarea volanului este mai mare decât în mod obişnuit, trebuie să verificăm, în primul rând:",
+    "optiuni": {
+      "A": "starea de prindere a volanului pe axul său;",
+      "B": "presiunea în pneurile punţii din spate;",
+      "C": "presiunea în pneurile punţii din faţă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1244",
+    "text": "Circulaţia frecventă cu termostatul defect şi, implicit, cu o temperatură a lichidului de  răcire sub 60 grade C conduce la:",
+    "optiuni": {
+      "A": "creşterea consumului de combustibil;",
+      "B": "imposibilitatea încălzirii habitaclului;",
+      "C": "blocarea pompei de apă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1245",
+    "text": "Care este rolul uleiului pentru motor?",
+    "optiuni": {
+      "A": "asigură demontarea mai uşoară a pieselor motorului;",
+      "B": "reduce uzura motorului, prin crearea unui film rezistent de lubrifiant între suprafeţele pieselor aflate în mişcare;",
+      "C": "protejează motorul faţă de pătrunderea amestecului carburant în baia de ulei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Atestatul profesional este obligatoriu pentru conducătorul autovehiculului care efectuează transport de mărfuri periculoase, transport public de persoane, transport în cont propriu de persoane cu microbuze sau autobuze, precum și pentru autovehiculele de transport marfă cu masa maximă autorizată mai mare de 3,5 tone, care circulă în trafic intern și internațional.\n---\nCutia de viteze este un ansamblu de roți dințate care transformă forța și transmite mișcarea de rotație către diferite componente ale vehiculului. Ea are rolul de a asigura transmiterea puterii la roțile motrice prin schimbarea treptelor de viteză, permițând o turație optimă a motorului. De asemenea, permite mersul înapoi prin intercalarea unor roți dințate suplimentare, dar și staționarea motorului în funcțiune, când maneta de viteză este în poziția neutră ('punct mort').\n---\nRolul catalizatorului este de a asigura depoluarea atmosferică. Acesta arde gazele de evacuare rezultate din arderea combustibilului în motor, transformându-le în substanțe mai puțin poluante. Nu participă la arderea amestecului carburant în cilindri și nu filtrează carburantul. Scopul său principal este reducerea emisiilor poluante.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1246",
+    "text": "Schimbarea uleiului şi a elementului filtrant se face:",
+    "optiuni": {
+      "A": "conform periodicităţii stabilite de constructor;",
+      "B": "din 5 în 5 ani;",
+      "C": "din 3 în 3 ani."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1247",
+    "text": "Criteriul de alegere a benzinei pentru motoarele cu aprindere prin scânteie îl constituie:",
+    "optiuni": {
+      "A": "culoarea şi consistenţa;",
+      "B": "cifra octanică (CO);",
+      "C": "cifra cetanică (CC)."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1248",
+    "text": "Aprinderea luminii „martor“ de la bord, care semnalizează funcţionarea generatorului de curent, poate indica:",
+    "optiuni": {
+      "A": "griparea rotorului pompei de apă;",
+      "B": "ruperea curelei de antrenare a pompei de apă, a ventilatorului şi a alternatorului;",
+      "C": "scurgeri de electrolit din acumulatori."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1249",
+    "text": "Ce vă indică, de regulă, faptul că bateria de acumulatori este descărcată?",
+    "optiuni": {
+      "A": "la aprinderea farurilor, intensitatea luminoasă a acestora scade progresiv;",
+      "B": "acţionând claxonul, acesta emite un sunet slab, întrerupt;",
+      "C": "demontând bateria, constatăm că aceasta este mai uşoară decât de obicei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "Indicatoarele se instalează, de regulă, pe partea dreaptă a sensului de mers. În cazul în care condițiile locale împiedică observarea din timp a indicatoarelor de către conducătorii cărora li se adresează, ele se pot instala ori repeta pe partea stângă, în zona mediană a drumului, pe un refugiu ori spațiu interzis circulației vehiculelor, deasupra părții carosabile sau de cealaltă parte a intersecției, în loc vizibil pentru toți participanții la trafic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e124a",
+    "text": "Când măsuraţi presiunea din pneuri?",
+    "optiuni": {
+      "A": "înaintea plecării în cursă, când pneurile sunt reci;",
+      "B": "după parcurgerea a cel puţin 400-500 km, când pneurile sunt calde;",
+      "C": "doar atunci când observăm că autovehiculul este înclinat într-o parte."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Ridicarea vehiculului reprezintă măsura tehnico-administrativă pe care polițistul rutier o poate dispune în una dintre situațiile prevăzute la art. 143, când vehiculul staționează necorespunzător pe partea carosabilă.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e124b",
+    "text": "Care sunt factorii care fac ca motorul Diesel al unui autoturism să emită fum excesiv?",
+    "optiuni": {
+      "A": "lipsa combustibilului;",
+      "B": "buşonul rezervorului închis la maximum;",
+      "C": "defecţiuni la instalaţia de injecţie."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e124c",
+    "text": "Pentru întreţinerea sistemului de ungere, trebuie să efectuaţi:",
+    "optiuni": {
+      "A": "verificarea şi completarea nivelului uleiului din baie;",
+      "B": "înlocuirea uleiului după expirarea termenului de utilizare;",
+      "C": "desfundarea orificiilor de aerisire ale radiatorului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e124d",
+    "text": "Care sunt criteriile de apreciere a eficacităţii frânelor?",
+    "optiuni": {
+      "A": "spaţiul de frânare;",
+      "B": "forma pedalei;",
+      "C": "mărimea urmei de frânare imprimată pe carosabil."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e124e",
+    "text": "Cauzele ce pot determina creşterea nivelului de ulei în baia de ungere sunt:",
+    "optiuni": {
+      "A": "circulaţia frecventă pe drumuri neasfaltate;",
+      "B": "pătrunderea apei sau a combustibilului în baia de ulei;",
+      "C": "defectarea pompei de ulei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e124f",
+    "text": "Termostatul aparţine instalaţiei de:",
+    "optiuni": {
+      "A": "răcire;",
+      "B": "ungere;",
+      "C": "alimentare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1250",
+    "text": "Ce măsuri de precauţie trebuie să luaţi la utilizarea soluţiei antigel?",
+    "optiuni": {
+      "A": "nicio măsură, întrucât lichidul respectiv nu este nociv;",
+      "B": "se va evita contactul cu aceasta, deoarece este toxică;",
+      "C": "nu se va combina cu apa, deoarece degajă multă căldură."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1251",
+    "text": "Cursa liberă a pedalei de frână, mai mică decât cea obişnuită, indică:",
+    "optiuni": {
+      "A": "blocarea pedalei de frână;",
+      "B": "un joc insuficient între saboţi şi tamburi;",
+      "C": "pierderi de lichid pe la garnituri."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "O cursă liberă mai mică decât normalul la pedala de frână este cauzată, în general, de un joc insuficient între saboți și tamburi. Aceasta poate duce la frânare prematură sau permanentă și afectează siguranța rutieră.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1252",
+    "text": "Ce rol are cutia de viteze?",
+    "optiuni": {
+      "A": "asigură transmiterea puterii la roţi;",
+      "B": "permite mersul înapoi, fără a inversa sensul de rotaţie a motorului;",
+      "C": "permite staţionarea cu motorul în funcţiune."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B",
+      "C"
+    ],
+    "paragrafe_context": "Cutia de viteze este un ansamblu de roți dințate care transformă forța și transmite mișcarea de rotație către diferite componente ale vehiculului. Ea are rolul de a asigura transmiterea puterii la roțile motrice prin schimbarea treptelor de viteză, permițând o turație optimă a motorului. De asemenea, permite mersul înapoi prin intercalarea unor roți dințate suplimentare, dar și staționarea motorului în funcțiune, când maneta de viteză este în poziția neutră ('punct mort').",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1253",
+    "text": "Principala cauză a exploziei pneului în timpul mersului este:",
+    "optiuni": {
+      "A": "umflarea insuficientă;",
+      "B": "umflarea exagerată;",
+      "C": "uzura moderată."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1129.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Umflarea pneurilor peste presiunea recomandată poate duce la suprasolicitare în timpul rulării, crescând semnificativ riscul de explozie, mai ales la viteze mari sau temperaturi ridicate. Aceasta este considerată principala cauză a exploziei pneurilor în mers.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1254",
+    "text": "Fumul de culoare albastră emis de eşapament indică:",
+    "optiuni": {
+      "A": "un consum exagerat de ulei;",
+      "B": "înfundarea parţială a tobei de eşapament;",
+      "C": "folosirea unor benzine colorate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Prezența calaminei pe suprafața bujiilor și fumul de culoare albăstruie emis de eșapament indică uzura grupului piston-cilindru al motorului. Aceste semne sunt cauzate de pătrunderea uleiului în camera de ardere, fenomen frecvent întâlnit atunci când segmenții sau garniturile pistonului sunt uzați. Fumul albastru nu este legat de viteza de rulare sau de folosirea bujiilor necorespunzătoare.\n---\nFumul care iese din eșapament poate indica diverse probleme mecanice cu motorul. Fumul negru semnalează un consum bogat de combustibil, fumul alb indică defecțiuni de etanșare ale motorului, iar fumul albastru sugerează uzura garniturilor sau a pistoanelor.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1255",
+    "text": "Fumul de culoare neagră emis de eşapament indică:",
+    "optiuni": {
+      "A": "defectarea supapelor de evacuare;",
+      "B": "un consum exagerat de combustibil;",
+      "C": "un consum exagerat de ulei."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Fumul care iese din eșapament poate indica diverse probleme mecanice cu motorul. Fumul negru semnalează un consum bogat de combustibil, fumul alb indică defecțiuni de etanșare ale motorului, iar fumul albastru sugerează uzura garniturilor sau a pistoanelor.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1256",
+    "text": "Care sunt organele mobile ale mecanismului motor?",
+    "optiuni": {
+      "A": "blocul motor, cilindrii, chiulasa şi carterul;",
+      "B": "pistonul, segmenţii, bolţul, biela, arborele cotit şi volantul;",
+      "C": "roţile directoare şi cele tractoare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1257",
+    "text": "Intenționați să remorcați un autoturism cu servodirecție rămas în pană de motor. Ce trebuie să aveți în vedere?",
+    "optiuni": {
+      "A": "blocați direcția;",
+      "B": "manevrarea volanului solicită un efort fizic mai mare, de aceea veți efectua tractarea cu deosebită atenție;",
+      "C": "nu aveți voie să-l remorcați în această situație."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Dacă un autovehicul, tractor agricol sau forestier sau o remorcă a rămas în pană pe partea carosabilă a drumului și nu poate fi deplasat în afara acesteia, conducătorul vehiculului este obligat să pună în funcțiune luminile de avarie și să instaleze triunghiurile reflectorizante.\n---\nÎn cazul rămânerii în pană a unui autovehicul, tractor agricol sau forestier ori a remorcii acestuia, conducătorul ansamblului este obligat să îl scoată imediat în afara părții carosabile sau, dacă nu este posibil, să îl deplaseze lângă bordura ori acostament, așezându-l paralel cu axa drumului și luând măsuri pentru remedierea defecțiunilor sau, după caz, de remorcare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1258",
+    "text": "Cum trebuie să fie nivelul corect al uleiului din baie?",
+    "optiuni": {
+      "A": "cu aproximativ 1 cm sub reperul MIN",
+      "B": "între reperele MIN-MAX, însemnate pe joja de ulei",
+      "C": "cu aproximativ 1 cm deasupra reperului MAX"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Autovehiculul de însoțire trebuie să fie echipat cu un dispozitiv special de avertizare cu lumină galbenă și să aibă montată, în funcție de locul ocupat la însoțire, la partea stângă din față sau din spate, plăcuță de identificare reflectorizantă, având fondul alb și chenarul roșu.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1259",
+    "text": "Ce indică efortul mai mare depus la acţionarea pedalei de frână?",
+    "optiuni": {
+      "A": "griparea cilindrilor receptori şi a pistonaşelor",
+      "B": "ruperea cablului frânei de staţionare",
+      "C": "lipsa lichidului din instalaţia de frânare"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Un efort mare necesar la apăsarea pedalei de frână indică frecvent griparea cilindrilor receptori sau a pistonașelor. Acest lucru duce la o rezistență crescută în sistemul hidraulic și afectează eficiența frânării.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e125a",
+    "text": "Care este rolul termostatului?",
+    "optiuni": {
+      "A": "permite pornirea uşoară a motorului la temperaturi scăzute",
+      "B": "închide şi deschide circuitul lichidului de răcire la anumite temperaturi",
+      "C": "asigură răcirea lichidului de frânare"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e125b",
+    "text": "Ce rol are ambreiajul?",
+    "optiuni": {
+      "A": "comandă mărirea turaţiei motorului, în funcţie de sarcina transportată",
+      "B": "asigură viteze diferite ale roţilor motoare la parcurgerea curbelor",
+      "C": "realizează cuplarea progresivă şi decuplarea motorului de restul transmisiei"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e125c",
+    "text": "Ce determină încălzirea tamburilor roţii în timpul mersului?",
+    "optiuni": {
+      "A": "griparea cilindrilor receptori şi a pistoanelor",
+      "B": "lipsa lichidului din instalaţia de frânare",
+      "C": "ruperea cablului frânei de staţionare"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Încărcătura care constă în materiale sau produse ce se pot împrăștia în timpul mersului trebuie acoperită cu o prelată. Când încărcătura constă în obiecte mari ori grele, aceasta trebuie fixată pentru a nu se deplasa în timpul transportului și a nu depăși gabaritul vehiculului.",
+    "tip_context": "crossencode_fallback"
+  }
+]

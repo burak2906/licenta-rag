@@ -1,0 +1,260 @@
+[
+  {
+    "id": "67f0dc3c2be5222d1c2e125d",
+    "text": "Care este rolul bateriei de acumulatori?",
+    "optiuni": {
+      "A": "alimentează consumatorii cu energie electrică",
+      "B": "asigură funcţionarea instalaţiei de aprindere",
+      "C": "asigură funcţionarea instalaţiei de răcire"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e125e",
+    "text": "Care este rolul catalizatorului?",
+    "optiuni": {
+      "A": "de a asigura depoluarea atmosferică, prin arderea completă a gazelor de evacuare",
+      "B": "de a facilita arderea amestecului carburant in cilindrii motorului",
+      "C": "de a filtra carburantul înainte de pulverizarea acestuia în cilindri"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Rolul catalizatorului este de a asigura depoluarea atmosferică. Acesta arde gazele de evacuare rezultate din arderea combustibilului în motor, transformându-le în substanțe mai puțin poluante. Nu participă la arderea amestecului carburant în cilindri și nu filtrează carburantul. Scopul său principal este reducerea emisiilor poluante.\n---\nCutia de viteze este un ansamblu de roți dințate care transformă forța și transmite mișcarea de rotație către diferite componente ale vehiculului. Ea are rolul de a asigura transmiterea puterii la roțile motrice prin schimbarea treptelor de viteză, permițând o turație optimă a motorului. De asemenea, permite mersul înapoi prin intercalarea unor roți dințate suplimentare, dar și staționarea motorului în funcțiune, când maneta de viteză este în poziția neutră ('punct mort').\n---\nSe interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e125f",
+    "text": "Conduci un autovehicul acţionat cu motor cu aprindere prin scânteie, dotat cu catalizator (dispozitiv antipoluant). Ce fel de benzine trebuie să foloseşti?",
+    "optiuni": {
+      "A": "numai benzine fara plumb",
+      "B": "numai benzine aditive cu tetraetil de plumb",
+      "C": "orice fel de benzine cu cifra octanică peste 90"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "bicicletă - vehiculul prevăzut cu două roți, propulsat prin forța musculară, cu ajutorul pedalelor ori manivelelor. Sunt asimilate bicicletei vehiculele cu pedalare asistată echipate cu un motor electric auxiliar cu puterea nominală continuă mai mică sau egală cu 250 W, a cărui asistență este întreruptă atunci când ciclistul încetează să pedaleze sau este progresiv redusă pe măsură ce viteza vehiculului crește, fiind întreruptă complet înainte ca viteza vehiculului să atingă 25 km/h.\n---\nFenomenul de aprindere de la sine a motorului se numește autoaprindere și apare atunci când combustibilul injectat în cilindru se aprinde fără o scânteie electrică. Acest fenomen poate fi cauzat de temperaturi ridicate sau de un raport aer-combustibil prea bogat în combustibil. În cazul în care motorul continuă să funcționeze după întreruperea contactului electric, acest lucru indică o autoaprindere.\n---\nSunt asimilate pietonilor persoanele care conduc un scaun rulant de construcție specială, cele care conduc vehicule destinate exclusiv tragerii sau împingerii cu mâna, cele care se deplasează pe patine sau dispozitive cu role fără mijloace de autopropulsie, precum și cele care conduc vehicule a căror viteză maximă prin construcție nu depășește 6 km/h și sunt echipate cu un motor electric.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1260",
+    "text": "Dacă, după întreruperea contactului electric, motorul continuă să funcţioneze, fenomenul se numeşte:",
+    "optiuni": {
+      "A": "detonaţie",
+      "B": "calare",
+      "C": "autoaprindere"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Fenomenul de aprindere de la sine a motorului se numește autoaprindere și apare atunci când combustibilul injectat în cilindru se aprinde fără o scânteie electrică. Acest fenomen poate fi cauzat de temperaturi ridicate sau de un raport aer-combustibil prea bogat în combustibil. În cazul în care motorul continuă să funcționeze după întreruperea contactului electric, acest lucru indică o autoaprindere.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1261",
+    "text": "Ce semnifică cuvântul TUBELESS inscripţionat pe anvelopă?",
+    "optiuni": {
+      "A": "secţiunea pneului are formă tubulară",
+      "B": "anvelopa poate funcţiona fără cameră de aer",
+      "C": "anvelopa este destinată folosirii pe vreme nefavorabilă"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1262",
+    "text": "Acţionând o singură dată pedala de frânare, cursa acesteia este prea lungă. Acţionand de repetate ori, cursa pedalei se scurtează. Cum trebuie să procedaţi?",
+    "optiuni": {
+      "A": "acţionaţi frâna mai des",
+      "B": "reparaţi frâna într-un atelier specializat",
+      "C": "nu trebuie să faceţi nimic, acest lucru este normal"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1263",
+    "text": "Cum se realizează controlul nivelului de ulei din baie?",
+    "optiuni": {
+      "A": "cu ajutorul unei tije metalice numite jojă, introdusă în blocul motor",
+      "B": "cu ajutorul turometrului de la bord",
+      "C": "cu ajutorul manometrului de la bord"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Transportul copilului în condițiile prevăzute la alin. (1^8) se realizează pe locurile din spate ale autovehiculului. În cazul copilului în vârstă de până la 3 ani, transportul se realizează sub supravegherea unei persoane, alta decât conducătorul de autovehicul.\n---\nLa trecerea la nivel cu calea ferată curentă prevăzută cu instalații de semnalizare automată fără bariere, interzicerea circulației rutiere se realizează, optic, prin funcționarea dispozitivelor cu lumini intermitent-alternative roșii și stingerea semnalizării de control reprezentate de lumină intermitentă albă și, acustic, prin emiterea de semnale sonore intermitente.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1264",
+    "text": "Care dintre următoarele cauze determină creşterea excesivă a regimului termic de funcţionare a motorului?",
+    "optiuni": {
+      "A": "ruperea curelei de antrenare a pompei de apă",
+      "B": "defectarea termostatului",
+      "C": "temperatura crescută a mediului ambiant"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A",
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1265",
+    "text": "Ce rol au dispozitivele antiblocare (ABS)?",
+    "optiuni": {
+      "A": "asigură roţile directoare contra blocării, în cazul lovirii unor obstacole",
+      "B": "previn blocarea roţilor în timpul frânării, indiferent de starea părţii carosabile",
+      "C": "prin montarea la fiecare roată, previn deplasarea accidentală a vehiculului parcat"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1266",
+    "text": "Ce poate cauza transmiterea unor vibraţii la volan?",
+    "optiuni": {
+      "A": "presiunea în pneuri este superioară celei recomandate de constructor;",
+      "B": "pneurile insuficient umflate sau neechilibrate;",
+      "C": "producerea unei explozii la un pneu."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1267",
+    "text": "Blocarea unei roti in timpul mersului poate fi determinata de una dintre defectiunile:",
+    "optiuni": {
+      "A": "ovalizarea tamburului;",
+      "B": "griparea rulmentilor;",
+      "C": "uzura exagerata a sabotilor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": "Eroare la trimiterea promptului",
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1268",
+    "text": "Frâna de serviciu a autovehiculului trebuie să aibă capacitatea de a asigura:",
+    "optiuni": {
+      "A": "funcționarea în bune condiții a frânelor de la roțile motoare;",
+      "B": "încetinirea și oprirea rapidă, sigură și eficace, indiferent de gradul de încărcare a autovehiculului și de înclinarea drumului;",
+      "C": "imobilizarea vehiculului pe timpul staționării sau al parcării îndelungate."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Nerespectarea obligației de a acționa frâna de ajutor, de a cupla într-o treaptă de viteză inferioară sau în cea de parcare dacă autovehiculul are transmisie automată, atunci când conducătorul autovehiculului imobilizat pe drum public se îndepărtează de acesta atrage 3 puncte de penalizare.",
+    "tip_context": "crossencode_fallback"
+  }
+]

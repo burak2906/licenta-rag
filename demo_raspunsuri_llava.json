@@ -1,0 +1,258 @@
+[
+  {
+    "id": "67f0dc3c2be5222d1c2e0dad",
+    "text": "Vă este permisă trecerea peste marcajul longitudinal din imagine?",
+    "optiuni": {
+      "A": "da, deoarece linia discontinuă este cea mai apropiată de vehiculul pe care îl conduceți;",
+      "B": "nu, deoarece în acest caz depășirea este interzisă.",
+      "C": "nu, deoarece este un marcaj dublu;"
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/399.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Marcajul longitudinal format dintr-o linie discontinuă simplă sau dublă permite trecerea peste acesta, dacă manevra sau reglementările instituite impun acest lucru.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0dae",
+    "text": "Indicatorul vă obligă:",
+    "optiuni": {
+      "A": "să viraţi la stânga, deoarece accesul în celelalte direcţii este interzis;",
+      "B": "să circulaţi înainte sau la dreapta în prima intersecţie;",
+      "C": "să urmaţi traseul ocolitor, presemnalizat la dreapta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/419.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să oprească atunci când: a) barierele sau semibarierele sunt coborâte, în curs de coborâre sau de ridicare; b) semnalul cu lumini roșii și/sau semnalul sonor sunt în funcțiune; c) întâlnește indicatorul \"Trecerea la nivel cu calea ferată simplă, fără bariere\", \"Trecerea la nivel cu calea ferată dublă, fără bariere\" sau \"Oprire\".\n---\nPe autostrăzi și drumuri expres, în toate cazurile, unde indicatorul este obligatoriu să se instaleze un panou adițional \"Distanța între indicator și începutul locului periculos\". În situația în care lungimea sectorului periculos depășește 1.000 m, sub indicator se montează panoul adițional \"Lungimea sectorului periculos\".\n---\nContext vizual extras (YOLOv8):\nIndicator Înainte sau la dreapta: Conducatorul auto va intalni acest indicator inaintea intrarii intr-o intersectie, obligand conducatorul auto sa circule pe una din directiile indicate de sageti. Actioneaza doar in intersectia inaintea caruia este instalat.\n---\nIndicator Înainte: Indicatorul se monteaza cu cel mult 50 m inainte de o intersectie, obligand conducatorul auto sa circule pe directia indicata de sageata (nu poate vira stanga sau dreapta, nu poate intoarce). Daca actioneaza asupra unei singure benzi, atunci se va instala deasupra benzii respective. Acest indicator actioneaza doar in intersectia inaintea careia este instalat.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0daf",
+    "text": "Acest indicator vă avertizează că urmează:",
+    "optiuni": {
+      "A": "un drum cu marcaje.",
+      "B": "alte pericole;",
+      "C": "un drum fără marcaje;"
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/420.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Alte pericole: Se amplaseaza cu 50-200 m inaintea locului periculos, in orice situatie periculoasa care nu este prevazuta cu un indicator de avertizare specific. La intalnirea acestui indicator, conducatorului auto ii este recomandat preventiv sa reduca viteza si sa circule cu atentie sporita.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0db0",
+    "text": "Puteţi depăşi în această situaţie, dacă vă aflaţi la volanul autoturismului?",
+    "optiuni": {
+      "A": "nu, deoarece treceţi de axul drumului;",
+      "B": "da, manevra este regulamentară;",
+      "C": "nu, deoarece marcajul orizontal interzice manevra."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/424.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\ncând circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care urcă se află un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j);",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0db1",
+    "text": "La întâlnirea cărui indicator conducătorul auto nu are prioritate de trecere?",
+    "optiuni": {
+      "A": "„Drum cu prioritate”.",
+      "B": "„Prioritate pentru circulaţia din sens invers”;",
+      "C": "„Prioritate faţă de circulaţia din sens invers”;"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nConducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nConducătorul vehiculului al cărui mers înainte este obstruat de un obstacol sau de prezența altor participanți la trafic, care impune trecerea pe sensul opus, este obligat să reducă viteza și, la nevoie, să oprească pentru a permite trecerea vehiculelor care circulă din sens opus.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0db2",
+    "text": "Indicatorul precizează:",
+    "optiuni": {
+      "A": "pe banda din stânga, vehiculele vor circula cu cel mult viteza indicată;",
+      "B": "pe banda din dreapta, se poate circula fără restricţie de viteză;",
+      "C": "pe banda din stânga, pot circula cei care se deplasează cel puţin cu viteza menţionată."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/444.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Marcajul format dintr-o linie continuă aplicată pe bordura trotuarului sau la marginea părții carosabile interzice staționarea vehiculelor pe acea parte a drumului. Când o asemenea linie însoțește un indicator de interzicere a staționării, aceasta precizează lungimea sectorului de drum pe care este valabilă interzicerea.\n---\nSemnificația indicatoarelor de interzicere sau de restricție începe din dreptul acestora. În lipsa unui semnalizări care să precizeze lungimea sectorului pe care se aplică reglementarea ori a unui indicator care să anunțe sfârșitul interdicției sau al restricției, semnificația acestora indicatoare încetează în intersecția cea mai apropiată. Când indicatoarele de interzicere sau restricție sunt instalate împreună cu un indicator ce anunță intrarea într-o localitate, semnificația lor este valabilă pe drumul respectiv până la întâlnirea indicatorului \"ieșire din localitate\", cu excepția locurilor unde un alt indicator dispune altfel.\n---\nContext vizual extras (YOLOv8):\nIndicator Bandă destinată circulației vehiculelor lente: Este amplasat pe drumurile publice si are rolul de a orienta conducatorii auto asupra benzii pe care se deplaseaza vehiculele lente, cu viteze mai mici decat cea inscriptionata pe panou.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0db3",
+    "text": "Cum procedați la întâlnirea panoului și a indicatorului?",
+    "optiuni": {
+      "A": "acordați prioritate vehiculelor care circulă din stânga;",
+      "B": "acordați prioritate numai vehiculelor de transport public de persoane.",
+      "C": "opriți, vă asigurați și acordați prioritate tuturor vehiculelor;"
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/449.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Pe autostrăzi și drumuri expres, în toate cazurile, unde indicatorul este obligatoriu să se instaleze un panou adițional \"Distanța între indicator și începutul locului periculos\". În situația în care lungimea sectorului periculos depășește 1.000 m, sub indicator se montează panoul adițional \"Lungimea sectorului periculos\".\n---\nIndicatoarele de avertizare se instalează înaintea locului periculos, la o distanță de maximum 50 m în localități, între 100 m și 250 m în afara localităților, respectiv între 500 m și 1.000 m pe autostrăzi și drumuri expres. Când condițiile din teren impun amplasarea la o distanță mai mare, sub indicator se instalează un panou adițional \"Distanța între indicator și începutul locului periculos\".\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nContext vizual extras (YOLOv8):\nIndicator Oprire: Este instalat pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar, cand vizibilitatea este redusa. Conducatorul de vehicul care intalneste acest indicator este obligat sa opreasca in locul cu vizibilitate maxima, fara a depasi coltul intersectiei, si sa acorde prioritate tuturor vehiculelor care circula pe drumul prioritar.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0db4",
+    "text": "Ce obligaţii aveți la întâlnirea indicatorului „Animale“?",
+    "optiuni": {
+      "A": "să reduceţi viteza numai la semnalul celor care însoţesc animale;",
+      "B": "circulaţi cu atenţie şi, dacă se impune, reduceţi viteza;",
+      "C": "nu aveţi nicio obligaţie, deoarece indicatorul se adresează persoanelor care însoţesc animale."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0db5",
+    "text": "Puteţi trece cu autovehiculul peste o linie continuă dacă:",
+    "optiuni": {
+      "A": "linia continuă este însoţită de una discontinuă, iar aceasta din urmă este mai apropiată de sensul dvs. de deplasare;",
+      "B": "aceasta separă sensurile de circulaţie.",
+      "C": "aceasta este aplicată pe drumuri cu mai mult de o bandă pe sensul de mers;"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Copiii cu o înălțime de peste 135 cm pot fi transportați în autovehicule echipate cu sisteme de siguranță doar dacă poartă centuri de siguranță pentru adulți, reglate astfel încât să nu treacă peste zona gâtului sau feței, ori dacă sunt fixați cu ajutorul unui dispozitiv de fixare în scaun pentru copii instalat în autovehicul.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0db6",
+    "text": "Marcajul aplicat pe marginea din dreapta a părţii carosabile, format dintr-o linie în zig-zag, semnifică:",
+    "optiuni": {
+      "A": "interzicerea staţionării;",
+      "B": "interzicerea opririi;",
+      "C": "alte pericole."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Marcajul format dintr-o linie continuă aplicată pe bordura trotuarului sau la marginea părții carosabile interzice staționarea vehiculelor pe acea parte a drumului. Când o asemenea linie însoțește un indicator de interzicere a staționării, aceasta precizează lungimea sectorului de drum pe care este valabilă interzicerea.\n---\nMarcajele pentru interzicerea staționării se pot realiza:\na) prin linie continuă galbenă aplicată pe bordura trotuarului sau pe banda de consolidare a acostamentului, dublând marcajul de delimitare a părții carosabile spre exteriorul platformei drumului;\nb) printr-o linie în zig-zag la marginea părții carosabile.\n---\nMarcajul format dintr-o linie în zigzag semnifică interzicerea staționării vehiculelor pe partea drumului pe care este aplicat. O astfel de linie completată cu inscripții precum «Bus», «Taxi» sau «Tram» poate fi folosită pentru semnalizarea stațiilor destinate vehiculelor respective, respectiv a stațiilor de tramvaie care nu sunt prevăzute cu refugiu pentru pietoni.\n---\nMarcajele de delimitare a părții carosabile sunt amplasate în lungul drumului, se execută la limita din dreapta a părții carosabile în sensul de mers, cu excepția autostrăzilor și a drumurilor expres, unde marcajul se aplică și pe partea stângă, lângă mijlocul fizic de separare a sensurilor de circulație. Aceste marcaje pot fi cu linie continuă sau discontinuă simplă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0db7",
+    "text": "Sfârșitul zonei în care oprirea a fost interzisă este anunțată de:",
+    "optiuni": {
+      "A": "indicatorul 1;",
+      "B": "ambele indicatoare;",
+      "C": "indicatorul 2, însoțit de panoul adițional."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/466.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în locurile în care este interzisă oprirea voluntară a vehiculului din art. 142, cu excepția cazurilor prevăzute la art. 142 lit. f).\n---\nSe interzice staționarea voluntară a vehiculului: a) în toate cazurile în care este interzisă oprirea voluntară; b) în zona de acțiune a indicatorului cu semnificația 'Staționarea interzisă' și a marcajului cu semnificația de interzicere a staționării; c) pe drumurile publice cu o lățime mai mică de 6 m; d) în dreptul căilor de acces care deservesc proprietăți alăturate drumurilor publice; e) în pante și în rampe; f) în locul unde este instalat indicatorul cu semnificația 'Staționare alternantă', în altă zi sau perioadă decât cea permisă, ori indicatorul cu semnificația 'Zona de staționare cu durată limitată' peste durata stabilită.\n---\nContext vizual extras (YOLOv8):\nIndicator Oprire interzisă: Se afla instalat in locurile in care oprirea vehiculelor este interzisa. Semnificaţia indicatoarelor de interzicere sau de restricţie începe din dreptul acestora. În lipsa unei semnalizări care să precizeze lungimea sectorului pe care se aplică reglementarea ori a unor indicatoare care să anunţe sfârşitul interdicţiei sau al restricţiei, semnificaţia acestor indicatoare încetează în intersecţia cea mai apropiată. Acest indicator poate fi insotit si de alte panouri aditionale care marcheaza inceputul, continuarea sau sfarsitul zonei de actiune (\"Inceputul zonei de actiune a indicatorului\", \"Confirmarea zonei de actiune a indicatorului\", \"Sfarsitul zonei de actiune a indicatorului\") sau poate avea inscriptionate pe panou niste sageti cu aceeasi semnificatie.",
+    "tip_context": "crossencode_prag+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e0db8",
+    "text": "Care dintre cele două indicatoare obligă la schimbarea direcției de mers spre dreapta, după depășirea locului unde este instalat?",
+    "optiuni": {
+      "A": "indicatorul 1;",
+      "B": "indicatorul 2;",
+      "C": "ambele indicatoare."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/467.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care executa o manevra de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că o poate face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nContext vizual extras (YOLOv8):\nIndicator La dreapta: Se instaleaza pe partea opusa intrarii intr-o intersectie sau suspendat in mijlocul intersectiei, obligand conducatorul auto sa vireze in directia indicata de sageata, dar fara a ocoli indicatorul (pana la indicator). Indicatorul actioneaza numai in intersectia inaintea careia este instalat. Efectuandu-se un viraj, este obligatorie reducerea vitezei la maxim 30 km/h in localitate, respectiv max. 50 km/h in afara localitatii.",
+    "tip_context": "crossencode_prag+context_yolo"
+  }
+]

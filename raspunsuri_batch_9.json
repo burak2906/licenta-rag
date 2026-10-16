@@ -1,0 +1,2412 @@
+[
+  {
+    "id": "67f0dc3c2be5222d1c2e10cd",
+    "text": "Care este limita maximă de viteză pe autostrăzi?",
+    "optiuni": {
+      "A": "110 km/h;",
+      "B": "100 km/h;",
+      "C": "130 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Viteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.\n---\nViteza maximă admisă pentru autovehicule cu mase și/sau gabarite depășite ori care transportă produse periculoase este de 40 km/h în localități, iar în afara localităților de 70 km/h.\n---\nLimitele maxime de viteză în afara localităților sunt:\n a) pe autostrăzi - 130 km/h;\n b) pe drumurile expres - 120 km/h;\n c) pe drumurile naționale europene (E) - 100 km/h;\n d) pe celelalte categorii de drumuri - 90 km/h.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ce",
+    "text": "Cum vei proceda la întâlnirea indicatorului „Limitare de viteză 80 km/h”?",
+    "optiuni": {
+      "A": "circuli cu o viteză de peste 80 km/h",
+      "B": "nu depăşeşti viteza de 80 km/h",
+      "C": "nu depăşeşti viteza maximă admisă pe drumurile naţionale"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Pe anumite sectoare de drum din interiorul localităților, administratorul drumului poate stabili, pentru autovehiculele din categoriile A și B, și limite de viteză superioare, dar nu mai mult de 80 km/h. Limitele de viteză mai mari de 50 km/h se stabilesc numai cu avizul poliției rutiere.\n---\nLimita maximă de viteză în localități este de 50 km/h.\n---\nLimitele maxime de viteză în afara localităților sunt:\n a) pe autostrăzi - 130 km/h;\n b) pe drumurile expres - 120 km/h;\n c) pe drumurile naționale europene (E) - 100 km/h;\n d) pe celelalte categorii de drumuri - 90 km/h.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10cf",
+    "text": "Circulaţi pe un drum Naţional European \"E\" în localitate. Care este viteza maximă admisă dacă aveţi mai puţin de 1 an de practică.",
+    "optiuni": {
+      "A": "50 km/h",
+      "B": "80 km/h",
+      "C": "70 km/h"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Vehiculul care circulă pe un drum public pe care este instalat unul dintre indicatoarele având semnificația: 'Drum cu prioritate', 'Intersecție cu un drum fără prioritate' sau 'Prioritate față de circulația din sens invers' are prioritate de trecere.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10d0",
+    "text": "În ce situaţii viteza de deplasare se va reduce până la limita legală?",
+    "optiuni": {
+      "A": "pe drumurile cu denivelări semnalizate ca atare",
+      "B": "în perimetrul pieţelor aglomerate",
+      "C": "în momentul în care eşti depăşit de un alt vehicul"
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10d1",
+    "text": "Care este limita maximă de viteză în afara localităților, pe drumurile expres și pe cele naționale europene (E)?",
+    "optiuni": {
+      "A": "120 km/h respectiv 100 km/h;",
+      "B": "130 km/h respectiv 110 km/h;",
+      "C": "120 km/h respectiv 110 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Limitele maxime de viteză în afara localităților sunt:\n a) pe autostrăzi - 130 km/h;\n b) pe drumurile expres - 120 km/h;\n c) pe drumurile naționale europene (E) - 100 km/h;\n d) pe celelalte categorii de drumuri - 90 km/h.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nVitezele maxime admise în afara localităților pentru categoriile de autovehicule prevăzute în anexa nr. 1 sunt următoarele:\n a) 130 km/h pe autostrăzi, 120 km/h pe drumurile expres, 100 km/h pe drumurile naționale europene (E) și 90 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile A și B;\n b) 110 km/h pe autostrăzi, 100 km/h pe drumurile expres, 90 km/h pe drumurile naționale europene (E) și 80 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile C, D și categoria D1;\n c) 90 km/h pe autostrăzi, 85 km/h pe drumuri expres, 80 km/h pe drumurile naționale europene (E) și 70 km/h pentru celelalte categorii de drumuri, pentru autovehiculele din categoriile A1, B1 și C1;\n d) 45 km/h, pentru tractoarele agricole sau forestiere și mopede.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m.\n---\nViteza maximă admisă pentru autovehicule cu mase și/sau gabarite depășite ori care transportă produse periculoase este de 40 km/h în localități, iar în afara localităților de 70 km/h.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10d2",
+    "text": "Viteza maximă admisă pe drumurile expres pentru autovehicule din categoria B este de:",
+    "optiuni": {
+      "A": "100 km/h;",
+      "B": "120 km/h;",
+      "C": "110 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Vitezele maxime admise în afara localităților pentru categoriile de autovehicule prevăzute în anexa nr. 1 sunt următoarele:\n a) 130 km/h pe autostrăzi, 120 km/h pe drumurile expres, 100 km/h pe drumurile naționale europene (E) și 90 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile A și B;\n b) 110 km/h pe autostrăzi, 100 km/h pe drumurile expres, 90 km/h pe drumurile naționale europene (E) și 80 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile C, D și categoria D1;\n c) 90 km/h pe autostrăzi, 85 km/h pe drumuri expres, 80 km/h pe drumurile naționale europene (E) și 70 km/h pentru celelalte categorii de drumuri, pentru autovehiculele din categoriile A1, B1 și C1;\n d) 45 km/h, pentru tractoarele agricole sau forestiere și mopede.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.\n---\nDepășirea cu 21-30 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus atrage 3 puncte de penalizare.\n---\nDepășirea cu 10-20 km/h a vitezei maxime admise pe sectorul de drum pentru categoria din care face parte autovehiculul condus, constatată potrivit legii, cu mijloace tehnice omologate și verificate metrologic atrage 2 puncte de penalizare.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.\n---\nDepășirea cu 31-40 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus, constatată, potrivit legii, cu mijloace tehnice omologate și verificate metrologic atrage 4 puncte de penalizare.\n---\nDepășirea cu 41-50 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus, constatată, potrivit legii, cu mijloace tehnice omologate și verificate metrologic atrage 6 puncte de penalizare.\n---\nLimitele maxime de viteză în afara localităților sunt:\n a) pe autostrăzi - 130 km/h;\n b) pe drumurile expres - 120 km/h;\n c) pe drumurile naționale europene (E) - 100 km/h;\n d) pe celelalte categorii de drumuri - 90 km/h.\n---\n1) Conducătorii de vehicule sunt obligați să respecte viteza maximă admisă pe sectorul de drum pe care circulă și pentru categoria din care face parte vehiculul condus, precum și cea impusă prin mijloacele de semnalizare.\n2) Nerespectarea regimului de viteză stabilit conform legii se constată de către polițiștii rutieri, cu mijloace tehnice omologate și verificate metrologic.\n---\nPe anumite sectoare de drum din interiorul localităților, administratorul drumului poate stabili, pentru autovehiculele din categoriile A și B, și limite de viteză superioare, dar nu mai mult de 80 km/h. Limitele de viteză mai mari de 50 km/h se stabilesc numai cu avizul poliției rutiere.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10d3",
+    "text": "Care sunt vitezele maxime admise pentru categoria de autovehicule B1?",
+    "optiuni": {
+      "A": "90 km/h pe autostrăzi, 85 km/h pe drumurile expres, 80 km/h pe drumurile naționale europene și 70 km/h pe celelalte categorii de drumuri;",
+      "B": "100 km/h pe autostrăzi, 90 km/h pe drumurile expres, 80 km/h pe drumurile naționale europene și 70 km/h pe celelalte categorii de drumuri;",
+      "C": "110 km/h pe autostrăzi, 90 km/h pe drumurile expres, 70 km/h pe drumurile naționale europene și 60 km/h pe celelalte categorii de drumuri."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Depășirea cu 41-50 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus, constatată, potrivit legii, cu mijloace tehnice omologate și verificate metrologic atrage 6 puncte de penalizare.\n---\nDepășirea cu 31-40 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus, constatată, potrivit legii, cu mijloace tehnice omologate și verificate metrologic atrage 4 puncte de penalizare.\n---\nDepășirea cu 21-30 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus atrage 3 puncte de penalizare.\n---\nDepășirea cu 10-20 km/h a vitezei maxime admise pe sectorul de drum pentru categoria din care face parte autovehiculul condus, constatată potrivit legii, cu mijloace tehnice omologate și verificate metrologic atrage 2 puncte de penalizare.\n---\nVitezele maxime admise în afara localităților pentru categoriile de autovehicule prevăzute în anexa nr. 1 sunt următoarele:\n a) 130 km/h pe autostrăzi, 120 km/h pe drumurile expres, 100 km/h pe drumurile naționale europene (E) și 90 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile A și B;\n b) 110 km/h pe autostrăzi, 100 km/h pe drumurile expres, 90 km/h pe drumurile naționale europene (E) și 80 km/h pe celelalte categorii de drumuri, pentru autovehiculele din categoriile C, D și categoria D1;\n c) 90 km/h pe autostrăzi, 85 km/h pe drumuri expres, 80 km/h pe drumurile naționale europene (E) și 70 km/h pentru celelalte categorii de drumuri, pentru autovehiculele din categoriile A1, B1 și C1;\n d) 45 km/h, pentru tractoarele agricole sau forestiere și mopede.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele care tractează remorci sau semiremorci este cu 10 km/h mai mică decât viteza maximă admisă pentru categoria din care face parte autovehiculul trăgător.\n---\nViteza maximă admisă în afara localităților pentru autovehiculele ai căror conducători au mai puțin de un an practică de conducere sau pentru persoanele care efectuează pregătirea practică în vederea obținerii permisului de conducere este cu 20 km/h mai mică decât viteza maximă admisă pentru categoria din care fac parte autovehiculele conduse.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10d4",
+    "text": "La intersecția nedirijată dintre un drum național și unul județean, comunal sau local, prioritatea de trecere se acordă:",
+    "optiuni": {
+      "A": "vehiculelor care circulă pe drumul județean, comunal sau local;",
+      "B": "vehiculelor care vin din dreapta;",
+      "C": "vehiculelor care circulă pe drumul național."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "la intersecția nedirijată atunci când pătrunde pe un drum național venind de pe un drum județean, comunal sau local;\n---\nla intersecția nedirijată atunci când pătrunde pe un drum județean venind de pe un drum comunal sau local;\n---\nla intersecția nedirijată atunci când pătrunde pe un drum comunal venind de pe un drum local;",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10d5",
+    "text": "La ieșirea din zonele rezidențiale sau pietonale, sunteți obligat să acordați prioritate:",
+    "optiuni": {
+      "A": "autovehiculelor;",
+      "B": "pietonilor de pe sensul opus de circulație;",
+      "C": "tuturor vehiculelor cu care vă intersectați."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "La ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10d6",
+    "text": "În cazul în care, într-o intersecție, lângă semaforul în stare de funcționare este instalat indicatorul „Oprire“, sunteți obligat să respectați:",
+    "optiuni": {
+      "A": "semnificația indicatorului;",
+      "B": "regula priorității de dreapta;",
+      "C": "semnificația luminii semaforului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul vehiculului care intră într-o intersecție la culoarea verde a semaforului este obligat să respecte și semnificația indicatoarelor instalate în interiorul acesteia.\n---\nÎn intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.\n---\nSchimbarea direcției de mers spre stânga, în cazul vehiculelor care intra într-o intersecție circulând pe același drum în aliniament, dar din sensuri opuse, se efectuează prin stânga centrului intersecției, fără intersectarea traiectoriilor acestora.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10d7",
+    "text": "În ce situații sunteți obligat să acordați prioritate de trecere?",
+    "optiuni": {
+      "A": "într-o intersecție nedirijată, atunci când pătrundeți pe un drum național, venind de pe un drum județean;",
+      "B": "la întâlnirea indicatorului „Drum cu prioritate“;",
+      "C": "la întâlnirea pietonilor aflați pe sensul de mers opus."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere și în următoarele situații:\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nLa ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cât mai aproape de marginea drumului în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonoră.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nAcordare a priorității - obligația oricărui participant la trafic de a nu-și continua deplasarea sau de a nu efectua orice altă manevră, dacă prin acestea îi obligă pe ceilalți participanți la trafic care au prioritate de trecere să își modifice brusc direcția sau viteza de deplasare ori să oprească.\n---\nAcordare a priorității - obligația oricărui participant la trafic de a nu-și continua deplasarea sau de a nu efectua orice altă manevră, dacă prin acestea îi obligă pe ceilalți participanți la trafic care au prioritate de trecere să își modifice brusc direcția sau viteza de deplasare ori să oprească.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10d8",
+    "text": "Conducătorii de vehicule trebuie să respecte regulile de circulație, generale și particulare, în următoarea ordine:",
+    "optiuni": {
+      "A": "semnalele, indicațiile și dispozițiile polițistului rutier; semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulație prioritară; semnalizarea temporară;",
+      "B": "semnalele, indicațiile și dispozițiile polițistului rutier; semnalizarea temporară; semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulație prioritară;",
+      "C": "semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulație prioritară; semnalele, indicațiile și dispozițiile polițistului rutier; semnalizarea temporară."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În cazul intersecțiilor cu sens giratoriu, conducătorii de vehicule trebuie să respecte regulile privind circulația pe benzi, având obligația să semnalizeze din timp părăsirea intersecției și să se asigure că o pot face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nConducătorul de vehicul trebuie să respecte regimul legal de viteză și să o adapteze în funcție de condițiile de drum, astfel încât să poată efectua orice manevră în condiții de siguranță.\n---\nSemnalul de culoare galbenă intermitent permite trecerea, conducătorul de vehicul fiind obligat să circule cu viteză redusă, să respecte semnificația semnalizării rutiere și a regulilor de circulație aplicabile în acel loc.\n---\nParticipanții la trafic trebuie să respecte regulile de circulație, semnalele, indicațiile și dispozițiile polițiștilor rutieri, precum și semnificația diferitelor tipuri de mijloace de semnalizare rutieră, în următoarea ordine de prioritate: a) semnalele, indicațiile și dispozițiile polițiștilor rutieri; b) semnalele speciale de avertizare, luminoase sau sonore ale autovehiculelor; c) semnalizarea temporară și/sau indicatoarele electronice, care modifică regimul normal de desfășurare a circulației; d) semnalele luminoase sau sonore; e) indicatoarele; f) marcajele; g) regulile de circulație.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare sonore și vizuale.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare roșie și sonore.\n---\n1) Conducătorii de vehicule sunt obligați să respecte viteza maximă admisă pe sectorul de drum pe care circulă și pentru categoria din care face parte vehiculul condus, precum și cea impusă prin mijloacele de semnalizare.\n2) Nerespectarea regimului de viteză stabilit conform legii se constată de către polițiștii rutieri, cu mijloace tehnice omologate și verificate metrologic.\n---\nCirculația pe drumurile publice se desfășoară în conformitate cu regulile de circulație și cu respectarea semnificației semnalizării rutiere realizate prin mijloace de semnalizare, semnalele și indicațiile polițiștilor rutieri care dirijează circulația, semnalele speciale de avertizare luminoase sau sonore, de semnalizare temporară și semnalele conducătorilor de vehicule.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10d9",
+    "text": "Care dintre cele trei vehicule va trece ultimul prin intersecția din imagine?",
+    "optiuni": {
+      "A": "autoturismul;",
+      "B": "autocamionul;",
+      "C": "motocicleta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/448.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10da",
+    "text": "Cum veți proceda dacă la intrarea într-o intersecție semaforul este pe semnalul de culoare verde, dar aceasta este blocată din cauza aglomerației?",
+    "optiuni": {
+      "A": "vă continuați deplasarea, deoarece semnalul verde vă permite acest lucru;",
+      "B": "claxonați și găsiți o modalitate de a avansa printre celelalte vehicule;",
+      "C": "opriți și așteptați deblocarea, după care pătrundeți în intersecție pe semnalul verde al semaforului."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice intrarea într-o intersecție chiar dacă semnalul luminos ori un indicator de prioritate permite, dacă din cauza aglomerării circulației conducătorul de vehicul riscă să rămână imobilizat, stânjenind sau împiedicând desfășurarea traficului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10db",
+    "text": "Cu ce viteză se poate circula în apropierea unei intersecţii?",
+    "optiuni": {
+      "A": "limita maximă de viteză va fi respectată doar în cazul intersecţiilor dirijate;",
+      "B": "cu o viteză care să permită oprirea, pentru a acorda prioritate de trecere participanţilor la trafic care au acest drept;",
+      "C": "limita maximă de viteză în localităţi va fi de 50 km/h, iar în afara localităţilor de 130 km/h."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nÎn intersecții dirijarea circulației tramvaielor se poate realiza și prin semafoare având semnale luminoase de culoare albă, corelate cu semnalele luminoase pentru dirijarea circulației celorlalte vehicule.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10dc",
+    "text": "Cum procedează conducătorul de vehicul când iese dintr-o curte sau dintr-un garaj pe un drum public?",
+    "optiuni": {
+      "A": "acordă prioritate pietonilor și vehiculelor aflate în mers;",
+      "B": "solicită să fie pilotat de o altă persoană;",
+      "C": "folosește avertizorul sonor ziua și pe cel luminos, noaptea."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nLa apropierea de o stație pentru mijloace de transport public de persoane prevăzută cu alveolă, din care conducătorul unui astfel de vehicul semnalizează intenția de a ieși, conducătorul vehiculului care circulă pe banda de lângă acostament sau bordură este obligat să reducă viteza și, la nevoie, să oprească pentru a-i permite reintrarea în trafic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10dd",
+    "text": "Pe un drum cu prioritate, conducătorul de vehicul întâlnește în intersecție marcajul de trecere pentru pietoni. Este obligat să acorde prioritate?",
+    "optiuni": {
+      "A": "da, pietonilor angajați în traversarea drumului pe trecerea semnalizată și aflați pe sensul lui de mers;",
+      "B": "nu, deoarece circulă pe un drum prioritar;",
+      "C": "da, atât pietonilor, cât și vehiculelor care se apropie din sens opus și care schimbă direcția de mers spre stânga."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.\n---\nVehiculul care circulă pe un drum public pe care este instalat unul dintre indicatoarele având semnificația: 'Drum cu prioritate', 'Intersecție cu un drum fără prioritate' sau 'Prioritate față de circulația din sens invers' are prioritate de trecere.\n---\nConducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nParticiparea în calitate de conducător de vehicul la întreceri neautorizate pe drumurile publice se pedepsește cu închisoare de la 3 luni la un an sau cu amendă.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.\n---\nÎnainte de a urma cursurile practice de învățare a conducerii unui vehicul pe drumurile publice, solicitantul trebuie să facă dovada pregătirii teoretice, într-o unitate autorizată, în vederea obținerii permisului de conducere.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nLa intersecțiile fără marcaje de delimitare a benzilor, conducătorii vehiculelor ocupă în mers, cu cel puțin 50 m înainte de intersecție, următoarele poziții: b) rândul de lângă axa drumului sau de lângă marcajul de separare a sensurilor, cei care vor să schimbe direcția de mers spre stânga. Când circulația se desfășoară pe drumuri cu sens unic, conducătorii de vehicule care intenționează să vireze la stânga sunt obligați să ocupe rândul de lângă bordura sau acostamentul din partea stângă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10de",
+    "text": "În ce ordine vor circula autovehiculele prin intersecţia prezentată?",
+    "optiuni": {
+      "A": "troleibuzul, tramvaiul, autoturismul;",
+      "B": "tramvaiul, autoturismul, troleibuzul;",
+      "C": "tramvaiul, troleibuzul, autoturismul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/480.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere la nivel cu o cale ferată, fără bariere: Amplasat la 6-10 m de trecerea la nivel cu o cale ferata simpla, fara bariere indicatorul obliga conducatorul de vehicul sa opreasca in locul cu vizibilitate maxima, dar fara a depasi acest indicator, pentru a se asigura ca nu se apropie niciun tren.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10df",
+    "text": "În ce ordine vor trece prin intersecție cele trei autoturisme?",
+    "optiuni": {
+      "A": "roșu, albastru, verde;",
+      "B": "verde, roșu, albastru;",
+      "C": "albastru, roșu, verde."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/499.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Cedează trecerea: Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa se asigure ca pe drumul prioritar nu circula autovehicule, si abia apoi poate sa patrunda in intersectie. Daca pe drumul prioritar circula alte autovehicule, conducatorul auto este obligat sa opreasca pentru a le acorda prioritate.\n---\nIndicator Intersecție cu drum fără prioritate: Se instaleaza in afara localitatilor, pe drumurile cu prioritate, la 100-200 m de intersectia cu un drum fara prioritate si are rolul de a confirma prioritatea celui care intalneste acest indicator.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10e0",
+    "text": "Care dintre autovehiculele din imagine au prioritate de trecere?",
+    "optiuni": {
+      "A": "autobuzul și motocicleta;",
+      "B": "motocicleta și autocamionul;",
+      "C": "autobuzul și autoturismul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/515.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Au regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nLa ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nVehiculul care circulă pe un drum public pe care este instalat unul dintre indicatoarele având semnificația: 'Drum cu prioritate', 'Intersecție cu un drum fără prioritate' sau 'Prioritate față de circulația din sens invers' are prioritate de trecere.\n---\nConducătorul de vehicul care circulă pe banda situată lângă marginea părții carosabile trebuie să acorde prioritate de trecere vehiculelor care efectuează transport public de persoane numai atunci când conducătorii acestora semnalizează intenția de a reintra în trafic din stațiile prevăzute cu alveole și s-au asigurat că prin manevra lor nu pun în pericol siguranța celorlalți participanți la trafic.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nConducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10e1",
+    "text": "Care este ordinea de trecere prin intersecţia din imagine?",
+    "optiuni": {
+      "A": "tramvaiul, motocicleta, autoturismul;",
+      "B": "motocicleta, autoturismul, tramvaiul;",
+      "C": "motocicleta, tramvaiul, autoturismul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/516.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nSemaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.\n---\nDepășirea este manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe același sens de circulație, prin schimbarea direcției de mers și ieșirea de pe banda de circulație sau din șirul de vehicule în care s-a aflat inițial.\n---\nContext vizual extras (YOLOv8):\nIndicator Sfârșitul drumului cu prioritate: Se amplaseaza la 50-200 m de locul unde inceteaza semnificatia indicatorului \"Drum cu prioritate\", avand rolul de a informa conducatorul auto ca in urmatoarea intersectie in care va patrunde, toate drumurile vor fi de aceeasi categorie si se va aplica regula prioritatii de dreapta.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10e2",
+    "text": "Autobuzul din față semnalizează ieșirea din stația prevăzută cu alveolă. Cum trebuie să procedați?",
+    "optiuni": {
+      "A": "îl ocoliți cât mai mult, pentru a proteja pietonii;",
+      "B": "reduceți viteza și la nevoie opriți, pentru a permite plecarea din stație a autobuzului;",
+      "C": "vă continuați deplasarea, deoarece nu aveți restricții."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/526.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10e3",
+    "text": "Conducătorul unui vehicul este obligat să acorde prioritate de trecere într-o intersecție nedirijată dacă:",
+    "optiuni": {
+      "A": "pătrunde pe un drum județean, venind de pe un drum național;",
+      "B": "pătrunde pe un drum național, venind de pe un drum județean, comunal sau local;",
+      "C": "pătrunde pe un drum comunal sau local, venind de pe un drum județean."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nConducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nConducătorul vehiculului al cărui mers înainte este obstruat de un obstacol sau de prezența altor participanți la trafic, care impune trecerea pe sensul opus, este obligat să reducă viteza și, la nevoie, să oprească pentru a permite trecerea vehiculelor care circulă din sens opus.\n---\nConducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere și în următoarele situații:\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nLa ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nConducătorul vehiculului care intră într-o intersecție la culoarea verde a semaforului este obligat să respecte și semnificația indicatoarelor instalate în interiorul acesteia.\n---\nLa intersecțiile cu circulație dirijată, conducătorul de vehicul este obligat să respecte semnificația indicatoarelor, culoarea semaforului sau indicațiile ori semnalele polițistului rutier.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10e4",
+    "text": "La plecarea de pe loc cu vehiculul, vă revin următoarele obligații:",
+    "optiuni": {
+      "A": "să evitați ambalarea excesivă a motorului;",
+      "B": "să evitați bruscarea comenzilor vehiculului;",
+      "C": "să acordați prioritate de trecere vehiculelor care circulă pe drum, indiferent de direcția de mers."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Se interzice oprirea voluntară a vehiculor în următoarele situații: în zona de acțiune a indicatorului „Oprirea interzisă”; la trecerile la nivel cu calea ferată curentă și la o distanță mai mică de 50 m înainte și după acestea; pe poduri, pasaje denivelate, viaducte și sub acestea; în curbe și în alte locuri cu vizibilitate redusă sub 50 m; la trecerile pentru pietoni și la mai puțin de 25 m înainte și după acestea; în intersecții, inclusiv cele cu circulație în sens giratoriu, precum și în zona de preselecție unde sunt aplicate marcaje continue, iar în lipsa acestora, la o distanță mai mică de 25 m de colțul intersecției; în stațiile mijloacelor de transport public de persoane, precum și la mai puțin de 25 m înainte și după acestea; în dreptul altui vehicul oprit pe partea carosabilă, dacă prin aceasta se stânjenește circulația a două vehicule venind din sensuri opuse, precum și în dreptul marcajului continuu dacă ceilalți conducători sunt obligați să-l încalce; în locurile în care se împiedică vizibilitatea asupra unui indicator sau semnal luminos; pe sectoarele de drum cu semnificația „Drum îngustat”, „Prioritate pentru circulația din sens invers” sau „Prioritate față de circulația din sens invers”; pe pistele obligatorii pentru pietoni ori biciclete sau pe benzile rezervate unor categorii de vehicule; pe platformele căii ferate industriale sau de tramvai, ori la mai puțin de 50 m de acestea, dacă ar fi stânjenită circulația vehiculelor; pe partea carosabilă a autostrăzilor, drumurilor expres sau a celor europene (E); pe trotuar, cu excepția cazului în care administratorul drumului a amenajat spații corespunzătoare conform art. 144 alin. (2) și (3); pe pistele pentru biciclete și în orice loc în care este interzisă depășirea.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10e5",
+    "text": "Care dintre cele trei vehicule va trece ultimul prin intersecție?",
+    "optiuni": {
+      "A": "motocicleta;",
+      "B": "autoturismul;",
+      "C": "tramvaiul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/602.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nContext vizual extras (YOLOv8):\nIndicator Accesul interzis: In general, se amplaseaza pe drumurile cu sens unic, pe sensul pe care nu este permisa circulatia. Interzice accesul tuturor vehiculelor (inclusiv bicicletelor si vehiculelor cu tractiune animala). Acest indicator poate fi insotit si de un panou aditional pe care sunt precizate categoriile de autovehicule care au voie sa intre pe sectorul de drum respectiv, carora nu li se adreseaza deci restrictia de fata.\n---\nIndicator Trecere la nivel cu cale ferată dublă, fără bariere: Amplasat la 6-10 m de trecerea la nivel cu o cale ferata dubla, fara bariere indicatorul obliga conducatorul de vehicul sa opreasca in locul cu vizibilitate maxima, dar fara a depasi acest indicator, pentru a se asigura ca nu se apropie niciun tren.\n---\nIndicator Trecere la nivel cu o cale ferată, fără bariere: Amplasat la 6-10 m de trecerea la nivel cu o cale ferata simpla, fara bariere indicatorul obliga conducatorul de vehicul sa opreasca in locul cu vizibilitate maxima, dar fara a depasi acest indicator, pentru a se asigura ca nu se apropie niciun tren.",
+    "tip_context": "crossencode_prag+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10e6",
+    "text": "Precizați în care situație vehiculele enumerate mai jos au prioritate de trecere:",
+    "optiuni": {
+      "A": "vehiculele aflate în sensul giratoriu, față de cele care se pregătesc să intre în sensul giratoriu;",
+      "B": "autovehiculele din serviciile regulate de transport public, care se pun în mișcare din stație;",
+      "C": "vehiculele care execută manevra de întoarcere."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10e7",
+    "text": "Precizați care vehicule sunt exceptate de la obligația acordării priorității de trecere:",
+    "optiuni": {
+      "A": "cele care se pun în mișcare de pe loc față de cele care circulă;",
+      "B": "autovehiculele din serviciile regulate de transport public, care se pun în mișcare din stația prevăzută cu alveolă;",
+      "C": "cele care ies din curți, ganguri sau garaje."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nPersoanele prevăzute la alin. (1) sunt exceptate de la obligația prezentării la unitatea de poliție dacă există o asigurare facultativă în baza căreia pot fi despăgubite pentru avarierea vehiculelor respective.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cât mai aproape de marginea drumului în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonoră.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\nConducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare sonore și vizuale.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare roșie și sonore.\n---\nLa trecerea la nivel cu o cale ferată curentă, prevăzută cu bariere sau semibariere, conducătorii de vehicule sunt obligați să oprească în dreptul indicatoarelor ce obligă la oprire, dacă acestea sunt în curs de coborâre ori în poziție orizontală și/sau semnalele sonore și luminoase care anunță apropierea trenului sunt în funcțiune.\n---\nSe exceptează de la obligațiile prevăzute la alin. (1): a) conducătorii vehiculelor care încheie o constatare amiabilă de accident; b) conducătorii de vehicule care dețin o asigurare facultativă și din care rezultă doar avarierea propriului vehicul.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10e8",
+    "text": "Ce obligații aveți la trecerea pentru pietoni, pe sensul dvs. de mers?",
+    "optiuni": {
+      "A": "să acodați prioritate de trecere și pietonilor care circulă pe celălalt sens de mers;",
+      "B": "să reduceți viteza și să vă strecurați printre pietoni;",
+      "C": "să acordați prioritate de trecere pietonilor aflați în traversare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10e9",
+    "text": "Cum procedați în intersecția care urmează?",
+    "optiuni": {
+      "A": "traversați fără să acordați prioritate;",
+      "B": "traversați după ce acordați prioritate de dreapta;",
+      "C": "traversați după ce acordați prioritate de stânga."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/652.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În intersecțiile cu sens giratoriu, semnalizate ca atare, vehiculele care circulă în interiorul acestora au prioritate față de cele care urmează să pătrundă în intersecție.\n---\nÎn intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.\n---\ncând urmează să pătrundă într-o intersecție cu circulație în sens giratoriu față de cel care circulă în interiorul acesteia;\n---\nContext vizual extras (YOLOv8):\nIndicator Cedează trecerea: Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa se asigure ca pe drumul prioritar nu circula autovehicule, si abia apoi poate sa patrunda in intersectie. Daca pe drumul prioritar circula alte autovehicule, conducatorul auto este obligat sa opreasca pentru a le acorda prioritate.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ea",
+    "text": "Cum procedați la apropierea de o intersecție în care semnalul luminos ori un indicator de prioritate permite intrarea, dar în care riscați să rămâneți imobilizat din cauza aglomerării circulației?",
+    "optiuni": {
+      "A": "vă este interzisă intrarea în intersecție;",
+      "B": "vă continuați deplasarea, deoarece aveți prioritate;",
+      "C": "nu vă revine nicio obligație."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Se interzice intrarea într-o intersecție chiar dacă semnalul luminos ori un indicator de prioritate permite, dacă din cauza aglomerării circulației conducătorul de vehicul riscă să rămână imobilizat, stânjenind sau împiedicând desfășurarea traficului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10eb",
+    "text": "Care dintre vehicule trebuie să acorde prioritate pietonilor?",
+    "optiuni": {
+      "A": "vehiculul pe care îl conduceți;",
+      "B": "autocamionul galben;",
+      "C": "ambele vehicule."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/664.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nConducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nConducătorul de vehicul care circulă pe banda situată lângă marginea părții carosabile trebuie să acorde prioritate de trecere vehiculelor care efectuează transport public de persoane numai atunci când conducătorii acestora semnalizează intenția de a reintra în trafic din stațiile prevăzute cu alveole și s-au asigurat că prin manevra lor nu pun în pericol siguranța celorlalți participanți la trafic.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\nConducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "crossencode_prag+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ec",
+    "text": "Cum trebuie să procedați în acest caz?",
+    "optiuni": {
+      "A": "accelerați, pentru a trece prin fața pietonilor;",
+      "B": "dați un semnal scurt de avertizare, pentru ca pietonii să nu se angajeze în traversare;",
+      "C": "opriți, pentru a permite pietonilor traversarea."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/688.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Vehiculele trebuie să oprească, în ordinea sosirii, în locul în care există vizibilitate maximă asupra căii ferate fără a trece de indicatoarele prevăzute la alin. (1) lit. c) sau, după caz, înaintea marcajului pentru oprire ori înaintea barierelor sau semibarierelor, când acestea sunt închise, în curs de coborâre sau de ridicare.\n---\nCând semnalul de culoare verde începe să funcționeze intermitent înseamnă că timpul afectat traversării drumului este în curs de epuizare și urmează semnalul roșu. În acest caz pietonii angajați în traversarea drumului trebuie să grăbească trecerea, iar dacă drumul este prevăzut cu un refugiu sau spațiu interzis circulației vehiculelor, să aștepte pe acesta apariția semnalului de culoare verde.\n---\nLa semnalul de culoare roșie vehiculul trebuie oprit înaintea marcajului pentru oprire sau, după caz, pentru trecerea pietonilor, iar în lipsa acestuia, în dreptul semaforului. Dacă semaforul este instalat deasupra ori de cealaltă parte a intersecției, linia marcajului pentru oprire sau pentru trecerea pietonilor, vehiculul trebuie oprit înainte de marginea părții carosabile a drumului ce urmează a fi intersectat.\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ed",
+    "text": "Cum procedați în situația dată?",
+    "optiuni": {
+      "A": "frânați din timp, pentru a acorda prioritate de trecere pietonilor;",
+      "B": "traversați strada accelerat;",
+      "C": "traversați marcajul pentru pietoni înaintea acestora."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/689.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ee",
+    "text": "Care dintre cele două vehicule va intra primul în intersecție?",
+    "optiuni": {
+      "A": "motocicleta, deoarece se deplasează mai repede;",
+      "B": "motocicleta, deoarece se deplasează pe direcția înainte;",
+      "C": "autoturismul, deoarece se deplasează pe drumul prioritar."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/702.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.\n---\nSchimbarea direcției de mers spre stânga, în cazul vehiculelor care intra într-o intersecție circulând pe același drum în aliniament, dar din sensuri opuse, se efectuează prin stânga centrului intersecției, fără intersectarea traiectoriilor acestora.\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nConducătorul vehiculului care intră într-o intersecție la culoarea verde a semaforului este obligat să respecte și semnificația indicatoarelor instalate în interiorul acesteia.\n---\nCând două vehicule urmează să se întâlnească într-o intersecție dirijată prin indicatoare, venind de pe două drumuri publice unde sunt instalate indicatoare cu aceeași semnificație, vehiculul care vine din dreapta are prioritate.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ef",
+    "text": "Ce regulă de prioritate se aplică într-o intersecție nedirijată din afara localității?",
+    "optiuni": {
+      "A": "prioritatea vehiculului cu regim superior de viteză;",
+      "B": "prioritatea drumului principal;",
+      "C": "prioritatea de dreapta."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10f0",
+    "text": "În ce ordine vor trece autovehiculele prin intersecţie?",
+    "optiuni": {
+      "A": "motocicleta, tramvaiul 1, tramvaiul 2, autocamionul;",
+      "B": "motocicleta, autocamionul, tramvaiul 2, tramvaiul 1;",
+      "C": "tramvaiul 1, tramvaiul 2, motocicleta, autocamionul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/722.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În cazul intersecțiilor cu sens giratoriu, conducătorii de vehicule trebuie să respecte regulile privind circulația pe benzi, având obligația să semnalizeze din timp părăsirea intersecției și să se asigure că o pot face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10f1",
+    "text": "Vă puteți apropia de vehiculul din față?",
+    "optiuni": {
+      "A": "da;",
+      "B": "nu, pentru că astfel blocați intersecția;",
+      "C": "legea nu prevede obligații în această situație."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/750.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Pentru a putea întoarce vehiculul de pe un sens de mers pe celălalt prin manevrare înainte și înapoi sau prin viraj, conducătorul acestuia este obligat să semnalizeze și să se asigure că din față, din spate sau din lateral nu circulă în acel moment niciun vehicul.\n---\nContext vizual extras (YOLOv8):\nIndicator Drum cu prioritate: Se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde. Drumurile care intersecteaza drumul cu prioritate vor avea instalate unul dintre indicatoarele \"Oprire\" sau \"Cedeaza trecerea\". Cand este amplasat inaintea unei intersectii, acest indicator poate fi insotit si de un panou aditional care va preciza directia drumului cu prioritate.",
+    "tip_context": "crossencode_prag+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10f2",
+    "text": "Trebuie să acordaţi prioritate autoturismului negru dacă acesta virează la stânga?",
+    "optiuni": {
+      "A": "în funcţie de viteza celor două vehicule",
+      "B": "da",
+      "C": "nu."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/751.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10f3",
+    "text": "Cum procedați corect în această situație?",
+    "optiuni": {
+      "A": "vă angajați în traversare înaintea autocamionului;",
+      "B": "permiteți trecerea autocamionului;",
+      "C": "acordați prioritate de dreapta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/752.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10f4",
+    "text": "Ce obligații aveți dacă, circulând pe un drumul public cu mai multe benzi, banda pe care circulați se sfârșește și trebuie să vă continuați deplasarea pe banda din stânga?",
+    "optiuni": {
+      "A": "să permiteți trecerea vehiculelor care circulă pe banda din stânga;",
+      "B": "să semnalizați, pentru ca cei din spate să vă acorde prioritate;",
+      "C": "să măriți viteza, pentru a nu-i stânjeni pe ceilalți participanți la trafic."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Pe drumul public cu cel mult două benzi pe sens și cu o a treia bandă pe care este amplasată linia tramvaiului lângă axa drumului, conducătorii de vehicule pot folosi această bandă, cu obligația să lase liberă calea tramvaiului, la apropierea acestuia.\n---\nPe un drum public prevăzut cu minimum 3 benzi pe sens, când conducătorii a două autovehicule circulă în aceeași direcție, dar pe benzi diferite, și intenționează să se înscrie pe banda liberă dintre ei, cel care circulă pe banda din dreapta este obligat să permită celui care vine din stânga să ocupe acea bandă.\n---\nPe drumul public cu mai multe benzi, conducătorii de autovehicule care circulă pe o bandă care se sfârșește, pentru a continua deplasarea pe banda din stânga trebuie să permită trecerea vehiculelor care circulă pe acea bandă.\n---\nDacă din cauza deteriorării ambalajului sau din alte cauze marfa ori produsul periculos se împrăștie pe drum, conducătorul este obligat să oprească imediat, să ia măsuri de avertizare a celorlalți conducători care circulă pe drumul public și a persoanelor din jur, să semnalizeze pericolul cu mijloacele pe care le are la îndemână și să anunțe administratorul drumului sau cea mai apropiată unitate de poliție.\n---\nCând drumul are două sau mai multe benzi pe sensul de mers, vehiculele se conduc pe banda situată lângă acostament sau bordură. Celelalte benzi pot fi folosite succesiv, de la dreapta spre stânga, dacă banda de circulație utilizată este ocupată, cu obligația de a reveni pe banda din dreapta atunci când acest lucru este posibil.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10f5",
+    "text": "Cum procedați când circulați pe un drum public și întâlniți indicatorul „Prioritate față de circulația din sens invers“?",
+    "optiuni": {
+      "A": "opriți și acordați prioritate de trecere vehiculelor care se apropie din sens opus;",
+      "B": "vă continuați deplasarea, pentru că aveți prioritate de trecere;",
+      "C": "opriți și acordați prioritate numai vehiculelor cu gabarit depășit, care se apropie din sens opus."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.\n---\nVehiculul care circulă pe un drum public pe care este instalat unul dintre indicatoarele având semnificația: 'Drum cu prioritate', 'Intersecție cu un drum fără prioritate' sau 'Prioritate față de circulația din sens invers' are prioritate de trecere.\n---\nAccidentul de circulație este evenimentul care întrunește cumulativ următoarele condiții: a) s-a produs pe un drum deschis circulației publice ori și-a avut originea într-un asemenea loc; b) a avut ca urmare decesul, rănirea uneia sau a mai multor persoane ori avarierea a cel puțin unui vehicul sau alte pagube materiale; c) în eveniment a fost implicat cel puțin un vehicul în mișcare; d) abrogați.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10f6",
+    "text": "Care este ordinea de trecere prin intersecție a celor trei vehicule?",
+    "optiuni": {
+      "A": "autoturismul roșu, motocicleta, autoturismul albastru;",
+      "B": "motocicleta, autoturismul albastru, autoturismul roșu;",
+      "C": "autoturismul albastru, motocicleta, autoturismul roșu."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/783.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților, în următoarele situații:\n a) la trecerea prin intersecțiile cu circulație nedirijată;\n b) în curbe deosebit de periculoase semnalizate ca atare sau în care vizibilitatea este mai mică de 50 m;\n c) la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, indiferent dacă acestea se află în mers sau staționează pe partea carosabilă a drumurilor cu o singură bandă de circulație pe sens;\n d) la trecerea pe lângă animale care sunt conduse pe partea carosabilă sau pe acostament;\n e) când partea carosabilă este acoperită cu polei, gheață, zăpadă bătătorită, mâzgă sau piatră cubică umedă;\n f) pe drumuri cu denivelări, semnalizate ca atare;\n g) în zona de acțiune a indicatorului de avertizare \"Copii\" în intervalul orar 7.00-22.00, precum și a indicatorului \"Accident\";\n h) la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare;\n i) la schimbarea direcției de mers prin viraje;\n j) când vizibilitatea este sub 100 m în condiții de ceață, ploi torențiale, ninsori abundente.\n---\nDepășirea este manevra prin care un vehicul trece înaintea altui vehicul ori pe lângă un obstacol, aflat pe același sens de circulație, prin schimbarea direcției de mers și ieșirea de pe banda de circulație sau din șirul de vehicule în care s-a aflat inițial.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10f7",
+    "text": "Cum veți proceda dacă intersecția care urmează este blocată din cauza aglomerației?",
+    "optiuni": {
+      "A": "opriți și așteptați deblocarea intersecției, după care vă continuați deplasarea numai la semnalul verde al semaforului;",
+      "B": "vă continuați deplasarea, deoarece semnalul verde vă permite acest lucru;",
+      "C": "claxonați și avansați printre celelalte vehicule."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/792.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10f8",
+    "text": "În ce ordine vor trece autovehiculele prin intersecție?",
+    "optiuni": {
+      "A": "autocamionul, autoturismul verde, autoturismul roșu;",
+      "B": "autoturismul roșu, autoturismul verde, autocamionul albastru;",
+      "C": "autoturismul verde, autocamionul, autoturismul roșu."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/794.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În cazul intersecțiilor cu sens giratoriu, conducătorii de vehicule trebuie să respecte regulile privind circulația pe benzi, având obligația să semnalizeze din timp părăsirea intersecției și să se asigure că o pot face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nContext vizual extras (YOLOv8):\nIndicator Cedează trecerea: Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa se asigure ca pe drumul prioritar nu circula autovehicule, si abia apoi poate sa patrunda in intersectie. Daca pe drumul prioritar circula alte autovehicule, conducatorul auto este obligat sa opreasca pentru a le acorda prioritate.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10f9",
+    "text": "Ce obligaţii aveţi dacă vă aflaţi la volanul autoturismului albastru?",
+    "optiuni": {
+      "A": "vă continuaţi deplasarea pe direcţia înainte, fără nicio obligaţie;",
+      "B": "acordaţi prioritate autoturismului roşu şi autoturismului verde;",
+      "C": "acordaţi prioritate numai autoturismului verde."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/812.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Proprietarul de autovehicul sau remorcă, cu domiciliul, sediul ori reședința în România, este obligat: a) să declare autorității emitente pierderea, furtul sau distrugerea certificatului de înmatriculare, în cel mult 48 de ore de la constatare; b) să depună imediat la autoritatea emitentă originalul certificatului de înmatriculare, dacă, după obținerea duplicatului, a reintrat în posesia acestuia.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10fa",
+    "text": "Cum veți proceda corect atunci când efectuați un viraj spre stânga sau spre dreapta și intersectați un biciclist care circulă pe o pistă pentru biciclete, semnalizată ca atare?",
+    "optiuni": {
+      "A": "acordați prioritate de trecere biciclistului;",
+      "B": "nu acordați prioritate de trecere biciclistului;",
+      "C": "adaptați viteza, astfel încât să nu vă intersectați cu acesta în timpul manevrelor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "când efectuează un viraj spre stânga sau spre dreapta și se intersectează cu un conducător de bicicletă sau trotinetă electrică care circulă pe o pistă pentru biciclete, semnalizată ca atare;",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10fb",
+    "text": "În ce ordine vor trece prin intersecție autovehiculele?",
+    "optiuni": {
+      "A": "autoturismul, motocicleta, autobuzul;",
+      "B": "motocicleta, autobuzul, autoturismul;",
+      "C": "motocicleta, autoturismul, autobuzul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/833.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În cazul intersecțiilor cu sens giratoriu, conducătorii de vehicule trebuie să respecte regulile privind circulația pe benzi, având obligația să semnalizeze din timp părăsirea intersecției și să se asigure că o pot face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nContext vizual extras (YOLOv8):\nIndicator Cedează trecerea: Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa se asigure ca pe drumul prioritar nu circula autovehicule, si abia apoi poate sa patrunda in intersectie. Daca pe drumul prioritar circula alte autovehicule, conducatorul auto este obligat sa opreasca pentru a le acorda prioritate.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10fc",
+    "text": "În intersecții au prioritate de trecere vehiculele care întâlnesc unul dintre indicatoarele:",
+    "optiuni": {
+      "A": "„Intersecție cu un drum fără prioritate“;",
+      "B": "„Înainte“;",
+      "C": "„Circulație în ambele sensuri“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Vehiculul care circulă pe un drum public pe care este instalat unul dintre indicatoarele având semnificația: 'Drum cu prioritate', 'Intersecție cu un drum fără prioritate' sau 'Prioritate față de circulația din sens invers' are prioritate de trecere.\n---\nÎn intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.\n---\nConducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nCând două vehicule urmează să se întâlnească într-o intersecție dirijată prin indicatoare, venind de pe două drumuri publice unde sunt instalate indicatoare cu aceeași semnificație, vehiculul care vine din dreapta are prioritate.\n---\nÎn cazul vehiculelor care pătrund într-o intersecție dintre un drum închis circulației publice și un drum public, au prioritate acele vehicule care circulă pe drumul public.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\nLa ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nÎn intersecțiile cu sens giratoriu, semnalizate ca atare, vehiculele care circulă în interiorul acestora au prioritate față de cele care urmează să pătrundă în intersecție.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10fd",
+    "text": "Vă apropiați de un drum forestier, ce intră în șosea din partea dreaptă și de pe care iese un alt vehicul. Cine trebuie să aștepte?",
+    "optiuni": {
+      "A": "dvs., pentru că acordați prioritate de dreapta;",
+      "B": "vehiculul care iese de pe drumul forestier;",
+      "C": "vehiculul care circulă cu viteză mai mare."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10fe",
+    "text": "Ieșiți cu vehiculul de pe un drum agricol și intenționați să virați la dreapta, intrând în șosea. Din stânga se apropie un alt vehicul. Cine dă prioritate?",
+    "optiuni": {
+      "A": "nu este permisă intrarea pe șosea;",
+      "B": "vehiculul care circulă pe șosea, deoarece dvs. circulați din dreapta acestuia;",
+      "C": "dvs."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.\n---\nSe interzice conducătorilor de vehicule să adopte un comportament agresiv în conducerea acestora pe drumurile publice. Prin comportament agresiv se înțelege efectuarea, pe drumul public, de către conducătorul de vehicul, a uneia dintre următoarele manevre: \na) deplasarea succesivă de pe o bandă de circulație pe alta sau de pe un rând pe altul, alternând din stânga în dreapta, în scopul depășirii unui șir de vehicule care circulă în același sens; \nb) întoarcerea vehiculului prin folosirea frânei de ajutor; \nc) pornirea vehiculului de pe loc prin patinarea excesivă, în gol, a roților motoare; \nd) circulația cu vehiculul la o distanță foarte redusă față de un alt vehicul, înaintea sau în spatele acestuia, cât și în lateral, ori reducerea bruscă a vitezei de deplasare fără motiv întemeiat, de natură a intimida conducătorul acestuia; \ne) folosirea repetată a semnalelor sonore și/sau luminoase fără a obliga nejustificat conducătorul de vehicul care circulă în față sa să elibereze banda de circulație; \nf) conducerea mopedului sau motocicletei având ambele roți ale vehiculului ridicate de pe partea carosabilă numai pe una dintre roți; \ng) mersul cu spatele cu vehiculul în scopul intimidării celorlalți participanți la trafic sau pentru crearea unei situații de blocaj; \nh) realizarea intenționată a unui derapaj controlat al vehiculului prin rotirea acestuia sau a roților acestuia; \ni) conducerea intenționată a vehiculului în mod repetat înainte și înapoi pe o distanță scurtă, prin mișcări înapoi și înainte succesive pe aceeași bandă sau în zona drumului public.\n---\nConducătorul de vehicul este obligat să circule cu o viteză care să nu depășească 30 km/h în localități sau 50 km/h în afara localităților la trecerile pentru pietoni nesemaforizate, semnalizate prin indicatoare și marcaje, când drumul public are cel mult o bandă pe sens, iar pietonii aflați pe trotuar, în imediată apropiere a părții carosabile, intenționează să se angajeze în traversare.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e10ff",
+    "text": "Cum veți proceda pentru a traversa intersecția dacă întâlniți indicatorul „Cedează trecerea“?",
+    "optiuni": {
+      "A": "reduceți viteza numai dacă se apropie vreun autovehicul;",
+      "B": "reduceți viteza, vă asigurați, iar dacă pe drumul transversal circulă în acel moment alte vehicule, opriți pentru a le acorda prioritate de trecere;",
+      "C": "reduceți viteza și vă asigurați, pentru a fi în măsură să acordați prioritate de trecere vehiculelor care circulă din partea dreaptă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La semnalul de culoare roșie vehiculul trebuie oprit înaintea marcajului pentru oprire sau, după caz, pentru trecerea pietonilor, iar în lipsa acestuia, în dreptul semaforului. Dacă semaforul este instalat deasupra ori de cealaltă parte a intersecției, linia marcajului pentru oprire sau pentru trecerea pietonilor, vehiculul trebuie oprit înainte de marginea părții carosabile a drumului ce urmează a fi intersectat.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1100",
+    "text": "Care dintre autovehicule va intra primul în intersecție?",
+    "optiuni": {
+      "A": "autocamionul, deoarece autoturismul virează la stânga și intersectează direcția acestuia de mers;",
+      "B": "autoturismul, deoarece vine din dreapta autocamionului;",
+      "C": "autocamionul, deoarece nu-și schimbă direcția de mers."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/873.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Schimbarea direcției de mers spre stânga, în cazul vehiculelor care intra într-o intersecție circulând pe același drum în aliniament, dar din sensuri opuse, se efectuează prin stânga centrului intersecției, fără intersectarea traiectoriilor acestora.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1101",
+    "text": "În prima intersecție:",
+    "optiuni": {
+      "A": "veți ceda trecerea vehiculelor care circulă din dreapta;",
+      "B": "aveți prioritate de trecere;",
+      "C": "veți ceda trecerea vehiculelor care circulă din stânga."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/886.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Intersecție cu drum fără prioritate: Se instaleaza in afara localitatilor, pe drumurile cu prioritate, la 100-200 m de intersectia cu un drum fara prioritate si are rolul de a confirma prioritatea celui care intalneste acest indicator.\n---\nIndicator Circulație în ambele sensuri: Este intalnit la iesirea de pe un drum public cu sens unic. Are rolul de a atentiona conducatorul auto ca pe sectorul de drum urmator se va circula in ambele sensuri.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1102",
+    "text": "În ce ordine vor trece prin intersecție autoturismele la culoarea galbenă intermitentă a semaforului?",
+    "optiuni": {
+      "A": "roșu, verde, albastru;",
+      "B": "roșu, albastru, verde;",
+      "C": "verde, albastru, roșu."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/902.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Semaforul de avertizare se instalează la ieșirea din intersecție și este constituit dintr-un corp de iluminat cu lumină galbenă intermitentă. Acesta poate avea în câmpul său imaginea unui pieton în mișcare, cu culoare galbenă pe fond negru.\n---\nCând semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.\n---\nLa semnalul de culoare roșie vehiculul trebuie oprit înaintea marcajului pentru oprire sau, după caz, pentru trecerea pietonilor, iar în lipsa acestuia, în dreptul semaforului. Dacă semaforul este instalat deasupra ori de cealaltă parte a intersecției, linia marcajului pentru oprire sau pentru trecerea pietonilor, vehiculul trebuie oprit înainte de marginea părții carosabile a drumului ce urmează a fi intersectat.\n---\nContext vizual extras (YOLOv8):\nIndicator Cedează trecerea: Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa se asigure ca pe drumul prioritar nu circula autovehicule, si abia apoi poate sa patrunda in intersectie. Daca pe drumul prioritar circula alte autovehicule, conducatorul auto este obligat sa opreasca pentru a le acorda prioritate.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1103",
+    "text": "Cum procedați în situația dată?",
+    "optiuni": {
+      "A": "reduceți viteza și la nevoie opriți;",
+      "B": "depășiți fără restricții autobuzul;",
+      "C": "opriți la 5 m în spatele autobuzului."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/911.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1104",
+    "text": "În ce ordine vor circula autovehiculele prin intersecţia prezentată, dacă semafoarele nu funcţionează?",
+    "optiuni": {
+      "A": "tramvaiul 1, tramvaiul 2, autoturismul;",
+      "B": "autoturismul, tramvaiul 1, tramvaiul 2;",
+      "C": "tramvaiul 1, autoturismul, tramvaiul 2."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/912.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Autostrada - drumul național de mare capacitate și viteză, semnalizat special, rezervat exclusiv circulației autovehiculelor, cu sau fără remorci, care nu servește proprietății riverane, prevăzut cu două căi unidirecționale, separate printr-o zonă mediană sau, în mod excepțional, prin alte modalități, cu excepția unor locuri speciale sau cu caracter temporar, având cel puțin două benzi de circulație pe sens și bandă de urgență, intersecții denivelate și accese limitate, intrarea și ieșirea fiind permise numai prin locuri special amenajate.\n---\nÎn intersecții dirijarea circulației tramvaielor se poate realiza și prin semafoare având semnale luminoase de culoare albă, corelate cu semnalele luminoase pentru dirijarea circulației celorlalte vehicule.\n---\nContext vizual extras (YOLOv8):\nIndicator Intersecție cu drum fără prioritate: Se instaleaza in afara localitatilor, pe drumurile cu prioritate, la 100-200 m de intersectia cu un drum fara prioritate si are rolul de a confirma prioritatea celui care intalneste acest indicator.\n---\nIndicator Presemnalizarea traseului de urmat în vederea efectuării virajului la stânga: Indicatorul se aseaza inainte unei intersectii, care precede o alta intersectie in care virajul la stanga este interzis. Are rolul de a orienta conducatorul de vehicul asupra traseului pe care trebuie sa-l urmeze daca vrea sa vireze la stanga.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1105",
+    "text": "Cum este corect să procedaţi, dacă vă aflaţi la volanul autoturismului roşu?",
+    "optiuni": {
+      "A": "circulând spre stânga, vă puteţi angaja abia ultimul;",
+      "B": "vă angajaţi primul în traversare;",
+      "C": "permiteţi trecerea tramvaiului."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/913.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Cedează trecerea: Se amplaseaza pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar. La intalnirea acestui indicator, conducatorul auto este obligat sa reduca viteza si sa se asigure ca pe drumul prioritar nu circula autovehicule, si abia apoi poate sa patrunda in intersectie. Daca pe drumul prioritar circula alte autovehicule, conducatorul auto este obligat sa opreasca pentru a le acorda prioritate.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1106",
+    "text": "Virați la stânga în intersecție. Cum procedați?",
+    "optiuni": {
+      "A": "acordați prioritate autoturismului din stânga;",
+      "B": "aveți prioritate față de autoturismul alb din stânga;",
+      "C": "nu vă este permis să virați la stânga."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/916.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Se interzice întoarcerea vehiculului în intersecțiile în care este interzis virajul la stânga, precum și în cele în care, pentru efectuare, este necesară manevrarea înainte și înapoi a vehiculului.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1107",
+    "text": "Puteţi depăşi tramvaiul oprit într-o staţie fără refugiu pentru pietoni, pe o stradă cu sens unic?",
+    "optiuni": {
+      "A": "da, dar numai pe partea stângă;",
+      "B": "da, dar numai dacă nu există pietoni în staţia de tramvai;",
+      "C": "nu, deoarece depăşirea este interzisă."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În cazul în care tramvaiul este oprit într-o stație fără refugiu pentru pietoni, vehiculele trebuie să oprească în ordinea sosirii, în spatele acestuia, și să își reia deplasarea numai după ce ușile tramvaiului au fost închise și s-au asigurat că nu pun în pericol siguranța pietonilor angajați în traversarea drumului public.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1108",
+    "text": "Cum trebuie să procedați dacă virați la stânga?",
+    "optiuni": {
+      "A": "cedați trecerea autovehiculului alb;",
+      "B": "accelerați, pentru a nu vă intersecta cu autovehiculul alb;",
+      "C": "executați manevra cu luminile de avarie aprinse."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/948.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Autovehiculul de însoțire trebuie să fie echipat cu un dispozitiv special de avertizare cu lumină galbenă și să aibă montată, în funcție de locul ocupat la însoțire, la partea stângă din față sau din spate, plăcuță de identificare reflectorizantă, având fondul alb și chenarul roșu.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1109",
+    "text": "Care este ordinea de trecere prin intersecție a autoturismelor?",
+    "optiuni": {
+      "A": "roșu, verde, albastru;",
+      "B": "verde, albastru, roșu;",
+      "C": "albastru, verde, roșu."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/949.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e110a",
+    "text": "Ce obligații vă revin dacă, într-o intersecție, virați la stânga pe semnalul verde al semaforului?",
+    "optiuni": {
+      "A": "nicio obligație;",
+      "B": "acordați prioritate de trecere mijloacelor de transport public de persoane;",
+      "C": "acordați prioritate de trecere atât vehiculelor care circulă din sens opus, cât și pietonilor aflați în traversare pe sensul dumneavoastră de mers."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul vehiculului care intră într-o intersecție la culoarea verde a semaforului este obligat să respecte și semnificația indicatoarelor instalate în interiorul acesteia.\n---\nSe interzice intrarea într-o intersecție chiar dacă semnalul luminos ori un indicator de prioritate permite, dacă din cauza aglomerării circulației conducătorul de vehicul riscă să rămână imobilizat, stânjenind sau împiedicând desfășurarea traficului.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e110b",
+    "text": "Neacordarea priorității înseamnă:",
+    "optiuni": {
+      "A": "nerespectarea semnificației semnalizării rutiere de obligare sau de avertizare;",
+      "B": "nerespectarea dispozițiilor legale privind asigurarea și semnalizarea în intersecții;",
+      "C": "obligarea celor care au prioritate de trecere de a-și modifica brusc direcția sau viteza de deplasare ori să oprească."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e110c",
+    "text": "Cum procedați în prima intersecție?",
+    "optiuni": {
+      "A": "acordați prioritate de trecere tuturor vehiculelor care circulă în intersecție;",
+      "B": "acordați prioritate de trecere numai vehiculelor care circulă din stânga;",
+      "C": "aplicați regula priorității de dreapta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/961.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Intersecție cu drum fără prioritate: Se instaleaza in afara localitatilor, pe drumurile cu prioritate, la 100-200 m de intersectia cu un drum fara prioritate si are rolul de a confirma prioritatea celui care intalneste acest indicator.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e110d",
+    "text": "Care dintre autovehicule va trece al doilea prin intersecția prezentată?",
+    "optiuni": {
+      "A": "autoturismul roșu;",
+      "B": "autoturismul verde;",
+      "C": "autocamionul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/964.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\nConducătorul vehiculului al cărui mers înainte este obstruat de un obstacol sau de prezența altor participanți la trafic, care impune trecerea pe sensul opus, este obligat să reducă viteza și, la nevoie, să oprească pentru a permite trecerea vehiculelor care circulă din sens opus.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e110e",
+    "text": "Autovehiculul din fața dvs. traversează intersecția. Cum veți proceda?",
+    "optiuni": {
+      "A": "executați aceeași manevră, dacă nu sunt alte obligații;",
+      "B": "opriți, deoarece trebuie să vă asigurați;",
+      "C": "cedați trecerea autovehiculelor care vin din dreapta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/966.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Trecere de pietoni: Trecere pentru pietoni",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e110f",
+    "text": "În ce ordine vor trece prin intersecție cele patru autovehicule?",
+    "optiuni": {
+      "A": "autoturismul, autocamionul, motocicleta, autobuzul;",
+      "B": "autobuzul, autocamionul, motocicleta, autoturismul;",
+      "C": "autoturismul, autobuzul, motocicleta, autocamionul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/968.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În cazul intersecțiilor cu sens giratoriu, conducătorii de vehicule trebuie să respecte regulile privind circulația pe benzi, având obligația să semnalizeze din timp părăsirea intersecției și să se asigure că o pot face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1110",
+    "text": "Bicicliștii și conducătorii de vehicule cu tracțiune animală sunt obligați să acorde întotdeauna prioritate?",
+    "optiuni": {
+      "A": "da, deoarece viteza de deplasare este mică;",
+      "B": "da, dacă circulă pe drumuri județene sau comunale;",
+      "C": "nu, dacă semnalizarea rutieră nu prevede acest lucru."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\nConducătorii vehiculelor cu două roți, precum și cei cu tracțiune animală sau vehicule trase/împinse cu mâna sunt obligați să efectueze următoarele semnale: a) brațul stâng întins orizontal pentru schimbarea direcției de mers spre stânga sau depășire; b) brațul drept întins orizontal pentru schimbarea direcției spre dreapta; c) brațul drept întins oblic în jos pentru oprire.\n---\nConducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nConducătorii de vehicule sunt obligați să reducă viteza, să circule cât mai aproape de marginea drumului în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonoră.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare sonore și vizuale.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare roșie și sonore.\n---\nLa ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nConducătorii de vehicule sunt obligați să circule cu o viteză de cel mult 20 km/h, să nu staționeze sau să parcheze vehiculul în afara spațiilor anume destinate și semnalizate ca atare, să nu stânjenească sau să împiedice circulația pietonilor chiar dacă, în acest scop, trebuie să oprească.\n---\nConducătorii de vehicule sau de animale implicați în accidente de circulație din care a rezultat moartea sau vătămarea integrității corporale ori a sănătății uneia sau mai multor persoane sunt obligați să se supună recoltării mostrelor biologice în vederea stabilirii alcoolemiei sau, după caz, a consumului de substanțe psihoactive.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1111",
+    "text": "La intersecția nedirijată dintre un drum județean și unul comunal sau local, prioritatea de trecere se acordă:",
+    "optiuni": {
+      "A": "vehiculelor care circulă pe drumul județean;",
+      "B": "vehiculelor care circulă pe drumul comunal sau local;",
+      "C": "vehiculelor care vin din dreapta."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "la intersecția nedirijată atunci când pătrunde pe un drum județean venind de pe un drum comunal sau local;\n---\nla intersecția nedirijată atunci când pătrunde pe un drum național venind de pe un drum județean, comunal sau local;\n---\nla intersecția nedirijată atunci când pătrunde pe un drum comunal venind de pe un drum local;",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1112",
+    "text": "În ce ordine vor intra autovehiculele în intersecție?",
+    "optiuni": {
+      "A": "motocicleta, autocamionul, autoturismul;",
+      "B": "motocicleta, autoturismul, autocamionul;",
+      "C": "autocamionul, motocicleta, autoturismul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/995.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Sfârșitul drumului cu prioritate: Se amplaseaza la 50-200 m de locul unde inceteaza semnificatia indicatorului \"Drum cu prioritate\", avand rolul de a informa conducatorul auto ca in urmatoarea intersectie in care va patrunde, toate drumurile vor fi de aceeasi categorie si se va aplica regula prioritatii de dreapta.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1113",
+    "text": "Cum procedați în intersecția care urmează?",
+    "optiuni": {
+      "A": "opriți și acordați prioritate pietonilor;",
+      "B": "opriți la marcajul transversal de oprire și vă asigurați, după care virați la dreapta;",
+      "C": "reduceți viteza și virați la dreapta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1003.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "În intersecțiile cu sens giratoriu, semnalizate ca atare, vehiculele care circulă în interiorul acestora au prioritate față de cele care urmează să pătrundă în intersecție.\n---\nÎn intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.\n---\ncând urmează să pătrundă într-o intersecție cu circulație în sens giratoriu față de cel care circulă în interiorul acesteia;\n---\nContext vizual extras (YOLOv8):\nIndicator Oprire: Este instalat pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar, cand vizibilitatea este redusa. Conducatorul de vehicul care intalneste acest indicator este obligat sa opreasca in locul cu vizibilitate maxima, fara a depasi coltul intersectiei, si sa acorde prioritate tuturor vehiculelor care circula pe drumul prioritar.\n---\nIndicator Înainte: Indicatorul se monteaza cu cel mult 50 m inainte de o intersectie, obligand conducatorul auto sa circule pe directia indicata de sageata (nu poate vira stanga sau dreapta, nu poate intoarce). Daca actioneaza asupra unei singure benzi, atunci se va instala deasupra benzii respective. Acest indicator actioneaza doar in intersectia inaintea careia este instalat.",
+    "tip_context": "crossencode_fallback+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1114",
+    "text": "Există situaţii când conducătorul de autovehicul acordă prioritate de trecere bicicletei sau unui vehicul cu tracţiune animală?",
+    "optiuni": {
+      "A": "nu, legislaţia rutieră nu prevede asemenea situaţii;",
+      "B": "nu, conducătorii de autovehicule au întotdeauna prioritate;",
+      "C": "da."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul este obligat să acorde prioritate de trecere în următoarele situații: e) când circulă în pantă față de cel care urcă, dacă pe sensul de mers al celui care se află urcând este un obstacol imobil. În această situație manevra nu este considerată depășire în sensul prevederilor art. 120 lit. j).\n---\nConducătorul de vehicul este obligat să acorde prioritate de trecere și în următoarele situații:\n---\nConducătorul de vehicul care circulă pe banda situată lângă marginea părții carosabile trebuie să acorde prioritate de trecere vehiculelor care efectuează transport public de persoane numai atunci când conducătorii acestora semnalizează intenția de a reintra în trafic din stațiile prevăzute cu alveole și s-au asigurat că prin manevra lor nu pun în pericol siguranța celorlalți participanți la trafic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1115",
+    "text": "Cum trebuie să procedaţi corect, dacă vă aflaţi la volanul autoturismului?",
+    "optiuni": {
+      "A": "permiteţi trecerea camionului;",
+      "B": "permiteţi trecerea tramvaiului;",
+      "C": "viraţi înaintea tramvaiului."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1026.jpeg",
+    "raspuns_fara_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Sfârșitul drumului cu prioritate: Se amplaseaza la 50-200 m de locul unde inceteaza semnificatia indicatorului \"Drum cu prioritate\", avand rolul de a informa conducatorul auto ca in urmatoarea intersectie in care va patrunde, toate drumurile vor fi de aceeasi categorie si se va aplica regula prioritatii de dreapta.\n---\nIndicator Drum cu prioritate: Se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde. Drumurile care intersecteaza drumul cu prioritate vor avea instalate unul dintre indicatoarele \"Oprire\" sau \"Cedeaza trecerea\". Cand este amplasat inaintea unei intersectii, acest indicator poate fi insotit si de un panou aditional care va preciza directia drumului cu prioritate.\n---\nIndicator Oprire: Este instalat pe drumul public fara prioritate, la intersectia acestuia cu un drum public prioritar, cand vizibilitatea este redusa. Conducatorul de vehicul care intalneste acest indicator este obligat sa opreasca in locul cu vizibilitate maxima, fara a depasi coltul intersectiei, si sa acorde prioritate tuturor vehiculelor care circula pe drumul prioritar.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1116",
+    "text": "Într-o intersecție întâlniți semnalul de culoare verde al semaforului, precum și indicatorul „Oprire“. Cum veți proceda?",
+    "optiuni": {
+      "A": "respectați semnificația indicatorului rutier;",
+      "B": "respectați semnificația culorii semaforului;",
+      "C": "circulați cu atenție și acordați prioritate de trecere vehiculelor de pe drumul transversal."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul vehiculului care intră într-o intersecție la culoarea verde a semaforului este obligat să respecte și semnificația indicatoarelor instalate în interiorul acesteia.\n---\nCând semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1117",
+    "text": "Care dintre conducătorii de vehicule, ce se apropie simultan de o intersecție, are prioritate de trecere, în situația în care unul întâlnește indicatorul „Oprire\", iar celălalt indicatorul „Cedează trecerea\"?",
+    "optiuni": {
+      "A": "conducătorul care întâlnește indicatorul „Cedează trecerea“;",
+      "B": "conducătorul care circulă din dreapta;",
+      "C": "conducătorul care întâlnește indicatorul „Oprire“."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\nLa ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nCând semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.\n---\nÎn intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1118",
+    "text": "Cum procedați în situația dată?",
+    "optiuni": {
+      "A": "acordați prioritate autoturismului din stânga;",
+      "B": "vă continuați drumul;",
+      "C": "acordați prioritate autoturismului din dreapta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1043.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Drum cu prioritate: Se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde. Drumurile care intersecteaza drumul cu prioritate vor avea instalate unul dintre indicatoarele \"Oprire\" sau \"Cedeaza trecerea\". Cand este amplasat inaintea unei intersectii, acest indicator poate fi insotit si de un panou aditional care va preciza directia drumului cu prioritate.\n---\nIndicator Sfârșitul drumului cu prioritate: Se amplaseaza la 50-200 m de locul unde inceteaza semnificatia indicatorului \"Drum cu prioritate\", avand rolul de a informa conducatorul auto ca in urmatoarea intersectie in care va patrunde, toate drumurile vor fi de aceeasi categorie si se va aplica regula prioritatii de dreapta.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1119",
+    "text": "Conducătorul de vehicul are obligația de a ceda trecerea la schimbarea direcției de mers spre stânga, în timp ce semnalul verde este în funcțiune?",
+    "optiuni": {
+      "A": "nu, deoarece semnalul verde îi conferă prioritate de trecere;",
+      "B": "nu, cu excepția cazului în care, din sens opus, se apropie un mijloc de transport public;",
+      "C": "da, atât vehiculelor care circulă din sens opus, cât și pietonilor care traversează strada pe care acesta urmează să intre, pe sensul său de mers."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care executa o manevra de schimbare a direcției de mers, de ieșire dintr-un rând de vehicule staționate sau de intrare într-un asemenea rând, de trecere pe o altă bandă de circulație sau de virare spre dreapta ori spre stânga sau care urmează să efectueze o întoarcere ori să meargă cu spatele este obligat să semnalizeze din timp și să se asigure că o poate face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e111a",
+    "text": "Conducătorul de autoturism care se află în spatele unui autobuz şi întâlneşte indicatorul „Oprire” trebuie:",
+    "optiuni": {
+      "A": "să continue deplasarea şi să traverseze o dată cu autobuzul, deoarece conducătorul acestuia a oprit şi s-a asigurat;",
+      "B": "să oprească şi să se asigure înainte de a traversa intersecţia, chiar dacă acest lucru a fost făcut şi de către conducătorul autobuzului;",
+      "C": "să continue deplasarea şi să traverseze intersecţia imediat în urma autobuzului, deoarece, în acest caz, nu se expune niciunui pericol."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Polițistul rutier aflat într-un autovehicul al poliției poate executa semnele cu brațul, cu sau fără baston reflectorizant, scos pe partea laterală dreaptă a vehiculului. Acest semnal semnifică oprire pentru conducătorii vehiculelor care circulă în spatele autovehiculului poliției. Același semnal efectuat pe partea stângă a autovehiculului semnifică oprire pentru conducătorii vehiculelor care circulă pe banda din partea stângă în același sens de mers ori în sens opus celui al autovehiculului poliției.\n---\nSe interzice conducătorului de autovehicul care transportă mărfuri sau produse periculoase:\n a) să provoace șocuri autovehiculului în mers;\n b) să fumeze în timpul mersului ori să aprindă foc la oprire sau staționare, la o distanță mai mică de 50 m de autovehicul;\n c) să lase autovehiculul și încărcătura fără supravegherea sa, a însoțitorului ori a unei alte persoane calificate;\n d) să remorcheze un vehicul rămas în pană;\n e) să urmeze alte trasee sau să staționeze în alte locuri decât cele stabilite, precum și pe partea carosabilă a drumului pe timp de noapte;\n f) să transporte alte încărcături care, prin natura lor, ar putea determina o sporire a pericolului;\n g) să permită prezența în autovehicul a altor persoane, cu excepția celuilalt conducător, a însoțitorilor sau a celor care încarcă ori descarcă mărfurile sau produsele transportate;\n h) să intre pe sectoarele de drum pe care îi este interzis accesul;\n i) să păstreze în autovehicul rezerve de combustibil în ambalaje care nu sunt special confecționate în acest scop.\n---\nConstatarea contravenției de conducere a unui autovehicul, tractor agricol sau forestier ori tramvai de către o persoană care se află sub influența alcoolului se face prin testarea aerului expirat de aceasta cu un mijloc tehnic certificat sau cu un mijloc tehnic omologat și verificat metrologic.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e111b",
+    "text": "Cum procedaţi dacă vă aflaţi la volanul autoturismului?",
+    "optiuni": {
+      "A": "acordaţi prioritate tramvaiului;",
+      "B": "acordaţi prioritate autobuzului;",
+      "C": "acordaţi prioritate ambelor vehicule, fiind din serviciul de transport public de persoane."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1053.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e111c",
+    "text": "Autoturismul semnalizează intenția de a se pune în mișcare. Puteți efectua depășirea?",
+    "optiuni": {
+      "A": "nu, deoarece a semnalizat corect;",
+      "B": "nu, vehiculele care pleacă de pe loc au prioritate;",
+      "C": "da, procedați regulamentar."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1064.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care efectuează depășirea este obligat:\na) să se asigure că acela care îl urmează sau îl precedă nu a semnalizat intenția începerii unei manevre similare și că poate depăși fără a pune în pericol sau fără a stânjeni circulația din sens opus;\nb) să semnalizeze intenția de efectuare a depășirii;\nc) să păstreze în timpul depășirii o distanță laterală suficientă față de vehiculul depășit;\nd) să reintre pe banda sa sau în șirul de circulație inițial după ce a semnalizat și s-a asigurat că poate efectua această manevră în condiții de siguranță pentru vehiculul depășit și pentru ceilalți participanți la trafic.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e111d",
+    "text": "Care sunt vehiculele care au prioritate în sensul giratoriu?",
+    "optiuni": {
+      "A": "toate vehiculele care au pătruns în sensul giratoriu, față de cele care urmează să pătrundă;",
+      "B": "toate autovehiculele care vin din față;",
+      "C": "toate vehiculele care vin din dreapta."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să reducă viteza, să circule cu atenție și să elibereze banda de circulație în sensul de deplasare și să acorde prioritate la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare albastră și sonore.\n---\nÎn intersecțiile cu sens giratoriu, semnalizate ca atare, vehiculele care circulă în interiorul acestora au prioritate față de cele care urmează să pătrundă în intersecție.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare sonore și vizuale.\n---\nConducătorii de vehicule sunt obligați să oprească imediat, pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau bordura trotuarului, în sensul de deplasare, la apropierea și la trecerea autovehiculelor cu regim de circulație prioritară care au în funcțiune mijloacele speciale de avertizare luminoasă de culoare roșie și sonore.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e111e",
+    "text": "Care dintre cele trei vehicule va trece al doilea prin intersecție?",
+    "optiuni": {
+      "A": "autoturismul verde;",
+      "B": "autoturismul roșu;",
+      "C": "autocamionul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1078.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nCând semnalul de culoare galbenă apare după semnalul de culoare verde, conducătorul vehiculului care se apropie de intersecție nu trebuie să treacă de locurile prevăzute la art. 52 alin. (2), cu excepția situației în care, la apariția semnalului, se află atât de aproape de acele locuri încât nu ar mai putea opri vehiculul în condiții de siguranță.\n---\nLa ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nContext vizual extras (YOLOv8):\nIndicator Sfârșitul drumului cu prioritate: Se amplaseaza la 50-200 m de locul unde inceteaza semnificatia indicatorului \"Drum cu prioritate\", avand rolul de a informa conducatorul auto ca in urmatoarea intersectie in care va patrunde, toate drumurile vor fi de aceeasi categorie si se va aplica regula prioritatii de dreapta.",
+    "tip_context": "crossencode_prag+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e111f",
+    "text": "Cum este corect să procedați dacă părăsiți drumul prioritar?",
+    "optiuni": {
+      "A": "aveți prioritate, deoarece vă aflați pe un drum prioritar;",
+      "B": "cedați trecerea vehiculelor care vin din față;",
+      "C": "cedați trecerea vehiculelor care vin din dreapta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1093.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Drum cu prioritate: Se instaleaza la inceputul drumului cu prioritate sau inaintea intersectiilor cu un drum fara prioritate. Are rolul de a anunta conducatorul auto ca are prioritate in intersectiile in care va patrunde. Drumurile care intersecteaza drumul cu prioritate vor avea instalate unul dintre indicatoarele \"Oprire\" sau \"Cedeaza trecerea\". Cand este amplasat inaintea unei intersectii, acest indicator poate fi insotit si de un panou aditional care va preciza directia drumului cu prioritate.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1120",
+    "text": "În ce ordine vor trece autovehiculele prin intersecția prezentată?",
+    "optiuni": {
+      "A": "autoturismul, autocamionul, motocicleta;",
+      "B": "autocamionul, autoturismul, motocicleta;",
+      "C": "autoturismul, motocicleta, autocamionul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1094.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1121",
+    "text": "Ce obligaţii vă revin atunci când conducătorul unui autobuz aflat într-o staţie prevăzută cu alveolă intenţionează să se pună în mişcare?",
+    "optiuni": {
+      "A": "să circulaţi cu prudenţă, dar nu aveţi nicio obligaţie;",
+      "B": "să măriţi viteza, pentru a degaja traficul;",
+      "C": "să reduceţi viteza şi, la nevoie, să opriţi pentru a-i permite reintrarea în trafic."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Nerespectarea obligației de a acționa frâna de ajutor, de a cupla într-o treaptă de viteză inferioară sau în cea de parcare dacă autovehiculul are transmisie automată, atunci când conducătorul autovehiculului imobilizat pe drum public se îndepărtează de acesta atrage 3 puncte de penalizare.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1122",
+    "text": "În ce ordine vor trece autovehiculele prin intersecția prezentată?",
+    "optiuni": {
+      "A": "roșu, verde albastru;",
+      "B": "verde, roșu, albastru;",
+      "C": "albastru, verde, roșu."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1122.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1123",
+    "text": "În ce ordine trec prin intersecția prezentată cele trei autovehicule?",
+    "optiuni": {
+      "A": "albastru, roșu, verde;",
+      "B": "albastru, verde, roșu;",
+      "C": "roșu, albastru, verde."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1131.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1124",
+    "text": "Dacă circulați într-o intersecție cu sens giratoriu, acordați prioritate:",
+    "optiuni": {
+      "A": "niciunui vehicul;",
+      "B": "vehiculelor care urmează să intre în intersecție;",
+      "C": "autobuzelor și troleibuzelor."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Intersecție cu sens giratoriu - intersecție dirijată, semnalizată ca atare, prevăzută cu una sau mai multe benzi de circulație, în care circulația se desfășoară într-o singură direcție în jurul unei zone centrale.\n---\nSe interzice intrarea într-o intersecție chiar dacă semnalul luminos ori un indicator de prioritate permite, dacă din cauza aglomerării circulației conducătorul de vehicul riscă să rămână imobilizat, stânjenind sau împiedicând desfășurarea traficului.\n---\nÎn cazul intersecțiilor cu sens giratoriu, conducătorii de vehicule trebuie să respecte regulile privind circulația pe benzi, având obligația să semnalizeze din timp părăsirea intersecției și să se asigure că o pot face fără să perturbe circulația sau să pună în pericol siguranța celorlalți participanți la trafic.\n---\nÎn intersecțiile cu sens giratoriu, semnalizate ca atare, vehiculele care circulă în interiorul acestora au prioritate față de cele care urmează să pătrundă în intersecție.\n---\nÎn intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1125",
+    "text": "Cărui autoturism trebuie să-i acordați prioritate?",
+    "optiuni": {
+      "A": "niciunui autoturism;",
+      "B": "autoturismului roșu;",
+      "C": "autoturismului verde."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1147.jpeg",
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Conducătorii de vehicule sunt obligați să acorde prioritate de trecere pietonilor aflați pe partea carosabilă pentru a urca în tramvai sau după ce au coborât din acesta, dacă tramvaiul este oprit în stație fără refugiu.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.\n---\nAu regim de circulație prioritară numai autovehiculele prevăzute la art. 32 alin. (2) lit. a) și b), atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență. Pentru a avea prioritate de trecere, aceste autovehicule trebuie să aibă în funcțiune semnalele luminoase și sonore.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1126",
+    "text": "Care dintre autovehicule va intra ultimul în intersecție?",
+    "optiuni": {
+      "A": "autoturismul;",
+      "B": "autobuzul;",
+      "C": "autocamionul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1148.jpeg",
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "Conducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nSchimbarea direcției de mers spre stânga, în cazul vehiculelor care intra într-o intersecție circulând pe același drum în aliniament, dar din sensuri opuse, se efectuează prin stânga centrului intersecției, fără intersectarea traiectoriilor acestora.\n---\nConducătorul vehiculului care intră într-o intersecție la culoarea verde a semaforului este obligat să respecte și semnificația indicatoarelor instalate în interiorul acesteia.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1127",
+    "text": "Care dintre vehiculele din imagine va intra primul în intersecție?",
+    "optiuni": {
+      "A": "autoturismul;",
+      "B": "motocicleta;",
+      "C": "autocamionul."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1154.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "Schimbarea direcției de mers spre stânga, în cazul vehiculelor care intra într-o intersecție circulând pe același drum în aliniament, dar din sensuri opuse, se efectuează prin stânga centrului intersecției, fără intersectarea traiectoriilor acestora.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1128",
+    "text": "Care sunt vehiculele care au prioritate de trecere într-o intersecție dirijată?",
+    "optiuni": {
+      "A": "autocamioanele de mare tonaj;",
+      "B": "vehiculele aparținând Protecției Civile, semnalizate ca atare;",
+      "C": "vehiculele aparținând Serviciului de Ambulanță, când au în funcțiune semnalele speciale luminoase și sonore."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "C"
+    ],
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "Când două vehicule urmează să se întâlnească într-o intersecție dirijată prin indicatoare, venind de pe două drumuri publice unde sunt instalate indicatoare cu aceeași semnificație, vehiculul care vine din dreapta are prioritate.\n---\nÎn intersecții, conducătorii vehiculelor care virează spre stânga sunt obligați să acorde prioritate de trecere vehiculelor cu care se intersectează și care circulă din partea dreaptă.\n---\nLa ieșirea din zonele rezidențiale sau pietonale, conducătorii de vehicule sunt obligați să acorde prioritate de trecere tuturor vehiculelor cu care se intersectează.\n---\nLa apropierea de o intersecție conducătorul de vehicul trebuie să circule cu o viteză care să îi permită oprirea, pentru a acorda prioritate de trecere participanților la trafic care au acest drept.\n---\nConducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nÎn cazul vehiculelor care pătrund într-o intersecție dintre un drum închis circulației publice și un drum public, au prioritate acele vehicule care circulă pe drumul public.\n---\nÎn intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.\n---\nVehiculul care circulă pe un drum public pe care este instalat unul dintre indicatoarele având semnificația: 'Drum cu prioritate', 'Intersecție cu un drum fără prioritate' sau 'Prioritate față de circulația din sens invers' are prioritate de trecere.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1129",
+    "text": "Care dintre cele trei vehicule va trece ultimul prin intersecție?",
+    "optiuni": {
+      "A": "autobuzul;",
+      "B": "autoturismul;",
+      "C": "autocamioneta mov."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1173.jpeg",
+    "raspuns_fara_context": [
+      "A"
+    ],
+    "raspuns_cu_context": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e112a",
+    "text": "Care este regula priorității de trecere la intersecția a două drumuri de aceeași categorie, cu circulație nedirijată?",
+    "optiuni": {
+      "A": "prioritatea de dreapta;",
+      "B": "prioritatea primului sosit;",
+      "C": "prioritatea de drum principal."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "B"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "În intersecțiile cu circulație dirijată prin indicatoare de prioritate, regula priorității de dreapta se respectă numai în cazul în care două vehicule urmează să se întâlnească, fiecare intrând în intersecție de pe un drum semnalizat cu un indicator având aceeași semnificație de prioritate sau de pierdere a priorității.\n---\nÎn intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e112b",
+    "text": "Cum procedați în această situație?",
+    "optiuni": {
+      "A": "circulați după autocamion;",
+      "B": "permiteți pietonului să traverseze strada;",
+      "C": "avertizați sonor pietonul pentru a se opri, apoi circulați mai departe."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1197.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "\n---\nContext vizual extras (YOLOv8):\nIndicator Bandă destinată circulației vehiculelor lente: Este amplasat pe drumurile publice si are rolul de a orienta conducatorii auto asupra benzii pe care se deplaseaza vehiculele lente, cu viteze mai mici decat cea inscriptionata pe panou.",
+    "tip_context": "empty_context+context_yolo"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e112c",
+    "text": "Într-o intersecție nedirijată, conducătorul unui vehicul este obligat să acorde prioritate de trecere unui autovehicul al ambulanței care circulă din partea stângă, având în funcțiune dispozitivul special cu lumini de culoare albastră și pe cel sonor?",
+    "optiuni": {
+      "A": "nu, deoarece în acest caz se aplică regula priorității de dreapta;",
+      "B": "nu, deoarece ambulanța nu face parte din categoria autovehiculelor cu regim prioritar;",
+      "C": "da."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.\n---\nConducătorul de vehicul care se apropie de intrarea într-o intersecție, simultan cu un autovehicul cu regim de circulație prioritară care are în funcțiune semnalele luminoase și sonore, are obligația să îi acorde prioritate de trecere.\n---\nLa intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.",
+    "tip_context": "crossencode_prag"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e112d",
+    "text": "Cum procedați în această situație, dacă semafoarele nu funcționează?",
+    "optiuni": {
+      "A": "acordați prioritate de stânga;",
+      "B": "acordați prioritate de dreapta;",
+      "C": "aveți prioritate."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1210.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e112e",
+    "text": "Care dintre cele trei autovehicule va trece ultimul prin intersecția din imagine?",
+    "optiuni": {
+      "A": "motocicleta;",
+      "B": "autoturismul roșu;",
+      "C": "autoturismul verde."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1214.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B",
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "B"
+    ],
+    "paragrafe_context": "La intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să cedeze trecerea vehiculelor care vin din partea dreaptă, în condițiile stabilite prin regulament.",
+    "tip_context": "crossencode_fallback"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e112f",
+    "text": "În ce ordine vor trece prin intersecție autovehiculele din imagine?",
+    "optiuni": {
+      "A": "autoturismul, autocamionul, motocicleta;",
+      "B": "autocamionul, motocicleta, autoturismul;",
+      "C": "autocamionul, autoturismul, motocicleta."
+    },
+    "cale_imagine": "/mnt/c/Users/Burak/Desktop/licenta/images/1227.jpeg",
+    "raspuns_fara_context": [
+      "B"
+    ],
+    "raspuns_cu_context": [
+      "B"
+    ],
+    "raspuns_cu_context_greseala": [
+      "A",
+      "B",
+      "C"
+    ],
+    "raspuns_corect": [
+      "A"
+    ],
+    "paragrafe_context": "",
+    "tip_context": "empty_context"
+  },
+  {
+    "id": "67f0dc3c2be5222d1c2e1130",
+    "text": "Într-o intersecție nedirijată, conducătorul unui vehicul este obligat să acorde prioritate unui autovehicul destinat stingerii incendiilor, care circulă din stânga, având în funcțiune semnalizarea specială luminoasă și sonoră?",
+    "optiuni": {
+      "A": "nu, deoarece și în acest caz se aplică regula priorității de dreapta;",
+      "B": "nu, deoarece autovehiculul destinat stingerii incendiilor nu face parte din categoria autovehiculelor cu regim prioritar;",
+      "C": "da."
+    },
+    "cale_imagine": null,
+    "raspuns_fara_context": [
+      "C"
+    ],
+    "raspuns_cu_context": [
+      "C"
+    ],
+    "raspuns_cu_context_greseala": null,
+    "raspuns_corect": [
+      "C"
+    ],
+    "paragrafe_context": "În intersecțiile cu circulație nedirijată, conducătorul de vehicul este obligat să acorde prioritate de trecere vehiculelor care circulă pe sine. Acestea pierd prioritatea de trecere când efectuează virajul spre stânga sau când semnalizarea rutieră din acea zonă stabilește o altă regulă de circulație.",
+    "tip_context": "crossencode_prag"
+  }
+]

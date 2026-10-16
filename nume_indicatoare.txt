@@ -1,0 +1,242 @@
+Acces internet
+Acces pe bază de tichet
+Accesuk interzis mopedelor (ciclometrelor)
+Accesul interzis
+Accesul interzis autobuzelor
+Accesul interzis autovehiculelor
+Accesul interzis autovehiculelor care transportă substanțe de natură să polueze apele
+Accesul interzis autovehiculelor care transportă substanțe explozive sau ușor inflamabile
+Accesul interzis autovehiculelor cu excepția motocicletelor fără ataș
+Accesul interzis autovehiculelor cu remorcă, cu excepția celor cu semiremorcă sau cu remorcă cu o osie
+Accesul interzis autovehiculelor sau ansamblurilor de vehicule cu lungimea mai mare de ... m
+Accesul interzis autovehiculelor și vehiculelor cu tracțiune animală
+Accesul interzis bicicletelor
+Accesul interzis motocicletelor
+Accesul interzis pietonilor
+Accesul interzis tractoarelor și mașinilor autopropulsate pentru lucrări
+Accesul interzis vehiculelor care transportă mărfuri periculoase
+Accesul interzis vehiculelor cu lățimea mai mare de ... m
+Accesul interzis vehiculelor cu masa pe osia tripla mai mare de ... t
+Accesul interzis vehiculelor cu masă mai mare de .. t
+Accesul interzis vehiculelor cu masă mai mare de ... t pe osia simplă
+Accesul interzis vehiculelor cu masă pe osia dublă mai mare de ... t
+Accesul interzis vehiculelor cu tracțiune animală
+Accesul interzis vehiculelor cu înălțimea mai mare de .. m
+Accesul interzis vehiculelor destinate transportului de mărfuri
+Accesul interzis vehiculelor împinse sau trase cu mâna
+Accident
+Acostament periculos
+Aeroport
+Alte pericole
+Animale
+Apă potabilă
+Autogară
+Autostradă
+Baliză bidirecțională
+Baliză direcțională care indică ocolirea obstacolului prin partea dreaptă
+Baliză direcțională care indică ocolirea obstacolului prin partea stângă
+Bandă de circulație rezervată autovehiculelor de transport public de persoane
+Bandă destinată circulației vehiculelor lente
+Bandă rezervată circulației de transport public de persoane
+Bicicliști
+Bufet sau cofetărie
+Cabană pentru turiști
+Cedează trecerea
+Centru viticol
+Circulația interzisă în ambele sensuri
+Circulație în ambele sensuri
+Claxonarea interzisă
+Coborăre periculoasă
+Complex de servicii
+Confirmarea direcției de mers pe autostradă spre localități mai importante și distanțele până la acestea
+Confirmarea direcției de mers spre localități mai importante și distanțele până la acestea
+Confirmarea direcției de mers spre o localitate și distanța până la aceasta
+Control poliție
+Control radar
+Copii
+Curbă deosebit de periculoasă
+Curbă dublă
+Curbă dublă sau o succesiune de mai mult de două curbe, prima la dreapta
+Curbă la dreapta
+Curbă la stânga
+Curs de apă sau viaduct
+Cântar pentru autovehicule
+Căderi de pietre
+Delimitare piste pentru pietoni și biciclete
+Denivelare pentru limitarea vitezei
+Denumirea străzii
+Depășirea autovehiculelor, cu excepția motocicletelor fără ataș, interzisă
+Depășirea interzisă autovehiculelor destinate transportului de mărfuri
+Direcția de urma în cazul devierii temporare a circulației
+Direcția de urmat pentru autovehiculele destinate transportului de mărfuri
+Direcția de urmat în cazul devierii temporare a circulației
+Direcția drumului deschis traficului internațional
+Direcția spre aeroport
+Direcția spre localitatea indicată
+Direcția spre obiective locale
+Direcția spre obiectivul turistic
+Direcția și distanța până la telefonul pentru apel de urgență
+Direcție obligatorie pentru autovehiculele care transportă mărfuri periculoase
+Direcție obligatorie pentru vehicule care transportă mărfuri periculoase
+Direcție spre autostrada indicată
+Distanța de siguranță între vehiculele pentru viteze de cel mult 60 km/h
+Distanța de siguranță între vehiculele pentru viteze mai maride  90 km/h
+Drum aglomerat
+Drum comunal
+Drum cu denivelări
+Drum cu prioritate
+Drum deschis traficului internațional
+Drum fără ieșire
+Drum județean
+Drum lunecos
+Drum național
+Drum obligatoriu pentru categoria de vehicule
+Drum pentru autovehicule
+Drum pentru pietoni
+Drum închis sau deschis circulației publice
+Drum îngustat pe ambele părți
+Drum îngustat pe partea dreaptă
+Drum îngustat pe partea stângă
+Gară
+Hotel sau motel
+Ieșire din localitate
+Ieșire spre un chei sau mal abrupt
+Informații rutiere
+Intersecție cu drum fără prioritate
+Intersecție cu sens giratoriu
+Intersecție de drumuri
+Interzis a vira la dreapta
+Interzis a vira la stânga
+Interzis autovehiculelor de a circula fără a menține între ele un interval de cel puțin ... m
+Intrare stradă indicată
+Intrare în localitate
+La dreapta
+Lanțuri pentru zăpadă
+Limitare de viteză
+Limitare de viteză diferențiată pe categorii de autovehicule
+Limitare de viteză pentru diferite benzi de circulație
+Limite generale de viteză
+Limite maxime de viteză pe autostradă, ân funcție de condițiile meteorologice
+Limitp de județ
+Loc de joacă pentru copii
+Loc pentru popas
+Lucrări
+Mașini și utilaje agricole
+Monitorizare trafic
+Muzeu
+Numărul imobilului
+Ocolire
+Oprire
+Oprire interzisă
+Organizarea traficului pe benzi de circulație
+Panouri succesive pentru curbe deosebit de periculoase
+Panouri suplimentare la nodurile rutiere de pe autostrăzi
+Panouri suplimentare pentru trecerea la nivel cu cale ferată
+Parcare
+Parcare subterană sau în clădire
+Pasaj subteran pentru pietoni
+Pasarelă pentru pietoni
+Pistă comună pentru pietoni și bicicliști
+Pistă pentru biciclete
+Plajă
+Pod mobil
+Poliția
+Port
+Post prim-ajutor
+Poșta
+Presemnalizare direcțiilor într-o intersecție cu sens giratoriu
+Presemnalizare intersecție cu sens giratoriu
+Presemnalizare pe autostradă pentru parcare
+Presemnalizare pe autostradă pentru spațiu de servicii
+Presemnalizare trecere pietoni
+Presemnalizarea direcțiilor indicate
+Presemnalizarea direcțiilor la o intersecție de drumuri din afara localității
+Presemnalizarea direcțiilor la o intersecție denivelată de drumuri
+Presemnalizarea sediului Poliției autostrăzii
+Presemnalizarea traseului de ocolire a localității
+Presemnalizarea traseului de urmat în cazul unei restricții de circulație
+Presemnalizarea traseului de urmat în vederea efectuării virajului la stânga
+Presemnalizarea unei amenajări rutiere care permite întoarcerea vehiculului
+Presemnalizarea unui loc periculos, o intersecție sau o restricție pe un drum lateral
+Prioritate față circulația din sens invers
+Prioritate pentru circulația din sens invers
+Punct de informare turistică
+Refugiu rezervat depanării
+Restaurant
+Rovignietă
+Selectarea circulației pe direcții de mers în apropierea intersecției
+Selectarea direcției de mers în apropierea intersecției
+Semafoare
+Sens unic
+Service auto
+Sfârșit de autostradă
+Sfârșit de tunel
+Sfârșitul drumului cu prioritate
+Sfârșitul drumului pentru autovehicule
+Sfârșitul interzicerii de a depăși
+Sfârșitul limitării de viteză
+Sfârșitul tuturor restricțiilor
+Sfârșitul vitezei minime obligatorii
+Sfârșitul zonei cu staționare cu durată limitată
+Sfârșitul zonei cu viteză recomandată de 30 km/h
+Sfârșitul zonei de viteză limitată la 30 km/h
+Sfârșitul zonei pietonale
+Sfârșitul zonei rezidențiale
+Simbolul și numărul autostrăzii
+Spital
+Stadion
+Stație alimentare cu carburant
+Stație de alimentare cu carburanți inclusiv benzină fără plumb și gaz petrolier lichefiat
+Stație de autobuz
+Stație de taximetre
+Stație de tramvai
+Stație pentru alimentare cu carburant, inclusiv benzină fără plumb
+Staționare alternată
+Staționare interzisă
+Staționarea alternată
+Supermarket
+Taxă de trecere
+Teatru
+Telefon
+Telefon de urgență (Poliție, Ambulanță, Pompieri, Depanare).
+Teren pentru camping (tabără turistică)
+Teren pentru caravane (tabără turistică)
+Teren pentru caravane și camping
+Terminarea benzii de circulație din dreapta a părții de carosabil
+Terminarea benzii de circulație din stânga părții carosabile
+Traseu de tranzit european
+Traseu de urmat pentru anumite categorii de autovehicule
+Traseu de urmat pentru un anumit tip de autovehicul
+Traseu de urmat pentru un anumit tip de autovehicule
+Trecere de pietoni
+Trecere la nivel cu cale ferată cu bariere sau semibariere
+Trecere la nivel cu cale ferată dublă, fără bariere
+Trecere la nivel cu linii de tramvai
+Trecere la nivel cu o cale ferată fără bariere
+Trecere la nivel cu o cale ferată, fără bariere
+Trecere pentru pietoni
+Tunel
+Urcare cu înclinare mare
+Vamă
+Viteză minimă obligatorie
+Viteză minimă obligatorie pentru diferite benzi de circulație
+Viteză minimă obligatorie pentru o bandă de circulație
+Viteză recomandată
+Vulcanizare
+Vânt lateral
+WC public
+Zona industrială
+Zona rezidențială
+Zonă cu limitare de viteză la 30 km/h
+Zonă cu viteză recomandată de 30 km/h
+Zonă de pescuit
+Zonă de staționare cu durată limitată
+Zonă de vânătoare
+Zonă pietonală
+Îmbarcare pe ferry-boat
+Îmbarcare pe vagoane platformă de cale ferată
+Împreșcare cu pietriș
+Înainte
+Înainte sau la dreapta
+Închirieri auto
+Întoarcerea interzisă
